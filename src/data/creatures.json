@@ -37,13 +37,15 @@
   "immune2": "Poison",
   "immune3": "Venom",
   "health": "220",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/ARC_R.png"
  },
  {
   "title": "Ancient Pond Jockey Swarm",
   "slug": "Ancient_Pond_Jockey_Swarm",
   "summary": "is a stronger variant of the Pond Jockey Swarm in Grounded 2 found throughout the entire Abyss region.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Ancient_Pond_Jockey_Swarm.png"
  },
  {
   "title": "Antlion",
@@ -80,7 +82,8 @@
   "effectresistance": "Gas Hazard|effectresistance%=25%",
   "tier": "3",
   "description": "This burrowing creature dwells in the dunes of the sandbox. Can drop antlion part and antlion pincer.",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Antlion.png"
  },
  {
   "title": "Aphid",
@@ -96,7 +99,8 @@
   "health": "12",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Aphid.png"
  },
  {
   "title": "Assistant Manager",
@@ -140,13 +144,15 @@
   "resistance5d%": "50%",
   "loot": "* Asst. Manager Keycard (1) * Raw Science (1000)",
   "health": "1400",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Assistant_Manager.png"
  },
  {
   "title": "Axl",
   "slug": "Axl",
   "summary": "is a Tier 3 Boss Creature in Grounded 2, being the first intended optional boss.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Axl.png"
  },
  {
   "title": "Baby Black Ant",
@@ -168,7 +174,8 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "loot": "*Pet Memorial Ant",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Baby_Black_Ant.png"
  },
  {
   "title": "Baby Fire Ant",
@@ -190,13 +197,15 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "loot": "*Pet Memorial Ant",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Baby_Fire_Ant.png"
  },
  {
   "title": "Baby Garden Snail",
   "slug": "Baby_Garden_Snail",
   "summary": "is a Tier 3 Harmless Creature in Grounded 2 and the baby variant of Garden Snails.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Baby_Garden_Snail.png"
  },
  {
   "title": "Baby Red Ant",
@@ -218,7 +227,8 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "loot": "*Pet Memorial Ant",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Baby_Red_Ant.png"
  },
  {
   "title": "Bee",
@@ -254,7 +264,8 @@
   "resistance2%": "25%",
   "weakpoint": "Eyes",
   "health": "375",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Bee.png"
  },
  {
   "title": "Black Ant Queen",
@@ -265,7 +276,8 @@
   "loot": "*Black Ant Queen Chunk (10) *Black Ant Queen Head (1) *Black Ant Queen Pheromone (5)",
   "tier": "2",
   "description": "Queen of the black ants, found deep within the sandbox anthill.",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Black_Ant_Queen.png"
  },
  {
   "title": "Black Ox Beetle",
@@ -300,7 +312,8 @@
   "environment": "* Moldorc Highlands *Shed Surroundings *Undershed *Upper Grasslands",
   "loot": "* 30px|link=Black Ox Horn Black Ox Horn (0-1) * 30px|link=Black Ox Part Black Ox Part (1-5) * 30px|link=Tough Gunk Tough Gunk (0-4)",
   "health": "1450",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Black_Ox_Beetle.png"
  },
  {
   "title": "Black Soldier Ant",
@@ -331,7 +344,8 @@
   "environment": "* Black Anthill * Shed Surroundings * Northern Grasslands MIX.R * Trash Heap * Western Grasslands",
   "loot": "*Black Ant Head (0-1) *Black Ant Mandibles (1-2) *Black Ant Part (0-2)",
   "health": "600",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Black_Soldier_Ant.png"
  },
  {
   "title": "Black Widow",
@@ -365,7 +379,8 @@
   "description": "Legendary killer spider in classic black and red. Identifiable by the hourglass marking that indicates your time is at hand. Found in areas in the upper yard. Drops super spider venom, black widow fangs, and spider chunks on death.",
   "environment": "* Black Widow Cave *Brawny Boy Bin * Moldorc Highlands * Undershed * Upper Grasslands",
   "loot": "*Black Widow Fang Black Widow Fang (0-2) *Spider Chunk Spider Chunk (0-1) *Super Spider Venom Super Spider Venom (0-1)",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Black_Widow.png"
  },
  {
   "title": "Black Widowling",
@@ -396,7 +411,8 @@
   "stuntime": "N/A",
   "effectresistance": "Poison",
   "effectresistance%": "50%",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Black_Widowling.png"
  },
  {
   "title": "Black Worker Ant",
@@ -423,13 +439,15 @@
   "stuntime": "15 Sec",
   "environment": "* Black Anthill * Picnic Table * Sandbox * Shed Surroundings * Trash Heap *Undershed * Western Grasslands",
   "health": "425",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Black_Worker_Ant.png"
  },
  {
   "title": "Blue Butterfly",
   "slug": "Blue_Butterfly",
   "summary": "is a Tier 2 Neutral Creature in Grounded 2.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Blue_Butterfly.png"
  },
  {
   "title": "Bombardier Beetle",
@@ -462,55 +480,64 @@
   "tier": "2",
   "description": "A beetle with a big blasting booty that patrols the south east area of the yard. A highly volatile boiling gland and bombardier part can be dropped on death.",
   "health": "500",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Bombardier_Beetle.png"
  },
  {
   "title": "C.K.U.",
   "slug": "C.K.U",
   "summary": "is a Tier 1 weaker variant of the CHOP.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/C_K_U.png"
  },
  {
   "title": "CHOP.R",
   "slug": "CHOP.R",
   "summary": "is a Tier 2 Angry Creature in Grounded 2 found patrolling inside the Monitoring Station and Ominent outposts in the Rocky Chamber only after the antenna near it is active.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/CHOP_R.png"
  },
  {
   "title": "Caterpillar",
   "slug": "Caterpillar",
   "summary": "is a Tier 2 Harmless Creature in Grounded 2 often found on the leaves of Milkweed Plants and on various roots and branches of the trees across Brookhollow Park.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Caterpillar.png"
  },
  {
   "title": "Cockroach",
   "slug": "Cockroach",
   "summary": "is a Tier 2 Neutral Creature in Grounded 2.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Cockroach.png"
  },
  {
   "title": "Cockroach Nymph",
   "slug": "Cockroach_Nymph",
   "summary": "is a Tier 2 Neutral Creature in Grounded 2 and juvenile variant of the Cockroach.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Cockroach_Nymph.png"
  },
  {
   "title": "Cockroach Queen",
   "slug": "Cockroach_Queen",
   "summary": "is a Tier 2 Angry Creature in Grounded 2 found in very specific and unique locations, often surrounded by other Cockroaches.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Cockroach_Queen.png"
  },
  {
   "title": "Creatures (Grounded)",
   "slug": "Creatures_(Grounded)",
   "summary": "Creatures are the friends and foes found across the many Biomes of the Backyard. They all serve primarily in one of the many sources of various Resources as well as the majority being dangerous threats. They come in vary",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Creatures_Grounded.png"
  },
  {
   "title": "Cricket",
   "slug": "Cricket",
   "summary": "is a Tier 3 Neutral Creature in Grounded 2 found throughout the Garden region of Brookhollow Park.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Cricket.png"
  },
  {
   "title": "Crow",
@@ -521,7 +548,8 @@
   "loot": "*Crow Feather (Passive Drop) **Crow Feather Piece (1-6)",
   "environment": "*Haze *Hedge *Koi Pond *Moldorc Highlands *Picnic Table *Western Grasslands",
   "tier": "Boss",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Crow.png"
  },
  {
   "title": "Director Schmector",
@@ -569,7 +597,8 @@
   "resistance5d%": "50%",
   "description": "One of the most disliked employees in Ominent history: Director Dalton Schmector. Found dwelling in the lab beneath the damp depths of Castle Moldorc, toiling away on Project O.R.C. Drops a very important looking Ominent Data Disk.",
   "tier": "Boss",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Director_Schmector.png"
  },
  {
   "title": "Diving Bell Spider",
@@ -595,7 +624,8 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "respawn": "*Default: 2 Days *Pond Depths: 1 Day",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Diving_Bell_Spider.png"
  },
  {
   "title": "Dust Mite",
@@ -631,7 +661,8 @@
   "immune": "Dust",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Dust_Mite.png"
  },
  {
   "title": "Fire Ant Queen",
@@ -642,7 +673,8 @@
   "loot": "*Fire Ant Queen Chunk (10) *Fire Ant Queen Head (1) *Fire Ant Queen Pheromone (5)",
   "tier": "3",
   "description": "Queen of the fire ants, found deep within the upper yard anthill.",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Fire_Ant_Queen.png"
  },
  {
   "title": "Fire Soldier Ant",
@@ -670,7 +702,8 @@
   "eresistance%": "75%",
   "weakpoint": "Eyes",
   "health": "900",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Fire_Soldier_Ant.png"
  },
  {
   "title": "Fire Worker Ant",
@@ -698,7 +731,8 @@
   "eresistance%": "75%",
   "weakpoint": "Eyes",
   "health": "600",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Fire_Worker_Ant.png"
  },
  {
   "title": "Firefly",
@@ -727,7 +761,8 @@
   "environment": "* Flooded Zone (Night) * Flower Bed (Night)",
   "aggression": "Neutral",
   "health": "330",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Firefly.png"
  },
  {
   "title": "Garden Snail",
@@ -750,7 +785,8 @@
   "eweakness2%": "25%",
   "buildeffectweakness": "Chill",
   "buildeffectweakness%": "200%",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Garden_Snail.png"
  },
  {
   "title": "Gnat",
@@ -766,7 +802,8 @@
   "stun": "N/A",
   "respawn": "*Default: *Undershed:",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Gnat.png"
  },
  {
   "title": "Green Shield Bug",
@@ -797,7 +834,8 @@
   "attackstype": "All Attacks",
   "health": "2000",
   "immune": "Gas Hazard",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Green_Shield_Bug.png"
  },
  {
   "title": "Grub",
@@ -812,7 +850,8 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "respawn": "Default:",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Grub.png"
  },
  {
   "title": "Hedge Broodmother",
@@ -860,7 +899,8 @@
   "inflictattack3": "Pounce",
   "inflicteffect4": "Poison (Broodmother)",
   "inflictattack4": "All Attacks In Phase 2",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Hedge_Broodmother.png"
  },
  {
   "title": "Infected Ant",
@@ -887,7 +927,8 @@
   "eweakness%": "50%",
   "weakpoint": "Eyes",
   "health": "300",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Infected_Ant.png"
  },
  {
   "title": "Infected Ant Queen",
@@ -897,7 +938,8 @@
   "aggression": "Harmless",
   "tier": "3",
   "description": "The resulting creature after infecting an ant queen. Strangely docile compared to other sources of infection.",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Infected_Ant_Queen.png"
  },
  {
   "title": "Infected Broodmother",
@@ -944,7 +986,8 @@
   "inflictattack4": "5-Hit Combo, Dodge Dust Cloud, Scream, and Spore Shot",
   "inflicteffect5": "Venom",
   "inflictattack5": "Charged Bite and Side Lunge",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Infected_Broodmother.png"
  },
  {
   "title": "Infected Gnat",
@@ -962,7 +1005,8 @@
   "health": "40",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Infected_Gnat.png"
  },
  {
   "title": "Infected Ladybug",
@@ -998,7 +1042,8 @@
   "health": "Normal: 800 Haze Lab: 900",
   "stun": "80",
   "stuntime": "45 Sec",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Infected_Ladybug.png"
  },
  {
   "title": "Infected Larva",
@@ -1039,7 +1084,8 @@
   "eresistance2": "Spicy",
   "immune": "Gas Hazard",
   "health": "300",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Infected_Larva.png"
  },
  {
   "title": "Infected Mite",
@@ -1076,7 +1122,8 @@
   "health": "140",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Infected_Mite.png"
  },
  {
   "title": "Infected Soldier Ant",
@@ -1107,7 +1154,8 @@
   "weakness%": "25%",
   "weakpoint": "Eyes",
   "health": "600",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Infected_Soldier_Ant.png"
  },
  {
   "title": "Infected Weevil",
@@ -1139,7 +1187,8 @@
   "health": "100",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Infected_Weevil.png"
  },
  {
   "title": "Infected Wolf Spider",
@@ -1180,13 +1229,15 @@
   "eresistance%": "50%",
   "eweakness1%": "50%",
   "immune": "Gas Hazard",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Infected_Wolf_Spider.png"
  },
  {
   "title": "Infused Creatures",
   "slug": "Infused_Creatures",
   "summary": "is and Mini-Mant when summoned by their respective bosses in New Game+.",
-  "_ib": ""
+  "_ib": "",
+  "icon": ""
  },
  {
   "title": "King Dozer",
@@ -1223,7 +1274,8 @@
   "stuntime": "120 Sec",
   "loot": "*Lizard Horn (2) *Lizard Scale (3-5) *Searing Stone (1)",
   "weakpoint": "Eyes",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/King_Dozer.png"
  },
  {
   "title": "Koi Fish",
@@ -1237,7 +1289,8 @@
   "attackstype": "All Attacks",
   "tier": "Boss",
   "description": "Queen of the pond. Wendell's prized koi fish asserts her dominance on anyone who dares to trespass in her domain.",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Koi_Fish.png"
  },
  {
   "title": "Ladybird",
@@ -1274,7 +1327,8 @@
   "weakness2%": "25%",
   "eresistance2%": "25%",
   "resistance%": "50%",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Ladybird.png"
  },
  {
   "title": "Ladybird Larva",
@@ -1308,7 +1362,8 @@
   "description": "An extra tough larva built to survive the harsh climate of the BBQ spill and can be found roaming the upper yard. Can drop acid gland, tough gunk, and larva spike on death.",
   "loot": "Normal: * Acid Gland (4) * Larva Spike (1) * Tough Gunk (0-1) Burrowed: * Acid Gland (4) * Larva Spike (1-4) * Tough Gunk (0-1) }}",
   "health": "450",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Ladybird_Larva.png"
  },
  {
   "title": "Ladybug",
@@ -1344,7 +1399,8 @@
   "description": "Trundles through areas surrounding the oak hill looking for aphid snacks. Can drop ladybug head and ladybug part on death.",
   "aggression": "Neutral",
   "health": "600",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Ladybug.png"
  },
  {
   "title": "Larva",
@@ -1368,7 +1424,8 @@
   "aggression": "Angry",
   "health": "185|stun=25",
   "stuntime": "4 Sec",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Larva.png"
  },
  {
   "title": "Lawn Mite",
@@ -1392,7 +1449,8 @@
   "heath": "41",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Lawn_Mite.png"
  },
  {
   "title": "Mant",
@@ -1433,13 +1491,15 @@
   "stun": "100",
   "stuntime": "40 Sec",
   "mutationunlock": "Mantsterious Stranger",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Mant.png"
  },
  {
   "title": "Masked Stranger",
   "slug": "Masked_Stranger",
   "summary": "is an unknown teenage figure who leads an army of O.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Masked_Stranger.png"
  },
  {
   "title": "Meaty Gnat",
@@ -1457,7 +1517,8 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "respawn": "* Default:",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Meaty_Gnat.png"
  },
  {
   "title": "Mini-Mant",
@@ -1465,7 +1526,8 @@
   "summary": "this is a stub for the Mant's summon the Mini-Mant",
   "aggression": "Angry",
   "health": "500",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": ""
  },
  {
   "title": "Mosquito",
@@ -1494,7 +1556,8 @@
   "resistance2%": "50%",
   "aggression": "Angry",
   "health": "400",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Mosquito.png"
  },
  {
   "title": "Moth",
@@ -1535,25 +1598,29 @@
   "loot": "* Moth Fuzz (1-7) * Moth Scale (0-1)",
   "description": "A nocturnal creature that mainly floats around the rotten stump. Can drop moth fuzz and moth scales on death.",
   "health": "1200",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Moth.png"
  },
  {
   "title": "Northern Scorpion",
   "slug": "Northern_Scorpion",
   "summary": "is a Tier 2 Angry Creature in Grounded 2.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Northern_Scorpion.png"
  },
  {
   "title": "Northern Scorpion Jr.",
   "slug": "Northern_Scorpion_Jr",
   "summary": "is a Tier 2 Angry Creature and the juvenile variant of the Northern Scorpions.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Northern_Scorpion_Jr.png"
  },
  {
   "title": "Northern Scorpling",
   "slug": "Northern_Scorpling",
   "summary": "is a Tier 2 Neutral Creature and a weak variant of the Northern Scorpion.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Northern_Scorpling.png"
  },
  {
   "title": "O.G.R.R. Blue Butterfly",
@@ -1600,7 +1667,8 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE"
+  "_ib": "Infobox/Creatures/Multi/OGRE",
+  "icon": ""
  },
  {
   "title": "O.G.R.R. Cricket",
@@ -1645,7 +1713,8 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE"
+  "_ib": "Infobox/Creatures/Multi/OGRE",
+  "icon": "/icons/O_G_R_R_Cricket.png"
  },
  {
   "title": "O.G.R.R. Ladybug",
@@ -1694,7 +1763,8 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE"
+  "_ib": "Infobox/Creatures/Multi/OGRE",
+  "icon": ""
  },
  {
   "title": "O.G.R.R. Northern Scorpion",
@@ -1745,7 +1815,8 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE"
+  "_ib": "Infobox/Creatures/Multi/OGRE",
+  "icon": "/icons/O_G_R_R_Northern_Scorpion.png"
  },
  {
   "title": "O.G.R.R. Pincher Earwig",
@@ -1785,7 +1856,8 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE"
+  "_ib": "Infobox/Creatures/Multi/OGRE",
+  "icon": "/icons/O_G_R_R_Pincher_Earwig.png"
  },
  {
   "title": "O.G.R.R. Praying Mantis Nymph",
@@ -1836,7 +1908,8 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE"
+  "_ib": "Infobox/Creatures/Multi/OGRE",
+  "icon": ""
  },
  {
   "title": "O.G.R.R. Rust Beetle",
@@ -1885,13 +1958,15 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE"
+  "_ib": "Infobox/Creatures/Multi/OGRE",
+  "icon": "/icons/O_G_R_R_Rust_Beetle.png"
  },
  {
   "title": "O.G.R.R. Toe Biter Leviathan",
   "slug": "O.G.R.R._Toe_Biter_Leviathan",
   "summary": "is attack if the player is far, but may occasionally intentionally back off to use it.",
-  "_ib": ""
+  "_ib": "",
+  "icon": ""
  },
  {
   "title": "O.G.R.R. Wasp",
@@ -1944,7 +2019,8 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE"
+  "_ib": "Infobox/Creatures/Multi/OGRE",
+  "icon": "/icons/O_G_R_R_Wasp.png"
  },
  {
   "title": "O.G.R.R. Wasp Drone",
@@ -1996,7 +2072,8 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE"
+  "_ib": "Infobox/Creatures/Multi/OGRE",
+  "icon": "/icons/O_G_R_R_Wasp_Drone.png"
  },
  {
   "title": "O.G.R.R. Whipper Earwig",
@@ -2038,7 +2115,8 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE"
+  "_ib": "Infobox/Creatures/Multi/OGRE",
+  "icon": "/icons/O_G_R_R_Whipper_Earwig.png"
  },
  {
   "title": "O.G.R.R. Wolf Spider",
@@ -2089,31 +2167,36 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE"
+  "_ib": "Infobox/Creatures/Multi/OGRE",
+  "icon": ""
  },
  {
   "title": "O.R.C. Bee",
   "slug": "O.R.C._Bee",
   "summary": "is ability |400px |- |Combo Sting | style=\"color:green\" |✓ | style=\"color:red\" |X | style=\"color:red\" |X |The bee will preform a combo of 3 blockable stings.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Bee.png"
  },
  {
   "title": "O.R.C. Black Soldier Ant",
   "slug": "O.R.C._Black_Soldier_Ant",
   "summary": "is attack can be interrupted by using any charged attack.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Black_Soldier_Ant.png"
  },
  {
   "title": "O.R.C. Blue Butterfly",
   "slug": "O.R.C._Blue_Butterfly",
   "summary": "is also a much stronger named variant found guarding the O.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Blue_Butterfly.png"
  },
  {
   "title": "O.R.C. Bombardier Beetle",
   "slug": "O.R.C._Bombardier_Beetle",
   "summary": "is attack can be interrupted by using any charged attack.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Bombardier_Beetle.png"
  },
  {
   "title": "O.R.C. Broodmother & Masked Fighter",
@@ -2173,67 +2256,78 @@
   "buildeffectresistance2%g2": "90%",
   "buildeffectdamageresistanceg2": "Venom",
   "buildeffectdamageresistance%g2": "50%",
-  "_ib": "Infobox/Creatures/Multi/Specific"
+  "_ib": "Infobox/Creatures/Multi/Specific",
+  "icon": ""
  },
  {
   "title": "O.R.C. Cockroach",
   "slug": "O.R.C._Cockroach",
   "summary": "is attack on either side.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Cockroach.png"
  },
  {
   "title": "O.R.C. Cockroach Nymph",
   "slug": "O.R.C._Cockroach_Nymph",
   "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Cockroach_Nymph.png"
  },
  {
   "title": "O.R.C. Cockroach Queen",
   "slug": "O.R.C._Cockroach_Queen",
   "summary": "is also a named variant, being \"General Berserker\".",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Cockroach_Queen.png"
  },
  {
   "title": "O.R.C. Creatures",
   "slug": "O.R.C._Creatures",
   "summary": "is area.",
-  "_ib": ""
+  "_ib": "",
+  "icon": ""
  },
  {
   "title": "O.R.C. Cricket",
   "slug": "O.R.C._Cricket",
   "summary": "is also a named variant, being \"Private Bouncer\".",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Cricket.png"
  },
  {
   "title": "O.R.C. Firefly",
   "slug": "O.R.C._Firefly",
   "summary": "is attack is unique in that, while it cannot be blocked with weapons, it can be blocked with shields.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Firefly.png"
  },
  {
   "title": "O.R.C. Ladybug",
   "slug": "O.R.C._Ladybug",
   "summary": "is attack can be preformed from a distance.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Ladybug.png"
  },
  {
   "title": "O.R.C. Larva",
   "slug": "O.R.C._Larva",
   "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Larva.png"
  },
  {
   "title": "O.R.C. Mosquito",
   "slug": "O.R.C._Mosquito",
   "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Mosquito.png"
  },
  {
   "title": "O.R.C. Northern Scorpion",
   "slug": "O.R.C._Northern_Scorpion",
   "summary": "is attack can be interrupted by using any charged attack.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Northern_Scorpion.png"
  },
  {
   "title": "O.R.C. Northern Scorpion Jr.",
@@ -2265,43 +2359,50 @@
   "attackstype": "All Attacks",
   "damagetype1": "Laser",
   "attackstype1": "Laser Turret",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/O_R_C_Northern_Scorpion_Jr.png"
  },
  {
   "title": "O.R.C. Northern Scorpling",
   "slug": "O.R.C._Northern_Scorpling",
   "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Northern_Scorpling.png"
  },
  {
   "title": "O.R.C. Pincher Earwig",
   "slug": "O.R.C._Pincher_Earwig",
   "summary": "is also a much stronger named variant found guarding the O.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Pincher_Earwig.png"
  },
  {
   "title": "O.R.C. Potato Beetle",
   "slug": "O.R.C._Potato_Beetle",
   "summary": "is attack can be preformed from a distance.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Potato_Beetle.png"
  },
  {
   "title": "O.R.C. Praying Mantis Nymph",
   "slug": "O.R.C._Praying_Mantis_Nymph",
   "summary": "is attack only if the player is not in direct melee range.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Praying_Mantis_Nymph.png"
  },
  {
   "title": "O.R.C. Red Soldier Ant",
   "slug": "O.R.C._Red_Soldier_Ant",
   "summary": "is attack can be interrupted by using any charged attack.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Red_Soldier_Ant.png"
  },
  {
   "title": "O.R.C. Rust Beetle",
   "slug": "O.R.C._Rust_Beetle",
   "summary": "is also a much stronger named variant found guarding the Greenhouse MIX.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Rust_Beetle.png"
  },
  {
   "title": "O.R.C. Spiderling",
@@ -2331,13 +2432,15 @@
   "attack": "*Bite: 25",
   "damagetype": "Stabbing",
   "attackstype": "All Attacks",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/O_R_C_Spiderling.png"
  },
  {
   "title": "O.R.C. Stinkbug",
   "slug": "O.R.C._Stinkbug",
   "summary": "is ability passively without attacking anything.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Stinkbug.png"
  },
  {
   "title": "O.R.C. Wasp",
@@ -2369,43 +2472,50 @@
   "attackstype": "All Other Attacks",
   "damagetype1": "Smashing",
   "attackstype1": "Stinger Shot",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/O_R_C_Wasp.png"
  },
  {
   "title": "O.R.C. Wasp Drone",
   "slug": "O.R.C._Wasp_Drone",
   "summary": "is attack deals 10 Venom buildup if hit.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Wasp_Drone.png"
  },
  {
   "title": "O.R.C. Weaver",
   "slug": "O.R.C._Weaver",
   "summary": "is additonally the only O.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Weaver.png"
  },
  {
   "title": "O.R.C. Weaver Jr.",
   "slug": "O.R.C._Weaver_Jr",
   "summary": "is attack tracks the player as it charges up.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Weaver_Jr.png"
  },
  {
   "title": "O.R.C. Weevil",
   "slug": "O.R.C._Weevil",
   "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Weevil.png"
  },
  {
   "title": "O.R.C. Whipper Earwig",
   "slug": "O.R.C._Whipper_Earwig",
   "summary": "is also a much stronger named variant found guarding the O.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Whipper_Earwig.png"
  },
  {
   "title": "O.R.C. Wolf Spider",
   "slug": "O.R.C._Wolf_Spider",
   "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/O_R_C_Wolf_Spider.png"
  },
  {
   "title": "Orb Weaver",
@@ -2439,7 +2549,8 @@
   "stuntime": "15 Sec",
   "effectresistance": "Poison",
   "effectresistance%": "50%",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Orb_Weaver.png"
  },
  {
   "title": "Orb Weaver Jr.",
@@ -2471,7 +2582,8 @@
   "effectresistance": "Poison",
   "effectresistance%": "25%",
   "loot": "* Spider Chunk (1) * Web Fiber (0-6)",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Orb_Weaver_Jr.png"
  },
  {
   "title": "Orchid Mantis",
@@ -2519,43 +2631,50 @@
   "resistance4d%": "50%",
   "resistance5d%": "50%",
   "health": "3400",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Orchid_Mantis.png"
  },
  {
   "title": "Papa Toe Biter",
   "slug": "Papa_Toe_Biter",
   "summary": "is a variant of the Toe Biter Leviathan found beneath Gnarly Bark in a cave accessed behind the picture in the Memorial.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Papa_Toe_Biter.png"
  },
  {
   "title": "Pets",
   "slug": "Pets",
   "summary": "is a complete list of possible personalities: {| class=\"wikitable sortable mw-collapsed mw-collapsible\" width=\"100%\" style=\"text-align:center; font-size:15px\" |- ! colspan=\"5\" style=\"background-color:#468847; color:#ffffff\" |Personalities |- |Absentminded |Adaptive |Adventurous |Agape |Aggressive |- |Aloof |Anxious |Audacious |Bashful |Big-thinking |- |Bizarre |Bland |Brave |Brutal |Bristly |- |Calm |Carefree |Chaotic Evil |Chaotic Good |Chaotic Neutral |- |Chill |Clumsy |Composed |Cowardly |Curious |- |Curmudgeonly |Dedicated |Degenerate |Devious |Dignified |- |Disrespectful |Dumb |Earnest |Fearful |Fearless |- |Ferocious |Folksy |Forgiving |Frivolous |Fruitive |- |Friendly |Genius |Goofball |Gracious |Hateful |- |Heroic |Hotheaded |Iconoclastic |Ignorant |Impressive |- |Loyal |Logical |Lazy |Lawful Evil |Lawful Good |- |Lawful Neutral |Legendary |Mean |Mellow |Modish |- |Murderous |Neutral Evil |Neutral Good |Obnoxious |Obedient |- |Old-fashioned |Ordinary |Pensive |Playful |Pure |- |Pompous |Regal |Reliable |Reckless |Rookie |- |Savage |Scared |Sedentary |Sedulous |Serious |- |Shy |Skittish |Sleazy |Smol |Spicy |- |Spontaneous |Stoic |Strategic |Suspicious |Swole |- |Vigilant |Violent |Wary |Whimsical |Wholesome |- |Wishful |Zany |} ==List of Pet Attire== Pet Attire is a special type of Armor pets can equip.",
-  "_ib": ""
+  "_ib": "",
+  "icon": ""
  },
  {
   "title": "Pincher Earwig",
   "slug": "Pincher_Earwig",
   "summary": "is a Tier 3 Angry Creature in Grounded 2 found throughout the Garden region of Brookhollow Park, especially at night.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Pincher_Earwig.png"
  },
  {
   "title": "Pond Jockey Swarm",
   "slug": "Pond_Jockey_Swarm",
   "summary": "is a Tier 3 Angry Creature in Grounded 2 found throughout the Skunk Pond biome, water sources in the Bridge Area, and the aquatic caves within the Gnarly Grotto.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Pond_Jockey_Swarm.png"
  },
  {
   "title": "Potato Beetle",
   "slug": "Potato_Beetle",
   "summary": "is a Tier 3 variant of the Ladybug in Grounded 2 found throughout the Garden region of Brookhollow Park.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Potato_Beetle.png"
  },
  {
   "title": "Praying Mantis Nymph",
   "slug": "Praying_Mantis_Nymph",
   "summary": "is a Tier 3 Angry Creature in Grounded 2.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Praying_Mantis_Nymph.png"
  },
  {
   "title": "RUZ.T",
@@ -2581,7 +2700,8 @@
   "stun": "60",
   "defense": "3",
   "stuntime": "2 Sec",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/RUZ_T.png"
  },
  {
   "title": "Red Ant Queen",
@@ -2592,7 +2712,8 @@
   "loot": "*Red Ant Queen Chunk (10) *Red Ant Queen Head (1) *Red Ant Queen Pheromone (5)",
   "tier": "1",
   "description": "Queen of the red ants, found deep within the lower yard anthill.",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Red_Ant_Queen.png"
  },
  {
   "title": "Red Soldier Ant",
@@ -2620,7 +2741,8 @@
   "tier": "1",
   "weakpoint": "Eyes",
   "health": "320",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Red_Soldier_Ant.png"
  },
  {
   "title": "Red Worker Ant",
@@ -2644,7 +2766,8 @@
   "loot": "*Red Ant Head (0-1) *Red Ant Part (1-2) *Red Ant Egg (Passive Drop in Anthill)",
   "environment": "* Anthills * Central Grasslands * Central Grasslands MIX.R * Flower Bed * Oak Hill",
   "health": "120",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Red_Worker_Ant.png"
  },
  {
   "title": "Roly Poly",
@@ -2680,19 +2803,22 @@
   "description": "A lumbering behemoth that rolls deep in the upper yard. Powerful when provoked. Can drop tough gunk, roly poly part, and roly poly shell on death.",
   "loot": "* (4-8) * (2-6) * Tough Gunk (0-5) (0-2) * (0-1)}}",
   "health": "1050",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Roly_Poly.png"
  },
  {
   "title": "Rust Beetle",
   "slug": "Rust_Beetle",
   "summary": "is a Tier 3 variation of the Bombardier Beetle in Grounded 2 found throughout the Community Garden region.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Rust_Beetle.png"
  },
  {
   "title": "SAUC.R",
   "slug": "SAUC.R",
   "summary": "is a Tier 2 ranged variant of the CHOP.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/SAUC_R.png"
  },
  {
   "title": "Scarab",
@@ -2716,7 +2842,8 @@
   "health": "80",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Scarab.png"
  },
  {
   "title": "Sickly Roly Poly",
@@ -2755,7 +2882,8 @@
   "tier": "3",
   "loot": "*Roly Poly Part (2-6) *Tough Gunk (0-2)",
   "health": "750",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Sickly_Roly_Poly.png"
  },
  {
   "title": "Spiderling",
@@ -2786,7 +2914,8 @@
   "attack": "*Bite: 25",
   "damagetype": "Stabbing",
   "attackstype": "All Attacks",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Spiderling.png"
  },
  {
   "title": "Spiny Water Flea",
@@ -2812,7 +2941,8 @@
   "aggression": "Angry",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Spiny_Water_Flea.png"
  },
  {
   "title": "Stinkbug",
@@ -2844,19 +2974,22 @@
   "stun": "80",
   "stuntime": "10 Sec",
   "health": "500",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Stinkbug.png"
  },
  {
   "title": "Striped Bark Scorpion Jr.",
   "slug": "Striped_Bark_Scorpion_Jr",
   "summary": "is a Tier 3 Angry Creature and the juvenile variant of the Striped Bark Scorpion.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Striped_Bark_Scorpion_Jr.png"
  },
  {
   "title": "Striped Bark Scorpling",
   "slug": "Striped_Bark_Scorpling",
   "summary": "is a Tier 3 hostile Creature and an alternate variant of the Northern Scorpling.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Striped_Bark_Scorpling.png"
  },
  {
   "title": "TAYZ.T",
@@ -2897,7 +3030,8 @@
   "health": "175",
   "stun": "60",
   "stuntime": "2 Sec",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/TAYZ_T.png"
  },
  {
   "title": "Tadpole",
@@ -2911,7 +3045,8 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "respawn": "*Default:",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Tadpole.png"
  },
  {
   "title": "Termite King",
@@ -2940,7 +3075,8 @@
   "weakness%": "25%",
   "resistance1%": "25%",
   "resistance2%": "50%",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Termite_King.png"
  },
  {
   "title": "Termite Soldier",
@@ -2977,7 +3113,8 @@
   "resistance1%": "25%",
   "resistance2%": "50%",
   "immune": "Dust",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Termite_Soldier.png"
  },
  {
   "title": "Termite Worker",
@@ -3012,7 +3149,8 @@
   "resistance1%": "25%",
   "resistance2%": "50%",
   "immune": "Dust",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Termite_Worker.png"
  },
  {
   "title": "Tick",
@@ -3042,7 +3180,8 @@
   "eresistance1%": "50%",
   "loot": "* Tick Fang (1-4)",
   "health": "400",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Tick.png"
  },
  {
   "title": "Tiger Mosquito",
@@ -3072,25 +3211,29 @@
   "resistance2%": "50%",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Tiger_Mosquito.png"
  },
  {
   "title": "Toe Biter",
   "slug": "Toe_Biter",
   "summary": "is a Tier 3 Angry Creature in Grounded 2 found throughout the Resting Area Region region of Brookhollow Park, both underwater and patrolling on land.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Toe_Biter.png"
  },
  {
   "title": "Toe Biter Leviathan",
   "slug": "Toe_Biter_Leviathan",
   "summary": "is a Tier 4 Angry Creature in Grounded 2.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Toe_Biter_Leviathan.png"
  },
  {
   "title": "Toe Biter Nymph",
   "slug": "Toe_Biter_Nymph",
   "summary": "is a Tier 3 Angry Creature in Grounded 2 found throughout the Resting Area Region region of Brookhollow Park, both underwater and patrolling on land.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Toe_Biter_Nymph.png"
  },
  {
   "title": "Wasp",
@@ -3126,7 +3269,8 @@
   "damagetype": "Generic",
   "attackstype": "Stinger Shot",
   "inflicteffect1": "Poison",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Wasp.png"
  },
  {
   "title": "Wasp Drone",
@@ -3160,7 +3304,8 @@
   "health": "450",
   "inflicteffect1": "Bleed",
   "inflictattack1": "Stinger Shot",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Wasp_Drone.png"
  },
  {
   "title": "Wasp Queen",
@@ -3210,7 +3355,8 @@
   "loot": "*Wasp Queen Chunk (5-8) *Wasp Queen Head (1) *Wasp Queen Wing (2)",
   "health": "5000|stun=350",
   "stuntime": "120 Sec",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Wasp_Queen.png"
  },
  {
   "title": "Water Boatman",
@@ -3224,7 +3370,8 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "respawn": "*Default:",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Water_Boatman.png"
  },
  {
   "title": "Water Flea",
@@ -3249,7 +3396,8 @@
   "tier": "1|health=50",
   "description": "Ghoulish creatures that floats in bodies of water, looking for prey. Drops water flea meat on death.",
   "aggression": "Angry",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Water_Flea.png"
  },
  {
   "title": "Weevil",
@@ -3265,13 +3413,15 @@
   "stun": "N/A",
   "respawn": "Default:",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Weevil.png"
  },
  {
   "title": "Whipper Earwig",
   "slug": "Whipper_Earwig",
   "summary": "is a Tier 3 Angry Creature in Grounded 2 found throughout the Garden region of Brookhollow Park, especially at night.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Whipper_Earwig.png"
  },
  {
   "title": "Wolf Spider",
@@ -3311,12 +3461,14 @@
   "inflicteffect2": "Venom",
   "inflictattack2": "Charged Bite",
   "health": "850",
-  "_ib": "Infobox/Creatures"
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Wolf_Spider.png"
  },
  {
   "title": "Woolly Aphid",
   "slug": "Woolly_Aphid",
   "summary": "is a Tier 3 variation of the Aphid in Grounded 2 found throughout the Garden region and the Croquet Court.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Woolly_Aphid.png"
  }
 ]

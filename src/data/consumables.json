@@ -8,7 +8,8 @@
   "urecipe": "Analyze Web Fiber",
   "repairdamage": "1",
   "tooltype": "Repair",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Basketball.png"
  },
  {
   "title": "Bee Bee Q Medley",
@@ -18,7 +19,8 @@
   "subcat": "Boss Items",
   "tier": "3",
   "urecipe": "Discover MEMO: O.R.C Wasp Queen Research",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Bee_Bee_Q_Medley.png"
  },
  {
   "title": "Black Ox Burger",
@@ -34,7 +36,8 @@
   "effect4": "Well Fed",
   "urecipe": "Buy Cookbook: Woodpile",
   "food": "+75%",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Black_Ox_Burger.png"
  },
  {
   "title": "Boatman Fin Soup",
@@ -48,7 +51,8 @@
   "effect": "Swim Speed",
   "effect2": "Meals",
   "effect3": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Boatman_Fin_Soup.png"
  },
  {
   "title": "Boost Juice",
@@ -61,7 +65,8 @@
   "effect1": "Max Stamina",
   "urecipe": "Analyze Acorn Bits",
   "description": "Filled with vitamins and nutrients! Boosts your max stamina.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Boost_Juice.png"
  },
  {
   "title": "Boss Sauce",
@@ -73,7 +78,8 @@
   "urecipe": "Analyze Wasp Queen Head",
   "effect1": "Critical Hit Chance",
   "description": "A critically acclaimed blend of the baddest bugs in the yard.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Boss_Sauce.png"
  },
  {
   "title": "Bratburst",
@@ -87,7 +93,8 @@
   "tier": "1",
   "location": "* Black Anthill Lab * Haze Lab *Oak Lab ZIP.R Room",
   "tooltype": "Explosive",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Bratburst.png"
  },
  {
   "title": "Broodmother BLT",
@@ -97,7 +104,8 @@
   "subcat": "Boss Items",
   "tier": "3",
   "urecipe": "Discover Broodmother Research Notes",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Broodmother_BLT.png"
  },
  {
   "title": "Canteen",
@@ -115,7 +123,8 @@
   "stuncharge": "0",
   "speedcharge": "0 Sec",
   "speed": "Average | description+ = An extra good canteen that holds four scoops of liquid. | Urecipe+ = Buy Canteen Upgrade | dupcost+ =",
-  "_ib": "Infobox/Consumables+"
+  "_ib": "Infobox/Consumables+",
+  "icon": "/icons/Canteen.png"
  },
  {
   "title": "Charcoal Canteen",
@@ -130,13 +139,15 @@
   "repair": "1 EverChar Coal Chunk EverChar Coal Chunk",
   "speed": "Average",
   "urecipe": "Analyze EverChar Coal Chunk",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Charcoal_Canteen.png"
  },
  {
   "title": "Consumables (Grounded)",
   "slug": "Consumables_(Grounded)",
   "summary": "thumb|400px|A teen, using a Shinobi Sneeze.",
-  "_ib": ""
+  "_ib": "",
+  "icon": ""
  },
  {
   "title": "Empanadust",
@@ -151,7 +162,8 @@
   "effect2": "Hyperstamina",
   "effect3": "Meals",
   "effect4": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Empanadust.png"
  },
  {
   "title": "Fiber Bandage",
@@ -167,7 +179,8 @@
   "subcat": "Health",
   "effect": "Trickle Regen",
   "tier": "",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Fiber_Bandage.png"
  },
  {
   "title": "Flare",
@@ -177,7 +190,8 @@
   "subcat": "Devices",
   "tier": "3",
   "urecipe": "Analyze Gunpowder Clump",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Flare.png"
  },
  {
   "title": "Fluid Flippers",
@@ -189,7 +203,8 @@
   "urecipe": "Analyze Water Boatman Fin",
   "effect1": "Swim Speed",
   "description": "A drinkable sludge that is scientifically proven to make you swim faster.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Fluid_Flippers.png"
  },
  {
   "title": "Funguspacho",
@@ -204,7 +219,8 @@
   "effect": "Attack Stamina",
   "effect2": "Meals",
   "effect3": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Funguspacho.png"
  },
  {
   "title": "Fuzz on the Rocks",
@@ -216,7 +232,8 @@
   "urecipe": "Analyze Mite Fuzz",
   "effect1": "Max Health",
   "description": "As literal as they come. Drinking this disgusting combination somehow makes you healthier for a while.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Fuzz_on_the_Rocks.png"
  },
  {
   "title": "Gastro Goo",
@@ -228,7 +245,8 @@
   "urecipe": "Analyze Stinkbug Gas Sack",
   "effect1": "Gas Guard",
   "description": "Smells almost as bad as it looks, but goes down surprisingly smooth. Makes you immune to gas damage.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Gastro_Goo.png"
  },
  {
   "title": "Gnatchos",
@@ -252,7 +270,8 @@
   "effectg2": "Fall Defense",
   "effect2g2": "Meals",
   "effect3g2": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Gnatchos.png"
  },
  {
   "title": "Green Machine",
@@ -264,7 +283,8 @@
   "effect1": "Hyperstamina",
   "urecipe": "Analyze Lilypad Wax",
   "description": "A delicious blend of locally sourced greens. Boosts your stamina recovery rate.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Green_Machine.png"
  },
  {
   "title": "Healbasa",
@@ -286,7 +306,8 @@
   "healthg2": "+40",
   "urecipeg2": "Analyze Mosquito Blood Sack",
   "effectg2": "Heals",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Healbasa.png"
  },
  {
   "title": "Hedge Lord",
@@ -300,7 +321,8 @@
   "effect1": "Fuller",
   "effect2": "Moist",
   "description": "Refreshing and nutritious. Lowers the rates of both hunger and thirst.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Hedge_Lord.png"
  },
  {
   "title": "Human Food",
@@ -312,7 +334,8 @@
   "ingredient3": "Fresh Billy Hog Bite",
   "effect1": "Damage Resist",
   "description": "All of the ingredients are normal everyday foods; what could go wrong if you smash them all together?",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Human_Food.png"
  },
  {
   "title": "Infected Gum Sandwich",
@@ -322,7 +345,8 @@
   "subcat": "Boss Items",
   "tier": "3",
   "urecipe": "Discover Infected Gum Sandwich Recipe",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Infected_Gum_Sandwich.png"
  },
  {
   "title": "Infected Mushroom Sandwich",
@@ -332,7 +356,8 @@
   "subcat": "Boss Items",
   "tier": "3",
   "urecipe": "Discover Infected Mushroom Sandwich Recipe",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Infected_Mushroom_Sandwich.png"
  },
  {
   "title": "Infected Toejam Sandwich",
@@ -342,7 +367,8 @@
   "subcat": "Boss Items",
   "tier": "3",
   "urecipe": "Discover Infected Toejam Sandwich Recipe",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Infected_Toejam_Sandwich.png"
  },
  {
   "title": "Juicy Mushroom Sandwich",
@@ -352,7 +378,8 @@
   "subcat": "Boss Items",
   "tier": "1",
   "urecipe": "Buy Friendship Offering: Red Ant Queen",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Juicy_Mushroom_Sandwich.png"
  },
  {
   "title": "Larvagna",
@@ -366,7 +393,8 @@
   "effect": "Critical Hit Chance",
   "effect2": "Meals|location=Undershed Lab",
   "effect3": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Larvagna.png"
  },
  {
   "title": "Liquid Gills",
@@ -378,7 +406,8 @@
   "urecipe": "Analyze Water Flea Meat",
   "effect1": "Veteran Diver",
   "description": "A scientific mystery that allows you to breathe underwater for a short time.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Liquid_Gills.png"
  },
  {
   "title": "Liquid Rage",
@@ -390,7 +419,8 @@
   "urecipe": "Analyze Larva Spike",
   "effect1": "Attack",
   "description": "All sorts of dangerous things in drinkable form! Consuming this makes you feel way stronger.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Liquid_Rage.png"
  },
  {
   "title": "Mac N Bees",
@@ -405,7 +435,8 @@
   "location": "Undershed Lab",
   "effect2": "Meals",
   "effect3": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Mac_N_Bees.png"
  },
  {
   "title": "Miteloaf",
@@ -420,7 +451,8 @@
   "effect": "Attack Stamina",
   "effect2": "Meals",
   "effect3": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Miteloaf.png"
  },
  {
   "title": "Moldy Hoagie",
@@ -430,7 +462,8 @@
   "subcat": "Boss Items",
   "tier": "3",
   "urecipe": "Discover Moldy Note",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Moldy_Hoagie.png"
  },
  {
   "title": "Omelant",
@@ -445,7 +478,8 @@
   "effect": "Thorns",
   "effect2": "Meals",
   "effect3": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Omelant.png"
  },
  {
   "title": "Orchid Mantis Kebab",
@@ -455,7 +489,8 @@
   "subcat": "Boss Items",
   "tier": "3",
   "urecipe": "Discover Mantis Research Notes",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Orchid_Mantis_Kebab.png"
  },
  {
   "title": "Poison Gum Sandwich",
@@ -465,7 +500,8 @@
   "subcat": "Boss Items",
   "tier": "2",
   "urecipe": "Discover Poison Gum Sandwich Recipe",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Poison_Gum_Sandwich.png"
  },
  {
   "title": "Poison Mushroom Sandwich",
@@ -475,7 +511,8 @@
   "subcat": "Boss Items",
   "tier": "1",
   "urecipe": "Discover Poison Mushroom Sandwich Recipe",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Poison_Mushroom_Sandwich.png"
  },
  {
   "title": "Poison Toejam Sandwich",
@@ -485,7 +522,8 @@
   "subcat": "Boss Items",
   "tier": "3",
   "urecipe": "Discover Poison Toejam Sandwich Recipe",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Poison_Toejam_Sandwich.png"
  },
  {
   "title": "Quesadillantlion",
@@ -500,7 +538,8 @@
   "effect2": "Thorns",
   "effect3": "Meals",
   "effect4": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Quesadillantlion.png"
  },
  {
   "title": "Shinobi Sneeze",
@@ -510,7 +549,8 @@
   "subcat": "Devices",
   "urecipe": "Analyze Pollen",
   "effect": "Invisibility | -effect2 = Pinch | -effect3 = Attack",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Shinobi_Sneeze.png"
  },
  {
   "title": "Slime Mold Torch",
@@ -521,7 +561,8 @@
   "subcat": "Light",
   "locations": "Slime Lantern Outpost",
   "urecipe": "Analyze Slime Mold Stalk",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Slime_Mold_Torch.png"
  },
  {
   "title": "Soothing Syrup",
@@ -532,7 +573,8 @@
   "ingredient1": "Algae",
   "ingredient2": "Mushroom",
   "description": "A delicious, healing mush of fine ingredients.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Soothing_Syrup.png"
  },
  {
   "title": "Spaghetflea",
@@ -546,7 +588,8 @@
   "effect": "Junior Diver",
   "effect2": "Meals",
   "effect3": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Spaghetflea.png"
  },
  {
   "title": "Spider Slider",
@@ -560,7 +603,8 @@
   "effect": "Critical Hit Chance",
   "effect2": "Meals",
   "effect3": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Spider_Slider.png"
  },
  {
   "title": "Splatburst",
@@ -574,7 +618,8 @@
   "tooltype": "Explosive",
   "tier": "2",
   "location": "Undershed Entrance",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Splatburst.png"
  },
  {
   "title": "Tadpoloca Pudding",
@@ -589,7 +634,8 @@
   "effect2": "Swim Speed",
   "effect3": "Meals",
   "effect4": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Tadpoloca_Pudding.png"
  },
  {
   "title": "Tasty Toejam Sandwich",
@@ -600,7 +646,8 @@
   "description": "The fire ant queen's favorite food.",
   "tier": "3",
   "urecipe": "Buy Friendship Offering: Fire Ant Queen",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Tasty_Toejam_Sandwich.png"
  },
  {
   "title": "Termite Delight",
@@ -616,7 +663,8 @@
   "effect2": "Busting Harvest Speed",
   "effect3": "Meals",
   "effect4": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Termite_Delight.png"
  },
  {
   "title": "Torch",
@@ -628,7 +676,8 @@
   "urecipe": "Discover Sap or Dry Grass Chunk",
   "urecipeplus": "Buy Torch Upgrade",
   "descriptionplus": "A torch that's been improved by the power of science. Will light your way for a very long time.",
-  "_ib": "Infobox/Tools/Plus"
+  "_ib": "Infobox/Tools/Plus",
+  "icon": "/icons/Torch.png"
  },
  {
   "title": "Wasperole",
@@ -643,7 +692,8 @@
   "effect2": "Poison Resist",
   "effect3": "Meals",
   "effect4": "Well Fed",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Wasperole.png"
  },
  {
   "title": "Waspidote",
@@ -656,7 +706,8 @@
   "effect1": "Poison Cure",
   "effect2": "Poison Resist",
   "description": "A blend of various toxins and bits that provide instant relief and lasting resistance to poison.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Waspidote.png"
  },
  {
   "title": "Worker's Comp",
@@ -671,7 +722,8 @@
   "urecipe": "Analyze Red Ant Mandibles",
   "effect1": "Hauling Strength",
   "description": "The power of an ant in the palm of your hand. Drinking this makes you feel like you can haul more.",
-  "_ib": "Infobox/Smoothies"
+  "_ib": "Infobox/Smoothies",
+  "icon": "/icons/Worker_s_Comp.png"
  },
  {
   "title": "Yummy Gum Sandwich",
@@ -682,6 +734,7 @@
   "description": "The black ant queen's favorite food.",
   "tier": "2",
   "urecipe": "Buy Friendship Offering: Black Ant Queen",
-  "_ib": "Infobox/Consumables"
+  "_ib": "Infobox/Consumables",
+  "icon": "/icons/Yummy_Gum_Sandwich.png"
  }
 ]

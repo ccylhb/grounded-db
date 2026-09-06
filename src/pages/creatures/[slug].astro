@@ -1,5 +1,10 @@
 ---
 import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import armor from "../../data/armor.json";
+import trinkets from "../../data/trinkets.json";
+import consumables from "../../data/consumables.json";
+import weapons from "../../data/weapons.json";
 
 export async function getStaticPaths() {
   const creatures = (await import("../../data/creatures.json")).default;
@@ -23,6 +28,20 @@ const loot = String(c.loot || "")
   .map((s) => s.replace(/\*/g, "").replace(/\(\d+-\d+\)/, "").trim())
   .filter((s) => s && !s.includes("NG") && !s.includes("LootBox") && !s.includes("Science"))
   .slice(0, 8);
+
+// related: items craftable from this creature's loot (match loot family word in recipes)
+const families = [...new Set(loot.map((l) => l.split(/[\s,]+/)[0]).filter((w) => w.length > 3))];
+const pool = [
+  ...armor.map((a) => ({ href: `/armor/${a.slug}/`, title: a.title, sub: a.tier ? `Tier ${a.tier} armor set` : "Armor set", icon: a.icon, recipe: a.urecipe || a.recipe || "" })),
+  ...trinkets.map((t) => ({ href: `/trinkets/${t.slug}/`, title: t.title, sub: "Trinket", icon: t.icon, recipe: t.urecipe || t.recipe || "" })),
+  ...consumables.map((x) => ({ href: `/consumables/${x.slug}/`, title: x.title, sub: "Consumable", icon: x.icon, recipe: x.urecipe || x.recipe || "" })),
+  ...weapons.map((w) => ({ href: `/weapons/${w.slug}/`, title: w.title, sub: w.type || "Weapon", icon: w.icon, recipe: w.urecipe || w.recipe || "" })),
+];
+const related = families.length
+  ? pool
+      .filter((p) => families.some((f) => new RegExp(`\\b${f}`, "i").test(p.recipe)))
+      .slice(0, 3)
+  : [];
 ---
 
 <Base
@@ -30,7 +49,10 @@ const loot = String(c.loot || "")
   description={`${c.title} weaknesses, resistances, defense and attack damage in Grounded. Kill it fast with the right damage type.`}
 >
   <p style="margin:0"><a href="/creatures/">← All creatures</a></p>
-  <h1>{c.title}</h1>
+  <h1 class="icon-h1">
+    {c.icon && <img src={c.icon} alt="" width="52" height="52" loading="eager" />}
+    {c.title}
+  </h1>
   <p>
     {c.tier && <span class="tag">Tier {c.tier}</span>}
     {c.respawn && <span class="tag">Respawns: {c.respawn}</span>}
@@ -79,4 +101,13 @@ const loot = String(c.loot || "")
   )}
 
   {c.location && <p class="muted">Found in: {c.location}</p>}
+
+  <Related
+    heading="Next steps"
+    links={[
+      { href: "/rankings/", title: "Creature weakness cheat sheet", sub: "Every bug grouped by element", tool: true },
+      { href: "/weapons/", title: "Weapon damage rankings", sub: "Best damage-per-hit weapons", tool: true },
+      ...related.map((r) => ({ href: r.href, title: r.title, sub: r.sub, icon: r.icon })),
+    ]}
+  />
 </Base>

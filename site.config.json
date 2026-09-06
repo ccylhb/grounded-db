@@ -5,6 +5,8 @@
   "description": "Grounded database — weapons, armor, creatures, smoothies & trinkets with rankings and a gear planner — complete searchable database with guides.",
   "adsenseClientId": "ca-pub-3245910354455258",
   "adsensePublisherId": "pub-3245910354455258",
+  "gameVersion": "1.4",
+  "dataUpdated": "2026-09-06",
   "theme": {
     "bg": "#14171f",
     "bgSoft": "#1b1f2a",
@@ -25,7 +27,8 @@
     },
     {
       "label": "Rankings",
-      "href": "/rankings/"
+      "href": "/rankings/",
+      "tool": true
     },
     {
       "label": "Weapons",
@@ -49,7 +52,8 @@
     },
     {
       "label": "Smoothie Planner",
-      "href": "/calculator/"
+      "href": "/calculator/",
+      "tool": true
     },
     {
       "label": "About",

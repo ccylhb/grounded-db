@@ -35,7 +35,8 @@
    }
   ],
   "summary": "is a Tier 1 Heavy Armor Set in Grounded made from acorn pieces.",
-  "tier": "1"
+  "tier": "1",
+  "icon": "/icons/Acorn_Armor.png"
  },
  {
   "title": "Antlion Armor",
@@ -58,35 +59,40 @@
    }
   ],
   "summary": "is a Tier 3, Medium Class armor set crafted from Antlion parts.",
-  "tier": "3"
+  "tier": "3",
+  "icon": ""
  },
  {
   "title": "Aphid Slippers",
   "slug": "Aphid_Slippers",
   "pieces": [],
   "summary": "is a Tier 1 Light Armor in Grounded made with Aphid parts.",
-  "tier": "1"
+  "tier": "1",
+  "icon": "/icons/Aphid_Slippers.png"
  },
  {
   "title": "Assassin's Armor",
   "slug": "Assassins_Armor",
   "pieces": [],
   "summary": "is a tier 3 armor set crafted from parts from the Mantis boss.",
-  "tier": "3"
+  "tier": "3",
+  "icon": ""
  },
  {
   "title": "BURG.L's Spare Eyes",
   "slug": "BURG.Ls_Spare_Eyes",
   "pieces": [],
   "summary": "is a Tier 3 independent armor piece that is obtained via buying BURG.",
-  "tier": "3"
+  "tier": "3",
+  "icon": "/icons/BURG_L_s_Spare_Eyes.png"
  },
  {
   "title": "Bard's Tudor",
   "slug": "Bards_Tudor",
   "pieces": [],
   "summary": "is a Tier 3 independent armor piece that is crafted with parts from the Wasp Queen boss.",
-  "tier": "3"
+  "tier": "3",
+  "icon": "/icons/Bard_s_Tudor.png"
  },
  {
   "title": "Bee Armor",
@@ -139,7 +145,8 @@
    }
   ],
   "summary": "is a Tier 2 Light Armor Set in Grounded crafted from Bee parts.",
-  "tier": "2"
+  "tier": "2",
+  "icon": "/icons/Bee_Armor.png"
  },
  {
   "title": "Black Ant Armor",
@@ -177,7 +184,8 @@
    }
   ],
   "summary": "is a Tier 2 Medium Armor Set in Grounded made from Black Ant parts.",
-  "tier": "2"
+  "tier": "2",
+  "icon": ""
  },
  {
   "title": "Black Ox Armor",
@@ -200,21 +208,24 @@
    }
   ],
   "summary": "is a Tier 3 armor set crafted out of Black Ox Beetles.",
-  "tier": "3"
+  "tier": "3",
+  "icon": ""
  },
  {
   "title": "Black Strategist Armor",
   "slug": "Black_Strategist_Armor",
   "pieces": [],
   "summary": "is a Tier 2, Medium Class armor set crafted from parts of the Black Ant Queen, though only if the player feeds it a Poison Gum Sandwich or Infected Gum Sandwich to kill it.",
-  "tier": "2"
+  "tier": "2",
+  "icon": ""
  },
  {
   "title": "Bubble Helmet",
   "slug": "Bubble_Helmet",
   "pieces": [],
   "summary": "is a Tier 2, Light armor piece.",
-  "tier": "2"
+  "tier": "2",
+  "icon": "/icons/Bubble_Helmet.png"
  },
  {
   "title": "Clover Armor",
@@ -252,21 +263,24 @@
    }
   ],
   "summary": "is a Tier 1 Classless Armor Set in Grounded.",
-  "tier": "1"
+  "tier": "1",
+  "icon": "/icons/Clover_Armor.png"
  },
  {
   "title": "Eyepatch",
   "slug": "Eyepatch",
   "pieces": [],
   "summary": "is a Tier 1 Light Armor in Grounded crafted from various early game resourcs.",
-  "tier": "1"
+  "tier": "1",
+  "icon": "/icons/Eyepatch.png"
  },
  {
   "title": "Fin Flops",
   "slug": "Fin_Flops",
   "pieces": [],
   "summary": "is a Tier 1 Light Armor in Grounded made from Water Boatman parts.",
-  "tier": "1"
+  "tier": "1",
+  "icon": "/icons/Fin_Flops.png"
  },
  {
   "title": "Fire Ant Armor",
@@ -289,42 +303,48 @@
    }
   ],
   "summary": "is a Tier 3 armor set crafted from pieces of Fire Ants.",
-  "tier": "3"
+  "tier": "3",
+  "icon": "/icons/Fire_Ant_Armor.png"
  },
  {
   "title": "Fire Strategist Armor",
   "slug": "Fire_Strategist_Armor",
   "pieces": [],
   "summary": "is a Tier 3, Medium Class armor set crafted from parts of the Fire Ant Queen, though only if the player feeds it a Poison Toejam Sandwich or Infected Toejam Sandwich to kill it.",
-  "tier": "3"
+  "tier": "3",
+  "icon": "/icons/Fire_Strategist_Armor.png"
  },
  {
   "title": "Firefly Head Lamp",
   "slug": "Firefly_Head_Lamp",
   "pieces": [],
   "summary": "is a Tier 2 Heavy Armor in Grounded made from Firefly parts.",
-  "tier": "2"
+  "tier": "2",
+  "icon": "/icons/Firefly_Head_Lamp.png"
  },
  {
   "title": "Fluffy Pupa Hat",
   "slug": "Fluffy_Pupa_Hat",
   "pieces": [],
   "summary": "is a Tier 3 head armor piece crafted from Pupa Leather and Dust Mite Fuzz.",
-  "tier": "3"
+  "tier": "3",
+  "icon": "/icons/Fluffy_Pupa_Hat.png"
  },
  {
   "title": "Gas Mask",
   "slug": "Gas_Mask",
   "pieces": [],
   "summary": "is a Tier 2 Classless Armor in Grounded made with Stinkbug Parts and other resources.",
-  "tier": "2"
+  "tier": "2",
+  "icon": "/icons/Gas_Mask.png"
  },
  {
   "title": "Gill Tube",
   "slug": "Gill_Tube",
   "pieces": [],
   "summary": "is a Tier 2 Light Armor in Grounded crafted from resources found in the Koi Pond.",
-  "tier": "2"
+  "tier": "2",
+  "icon": "/icons/Gill_Tube.png"
  },
  {
   "title": "Grub Armor",
@@ -362,7 +382,8 @@
    }
   ],
   "summary": "is a Tier 1 Medium Armor Set in Grounded made with Grub parts.",
-  "tier": "1"
+  "tier": "1",
+  "icon": "/icons/Grub_Armor.png"
  },
  {
   "title": "Koi Scale Armor",
@@ -400,7 +421,8 @@
    }
   ],
   "summary": "is a Tier 2 Armor Set crafted from resources found exclusively in the Pond Depths.",
-  "tier": "2"
+  "tier": "2",
+  "icon": ""
  },
  {
   "title": "Ladybug Armor",
@@ -438,59 +460,68 @@
    }
   ],
   "summary": "is a Tier 2 Heavy Armor Set in Grounded made with Ladybug parts.",
-  "tier": "2"
+  "tier": "2",
+  "icon": ""
  },
  {
   "title": "Lil Black Helm",
   "slug": "Lil_Black_Helm",
   "pieces": [],
-  "summary": "is a type of Armor which is smaller variant of the Ant Helmet and its purpose is to be placed on players' pets by interacting with them at the Pet House."
+  "summary": "is a type of Armor which is smaller variant of the Ant Helmet and its purpose is to be placed on players' pets by interacting with them at the Pet House.",
+  "icon": "/icons/Lil_Black_Helm.png"
  },
  {
   "title": "Lil Fire Helm",
   "slug": "Lil_Fire_Helm",
   "pieces": [],
-  "summary": "is a type of Armor that is a smaller variant of the Ant Helmet that can be placed on players' pets by interacting with them at the Pet House."
+  "summary": "is a type of Armor that is a smaller variant of the Ant Helmet that can be placed on players' pets by interacting with them at the Pet House.",
+  "icon": "/icons/Lil_Fire_Helm.png"
  },
  {
   "title": "Lil Goggles",
   "slug": "Lil_Goggles",
   "pieces": [],
-  "summary": "is a type of gear wearable by pets."
+  "summary": "is a type of gear wearable by pets.",
+  "icon": "/icons/Lil_Goggles.png"
  },
  {
   "title": "Lil Red Helm",
   "slug": "Lil_Red_Helm",
   "pieces": [],
-  "summary": "is a type of Armor that is a smaller variant of the Ant Helmet that can be placed on players' pets by interacting with them at the Pet House."
+  "summary": "is a type of Armor that is a smaller variant of the Ant Helmet that can be placed on players' pets by interacting with them at the Pet House.",
+  "icon": "/icons/Lil_Red_Helm.png"
  },
  {
   "title": "Lucky Hat",
   "slug": "Lucky_Hat",
   "pieces": [],
   "summary": "is a Tier 2 Light Armor in Grounded made with Rainbow Chocolate Chunk which can only be obtained during the month of March.",
-  "tier": "2"
+  "tier": "2",
+  "icon": "/icons/Lucky_Hat.png"
  },
  {
   "title": "Marksman's Cap",
   "slug": "Marksmans_Cap",
   "pieces": [],
   "summary": "is a Tier 2 Medium Armor in Grounded made with Crow Feather Pieces and Berry Leather.",
-  "tier": "2"
+  "tier": "2",
+  "icon": "/icons/Marksman_s_Cap.png"
  },
  {
   "title": "Mite Hat",
   "slug": "Mite_Hat",
   "pieces": [],
   "summary": "is a Tier 1, single piece Armor that can be crafted very early, with it primarily increasing the players stamina efficiency.",
-  "tier": "1"
+  "tier": "1",
+  "icon": "/icons/Mite_Hat.png"
  },
  {
   "title": "Moldy Matriarch Armor",
   "slug": "Moldy_Matriarch_Armor",
   "pieces": [],
   "summary": "is a Tier 3, Heavy Class armor set crafted from Infected Broodmother parts.",
-  "tier": "3"
+  "tier": "3",
+  "icon": ""
  },
  {
   "title": "Moth Armor",
@@ -513,14 +544,16 @@
    }
   ],
   "summary": "is a Tier 3 armor set focused on ranged attacks with bows, crossbows, and candy staves.",
-  "tier": "3"
+  "tier": "3",
+  "icon": ""
  },
  {
   "title": "Mother Demon Armor",
   "slug": "Mother_Demon_Armor",
   "pieces": [],
   "summary": "is a Tier 3, Heavy Class armor set crafted from Hedge Broodmother parts.",
-  "tier": "3"
+  "tier": "3",
+  "icon": ""
  },
  {
   "title": "Red Ant Armor",
@@ -558,14 +591,16 @@
    }
   ],
   "summary": "is a Tier 1 Light Armor Set in Grounded.",
-  "tier": "1"
+  "tier": "1",
+  "icon": ""
  },
  {
   "title": "Red Strategist Armor",
   "slug": "Red_Strategist_Armor",
   "pieces": [],
   "summary": "is a Tier 1, Medium Class armor set crafted from parts of the Red Ant Queen, though only if the player feeds it a Poison Mushroom Sandwich or Infected Mushroom Sandwich to kill it.",
-  "tier": "1"
+  "tier": "1",
+  "icon": "/icons/Red_Strategist_Armor.png"
  },
  {
   "title": "Roly Poly Armor",
@@ -603,14 +638,16 @@
    }
   ],
   "summary": "is a Tier 3 Heavy class armor set crafted with Roly Poly parts.",
-  "tier": "3"
+  "tier": "3",
+  "icon": "/icons/Roly_Poly_Armor.png"
  },
  {
   "title": "Rotten Equipment",
   "slug": "Rotten_Equipment",
   "pieces": [],
   "summary": "are weaker variants of common tools/armor that can be found in specific areas and are one of a kind. These items normally have weaker stats than their normal variants, but can be analyzed to unlock their normal variants.",
-  "tier": "1"
+  "tier": "1",
+  "icon": ""
  },
  {
   "title": "Spider Armor",
@@ -633,13 +670,15 @@
    }
   ],
   "summary": "is a Tier 2 armor set made for aggressive play styles.",
-  "tier": "2"
+  "tier": "2",
+  "icon": ""
  },
  {
   "title": "Termite Armor",
   "slug": "Termite_Armor",
   "pieces": [],
-  "summary": "is a single-piece Armor that gives immunity to the effects of the dust attacks caused by Dust Mites, Termite Soldiers, and Moths."
+  "summary": "is a single-piece Armor that gives immunity to the effects of the dust attacks caused by Dust Mites, Termite Soldiers, and Moths.",
+  "icon": "/icons/Termite_Armor.png"
  },
  {
   "title": "Wasp Armor",
@@ -662,7 +701,8 @@
    }
   ],
   "summary": "is a Tier 3 Light Armor Set in Grounded crafted from Wasp parts.",
-  "tier": "3"
+  "tier": "3",
+  "icon": ""
  },
  {
   "title": "Widow Armor",
@@ -685,13 +725,15 @@
    }
   ],
   "summary": "is a Tier 3 armor set crafted from parts of a Black Widow.",
-  "tier": "3"
+  "tier": "3",
+  "icon": ""
  },
  {
   "title": "Wizard Hat",
   "slug": "Wizard_Hat",
   "pieces": [],
   "summary": "is a Tier 3 head armor made with fairly late-game items.",
-  "tier": "3"
+  "tier": "3",
+  "icon": "/icons/Wizard_Hat.png"
  }
 ]

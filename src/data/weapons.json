@@ -12,7 +12,8 @@
   "subcat": "Ranged",
   "tier": "3",
   "reload": "2 Sec",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Merica_Rounds.png"
  },
  {
   "title": "Acid Edge",
@@ -37,13 +38,15 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Fury",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Acid_Edge.png"
  },
  {
   "title": "Acid Ruin",
   "slug": "Acid_Ruin",
   "summary": "is a Tier 3 Staff in Grounded 2 crafted from various Tier 3 Resources.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Acid_Ruin.png"
  },
  {
   "title": "Acorn Shovel",
@@ -65,7 +68,8 @@
   "damagethrow": "10",
   "stunthrow": "10",
   "durability": "300",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Acorn_Shovel.png"
  },
  {
   "title": "Ant Queen Repair Tool",
@@ -81,7 +85,8 @@
   "stunthrow": "10",
   "repairdamage": "65",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Ant_Queen_Repair_Tool.png"
  },
  {
   "title": "Ant Queen Scepter",
@@ -105,7 +110,8 @@
   "tooltype": "Generic",
   "damagethrow": "5",
   "stunthrow": "0",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Ant_Queen_Scepter.png"
  },
  {
   "title": "Ant Queen Staff",
@@ -125,7 +131,8 @@
   "stun": "5",
   "tooltype": "Acid",
   "stam": "15",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Ant_Queen_Staff.png"
  },
  {
   "title": "Antlion Greatsword",
@@ -149,7 +156,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Damage",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Antlion_Greatsword.png"
  },
  {
   "title": "Arrow",
@@ -162,19 +170,22 @@
   "subcat": "Ranged",
   "tier": "1",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Arrow.png"
  },
  {
   "title": "Ash Maw",
   "slug": "Ash_Maw",
   "summary": "is a Tier 3 One-Handed Club in Grounded 2 crafted using parts from King Dozer.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Ash_Maw.png"
  },
  {
   "title": "Axl's Talon",
   "slug": "Axls_Talon",
   "summary": "is a Tier 3 Spear in Grounded 2 crafted using parts from Axl.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Axl_s_Talon.png"
  },
  {
   "title": "BURG.L's Old Flipper",
@@ -197,7 +208,8 @@
   "stam": "7",
   "repair": "1 Repair Glue",
   "perk": "Victory Feast",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/BURG_L_s_Old_Flipper.png"
  },
  {
   "title": "Bard's Bow",
@@ -221,7 +233,8 @@
   "type": "Bow",
   "tooltype": "Stabbing",
   "perklvl": "Critical Hit Chance",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Bard_s_Bow.png"
  },
  {
   "title": "Basketball",
@@ -232,7 +245,8 @@
   "urecipe": "Analyze Web Fiber",
   "repairdamage": "1",
   "tooltype": "Repair",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Basketball.png"
  },
  {
   "title": "Black Ant Shield",
@@ -245,7 +259,8 @@
   "tier": "2",
   "repair": "4 Black Ant Part",
   "urecipe": "* Analyze Black Ant Part * Reach Brainpower Level 10",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Black_Ant_Shield.png"
  },
  {
   "title": "Black Ant Shovel",
@@ -267,7 +282,8 @@
   "subcat": "Digging",
   "tooltype": "Digging",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Black_Ant_Shovel.png"
  },
  {
   "title": "Black Ant Sword",
@@ -292,7 +308,8 @@
   "stam": "6",
   "tooltype": "Slashing",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Black_Ant_Sword.png"
  },
  {
   "title": "Black Ox Crossbow",
@@ -313,7 +330,8 @@
   "repair": "2 30px|link=Lint Rope Lint Rope",
   "urecipe": "Analyze Black Ox Part or Pinecone Piece",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Black_Ox_Crossbow.png"
  },
  {
   "title": "Black Ox Hammer",
@@ -337,7 +355,8 @@
   "damagethrow": "50",
   "stunthrow": "50",
   "durability": "800",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Black_Ox_Hammer.png"
  },
  {
   "title": "Blaster of the Moldy Matriarch",
@@ -354,7 +373,8 @@
   "urecipe": "Analyze Infected Venom",
   "repair": "50 Fungal Growth",
   "durability": "100",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Blaster_of_the_Moldy_Matriarch.png"
  },
  {
   "title": "Blazing Edge",
@@ -379,7 +399,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Fury",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Blazing_Edge.png"
  },
  {
   "title": "Bomb Arrow",
@@ -392,7 +413,8 @@
   "urecipe": "Discover Water Logged Recipe",
   "damage": "60",
   "tooltype": "Explosive",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Bomb_Arrow.png"
  },
  {
   "title": "Bone Dagger",
@@ -419,7 +441,8 @@
   "damagethrow": "13",
   "durability": "400",
   "stunthrow": "0",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Bone_Dagger.png"
  },
  {
   "title": "Bone Trident",
@@ -446,13 +469,15 @@
   "damagethrow": "140",
   "stunthrow": "0",
   "durability": "500",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Bone_Trident.png"
  },
  {
   "title": "Boom Stick",
   "slug": "Boom_Stick",
   "summary": "is a Tier 3 Stranger Weapon variant of the Wallopeño from Grounded.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Boom_Stick.png"
  },
  {
   "title": "Bratburst",
@@ -466,7 +491,8 @@
   "tier": "1",
   "location": "* Black Anthill Lab * Haze Lab *Oak Lab ZIP.R Room",
   "tooltype": "Explosive",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Bratburst.png"
  },
  {
   "title": "Breathslayer",
@@ -490,7 +516,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Aftershock",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Breathslayer.png"
  },
  {
   "title": "Burny Rounds",
@@ -504,13 +531,15 @@
   "tooltype": "Burning",
   "tier": "3",
   "reload": "2.5 Sec | -perk1= Damage Resist | -perk = Corrosion",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Burny_Rounds.png"
  },
  {
   "title": "Bushwacker",
   "slug": "Bushwacker",
   "summary": "is a Tier 2 Stranger Weapon variant of the Spider Stringer.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Bushwacker.png"
  },
  {
   "title": "Club of the Mother Demon",
@@ -533,25 +562,29 @@
   "damagethrow": "140| perklvl = Poison Damage",
   "stunthrow": "40",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Club_of_the_Mother_Demon.png"
  },
  {
   "title": "Crimson Avenger",
   "slug": "Crimson_Avenger",
   "summary": "is a Tier 2 Stranger Weapon variant of the Crimson Saber.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Crimson_Avenger.png"
  },
  {
   "title": "Crimson Reapers",
   "slug": "Crimson_Reapers",
   "summary": "is a Tier 3 Stranger Weapon variant of the Dusk Blades.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Crimson_Reapers.png"
  },
  {
   "title": "Crimson Saber",
   "slug": "Crimson_Saber",
   "summary": "is a Tier 1 One-Handed Sword in Grounded 2 crafted from parts of Red Ants.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Crimson_Saber.png"
  },
  {
   "title": "Crow Crossbow",
@@ -572,13 +605,15 @@
   "repair": "2 30px|link=Silk Rope Silk Rope",
   "urecipe": "Analyze Crow Feather Piece",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Crow_Crossbow.png"
  },
  {
   "title": "Crystal Trident",
   "slug": "Crystal_Trident",
   "summary": "is a Tier 3 Spear in Grounded 2 crafted various aquatic resources and Phantom Quartz Shards.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Crystal_Trident.png"
  },
  {
   "title": "Cupid's Arrow",
@@ -593,13 +628,15 @@
   "tier": "2",
   "tooltype": "Stabbing",
   "perk": "Bleed",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Cupid_s_Arrow.png"
  },
  {
   "title": "Cut Lass",
   "slug": "Cut_Lass",
   "summary": "is a Tier 4 Stranger Weapon variant of the Toenail Cutlass.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Cut_Lass.png"
  },
  {
   "title": "Decoy Bait",
@@ -609,19 +646,22 @@
   "subcat": "Misc",
   "type": "Bait",
   "urecipe": "Analyze Algae, Raw Tadpole Meat, Water Boatman Fin, or Water Flea Meat",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Decoy_Bait.png"
  },
  {
   "title": "Discord",
   "slug": "Discord",
   "summary": "is a Tier 3 Stranger Weapon variant of the Cricket Lute Bow.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Discord.png"
  },
  {
   "title": "Dusk Blades",
   "slug": "Dusk_Blades",
   "summary": "are a Tier 3 Dual Sickles in Grounded 2. It deals Slashing damage.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Dusk_Blades.png"
  },
  {
   "title": "Feather Arrow",
@@ -636,13 +676,15 @@
   "tier": "2",
   "tooltype": "Stabbing",
   "perk": "Bleed",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Feather_Arrow.png"
  },
  {
   "title": "Fellfeast",
   "slug": "Fellfeast",
   "summary": "is a Tier 3 Stranger Weapon variant of the Ticky Maul.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Fellfeast.png"
  },
  {
   "title": "Fire Ant Club",
@@ -667,7 +709,8 @@
   "tooltype": "Generic",
   "durability": "500",
   "perklvl": "Finale Damage",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Fire_Ant_Club.png"
  },
  {
   "title": "Fire Ant Shield",
@@ -681,7 +724,8 @@
   "perk": "Defensive Stance",
   "perk1": "Block Corrosion",
   "defense": "75",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Fire_Ant_Shield.png"
  },
  {
   "title": "Fresh Coldtana",
@@ -705,7 +749,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Parry",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Fresh_Coldtana.png"
  },
  {
   "title": "Fresh Edge",
@@ -730,7 +775,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Fury",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Fresh_Edge.png"
  },
  {
   "title": "Frosted Flake",
@@ -755,7 +801,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Stamina Surge",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Frosted_Flake.png"
  },
  {
   "title": "Fungnir",
@@ -783,7 +830,8 @@
   "stunwater": "0",
   "damagethrow": "168",
   "stunthrow": "0",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Fungnir.png"
  },
  {
   "title": "Gas Arrow",
@@ -799,19 +847,22 @@
   "damage": "5",
   "tooltype": "Stabbing",
   "perk": "Gas Hazard",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Gas_Arrow.png"
  },
  {
   "title": "Glacial Sting",
   "slug": "Glacial_Sting",
   "summary": "is a Tier 2 Staff in Grounded 2 crafted from Mint Shards and Northern Scorpion parts.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Glacial_Sting.png"
  },
  {
   "title": "Gloom Skewer",
   "slug": "Gloom_Skewer",
   "summary": "is a Tier 2 Stranger Weapon variant of the Larvalance.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Gloom_Skewer.png"
  },
  {
   "title": "Groundy Rounds",
@@ -826,25 +877,29 @@
   "tier": "1",
   "reload": "1 Sec",
   "perk": "Flyers Stun",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Groundy_Rounds.png"
  },
  {
   "title": "Heatwave",
   "slug": "Heatwave",
   "summary": "is a Tier 2 Stranger Weapon variant of the Scorching Orb.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Heatwave.png"
  },
  {
   "title": "Ice Breakers",
   "slug": "Ice_Breakers",
   "summary": "is a Tier 3 Stranger Weapon variant of the Woolly Whoppers.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Ice_Breakers.png"
  },
  {
   "title": "Ice Sickles",
   "slug": "Ice_Sickles",
   "summary": "is accessed by climing a leaning pipe near the primary entrance of the biome.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Ice_Sickles.png"
  },
  {
   "title": "Infected Ant Shield",
@@ -858,7 +913,8 @@
   "urecipe": "Analyze Infected Ant Part",
   "perk": "Defensive Stance",
   "perk1": "Explosive Resist",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infected_Ant_Shield.png"
  },
  {
   "title": "Infused Axe",
@@ -882,7 +938,8 @@
   "damagethrow": "70",
   "stunthrow": "0",
   "durability": "800",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infused_Axe.png"
  },
  {
   "title": "Infused Blaster",
@@ -899,7 +956,8 @@
   "source": "Infected Broodmother (NG+4)",
   "tooltype": "Explosive",
   "durability": "100",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infused_Blaster.png"
  },
  {
   "title": "Infused Bow",
@@ -920,7 +978,8 @@
   "speed": "Average",
   "type": "Bow",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infused_Bow.png"
  },
  {
   "title": "Infused Club",
@@ -943,7 +1002,8 @@
   "durability": "600",
   "damagethrow": "140",
   "stunthrow": "40",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infused_Club.png"
  },
  {
   "title": "Infused Crossbow",
@@ -964,7 +1024,8 @@
   "speed": "Slow",
   "type": "Bow",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infused_Crossbow.png"
  },
  {
   "title": "Infused Dagger",
@@ -991,7 +1052,8 @@
   "damagewater": "50",
   "stamwater": "7",
   "stunwater": "0",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infused_Dagger.png"
  },
  {
   "title": "Infused Greatsword",
@@ -1014,7 +1076,8 @@
   "durability": "500",
   "damagethrow": "140",
   "stunthrow": "40",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infused_Greatsword.png"
  },
  {
   "title": "Infused Hammer",
@@ -1038,7 +1101,8 @@
   "damagethrow": "50",
   "stunthrow": "50",
   "durability": "800",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infused_Hammer.png"
  },
  {
   "title": "Infused Scythe",
@@ -1062,7 +1126,8 @@
   "tooltype": "Chopping",
   "tooltype2": "Slashing",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infused_Scythe.png"
  },
  {
   "title": "Infused Spear",
@@ -1089,7 +1154,8 @@
   "damagethrow": "168",
   "stunthrow": "0",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infused_Spear.png"
  },
  {
   "title": "Infused Sword",
@@ -1113,7 +1179,8 @@
   "damagethrow": "50",
   "stunthrow": "0",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Infused_Sword.png"
  },
  {
   "title": "Insect Axe",
@@ -1137,7 +1204,8 @@
   "description": "Axe made up of sharp and strong bug parts. Sturdier and more durable than the pebblet axe.",
   "urecipe": "*Analyze Bombardier Part, Ladybug Head, or Silk Rope *Reach Brainpower Level 6",
   "tooltype": "Chopping",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Insect_Axe.png"
  },
  {
   "title": "Insect Bow",
@@ -1158,7 +1226,8 @@
   "speed": "Average",
   "type": "Bow",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Insect_Bow.png"
  },
  {
   "title": "Insect Hammer",
@@ -1182,7 +1251,8 @@
   "damagethrow": "50",
   "stunthrow": "50",
   "durability": "700",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Insect_Hammer.png"
  },
  {
   "title": "Killbasa",
@@ -1196,7 +1266,8 @@
   "tier": "3",
   "location": "",
   "tooltype": "Explosive",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Killbasa.png"
  },
  {
   "title": "Ladybird Shield",
@@ -1210,7 +1281,8 @@
   "urecipe": "Analyze Ladybird Shell",
   "perk": "Defensive Stance",
   "perk1": "Block Free Attack",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Ladybird_Shield.png"
  },
  {
   "title": "Larva Blade",
@@ -1241,13 +1313,15 @@
   "damagechargerot": "31",
   "durabilityrot": "175",
   "locationrot": "Central Grasslands",
-  "_ib": "Infobox/Tools/Rotten"
+  "_ib": "Infobox/Tools/Rotten",
+  "icon": "/icons/Larva_Blade.png"
  },
  {
   "title": "Larvalance",
   "slug": "Larvalance",
   "summary": "is a Tier 1 Spear in Grounded 2 crafted from parts of Red Ants and Larva.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Larvalance.png"
  },
  {
   "title": "Lure Arrow",
@@ -1260,13 +1334,15 @@
   "urecipe": "Buy Lures",
   "damage": "5",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Lure_Arrow.png"
  },
  {
   "title": "Mantis Blade",
   "slug": "Mantis_Blade",
   "summary": "is a Tier 3 Two-Handed Sword in Grounded 2 crafted from parts of Praying Mantis Nymphs.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Mantis_Blade.png"
  },
  {
   "title": "Mint Arrow",
@@ -1280,7 +1356,8 @@
   "damage": "15",
   "tier": "2",
   "augmenttype": "Fresh",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Mint_Arrow.png"
  },
  {
   "title": "Mint Mace",
@@ -1304,19 +1381,22 @@
   "stunthrow": "40",
   "durability": "700",
   "perklvl": "Finale Aftershock",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Mint_Mace.png"
  },
  {
   "title": "Mint Staff",
   "slug": "Mint_Staff",
   "summary": "is a Tier 3 magic tool that casts potent minty magic.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Mint_Staff.png"
  },
  {
   "title": "Mitey Claws",
   "slug": "Mitey_Claws",
   "summary": "is a Tier 1 Dual Fists in Grounded 2 crafted from parts of Red Ants and Lawn Mites.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Mitey_Claws.png"
  },
  {
   "title": "Mosquito Needle",
@@ -1344,13 +1424,15 @@
   "damagewater": "27",
   "stamwater": "7",
   "stunwater": "0",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Mosquito_Needle.png"
  },
  {
   "title": "Northern Shredders",
   "slug": "Northern_Shredders",
   "summary": "is a Tier 2 Dual Fists in Grounded 2 crafted from parts of Northern Scorpions and Caterpillars.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Northern_Shredders.png"
  },
  {
   "title": "Pebblet Axe",
@@ -1374,7 +1456,8 @@
   "damagethrow": "70",
   "stunthrow": "0",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Pebblet_Axe.png"
  },
  {
   "title": "Pebblet Dagger",
@@ -1401,7 +1484,8 @@
   "urecipe": "*Analyze Lilypad Wax *Reach Brainpower Level 4",
   "repair": "1 Pebblet",
   "durability": "400",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Pebblet_Dagger.png"
  },
  {
   "title": "Pebblet Hammer",
@@ -1425,7 +1509,8 @@
   "damagethrow": "50",
   "stunthrow": "50",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Pebblet_Hammer.png"
  },
  {
   "title": "Pebblet Spear",
@@ -1452,7 +1537,8 @@
   "damagethrow": "75",
   "stunthrow": "0",
   "durability": "500",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Pebblet_Spear.png"
  },
  {
   "title": "Pepper Flake",
@@ -1477,7 +1563,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Stamina Surge",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Pepper_Flake.png"
  },
  {
   "title": "Picklemaul",
@@ -1501,7 +1588,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Fury",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Picklemaul.png"
  },
  {
   "title": "Pinch Whacker",
@@ -1525,7 +1613,8 @@
   "perk": "Finale Short Circuit",
   "damagethrow": "10",
   "stunthrow": "10",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Pinch_Whacker.png"
  },
  {
   "title": "Pointy Rounds",
@@ -1539,7 +1628,8 @@
   "tier": "2",
   "reload": ".2 Sec",
   "stun": "0",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Pointy_Rounds.png"
  },
  {
   "title": "Pollen Arrow",
@@ -1554,7 +1644,8 @@
   "damage": "5",
   "tooltype": "Stabbing | -perk = Movement Speed",
   "perk1": "Flyers Stun",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Pollen_Arrow.png"
  },
  {
   "title": "Prod Smacker",
@@ -1578,7 +1669,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Prod_Smacker.png"
  },
  {
   "title": "Pucker Thumper",
@@ -1602,7 +1694,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Aftershock",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Pucker_Thumper.png"
  },
  {
   "title": "Pupa Basketball",
@@ -1613,7 +1706,8 @@
   "urecipe": "Analyze Pupa Leather",
   "repairdamage": "5",
   "tooltype": "Repair",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Pupa_Basketball.png"
  },
  {
   "title": "Red Ant Club",
@@ -1643,7 +1737,8 @@
   "damagechargerot": "100",
   "durabilityrot": "300",
   "locationrot": "Ant Totem Cave",
-  "_ib": "Infobox/Tools/Rotten"
+  "_ib": "Infobox/Tools/Rotten",
+  "icon": "/icons/Red_Ant_Club.png"
  },
  {
   "title": "Repair Tool",
@@ -1659,19 +1754,22 @@
   "stunthrow": "10",
   "repairdamage": "40",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Repair_Tool.png"
  },
  {
   "title": "Rime Rend",
   "slug": "Rime_Rend",
   "summary": "is a Tier 3 Stranger Weapon variant of the Glacial Sting.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Rime_Rend.png"
  },
  {
   "title": "Roach Club",
   "slug": "Roach_Club",
   "summary": "is a Tier 2 One-Handed Club in Grounded 2 crafted from parts of Cockroaches.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Roach_Club.png"
  },
  {
   "title": "Rocky Rounds",
@@ -1685,7 +1783,8 @@
   "subcat": "Ranged",
   "tier": "1",
   "reload": "1 Sec",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Rocky_Rounds.png"
  },
  {
   "title": "Roman Candle",
@@ -1701,7 +1800,8 @@
   "speed": "Fast",
   "durability": "13 Sec",
   "tooltype": "Burning",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Roman_Candle.png"
  },
  {
   "title": "Rusty Spear",
@@ -1729,7 +1829,8 @@
   "stunwater": "0",
   "damagethrow": "168",
   "stunthrow": "0",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Rusty_Spear.png"
  },
  {
   "title": "Salt Arrow",
@@ -1743,7 +1844,8 @@
   "tier": "2",
   "location": "*JavaMatic Storage Facility *Undershed Entrance",
   "augmenttype": "Salty",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Salt_Arrow.png"
  },
  {
   "title": "Salt Chipper",
@@ -1768,7 +1870,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Bleed",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Salt_Chipper.png"
  },
  {
   "title": "Salt Morning Star",
@@ -1792,7 +1895,8 @@
   "stunthrow": "40",
   "durability": "600",
   "perklvl": "Finale Bleed",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Salt_Morning_Star.png"
  },
  {
   "title": "Sappy Rounds",
@@ -1806,19 +1910,22 @@
   "subcat": "Ranged",
   "tier": "2",
   "reload": "1 Sec",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Sappy_Rounds.png"
  },
  {
   "title": "Scarlet Aegis",
   "slug": "Scarlet_Aegis",
   "summary": "The is the Tier 2 Stranger Weapon variant of the Ladyguard. It costs less stamina to block along with providing an extra perk. It is located in a O.R.C. Stash found in the Ceremony Area, specifically inbetween the podiu",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Scarlet_Aegis.png"
  },
  {
   "title": "Scorching Orb",
   "slug": "Scorching_Orb",
   "summary": "is a Tier 2 Staff in Grounded 2 crafted from Spicy Shards and Bombardier Beetle parts.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Scorching_Orb.png"
  },
  {
   "title": "Scythe of Blossoms",
@@ -1844,7 +1951,8 @@
   "perklvl": "Critical Hit Chance",
   "perk": "Yoked Blows",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Scythe_of_Blossoms.png"
  },
  {
   "title": "Sizzle Striker",
@@ -1868,7 +1976,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Aftershock",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Sizzle_Striker.png"
  },
  {
   "title": "Slime Mold Torch",
@@ -1879,7 +1988,8 @@
   "subcat": "Light",
   "locations": "Slime Lantern Outpost",
   "urecipe": "Analyze Slime Mold Stalk",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Slime_Mold_Torch.png"
  },
  {
   "title": "Sour Arrow",
@@ -1892,7 +2002,8 @@
   "stun": "5",
   "damage": "15",
   "augmenttype": "Sour",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Sour_Arrow.png"
  },
  {
   "title": "Sour Katanga",
@@ -1916,7 +2027,8 @@
   "augmenttype": "Sour",
   "damagethrow": "140",
   "stunthrow": "40",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Sour_Katanga.png"
  },
  {
   "title": "Sour Staff",
@@ -1939,7 +2051,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "durability": "200",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Sour_Staff.png"
  },
  {
   "title": "Spicy Arrow",
@@ -1953,7 +2066,8 @@
   "tier": "2",
   "location": "*Black Anthill Lab *JavaMatic Storage Facility *Sandbox Lab Outpost",
   "augmenttype": "Spicy",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Spicy_Arrow.png"
  },
  {
   "title": "Spicy Coaltana",
@@ -1978,7 +2092,8 @@
   "stunthrow": "40",
   "durability": "500",
   "perklvl": "Finale Parry",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Spicy_Coaltana.png"
  },
  {
   "title": "Spicy Staff",
@@ -2001,7 +2116,8 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "durability": "200",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Spicy_Staff.png"
  },
  {
   "title": "Spider Fang Dagger",
@@ -2029,7 +2145,8 @@
   "tooltype": "Slashing",
   "damagethrow": "12",
   "stunthrow": "0",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Spider_Fang_Dagger.png"
  },
  {
   "title": "Spiky Sprig",
@@ -2053,7 +2170,8 @@
   "stunthrow": "40",
   "perk": "Bleed",
   "durability": "400",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Spiky_Sprig.png"
  },
  {
   "title": "Splatburst",
@@ -2067,7 +2185,8 @@
   "tooltype": "Explosive",
   "tier": "2",
   "location": "Undershed Entrance",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Splatburst.png"
  },
  {
   "title": "Splinter Arrow",
@@ -2079,7 +2198,8 @@
   "damage": "15",
   "tier": "3",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Splinter_Arrow.png"
  },
  {
   "title": "Splody Rounds",
@@ -2093,7 +2213,8 @@
   "tier": "3",
   "tooltype": "Explosive",
   "reload": "3.5 Sec",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Splody_Rounds.png"
  },
  {
   "title": "Sprig Bow",
@@ -2114,7 +2235,8 @@
   "repair": "2 30px|link=Crude Rope Crude Rope",
   "urecipe": "*Analyze Crude Rope or Gnat Fuzz *Reach Brainpower Level 2",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Sprig_Bow.png"
  },
  {
   "title": "Stinger Spear",
@@ -2148,13 +2270,15 @@
   "damagechargerot": "65",
   "durabilityrot": "300",
   "locationrot": "Pond Depths",
-  "_ib": "Infobox/Tools/Rotten"
+  "_ib": "Infobox/Tools/Rotten",
+  "icon": "/icons/Stinger_Spear.png"
  },
  {
   "title": "Striped Slashers",
   "slug": "Striped_Slashers",
   "summary": "is a Tier 4 Dual Fists in Grounded 2 crafted from Striped Bark Scorpion parts.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Striped_Slashers.png"
  },
  {
   "title": "Super Gas Arrow",
@@ -2168,7 +2292,8 @@
   "damage": "15",
   "tooltype": "Stabbing",
   "perk": "Gas Hazard",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Super_Gas_Arrow.png"
  },
  {
   "title": "Super Venom Arrow",
@@ -2181,7 +2306,8 @@
   "perk": "Poison",
   "urecipe": "Analyze Super Spider Venom",
   "damage": "15",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Super_Venom_Arrow.png"
  },
  {
   "title": "Termite Axe",
@@ -2205,7 +2331,8 @@
   "damagethrow": "70",
   "stunthrow": "0",
   "durability": "800",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Termite_Axe.png"
  },
  {
   "title": "Tick Macuahuitl",
@@ -2230,13 +2357,15 @@
   "damagethrow": "50",
   "stunthrow": "0",
   "durability": "600",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Tick_Macuahuitl.png"
  },
  {
   "title": "Ticky Maul",
   "slug": "Ticky_Maul",
   "summary": "is a Tier 3 Two-Handed Club in Grounded 2 crafted from Tick Fangs and other resources.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Ticky_Maul.png"
  },
  {
   "title": "Tiger Mosquito Rapier",
@@ -2264,7 +2393,8 @@
   "damagewater": "59",
   "stamwater": "7",
   "stunwater": "0",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Tiger_Mosquito_Rapier.png"
  },
  {
   "title": "Tingle Tongue",
@@ -2288,19 +2418,22 @@
   "augmenttype": "Sour",
   "damagethrow": "140",
   "stunthrow": "40",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Tingle_Tongue.png"
  },
  {
   "title": "Toe Biter Scythe",
   "slug": "Toe_Biter_Scythe",
   "summary": "is a Tier 4 Two-Handed Sword in Grounded 2 crafted from parts of Toe Biters.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Toe_Biter_Scythe.png"
  },
  {
   "title": "Toenail Cutlass",
   "slug": "Toenail_Cutlass",
   "summary": "is a Tier 4 One-handed Sword in Grounded 2 crafted from Toenails and other high-level crafting materials.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Toenail_Cutlass.png"
  },
  {
   "title": "Toenail Scimitar",
@@ -2325,7 +2458,8 @@
   "stunthrow": "0",
   "durability": "600",
   "type": "Sword",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Toenail_Scimitar.png"
  },
  {
   "title": "Torch",
@@ -2337,7 +2471,8 @@
   "urecipe": "Discover Sap or Dry Grass Chunk",
   "urecipeplus": "Buy Torch Upgrade",
   "descriptionplus": "A torch that's been improved by the power of science. Will light your way for a very long time.",
-  "_ib": "Infobox/Tools/Plus"
+  "_ib": "Infobox/Tools/Plus",
+  "icon": "/icons/Torch.png"
  },
  {
   "title": "Venom Arrow",
@@ -2352,7 +2487,8 @@
   "damage": "5",
   "tooltype": "Stabbing",
   "perk": "Poison",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Venom_Arrow.png"
  },
  {
   "title": "Wallopeño",
@@ -2376,25 +2512,29 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Fury",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Wallope_o.png"
  },
  {
   "title": "Warhammerlet",
   "slug": "Warhammerlet",
   "summary": "is a Tier 1 Two-Handed Club in Grounded 2 crafted from various basic resources.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Warhammerlet.png"
  },
  {
   "title": "Weapons & Tools (Grounded)",
   "slug": "Weapons_&_Tools_(Grounded)",
   "summary": "thumb|400px|Max, equipped with a Sprig Bow and Red Ant Armor.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Weapons_Tools_Grounded.png"
  },
  {
   "title": "Weaver Daggers",
   "slug": "Weaver_Daggers",
   "summary": "is a Tier 2 Dual Daggers in Grounded 2 crafted from parts of Orb Weavers.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Weaver_Daggers.png"
  },
  {
   "title": "Weevil Shield",
@@ -2417,7 +2557,8 @@
   "urecipeg2": "*Analze Raw Weevil Meat *Reach Brainpower Level 2",
   "repairg2": "1 Raw Weevil Meat",
   "durabilityg2": "100",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Weevil_Shield.png"
  },
  {
   "title": "Widow Dagger",
@@ -2445,24 +2586,28 @@
   "perk": "Venom",
   "type": "Dagger",
   "durability": "500",
-  "_ib": "Infobox/Tools"
+  "_ib": "Infobox/Tools",
+  "icon": "/icons/Widow_Dagger.png"
  },
  {
   "title": "Wither Sting",
   "slug": "Wither_Sting",
   "summary": "is a Tier 3 Stranger Variant variant of the Acid Ruin.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Wither_Sting.png"
  },
  {
   "title": "Wolfsbane Fangs",
   "slug": "Wolfsbane_Fangs",
   "summary": "is a Tier 3 Dual Daggers in Grounded 2 crafted from parts of Wolf Spiders It deals Stabbing damage.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Wolfsbane_Fangs.png"
  },
  {
   "title": "Woolly Whoppers",
   "slug": "Woolly_Whoppers",
   "summary": "is a Tier 3 Dual Fists in Grounded 2 crafted from parts of Woolly Aphids.",
-  "_ib": ""
+  "_ib": "",
+  "icon": "/icons/Woolly_Whoppers.png"
  }
 ]

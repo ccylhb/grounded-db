@@ -8,7 +8,8 @@
   "effect": "Finale Damage",
   "subcat": "Trinket",
   "tier": "1",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Astonishing_Acid.png"
  },
  {
   "title": "BURG.L Charm: Black Anthill",
@@ -19,7 +20,8 @@
   "image": "BURG.L Charm Black Anthill.png",
   "location": "Black Anthill Lab",
   "effect": "Dust Guard",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": ""
  },
  {
   "title": "BURG.L Charm: Haze",
@@ -30,7 +32,8 @@
   "image": "BURG.L Charm Haze.png",
   "location": "Haze Lab",
   "effect": "Gas Guard",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": ""
  },
  {
   "title": "BURG.L Charm: Hedge",
@@ -41,7 +44,8 @@
   "image": "BURG.L Charm Haze.png",
   "location": "Hedge Lab",
   "effect": "Fall Immunity",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": ""
  },
  {
   "title": "BURG.L Charm: Pond",
@@ -52,7 +56,8 @@
   "image": "BURG.L Charm Pond.png",
   "location": "Pond Lab",
   "effect": "Veteran Diver",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": ""
  },
  {
   "title": "Biomedical Badge",
@@ -63,7 +68,8 @@
   "effect": "Trickle Regen",
   "effect2": "Food Conversion",
   "location": "Sandbox",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Biomedical_Badge.png"
  },
  {
   "title": "Broodmother Trinket",
@@ -75,7 +81,8 @@
   "effect2": "Summon Damage",
   "subcat": "Trinket",
   "tier": "3",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Broodmother_Trinket.png"
  },
  {
   "title": "Compliance Badge",
@@ -85,7 +92,8 @@
   "tier": "2",
   "effect": "Parry Heal | -effect = Damage Resist",
   "location": "Eastern Flooded Zone",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Compliance_Badge.png"
  },
  {
   "title": "Defense Badge",
@@ -96,7 +104,8 @@
   "effect": "Damage Resist | -effect = Attack Damage",
   "effect2": "",
   "location": "Haze_Lab",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Defense_Badge.png"
  },
  {
   "title": "Deuces Sign",
@@ -106,7 +115,8 @@
   "tier": "3",
   "location": "Central Grasslands",
   "effect": "Deuces",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Deuces_Sign.png"
  },
  {
   "title": "Entomologist Badge",
@@ -117,7 +127,8 @@
   "effect": "Attack",
   "effect2": "Imperfect Block",
   "location": "BBQ Spill",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Entomologist_Badge.png"
  },
  {
   "title": "Everlasting Hogstopper",
@@ -127,7 +138,8 @@
   "tier": "3",
   "effect": "Food Generation",
   "source": "Billy Hog",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Everlasting_Hogstopper.png"
  },
  {
   "title": "Fancy Fletching",
@@ -138,7 +150,8 @@
   "effect": "Effortless Arrows",
   "subcat": "Trinket",
   "tier": "2",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Fancy_Fletching.png"
  },
  {
   "title": "Fluffy Dandelion Tuft",
@@ -147,7 +160,8 @@
   "description": "A fluffy puff of dandelion of exceptionally high quality. Could be used to drift down from even greater heights.",
   "tier": "2",
   "source": "Dandelion",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Fluffy_Dandelion_Tuft.png"
  },
  {
   "title": "Fungal Charm",
@@ -157,7 +171,8 @@
   "tier": "2",
   "effect": "Explosive Resist",
   "source": "Haze Fungus",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Fungal_Charm.png"
  },
  {
   "title": "Giddy Goop",
@@ -168,7 +183,8 @@
   "effect": "Finale Goo",
   "subcat": "Trinket",
   "tier": "2",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Giddy_Goop.png"
  },
  {
   "title": "Glowbasa Link",
@@ -178,7 +194,8 @@
   "subcat": "Trinket",
   "tier": "1",
   "urecipe": "Offer A Moldy Hoagie To One Infected Ant Queen",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Glowbasa_Link.png"
  },
  {
   "title": "Glowbasa Necklace",
@@ -188,7 +205,8 @@
   "subcat": "Trinket",
   "tier": "3",
   "urecipe": "Offer A Moldy Hoagie To Three Infected Ant Queens",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Glowbasa_Necklace.png"
  },
  {
   "title": "Glowbasa Wristband",
@@ -198,7 +216,8 @@
   "subcat": "Trinket",
   "tier": "2",
   "urecipe": "Offer A Moldy Hoagie To Two Infected Ant Queens",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Glowbasa_Wristband.png"
  },
  {
   "title": "Health And Safety Badge",
@@ -208,7 +227,8 @@
   "tier": "2",
   "effect": "Life Steal | -effect = Damage Resist",
   "location": "Brawny Boy Bin",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Health_And_Safety_Badge.png"
  },
  {
   "title": "Infected Broodmother Trinket",
@@ -219,7 +239,8 @@
   "effect": "Blastwave",
   "tier": "3",
   "effect2": "Summon Damage",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Infected_Broodmother_Trinket.png"
  },
  {
   "title": "Insulating Larva Spike",
@@ -230,7 +251,8 @@
   "effect": "Sizzle Protection",
   "subcat": "Trinket",
   "tier": "2",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Insulating_Larva_Spike.png"
  },
  {
   "title": "Intern Badge",
@@ -240,7 +262,8 @@
   "tier": "2",
   "effect": "Hauling Strength | -effect = Movement Speed",
   "location": "Upper Grasslands",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Intern_Badge.png"
  },
  {
   "title": "Left Elf Charm",
@@ -250,7 +273,8 @@
   "tier": "2",
   "effect": "Invincible Shielding",
   "location": "Pond Outpost Alpha",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Left_Elf_Charm.png"
  },
  {
   "title": "Mantis Trinket",
@@ -261,7 +285,8 @@
   "effect": "Finale Crit Boost",
   "subcat": "Trinket",
   "tier": "3",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Mantis_Trinket.png"
  },
  {
   "title": "Nifty Needle",
@@ -272,7 +297,8 @@
   "effect": "Charged Shot Damage",
   "subcat": "Trinket",
   "tier": "1",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Nifty_Needle.png"
  },
  {
   "title": "Power Droplet",
@@ -283,7 +309,8 @@
   "effect": "Fury",
   "subcat": "Trinket",
   "location": "Upper Grasslands",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Power_Droplet.png"
  },
  {
   "title": "Pucker Charm",
@@ -294,7 +321,8 @@
   "tier": "3",
   "effect": "Sour Attack",
   "source": "*Easter Egg *Sour Candy",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Pucker_Charm.png"
  },
  {
   "title": "Right Elf Charm",
@@ -304,7 +332,8 @@
   "tier": "2",
   "effect": "Invincible Attack",
   "location": "Stump Lab Outpost",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Right_Elf_Charm.png"
  },
  {
   "title": "Rotten Berry Charm",
@@ -315,7 +344,8 @@
   "effect": "Rotten Deluge",
   "subcat": "Trinket",
   "tier": "3",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Rotten_Berry_Charm.png"
  },
  {
   "title": "Sarah's Charm",
@@ -327,7 +357,8 @@
   "subcat": "Trinket",
   "urecipe": "Discover Left Elf Charm or Right Elf Charm",
   "tier": "3",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Sarah_s_Charm.png"
  },
  {
   "title": "Science Cone",
@@ -337,7 +368,8 @@
   "subcat": "Trinket",
   "tier": "3",
   "source": "Various Creatures in New Game+",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Science_Cone.png"
  },
  {
   "title": "Science Crinkle",
@@ -347,7 +379,8 @@
   "subcat": "Trinket",
   "tier": "1",
   "source": "Various Creatures in New Game+",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Science_Crinkle.png"
  },
  {
   "title": "Science Waffle",
@@ -357,7 +390,8 @@
   "subcat": "Trinket",
   "tier": "2",
   "source": "Various Creatures in New Game+",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Science_Waffle.png"
  },
  {
   "title": "Shield Solidifier",
@@ -368,7 +402,8 @@
   "effect": "Block Strength",
   "subcat": "Trinket",
   "tier": "3",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Shield_Solidifier.png"
  },
  {
   "title": "Shiny Salt Crystal",
@@ -378,7 +413,8 @@
   "tier": "2",
   "effect": "Salty Attack",
   "source": "Salt Cluster",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Shiny_Salt_Crystal.png"
  },
  {
   "title": "Spectacular Spicy Shard",
@@ -392,7 +428,8 @@
   "tierg2": "2",
   "effectg2": "Spicy Attack",
   "sourceg2": "*Spicy Candy *Trick-Or-Treatery",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Spectacular_Spicy_Shard.png"
  },
  {
   "title": "Speed Droplet",
@@ -403,7 +440,8 @@
   "effect": "The Quickness",
   "subcat": "Trinket",
   "tier": "3",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Speed_Droplet.png"
  },
  {
   "title": "Sticky Fingers",
@@ -414,7 +452,8 @@
   "effect": "Steal Item",
   "subcat": "Trinket",
   "tier": "2",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Sticky_Fingers.png"
  },
  {
   "title": "Sturdy Shell",
@@ -426,7 +465,8 @@
   "effect2": "Major Threat",
   "subcat": "Trinket",
   "tier": "1",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Sturdy_Shell.png"
  },
  {
   "title": "Suspicious Mint",
@@ -440,7 +480,8 @@
   "tierg2": "2",
   "effectg2": "Fresh Attack",
   "sourceg2": "*Fresh Mint *Trick-Or-Treatery",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Suspicious_Mint.png"
  },
  {
   "title": "Thor's Pendant",
@@ -451,7 +492,8 @@
   "tier": "3",
   "effect": "Pendant",
   "location": "Upper Grasslands",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Thor_s_Pendant.png"
  },
  {
   "title": "Toxicology Badge",
@@ -462,13 +504,15 @@
   "effect": "Gas Resist | -effect = Poison Resist",
   "effect2": "Dust Guard",
   "location": "Pond Depths",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Toxicology_Badge.png"
  },
  {
   "title": "Trinkets (Grounded)",
   "slug": "Trinkets_(Grounded)",
   "summary": "is area, it is behind a cluster of boulders under a damaged Lean-To.",
-  "_ib": ""
+  "_ib": "",
+  "icon": ""
  },
  {
   "title": "Unstable Capacitor",
@@ -479,7 +523,8 @@
   "effect": "Short Circuit",
   "subcat": "Trinket",
   "tier": "3",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Unstable_Capacitor.png"
  },
  {
   "title": "Valentine's Fortune",
@@ -490,7 +535,8 @@
   "tier": "2",
   "effect": "Vampirism",
   "source": "Chocolate Smoochies",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Valentine_s_Fortune.png"
  },
  {
   "title": "Volatile Fang",
@@ -501,7 +547,8 @@
   "effect": "Explosive Perfect Block",
   "subcat": "Trinket",
   "tier": "3",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Volatile_Fang.png"
  },
  {
   "title": "Wasp Queen Trinket",
@@ -512,7 +559,8 @@
   "effect": "Arrow Refund",
   "subcat": "Trinket",
   "tier": "3",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Wasp_Queen_Trinket.png"
  },
  {
   "title": "Web Clippers",
@@ -522,7 +570,8 @@
   "effect": "Web Damage",
   "subcat": "Trinket",
   "tier": "1",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Web_Clippers.png"
  },
  {
   "title": "Wittle Widowling",
@@ -533,6 +582,7 @@
   "effect": "Widowling Wrangler",
   "subcat": "Trinket",
   "tier": "3",
-  "_ib": "Infobox/Trinkets"
+  "_ib": "Infobox/Trinkets",
+  "icon": "/icons/Wittle_Widowling.png"
  }
 ]

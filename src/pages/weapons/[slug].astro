@@ -1,5 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import weapons from "../../data/weapons.json";
 
 export async function getStaticPaths() {
   const weapons = (await import("../../data/weapons.json")).default;
@@ -7,6 +9,9 @@ export async function getStaticPaths() {
 }
 const { w } = Astro.props;
 const dmgParts = String(w.damage || "").split("/").filter(Boolean);
+const sameType = w.type
+  ? weapons.filter((x) => x.type === w.type && x.slug !== w.slug).slice(0, 3)
+  : [];
 ---
 
 <Base
@@ -14,7 +19,10 @@ const dmgParts = String(w.damage || "").split("/").filter(Boolean);
   description={`${w.title} damage, stun, charged attack, speed and durability in Grounded. Full weapon stats and upgrade perks.`}
 >
   <p style="margin:0"><a href="/weapons/">← All weapons</a></p>
-  <h1>{w.title}</h1>
+  <h1 class="icon-h1">
+    {w.icon && <img src={w.icon} alt="" width="52" height="52" loading="eager" />}
+    {w.title}
+  </h1>
   <p>
     {w.tier && <span class="tag">Tier {w.tier}</span>}
     {w.type && <span class="tag">{w.type}</span>}
@@ -68,4 +76,13 @@ const dmgParts = String(w.damage || "").split("/").filter(Boolean);
   </table>
 
   {w.description && <p class="muted">{w.description}</p>}
+
+  <Related
+    heading="Next steps"
+    links={[
+      { href: "/rankings/", title: "Weapon damage rankings", sub: "Where this weapon lands", tool: true },
+      ...(w.tooltype ? [{ href: "/rankings/", title: "Creature weakness cheat sheet", sub: `Find bugs weak to ${w.tooltype}`, tool: true }] : []),
+      ...sameType.map((x) => ({ href: `/weapons/${x.slug}/`, title: x.title, sub: `${x.type} · ${x.damage || "?"} dmg`, icon: x.icon })),
+    ]}
+  />
 </Base>

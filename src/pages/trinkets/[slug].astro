@@ -1,11 +1,14 @@
 ---
 import Base from "../../layouts/Base.astro";
+import Related from "../../components/Related.astro";
+import trinkets from "../../data/trinkets.json";
 
 export async function getStaticPaths() {
   const trinkets = (await import("../../data/trinkets.json")).default;
   return trinkets.map((t) => ({ params: { slug: t.slug }, props: { t } }));
 }
 const { t } = Astro.props;
+const others = trinkets.filter((x) => x.slug !== t.slug).slice(0, 3);
 ---
 
 <Base
@@ -13,7 +16,10 @@ const { t } = Astro.props;
   description={`${t.title} effect, tier and location in Grounded.`}
 >
   <p style="margin:0"><a href="/trinkets/">← All trinkets</a></p>
-  <h1>{t.title}</h1>
+  <h1 class="icon-h1">
+    {t.icon && <img src={t.icon} alt="" width="52" height="52" loading="eager" />}
+    {t.title}
+  </h1>
   <p>
     {t.tier && <span class="tag">Tier {t.tier}</span>}
     {t.effect && <span class="tag hot">{t.effect}</span>}
@@ -34,4 +40,12 @@ const { t } = Astro.props;
 
   {t.location && <p><strong>Where to find:</strong> {t.location}</p>}
   {t.description && <p class="muted">{t.description}</p>}
+
+  <Related
+    heading="Next steps"
+    links={[
+      { href: "/rankings/", title: "Creature weakness cheat sheet", sub: "Bring the right element", tool: true },
+      ...others.map((x) => ({ href: `/trinkets/${x.slug}/`, title: x.title, sub: x.effect || "Trinket", icon: x.icon })),
+    ]}
+  />
 </Base>

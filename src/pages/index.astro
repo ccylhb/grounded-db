@@ -2,30 +2,49 @@
 import Base from "../layouts/Base.astro";
 import GuideLink from "../components/GuideLink.astro";
 import site from "../../site.config.json";
+import updates from "../data/updates.json";
 ---
 
 <Base title={`${site.siteName} - ${site.tagline}`} description={site.description}>
-  <h1>{site.siteName}</h1>
-  <p class="muted">
-    Grounded database — every weapon stat, creature weakness and smoothie recipe for the
-    backyard. Built to answer one question fast: what should you craft, drink and fight next?
-  </p>
-
-  <div class="card" style="margin:1.25rem 0;border-left:4px solid var(--accent)">
-    <strong>Start here:</strong>
-    <a href="/rankings/">best weapons by damage</a> ·
-    <a href="/rankings/">creature weaknesses</a> ·
-    <a href="/rankings/">strongest armor sets</a> ·
-    <a href="/calculator/">smoothie planner</a>
+  <div class="hero">
+    <h1>{site.siteName}</h1>
+    <p class="muted hero-sub">
+      Every weapon stat, creature weakness and smoothie recipe for the backyard —
+      the number you came for is always in the first screen.
+    </p>
+    <div class="hero-badges">
+      <span class="tag tag-live">● Data verified for v{site.gameVersion}</span>
+      <span class="tag">Updated {site.dataUpdated}</span>
+    </div>
+    <div class="search-wrap">
+      <input id="site-search" type="search" placeholder="Search creatures, weapons, items… e.g. ladybug" autocomplete="off" />
+      <div id="search-results" hidden></div>
+    </div>
+    <p class="muted search-hint">437 pages · tools pinned first · no digging through wiki tabs</p>
   </div>
 
+  <h2>Only here — wiki can't do this</h2>
   <div class="grid grid-3">
-    <GuideLink title="Weapons & Tools" desc="Every weapon with damage, stun, speed and charged attack numbers — ranked by tier." href="/weapons/" badge="Tier 1–4" />
-    <GuideLink title="Armor Sets" desc="Defense and resistance for all three pieces of every armor set, plus set bonuses." href="/armor/" />
-    <GuideLink title="Creatures" desc="Backyard bugs: health, weaknesses, resistances and attack damage — find the bug, bring the right element." href="/creatures/" />
-    <GuideLink title="Food & Smoothies" desc="Meals, smoothies and snacks with their effects and recipes." href="/consumables/" />
-    <GuideLink title="Trinkets" desc="Every trinket with its effect and where to find it." href="/trinkets/" />
-    <GuideLink title="Smoothie Planner" desc="Pick smoothies and snacks, see your total buffs before you blend." href="/calculator/" badge="Tool" />
+    <GuideLink title="Creature Weakness Cheat Sheet" desc="152 bugs grouped by damage element — check before every fight, win in half the hits." href="/rankings/" badge="Tool" />
+    <GuideLink title="Damage & Armor Rankings" desc="Every weapon and armor set ranked by real numbers. Best-in-slot at a glance." href="/rankings/" badge="Tool" />
+    <GuideLink title="Smoothie Planner" desc="Pick smoothies and snacks, see your total ingredient bill and buffs before you blend." href="/calculator/" badge="Tool" />
+  </div>
+
+  <h2>What changed</h2>
+  <div class="card updates-card">
+    {updates.slice(0, 5).map((u) => (
+      <p class="update-line"><span class="dot">●</span> <a href={u.href}>{u.text}</a> <span class="muted">— {u.date}</span></p>
+    ))}
+  </div>
+
+  <h2>Browse the database</h2>
+  <div class="grid grid-3">
+    <GuideLink title="Weapons & Tools" desc="Damage, stun, charged attack and durability for every weapon — ranked by tier." href="/weapons/" badge="145 pages" />
+    <GuideLink title="Creatures" desc="Health, weaknesses, resistances and attack damage for every backyard bug." href="/creatures/" badge="152 pages" />
+    <GuideLink title="Armor Sets" desc="Defense and resistance for all three pieces of every set, plus set bonuses." href="/armor/" badge="42 sets" />
+    <GuideLink title="Food & Smoothies" desc="Meals, smoothies and snacks with effects, recipes and ingredients." href="/consumables/" badge="53 items" />
+    <GuideLink title="Trinkets" desc="Every trinket with its effect and where to find it." href="/trinkets/" badge="50 items" />
+    <GuideLink title="About" desc="How GroundDB is built and how often the data is refreshed." href="/about/" />
   </div>
 
   <h2>Why GroundDB</h2>
@@ -37,3 +56,101 @@ import site from "../../site.config.json";
     something neither a wiki nor a video can do.
   </p>
 </Base>
+
+<style>
+  .hero { text-align: center; padding: 1rem 0 0.5rem; }
+  .hero-sub { max-width: 640px; margin: 0 auto 0.9rem; }
+  .hero-badges { display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; margin-bottom: 1.1rem; }
+  .tag-live { color: var(--good); border-color: var(--good); }
+  .search-wrap { max-width: 560px; margin: 0 auto; position: relative; }
+  #site-search { width: 100%; padding: 0.85rem 1.1rem; font-size: 1.05rem; border-radius: 12px; }
+  #site-search:focus { outline: 2px solid var(--accent); border-color: var(--accent); }
+  #search-results {
+    position: absolute; top: calc(100% + 4px); left: 0; right: 0; z-index: 20;
+    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    max-height: 340px; overflow-y: auto; text-align: left;
+  }
+  #search-results a {
+    display: flex; align-items: center; gap: 0.6rem;
+    padding: 0.55rem 0.85rem; color: inherit; border-bottom: 1px solid var(--border);
+  }
+  #search-results a:last-child { border-bottom: none; }
+  #search-results a:hover, #search-results a.active { background: var(--bg-soft); text-decoration: none; }
+  #search-results img { width: 26px; height: 26px; object-fit: contain; flex: none; }
+  #search-results .sk { margin-left: auto; color: var(--muted); font-size: 0.78rem; flex: none; }
+  #search-results .tool-hit { color: var(--accent); font-weight: 700; }
+  .search-hint { font-size: 0.82rem; margin: 0.5rem 0 0; }
+  .updates-card { padding: 0.9rem 1.1rem; }
+  .update-line { margin: 0.3rem 0; }
+  .dot { color: var(--good); }
+  @media (max-width: 640px) {
+    .hero { text-align: left; }
+    .hero-badges { justify-content: flex-start; }
+  }
+</style>
+
+<script>
+  type Entry = { t: string; u: string; k: string; i?: string };
+  type Index = { tools: Entry[]; items: Entry[] };
+
+  const box = document.getElementById("site-search") as HTMLInputElement;
+  const panel = document.getElementById("search-results") as HTMLDivElement;
+  let idx: Index | null = null;
+  let sel = -1;
+  let hits: Entry[] = [];
+
+  fetch("/search-index.json")
+    .then((r) => r.json())
+    .then((d: Index) => { idx = d; });
+
+  const esc = (s: string) => s.replace(/[&<>"]/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch] as string));
+
+  function render(q: string) {
+    sel = -1; hits = [];
+    if (!idx || !q.trim()) { panel.hidden = true; return; }
+    const nq = q.trim().toLowerCase();
+    const tools = idx.tools.filter((it) => it.t.toLowerCase().includes(nq));
+    const scored = idx.items
+      .map((it) => {
+        const t = it.t.toLowerCase();
+        const s = t.startsWith(nq) ? 0 : t.includes(nq) ? 1 : 9;
+        return { it, s };
+      })
+      .filter((x) => x.s < 9)
+      .sort((a, b) => a.s - b.s || a.it.t.length - b.it.t.length)
+      .slice(0, 9)
+      .map((x) => x.it);
+    hits = [...tools, ...scored];
+    if (hits.length === 0) {
+      panel.innerHTML = `<a><span class="muted">No match for "${esc(q)}"</span></a>`;
+      panel.hidden = false;
+      return;
+    }
+    panel.innerHTML = hits
+      .map((it, n) => {
+        const icon = it.i ? `<img src="${it.i}" alt="" loading="lazy" />` : "";
+        const kindCls = it.k === "Tool" ? " tool-hit" : "";
+        const badge = it.k === "Tool" ? " ⭐" : "";
+        return `<a href="${it.u}" data-n="${n}">${icon}<span class="${kindCls.trim()}">${esc(it.t)}${badge}</span><span class="sk">${esc(it.k)}</span></a>`;
+      })
+      .join("");
+    panel.hidden = false;
+  }
+
+  function move(dir: number) {
+    if (panel.hidden || hits.length === 0) return;
+    sel = (sel + dir + hits.length) % hits.length;
+    panel.querySelectorAll("a").forEach((a, n) => a.classList.toggle("active", n === sel));
+  }
+
+  box?.addEventListener("input", () => render(box.value));
+  box?.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowDown") { e.preventDefault(); move(1); }
+    else if (e.key === "ArrowUp") { e.preventDefault(); move(-1); }
+    else if (e.key === "Enter" && sel >= 0 && hits[sel]) { location.href = hits[sel].u; }
+    else if (e.key === "Escape") { panel.hidden = true; }
+  });
+  document.addEventListener("click", (e) => {
+    if (!(e.target as Node).closest(".search-wrap")) panel.hidden = true;
+  });
+</script>
