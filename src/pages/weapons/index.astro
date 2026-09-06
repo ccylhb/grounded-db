@@ -1,0 +1,49 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import weapons from "../../data/weapons.json";
+
+const num = (v: unknown): number => {
+  const n = parseFloat(String(v ?? "").split("/")[0]);
+  return Number.isFinite(n) ? n : 0;
+};
+
+const withDmg = weapons.filter((w) => num(w.damage) > 0);
+const groups = [...new Set(withDmg.map((w) => w.type || "Other"))].sort();
+const count = (g: string) => withDmg.filter((w) => (w.type || "Other") === g).length;
+---
+
+<Base
+  title="Grounded Weapons — Every Weapon & Tool with Damage, Stun & Speed"
+  description="Complete Grounded weapon database: damage, stun, charged attack, speed and durability for all tiers of weapons and tools. Sortable tables."
+>
+  <h1>Weapons &amp; Tools</h1>
+  <p class="muted">
+    {weapons.length} weapons and tools. Damage numbers are per hit at base level — charged values shown on each detail page.
+  </p>
+
+  <div class="grid grid-3" style="margin:1.25rem 0">
+    {groups.map((g) => (
+      <a class="card" href={`/weapons/type/${encodeURIComponent(g.toLowerCase().replace(/\s+/g, "-"))}/`} style="display:block">
+        <strong>{g}</strong>
+        <div class="muted">{count(g)} entries</div>
+      </a>
+    ))}
+  </div>
+
+  <h2>All weapons by damage</h2>
+  <DataTable
+    head={["Weapon", "Tier", "Type", "Damage", "Speed", "Stun"]}
+    rows={withDmg
+      .sort((a, b) => num(b.damage) - num(a.damage))
+      .map((w) => [
+        `<a href="/weapons/${w.slug}/">${w.title}</a>`,
+        w.tier || "—",
+        w.type || "—",
+        `<strong>${w.damage}</strong>`,
+        w.speed || "—",
+        w.stun || "—",
+      ])}
+    searchPlaceholder="Search weapons..."
+  />
+</Base>

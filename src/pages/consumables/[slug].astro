@@ -1,0 +1,41 @@
+---
+import Base from "../../layouts/Base.astro";
+
+export async function getStaticPaths() {
+  const consumables = (await import("../../data/consumables.json")).default;
+  return consumables.map((c) => ({ params: { slug: c.slug }, props: { c } }));
+}
+const { c } = Astro.props;
+const kind = (c._ib || "").replace("Infobox/", "").split("/").join("-");
+const ingredients = [c.ingredient1, c.ingredient2, c.ingredient3, c.ingredient4].filter(Boolean);
+const effects = [c.effect1, c.effect2, c.effect3].filter(Boolean);
+---
+
+<Base
+  title={`${c.title} — Grounded ${kind || "Consumable"} Recipe & Effect`}
+  description={`${c.title} effect, ingredients and recipe unlock in Grounded.`}
+>
+  <p style="margin:0"><a href="/consumables/">← All consumables</a></p>
+  <h1>{c.title}</h1>
+  <p>
+    {kind && <span class="tag">{kind}</span>}
+    {effects.map((e) => <span class="tag hot">{e}</span>)}
+  </p>
+
+  {c.summary && <p class="muted">{c.summary}</p>}
+
+  {(ingredients.length > 0 || c.urecipe) && (
+    <div class="card answer-card">
+      <div class="stat-row">
+        <div style="grid-column:span 2">
+          <div class="stat-num" style="font-size:1.4rem">
+            {ingredients.length > 0 ? ingredients.join(" + ") : c.urecipe || "—"}
+          </div>
+          <div class="stat-label">{ingredients.length > 0 ? "Recipe" : "How to get"}</div>
+        </div>
+      </div>
+    </div>
+  )}
+
+  {c.description && <p class="muted">{c.description}</p>}
+</Base>

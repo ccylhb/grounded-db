@@ -1,0 +1,82 @@
+---
+import Base from "../../layouts/Base.astro";
+
+export async function getStaticPaths() {
+  const creatures = (await import("../../data/creatures.json")).default;
+  return creatures.map((c) => ({ params: { slug: c.slug }, props: { c } }));
+}
+const { c } = Astro.props;
+
+const weaknesses = [c.eweakness, c.weakness1, c.weakness2, c.weakness3].filter(Boolean);
+const resistances = [c.eresistance1, c.eresistance2, c.eresistance3].filter(Boolean);
+const attacks = String(c.attack || "")
+  .split(/\n|\*/)
+  .map((s) => s.replace(/[*:]/g, "").trim())
+  .filter(Boolean)
+  .map((s) => {
+    const m = /^(.+?)[\s:]*(\d+)\s*$/.exec(s);
+    return m ? { name: m[1].replace(/:$/, "").trim(), dmg: m[2] } : null;
+  })
+  .filter(Boolean);
+const loot = String(c.loot || "")
+  .split(/\n/)
+  .map((s) => s.replace(/\*/g, "").replace(/\(\d+-\d+\)/, "").trim())
+  .filter((s) => s && !s.includes("NG") && !s.includes("LootBox") && !s.includes("Science"))
+  .slice(0, 8);
+---
+
+<Base
+  title={`${c.title} — Grounded Creature Weaknesses & Stats`}
+  description={`${c.title} weaknesses, resistances, defense and attack damage in Grounded. Kill it fast with the right damage type.`}
+>
+  <p style="margin:0"><a href="/creatures/">← All creatures</a></p>
+  <h1>{c.title}</h1>
+  <p>
+    {c.tier && <span class="tag">Tier {c.tier}</span>}
+    {c.respawn && <span class="tag">Respawns: {c.respawn}</span>}
+    {c.temperament && <span class="tag">{c.temperament}</span>}
+  </p>
+
+  {c.summary && <p class="muted">{c.summary}</p>}
+
+  <div class="card answer-card">
+    <div class="stat-row">
+      <div>
+        <div class="stat-num">{c.defense || "—"}</div>
+        <div class="stat-label">Defense</div>
+      </div>
+      <div>
+        <div class="stat-num" style="color:var(--good)">{weaknesses[0] || "—"}</div>
+        <div class="stat-label">Weakness{weaknesses[1] ? " (also " + weaknesses.slice(1).join(", ") + ")" : ""}</div>
+      </div>
+      <div>
+        <div class="stat-num" style="color:var(--bad)">{resistances[0] || "—"}</div>
+        <div class="stat-label">Resists{resistances[1] ? " (also " + resistances.slice(1).join(", ") + ")" : ""}</div>
+      </div>
+    </div>
+  </div>
+
+  {attacks.length > 0 && (
+    <section>
+      <h2>Attack damage</h2>
+      <table>
+        <thead><tr><th>Attack</th><th>Damage</th></tr></thead>
+        <tbody>
+          {attacks.map((a) => (
+            <tr><td>{a.name}</td><td><strong>{a.dmg}</strong></td></tr>
+          ))}
+        </tbody>
+      </table>
+      {c.damagetype && <p class="muted">Primary damage type: {c.damagetype}</p>}
+    </section>
+  )}
+
+  {loot.length > 0 && (
+    <section>
+      <h2>Loot</h2>
+      <p>{loot.join(" · ")}</p>
+    </section>
+  )}
+
+  {c.location && <p class="muted">Found in: {c.location}</p>}
+</Base>

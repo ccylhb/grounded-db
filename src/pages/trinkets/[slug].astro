@@ -1,0 +1,37 @@
+---
+import Base from "../../layouts/Base.astro";
+
+export async function getStaticPaths() {
+  const trinkets = (await import("../../data/trinkets.json")).default;
+  return trinkets.map((t) => ({ params: { slug: t.slug }, props: { t } }));
+}
+const { t } = Astro.props;
+---
+
+<Base
+  title={`${t.title} — Grounded Trinket Effect & Location`}
+  description={`${t.title} effect, tier and location in Grounded.`}
+>
+  <p style="margin:0"><a href="/trinkets/">← All trinkets</a></p>
+  <h1>{t.title}</h1>
+  <p>
+    {t.tier && <span class="tag">Tier {t.tier}</span>}
+    {t.effect && <span class="tag hot">{t.effect}</span>}
+  </p>
+
+  {t.summary && <p class="muted">{t.summary}</p>}
+
+  {t.effect && (
+    <div class="card answer-card">
+      <div class="stat-row">
+        <div>
+          <div class="stat-num" style="font-size:1.4rem">{t.effect}</div>
+          <div class="stat-label">Trinket effect</div>
+        </div>
+      </div>
+    </div>
+  )}
+
+  {t.location && <p><strong>Where to find:</strong> {t.location}</p>}
+  {t.description && <p class="muted">{t.description}</p>}
+</Base>

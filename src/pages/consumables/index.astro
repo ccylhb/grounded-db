@@ -1,0 +1,39 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import consumables from "../../data/consumables.json";
+
+const kind = (c) => (c._ib || "").replace("Infobox/", "").split("/").join("-");
+const kinds = [...new Set(consumables.map(kind).filter(Boolean))].sort();
+const ing = (c) =>
+  [c.ingredient1, c.ingredient2, c.ingredient3, c.ingredient4].filter(Boolean).join(" + ") || c.urecipe || "—";
+---
+
+<Base
+  title="Grounded Food & Smoothies — Effects, Ingredients & Recipes"
+  description="Every Grounded meal, smoothie and snack with its buff effects, ingredients and how to unlock the recipe."
+>
+  <h1>Food &amp; Smoothies</h1>
+  <p class="muted">{consumables.length} consumables.</p>
+
+  <div class="grid grid-3" style="margin:1.25rem 0">
+    {kinds.map((k) => (
+      <a class="card" href={`/consumables/group/${k.toLowerCase().replace(/\s+/g, "-")}/`} style="display:block">
+        <strong>{k}</strong>
+        <div class="muted">{consumables.filter((c) => kind(c) === k).length} entries</div>
+      </a>
+    ))}
+  </div>
+
+  <h2>All consumables</h2>
+  <DataTable
+    head={["Item", "Kind", "Effect", "Ingredients"]}
+    rows={consumables.map((c) => [
+      `<a href="/consumables/${c.slug}/">${c.title}</a>`,
+      kind(c) || "—",
+      c.effect1 || c.effect || "—",
+      ing(c),
+    ])}
+    searchPlaceholder="Search consumables..."
+  />
+</Base>

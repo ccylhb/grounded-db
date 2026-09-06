@@ -1,0 +1,45 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import creatures from "../../data/creatures.json";
+
+const num = (v: unknown): number => {
+  const n = parseFloat(String(v ?? ""));
+  return Number.isFinite(n) ? n : 0;
+};
+const withDef = creatures.filter((c) => num(c.defense) > 0);
+const bossy = creatures.filter((c) => c.title.includes("Boss") || ["Hedge Broodmother", "Wasp Queen", "Mantis", "Black Widow", "Director Schmector", "Assistant Manager", "Infected Broodmother"].some((b) => c.title.includes(b)));
+---
+
+<Base
+  title="Grounded Creatures — Health, Weaknesses & Attack Damage for Every Bug"
+  description="Every Grounded creature with defense, elemental weakness, resistances and attack damage. Find the bug's weakpoint before you fight."
+>
+  <h1>Creatures</h1>
+  <p class="muted">
+    {creatures.length} backyard bugs. Open any creature to see its weaknesses, resistances and per-attack damage numbers.
+  </p>
+
+  <div class="card" style="margin:1.25rem 0;border-left:4px solid var(--accent)">
+    <strong>Boss fights:</strong>{" "}
+    {bossy.slice(0, 6).map((b, i) => (
+      <>{i > 0 && " · "}<a href={`/creatures/${b.slug}/`}>{b.title}</a></>
+    ))}
+  </div>
+
+  <h2>Heaviest armor first</h2>
+  <p class="muted">Defense stat — how hard each bug is to chip through.</p>
+  <DataTable
+    head={["Creature", "Defense", "Weakness", "Resistance", "Damage type"]}
+    rows={[...withDef]
+      .sort((a, b) => num(b.defense) - num(a.defense))
+      .map((c) => [
+        `<a href="/creatures/${c.slug}/">${c.title}</a>`,
+        `<strong>${c.defense}</strong>`,
+        c.eweakness || c.weakness1 || "—",
+        c.eresistance1 || c.resist || "—",
+        c.damagetype || "—",
+      ])}
+    searchPlaceholder="Search creatures..."
+  />
+</Base>

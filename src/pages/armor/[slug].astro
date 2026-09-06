@@ -1,0 +1,47 @@
+---
+import Base from "../../layouts/Base.astro";
+
+export async function getStaticPaths() {
+  const armor = (await import("../../data/armor.json")).default;
+  return armor.map((a) => ({ params: { slug: a.slug }, props: { a } }));
+}
+const { a } = Astro.props;
+const totalDef = a.pieces.reduce((s, p) => s + p.defense, 0);
+const totalRes = a.pieces.reduce((s, p) => s + p.resist, 0);
+---
+
+<Base
+  title={`${a.title} — Grounded Armor Set Stats & Set Bonus`}
+  description={`${a.title} defense and resistance for each piece, piece effect and set bonus in Grounded.`}
+>
+  <p style="margin:0"><a href="/armor/">← All armor sets</a></p>
+  <h1>{a.title.replace(/ Armor$/, "")} Set</h1>
+  <p>
+    {a.tier && <span class="tag">Tier {a.tier}</span>}
+    {a.setBonus && <span class="tag hot">Set bonus: {a.setBonus}</span>}
+    {a.pieceEffect && <span class="tag">Piece effect: {a.pieceEffect}</span>}
+  </p>
+
+  {a.summary && <p class="muted">{a.summary}</p>}
+
+  {a.pieces.length > 0 && (
+    <div class="card answer-card">
+      <div class="stat-row">
+        {a.pieces.map((p) => (
+          <div>
+            <div class="stat-num">{p.defense}</div>
+            <div class="stat-label">{p.name} — {p.resist}% resist</div>
+          </div>
+        ))}
+        <div>
+          <div class="stat-num">{totalDef}</div>
+          <div class="stat-label">Total defense</div>
+        </div>
+      </div>
+    </div>
+  )}
+
+  {a.pieces.length === 0 && <p class="muted">Per-piece numbers for this set were not published on the wiki in a parseable table. Check back after the next data refresh.</p>}
+
+  {a.description && <p class="muted">{a.description}</p>}
+</Base>

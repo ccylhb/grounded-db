@@ -1,0 +1,114 @@
+---
+import Base from "../layouts/Base.astro";
+import weapons from "../data/weapons.json";
+import armor from "../data/armor.json";
+import creatures from "../data/creatures.json";
+
+const num = (v: unknown): number => {
+  const n = parseFloat(String(v ?? "").split("/")[0]);
+  return Number.isFinite(n) ? n : 0;
+};
+
+const isThrownOrBomb = (w) => ["Bomb", "Throwable", "Arrow", "Ammo"].includes(w.type || "");
+
+const topWeapons = [...weapons]
+  .filter((w) => num(w.damage) > 0 && !isThrownOrBomb(w))
+  .sort((a, b) => num(b.damage) - num(a.damage))
+  .slice(0, 15);
+
+const topThrown = [...weapons]
+  .filter((w) => num(w.damage) > 0 && isThrownOrBomb(w))
+  .sort((a, b) => num(b.damage) - num(a.damage))
+  .slice(0, 10);
+
+const withPieces = armor.filter((a) => a.pieces.length > 0);
+const totalDef = (a) => a.pieces.reduce((s, p) => s + p.defense, 0);
+const topArmor = [...withPieces].sort((a, b) => totalDef(b) - totalDef(a)).slice(0, 10);
+
+const weaknesses = new Map<string, string[]>();
+for (const c of creatures) {
+  const w = (c.eweakness || c.weakness1 || "").trim();
+  if (!w) continue;
+  if (!weaknesses.has(w)) weaknesses.set(w, []);
+  weaknesses.get(w)!.push(c.title);
+}
+const weakRows = [...weaknesses.entries()].sort((a, b) => b[1].length - a[1].length);
+---
+
+<Base
+  title="Grounded Rankings — Best Weapons, Armor & Creature Weakness Chart"
+  description="Answer-first Grounded rankings: highest damage weapons, strongest armor sets, and a creature weakness chart by damage type."
+>
+  <h1>Rankings</h1>
+  <p class="muted">The short answers, no digging.</p>
+
+  <h2 id="weapons">Best weapons by damage</h2>
+  <p class="muted">Melee and ranged hits, per swing. Throwables ranked separately below.</p>
+  <table>
+    <thead><tr><th>#</th><th>Weapon</th><th>Tier</th><th>Type</th><th>Damage</th><th>Charged</th></tr></thead>
+    <tbody>
+      {topWeapons.map((w, i) => (
+        <tr>
+          <td>{i + 1}</td>
+          <td><a href={`/weapons/${w.slug}/`}>{w.title}</a></td>
+          <td>{w.tier || "—"}</td>
+          <td>{w.type || "—"}</td>
+          <td><strong>{w.damage}</strong></td>
+          <td>{w.damagecharge || "—"}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  <p><a href="/weapons/">See all weapons →</a></p>
+
+  <h2 id="thrown">Best throwables & bombs</h2>
+  <table>
+    <thead><tr><th>#</th><th>Item</th><th>Tier</th><th>Damage</th></tr></thead>
+    <tbody>
+      {topThrown.map((w, i) => (
+        <tr>
+          <td>{i + 1}</td>
+          <td><a href={`/weapons/${w.slug}/`}>{w.title}</a></td>
+          <td>{w.tier || "—"}</td>
+          <td><strong>{w.damage}</strong></td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2 id="armor">Strongest armor sets</h2>
+  <p class="muted">Combined defense of all three pieces.</p>
+  <table>
+    <thead><tr><th>#</th><th>Set</th><th>Tier</th><th>Total defense</th><th>Set bonus</th></tr></thead>
+    <tbody>
+      {topArmor.map((a, i) => (
+        <tr>
+          <td>{i + 1}</td>
+          <td><a href={`/armor/${a.slug}/`}>{a.title.replace(/ Armor$/, "")}</a></td>
+          <td>{a.tier || "—"}</td>
+          <td><strong>{totalDef(a)}</strong></td>
+          <td>{a.setBonus || "—"}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2 id="weakness">Creature weakness chart</h2>
+  <p class="muted">Which damage type each backyard bug is weak to — pick your weapon before the fight.</p>
+  <table>
+    <thead><tr><th>Weak to</th><th>Bugs</th></tr></thead>
+    <tbody>
+      {weakRows.map(([w, bugs]) => (
+        <tr>
+          <td><strong>{w}</strong></td>
+          <td>
+            {bugs.slice(0, 8).map((b, i) => (
+              <>{i > 0 && " · "}<a href={`/creatures/${b.replace(/ /g, "_").replace(/'/g, "").replace(/!/g, "")}/`}>{b}</a></>
+            ))}
+            {bugs.length > 8 && <span class="muted"> +{bugs.length - 8} more</span>}
+          </td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</Base>

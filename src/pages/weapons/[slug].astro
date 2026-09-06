@@ -1,0 +1,71 @@
+---
+import Base from "../../layouts/Base.astro";
+
+export async function getStaticPaths() {
+  const weapons = (await import("../../data/weapons.json")).default;
+  return weapons.map((w) => ({ params: { slug: w.slug }, props: { w } }));
+}
+const { w } = Astro.props;
+const dmgParts = String(w.damage || "").split("/").filter(Boolean);
+---
+
+<Base
+  title={`${w.title} — Grounded Weapon Stats`}
+  description={`${w.title} damage, stun, charged attack, speed and durability in Grounded. Full weapon stats and upgrade perks.`}
+>
+  <p style="margin:0"><a href="/weapons/">← All weapons</a></p>
+  <h1>{w.title}</h1>
+  <p>
+    {w.tier && <span class="tag">Tier {w.tier}</span>}
+    {w.type && <span class="tag">{w.type}</span>}
+    {w.subcat && <span class="tag">{w.subcat}</span>}
+    {w.augmenttype && <span class="tag hot">{w.augmenttype} damage</span>}
+  </p>
+
+  {w.summary && <p class="muted">{w.summary}</p>}
+
+  {(dmgParts.length > 0 || w.damagecharge) && (
+    <div class="card answer-card">
+      <div class="stat-row">
+        <div>
+          <div class="stat-num">{w.damage || "—"}</div>
+          <div class="stat-label">Damage</div>
+        </div>
+        <div>
+          <div class="stat-num">{w.damagecharge || "—"}</div>
+          <div class="stat-label">Charged attack</div>
+        </div>
+        <div>
+          <div class="stat-num">{w.stun || "—"}</div>
+          <div class="stat-label">Stun</div>
+        </div>
+        <div>
+          <div class="stat-num">{w.stuncharge || "—"}</div>
+          <div class="stat-label">Charged stun</div>
+        </div>
+      </div>
+    </div>
+  )}
+
+  <h2>Full stats</h2>
+  <table>
+    <tbody>
+      {[
+        ["Speed", w.speed],
+        ["Charged speed", w.speedcharge],
+        ["Throw damage", w.damagethrow],
+        ["Throw stun", w.stunthrow],
+        ["Stamina cost", w.stam],
+        ["Durability", w.durability],
+        ["Damage type", w.tooltype || w.augmenttype],
+        ["Level 6 perk", w.perklvl],
+        ["Repair cost", w.repair],
+        ["How to get", w.urecipe],
+      ].filter(([, v]) => v).map(([k, v]) => (
+        <tr><th style="width:40%">{k}</th><td>{v}</td></tr>
+      ))}
+    </tbody>
+  </table>
+
+  {w.description && <p class="muted">{w.description}</p>}
+</Base>

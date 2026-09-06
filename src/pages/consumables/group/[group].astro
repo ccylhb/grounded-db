@@ -1,0 +1,36 @@
+---
+import Base from "../../../layouts/Base.astro";
+import DataTable from "../../../components/DataTable.astro";
+
+export async function getStaticPaths() {
+  const consumables = (await import("../../../data/consumables.json")).default;
+  const kinds = [...new Set(consumables.map((c) => (c._ib || "").replace("Infobox/", "").split("/").join("-")).filter(Boolean))].sort();
+  return kinds.map((k) => ({
+    params: { group: k.toLowerCase().replace(/\s+/g, "-") },
+    props: { k, items: consumables.filter((c) => (c._ib || "").replace("Infobox/", "").split("/").join("-") === k) },
+  }));
+}
+const { k, items } = Astro.props;
+const display = k.charAt(0).toUpperCase() + k.slice(1).replace(/-/g, " ");
+const ing = (c) =>
+  [c.ingredient1, c.ingredient2, c.ingredient3, c.ingredient4].filter(Boolean).join(" + ") || c.urecipe || "—";
+---
+
+<Base
+  title={`${display} in Grounded — Full List with Effects & Recipes`}
+  description={`All ${display.toLowerCase()} in Grounded with buff effects and ingredients. Sortable table.`}
+>
+  <p style="margin:0"><a href="/consumables/">← All consumables</a></p>
+  <h1>{display}</h1>
+  <p class="muted">{items.length} entries.</p>
+
+  <DataTable
+    head={["Item", "Effect", "Ingredients"]}
+    rows={items.map((c) => [
+      `<a href="/consumables/${c.slug}/">${c.title}</a>`,
+      c.effect1 || c.effect || "—",
+      ing(c),
+    ])}
+    searchPlaceholder={"Search " + display.toLowerCase() + "..."}
+  />
+</Base>

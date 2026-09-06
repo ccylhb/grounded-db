@@ -1,0 +1,39 @@
+---
+import Base from "../layouts/Base.astro";
+import GuideLink from "../components/GuideLink.astro";
+import site from "../../site.config.json";
+---
+
+<Base title={`${site.siteName} - ${site.tagline}`} description={site.description}>
+  <h1>{site.siteName}</h1>
+  <p class="muted">
+    Grounded database — every weapon stat, creature weakness and smoothie recipe for the
+    backyard. Built to answer one question fast: what should you craft, drink and fight next?
+  </p>
+
+  <div class="card" style="margin:1.25rem 0;border-left:4px solid var(--accent)">
+    <strong>Start here:</strong>
+    <a href="/rankings/">best weapons by damage</a> ·
+    <a href="/rankings/">creature weaknesses</a> ·
+    <a href="/rankings/">strongest armor sets</a> ·
+    <a href="/calculator/">smoothie planner</a>
+  </div>
+
+  <div class="grid grid-3">
+    <GuideLink title="Weapons & Tools" desc="Every weapon with damage, stun, speed and charged attack numbers — ranked by tier." href="/weapons/" badge="Tier 1–4" />
+    <GuideLink title="Armor Sets" desc="Defense and resistance for all three pieces of every armor set, plus set bonuses." href="/armor/" />
+    <GuideLink title="Creatures" desc="Backyard bugs: health, weaknesses, resistances and attack damage — find the bug, bring the right element." href="/creatures/" />
+    <GuideLink title="Food & Smoothies" desc="Meals, smoothies and snacks with their effects and recipes." href="/consumables/" />
+    <GuideLink title="Trinkets" desc="Every trinket with its effect and where to find it." href="/trinkets/" />
+    <GuideLink title="Smoothie Planner" desc="Pick smoothies and snacks, see your total buffs before you blend." href="/calculator/" badge="Tool" />
+  </div>
+
+  <h2>Why GroundDB</h2>
+  <p>
+    Wiki pages bury the answer under infoboxes and lore. Video guides make you watch
+    8 minutes for one number. Here every page leads with the stat you came for —
+    weapon damage up front, creature weaknesses in one table, armor set totals ranked —
+    and the <a href="/calculator/">smoothie planner</a> totals your buffs across items,
+    something neither a wiki nor a video can do.
+  </p>
+</Base>

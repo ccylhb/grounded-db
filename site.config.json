@@ -1,0 +1,60 @@
+{
+  "siteName": "GroundDB",
+  "siteUrl": "https://grounded-db.pages.dev",
+  "tagline": "Grounded database — weapons, armor, creatures, smoothies & trinkets with rankings and a gear planner",
+  "description": "Grounded database — weapons, armor, creatures, smoothies & trinkets with rankings and a gear planner — complete searchable database with guides.",
+  "adsenseClientId": "ca-pub-3245910354455258",
+  "adsensePublisherId": "pub-3245910354455258",
+  "theme": {
+    "bg": "#14171f",
+    "bgSoft": "#1b1f2a",
+    "card": "#222736",
+    "border": "#2e3548",
+    "text": "#e6e9f0",
+    "muted": "#9aa3b5",
+    "accent": "#86c332",
+    "accent2": "#4db8e1",
+    "good": "#7bd88f",
+    "bad": "#f26d6d"
+  },
+  "favicon": "🐜",
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Rankings",
+      "href": "/rankings/"
+    },
+    {
+      "label": "Weapons",
+      "href": "/weapons/"
+    },
+    {
+      "label": "Armor",
+      "href": "/armor/"
+    },
+    {
+      "label": "Creatures",
+      "href": "/creatures/"
+    },
+    {
+      "label": "Food & Smoothies",
+      "href": "/consumables/"
+    },
+    {
+      "label": "Trinkets",
+      "href": "/trinkets/"
+    },
+    {
+      "label": "Smoothie Planner",
+      "href": "/calculator/"
+    },
+    {
+      "label": "About",
+      "href": "/about/"
+    }
+  ],
+  "footerNote": "Fan-made database. Not affiliated with the game publisher."
+}

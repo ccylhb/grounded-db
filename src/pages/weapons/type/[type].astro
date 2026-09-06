@@ -1,0 +1,46 @@
+---
+import Base from "../../../layouts/Base.astro";
+import DataTable from "../../../components/DataTable.astro";
+
+export async function getStaticPaths() {
+  const weapons = (await import("../../../data/weapons.json")).default;
+  const num = (v) => {
+    const n = parseFloat(String(v ?? "").split("/")[0]);
+    return Number.isFinite(n) ? n : 0;
+  };
+  const groups = [...new Set(weapons.filter((w) => num(w.damage) > 0).map((w) => w.type || "Other"))].sort();
+  return groups.map((g) => ({
+    params: { type: g.toLowerCase().replace(/\s+/g, "-") },
+    props: { g, items: weapons.filter((w) => (w.type || "Other") === g) },
+  }));
+}
+const { g, items } = Astro.props;
+const display = g.charAt(0).toUpperCase() + g.slice(1).replace(/-/g, " ");
+const num = (v) => {
+  const n = parseFloat(String(v ?? "").split("/")[0]);
+  return Number.isFinite(n) ? n : 0;
+};
+---
+
+<Base
+  title={`${display} Weapons in Grounded — Full List & Stats`}
+  description={`All ${display.toLowerCase()} weapons and tools in Grounded with damage, stun and speed. Sortable table with links to full stats.`}
+>
+  <p style="margin:0"><a href="/weapons/">← All weapons</a></p>
+  <h1>{display}</h1>
+  <p class="muted">{items.length} entries.</p>
+
+  <DataTable
+    head={["Weapon", "Tier", "Damage", "Speed", "Stun"]}
+    rows={items
+      .sort((a, b) => num(b.damage) - num(a.damage))
+      .map((w) => [
+        `<a href="/weapons/${w.slug}/">${w.title}</a>`,
+        w.tier || "—",
+        `<strong>${w.damage || "—"}</strong>`,
+        w.speed || "—",
+        w.stun || "—",
+      ])}
+    searchPlaceholder={"Search " + display.toLowerCase() + "..."}
+  />
+</Base>

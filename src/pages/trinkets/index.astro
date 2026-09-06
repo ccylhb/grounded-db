@@ -1,0 +1,30 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import trinkets from "../../data/trinkets.json";
+
+const num = (v: unknown): number => {
+  const n = parseFloat(String(v ?? ""));
+  return Number.isFinite(n) ? n : 0;
+};
+const byTier = [...trinkets].sort((a, b) => num(b.tier) - num(a.tier));
+---
+
+<Base
+  title="Grounded Trinkets — Every Trinket Effect & Location"
+  description="All Grounded trinkets with their effect, tier and where to find them. Complete sortable list."
+>
+  <h1>Trinkets</h1>
+  <p class="muted">{trinkets.length} trinkets, sorted by tier.</p>
+
+  <DataTable
+    head={["Trinket", "Tier", "Effect", "Location"]}
+    rows={byTier.map((t) => [
+      `<a href="/trinkets/${t.slug}/">${t.title}</a>`,
+      t.tier || "—",
+      t.effect || "—",
+      t.location || "—",
+    ])}
+    searchPlaceholder="Search trinkets..."
+  />
+</Base>

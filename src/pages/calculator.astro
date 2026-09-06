@@ -1,0 +1,116 @@
+---
+import Base from "../layouts/Base.astro";
+import consumables from "../data/consumables.json";
+
+const items = consumables
+  .filter((c) => c.ingredient1)
+  .map((c) => ({
+    name: c.title,
+    slug: c.slug,
+    kind: (c._ib || "").replace("Infobox/", "") || "Consumable",
+    ings: [c.ingredient1, c.ingredient2, c.ingredient3, c.ingredient4]
+      .filter(Boolean)
+      .map((n) => ({ name: n, qty: 1 })),
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+---
+
+<Base
+  title="Grounded Smoothie Planner — Total Ingredients for Your Batch"
+  description="Pick the smoothies and meals you want to blend and get the combined ingredient shopping list. Free Grounded tool."
+>
+  <h1>Smoothie Planner</h1>
+  <p class="muted">
+    Tick what you want to make and set quantities — the ingredient list totals automatically, so you know exactly what to gather before hitting the smoothie station.
+  </p>
+
+  <div class="planner">
+    <div class="pick">
+      <input id="q" type="text" placeholder="Filter recipes..." />
+      <div id="list" class="list">
+        {items.map((it) => (
+          <label class="row">
+            <input type="checkbox" data-name={it.name} data-ings={JSON.stringify(it.ings)} />
+            <span class="n">{it.name}</span>
+            <select class="qty" data-name={it.name} data-ings={JSON.stringify(it.ings)} aria-label={`Quantity for ${it.name}`}>
+              {[1, 2, 3, 4, 5, 8, 10].map((n) => <option value={n}>{n}×</option>)}
+            </select>
+            <span class="k">{it.kind}</span>
+          </label>
+        ))}
+      </div>
+    </div>
+
+    <aside class="totals">
+      <h2>Ingredients needed</h2>
+      <div id="mats"><p class="muted small">Tick items to see the combined ingredient list.</p></div>
+      <button id="clear" type="button">Clear all</button>
+    </aside>
+  </div>
+
+  <script>
+    const boxes = Array.from(document.querySelectorAll('#list input[type="checkbox"]'));
+    const qtys = Array.from(document.querySelectorAll('#list select.qty'));
+    const q = document.getElementById("q") as HTMLInputElement;
+    const matsEl = document.getElementById("mats")!;
+
+    function collect() {
+      const totals = new Map<string, number>();
+      const active = new Set<string>();
+      boxes.forEach((b) => {
+        if (!(b as HTMLInputElement).checked) return;
+        active.add(b.getAttribute("data-name")!);
+      });
+      boxes.forEach((b) => {
+        const name = b.getAttribute("data-name")!;
+        if (!active.has(name)) return;
+        const sel = qtys.find((s) => s.getAttribute("data-name") === name) as HTMLSelectElement | undefined;
+        const mult = sel ? parseInt(sel.value) : 1;
+        const ings = JSON.parse(b.getAttribute("data-ings") || "[]") as { name: string; qty: number }[];
+        ings.forEach((ing) => totals.set(ing.name, (totals.get(ing.name) || 0) + ing.qty * mult));
+      });
+      return totals;
+    }
+
+    function update() {
+      const totals = collect();
+      if (totals.size === 0) {
+        matsEl.innerHTML = '<p class="muted small">Tick items to see the combined ingredient list.</p>';
+        return;
+      }
+      matsEl.innerHTML = [...totals.entries()]
+        .sort((a, b) => b[1] - a[1])
+        .map(([name, qty]) => `<div class="t"><span>${name}</span><strong>${qty}</strong></div>`)
+        .join("");
+    }
+
+    boxes.forEach((b) => b.addEventListener("change", update));
+    qtys.forEach((s) => s.addEventListener("change", update));
+    q?.addEventListener("input", () => {
+      const s = q.value.toLowerCase();
+      document.querySelectorAll("#list .row").forEach((r) => {
+        const n = (r.querySelector(".n") as HTMLElement).textContent!.toLowerCase();
+        (r as HTMLElement).style.display = n.includes(s) ? "" : "none";
+      });
+    });
+    document.getElementById("clear")?.addEventListener("click", () => {
+      boxes.forEach((b) => ((b as HTMLInputElement).checked = false));
+      update();
+    });
+  </script>
+
+  <style>
+    .planner { display: grid; grid-template-columns: 1.6fr 1fr; gap: 1rem; align-items: start; }
+    .list { max-height: 520px; overflow-y: auto; border: 1px solid var(--border); border-radius: 8px; background: var(--card); }
+    .row { display: flex; gap: 0.6rem; align-items: center; padding: 0.4rem 0.7rem; border-bottom: 1px solid var(--border); cursor: pointer; }
+    .row:last-child { border-bottom: none; }
+    .row:hover { background: var(--bg-soft); }
+    .row .n { flex: 1; font-weight: 600; }
+    .row .k { color: var(--muted); font-size: 0.78rem; }
+    .row select { padding: 0.15rem 0.4rem; font-size: 0.82rem; }
+    .totals { position: sticky; top: 4.5rem; }
+    .t { display: flex; justify-content: space-between; border-left: 3px solid var(--accent-2); padding-left: 0.75rem; margin: 0.45rem 0; }
+    .small { font-size: 0.82rem; }
+    @media (max-width: 800px) { .planner { grid-template-columns: 1fr; } }
+  </style>
+</Base>

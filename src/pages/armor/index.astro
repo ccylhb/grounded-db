@@ -1,0 +1,31 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import armor from "../../data/armor.json";
+
+const withPieces = armor.filter((a) => a.pieces.length > 0);
+const totalDef = (a) => a.pieces.reduce((s, p) => s + p.defense, 0);
+const sorted = [...withPieces].sort((a, b) => totalDef(b) - totalDef(a));
+---
+
+<Base
+  title="Grounded Armor Sets — Defense, Resistance & Set Bonuses for All Sets"
+  description="Every Grounded armor set: per-piece defense and resistance, piece effects and set bonuses, ranked by total defense."
+>
+  <h1>Armor Sets</h1>
+  <p class="muted">
+    {armor.length} armor sets. Ranked by combined defense of all three pieces — open a set for per-piece numbers and set bonus.
+  </p>
+
+  <DataTable
+    head={["Set", "Tier", "Total defense", "Resistance", "Set bonus"]}
+    rows={sorted.map((a) => [
+      `<a href="/armor/${a.slug}/">${a.title.replace(/ Armor$/, "")}</a>`,
+      a.tier || "—",
+      `<strong>${totalDef(a)}</strong>`,
+      a.pieces[0] ? `${a.pieces[0].resist}%` : "—",
+      a.setBonus || "—",
+    ])}
+    searchPlaceholder="Search armor sets..."
+  />
+</Base>
