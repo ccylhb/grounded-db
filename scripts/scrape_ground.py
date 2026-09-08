@@ -117,12 +117,17 @@ def first_sentence(wikitext: str) -> str:
     return clean(parts[0][:220]) if parts else ""
 
 
+HUB_PATTERNS = re.compile(r"\b(Unimplemented|Removed_Features|Draft|Armor_\(Grounded)\b")
+
+
 def scrape_family(cat: str, family: str, game2_ok: bool = False) -> list[dict]:
     titles = category_members(cat)
     print(f"{cat}: {len(titles)} members")
     out = []
     for i, t in enumerate(titles):
         if t.startswith("Category:") or t.startswith("List of") or "(Grounded 2)" in t:
+            continue
+        if "/" in t or HUB_PATTERNS.search(t):
             continue
         w = get_wikitext(t)
         time.sleep(DELAY)
@@ -151,6 +156,8 @@ def scrape_armor_sets() -> list[dict]:
     out = []
     for i, t in enumerate(titles):
         if t.startswith("Category:"):
+            continue
+        if "/" in t or HUB_PATTERNS.search(t):
             continue
         w = get_wikitext(t)
         time.sleep(DELAY)
