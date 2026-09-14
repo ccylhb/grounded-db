@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-09-14",
+    "text": "Creature stat sync: O.G.R.R. Ladybug health 1400 to 2200, Striped Bark Scorpion now Tier 4",
+    "href": "/creatures/"
+  },
+  {
     "date": "2026-09-09",
     "text": "Synced Grounded creature data — added Striped Bark Scorpion, removed Mini-Mant redirect",
     "href": "/creatures/"
