@@ -17,7 +17,7 @@ CACHE.mkdir(exist_ok=True)
 DELAY = 0.7  # seconds between API calls
 
 
-def api(params: dict, retries: int = 3) -> dict:
+def api(params: dict, retries: int = 6) -> dict:
     params = {**params, "format": "json"}
     url = WIKI + "?" + urllib.parse.urlencode(params)
     for attempt in range(retries):
@@ -27,7 +27,7 @@ def api(params: dict, retries: int = 3) -> dict:
                 return json.load(r)
         except Exception as e:
             print(f"  retry {attempt + 1} for {params.get('page', params.get('cmtitle', '?'))}: {e}")
-            time.sleep(2 * (attempt + 1))
+            time.sleep(min(60, 5 * (2 ** attempt)))
     return {}
 
 
@@ -49,8 +49,9 @@ def category_members(cat: str) -> list[str]:
 
 def get_wikitext(page: str) -> str | None:
     d = api({"action": "parse", "page": page, "prop": "wikitext"})
-    if "error" in d:
-        print(f"  MISS {page}: {d['error'].get('info', '')[:60]}")
+    if "parse" not in d:
+        err = d.get("error", {}).get("info", "no parse in response")[:60]
+        print(f"  MISS {page}: {err}")
         return None
     return d["parse"]["wikitext"]["*"]
 
@@ -185,6 +186,9 @@ def scrape_armor_sets() -> list[dict]:
         ms = re.search(r"set bonus, \[\[Status Effects\]\[([^|\]]*)", w)
         if ms:
             rec["setBonus"] = ms.group(1).strip()
+        # 跳过 wiki 拆分出的导航/概述页（无实际套装数据）
+        if t.startswith("Armor ("):
+            continue
         out.append(rec)
         if (i + 1) % 20 == 0:
             print(f"  {i + 1}/{len(titles)}")
