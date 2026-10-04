@@ -18,6 +18,7 @@ export const GET: APIRoute = () => {
     { t: "Weapon Damage Rankings", u: "/rankings/", k: "Tool" },
     { t: "Armor Sets Ranked", u: "/rankings/", k: "Tool" },
     { t: "Smoothie Planner", u: "/calculator/", k: "Tool" },
+    { t: "Loot Table — where to farm every material", u: "/loot/", k: "Tool" },
   ];
   const items: Entry[] = [
     ...weapons.map((w) => ({ t: w.title, u: `/weapons/${w.slug}/`, k: w.type || "Weapon", i: w.icon || "" })),

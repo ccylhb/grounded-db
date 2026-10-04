@@ -2,10 +2,11 @@
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import consumables from "../../data/consumables.json";
+import { cl, desc, stats, best } from "../../lib/seo";
 
 export async function getStaticPaths() {
   const consumables = (await import("../../data/consumables.json")).default;
-  return consumables.map((c) => ({ params: { slug: c.slug }, props: { c } }));
+  return consumables.filter((c) => !/\(Grounded\)$/.test(String(c.title))).map((c) => ({ params: { slug: c.slug }, props: { c } }));
 }
 const { c } = Astro.props;
 const kind = (c._ib || "").replace("Infobox/", "").split("/").join("-");
@@ -14,11 +15,26 @@ const effects = [c.effect1, c.effect2, c.effect3].filter(Boolean);
 const sameKind = c._ib
   ? consumables.filter((x) => x._ib === c._ib && x.slug !== c.slug).slice(0, 3)
   : [];
+
+// SEO: lead with the numbers, then the scraped summary sentence.
+const allEffects = [c.effect1, c.effect2, c.effect3, c.effect4].map((e) => cl(e)).filter(Boolean);
+const allIng = [c.ingredient1, c.ingredient2, c.ingredient3, c.ingredient4].map((i) => cl(i)).filter(Boolean);
+const description = desc(
+  `${c.title} —`,
+  stats(
+    cl(c.food) && `restores ${cl(c.food)} hunger`,
+    cl(c.tier) && `Tier ${cl(c.tier)} ${cl(c.subcat) || "item"}`,
+    allEffects.length > 0 && `effect: ${allEffects.join(", ")}`,
+    allIng.length > 0 && `recipe: ${allIng.join(" + ")}`,
+    allIng.length === 0 && cl(c.urecipe) && `unlocked by ${cl(c.urecipe)}`
+  ),
+  best(c.summary, `Grounded ${kind || "consumable"}: effect, recipe and how to unlock it.`)
+);
 ---
 
 <Base
   title={`${c.title} — Grounded ${kind || "Consumable"} Recipe & Effect`}
-  description={`${c.title} effect, ingredients and recipe unlock in Grounded.`}
+  description={description}
 >
   <p style="margin:0"><a href="/consumables/">← All consumables</a></p>
   <h1 class="icon-h1">
@@ -51,6 +67,7 @@ const sameKind = c._ib
     heading="Next steps"
     links={[
       { href: "/calculator/", title: "Smoothie planner", sub: "Batch your ingredients & buffs", tool: true },
+      { href: "/loot/", title: "Loot table", sub: "Where to farm these ingredients", tool: true },
       ...sameKind.map((x) => ({ href: `/consumables/${x.slug}/`, title: x.title, sub: x.effect1 || "Consumable", icon: x.icon })),
     ]}
   />

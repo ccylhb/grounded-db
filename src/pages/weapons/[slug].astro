@@ -2,21 +2,36 @@
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import weapons from "../../data/weapons.json";
+import { cl, desc, stats, best } from "../../lib/seo";
 
 export async function getStaticPaths() {
   const weapons = (await import("../../data/weapons.json")).default;
-  return weapons.map((w) => ({ params: { slug: w.slug }, props: { w } }));
+  return weapons.filter((w) => !/\(Grounded\)$/.test(String(w.title))).map((w) => ({ params: { slug: w.slug }, props: { w } }));
 }
 const { w } = Astro.props;
 const dmgParts = String(w.damage || "").split("/").filter(Boolean);
 const sameType = w.type
   ? weapons.filter((x) => x.type === w.type && x.slug !== w.slug).slice(0, 3)
   : [];
+
+// SEO: damage / stun numbers first, then the scraped summary sentence.
+const description = desc(
+  `${w.title} —`,
+  stats(
+    cl(w.tier) && `Tier ${cl(w.tier)}`,
+    cl(w.type || w.subcat) && cl(w.type || w.subcat),
+    cl(w.damage) && `damage ${cl(w.damage)}`,
+    cl(w.damagecharge) && `charged attack ${cl(w.damagecharge)}`,
+    cl(w.stun) && `stun ${cl(w.stun)}`,
+    cl(w.durability) && `durability ${cl(w.durability)}`
+  ),
+  best(w.summary, `Grounded weapon: damage, stun, speed and durability.`)
+);
 ---
 
 <Base
   title={`${w.title} — Grounded Weapon Stats`}
-  description={`${w.title} damage, stun, charged attack, speed and durability in Grounded. Full weapon stats and upgrade perks.`}
+  description={description}
 >
   <p style="margin:0"><a href="/weapons/">← All weapons</a></p>
   <h1 class="icon-h1">
@@ -81,6 +96,7 @@ const sameType = w.type
     heading="Next steps"
     links={[
       { href: "/rankings/", title: "Weapon damage rankings", sub: "Where this weapon lands", tool: true },
+      { href: "/loot/", title: "Loot table", sub: "Where the crafting materials drop", tool: true },
       ...(w.tooltype ? [{ href: "/rankings/", title: "Creature weakness cheat sheet", sub: `Find bugs weak to ${w.tooltype}`, tool: true }] : []),
       ...sameType.map((x) => ({ href: `/weapons/${x.slug}/`, title: x.title, sub: `${x.type} · ${x.damage || "?"} dmg`, icon: x.icon })),
     ]}

@@ -2,7 +2,7 @@
  {
   "title": "'Merica Rounds",
   "slug": "Merica_Rounds",
-  "summary": "are a Tier 3 ammo type used by the Acorn Turret. It deals decent damage while creating a festive explosion. They deal Burning damage.",
+  "summary": "Merica Rounds are a Tier 3 ammo type used by the Acorn Turret. It deals decent damage while creating a festive explosion. They deal Burning damage.",
   "image": "'Merica Rounds.png",
   "description": "Force your foes to celebrate independence from their mortal coils.",
   "urecipe": "N/A",
@@ -12,13 +12,12 @@
   "subcat": "Ranged",
   "tier": "3",
   "reload": "2 Sec",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Merica_Rounds.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Acid Edge",
   "slug": "Acid_Edge",
-  "summary": "is a Tier 3, two-handed Axe.",
+  "summary": "The Acid Edge is a Tier 3, two-handed Axe.",
   "description": "A shockingly deadly axe that's larger than necessary, packing the jolting power of Wormhole sour candies.",
   "type": "Axe",
   "durability": "500",
@@ -38,20 +37,18 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Fury",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Acid_Edge.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Acid Ruin",
   "slug": "Acid_Ruin",
-  "summary": "is a Tier 3 Staff in Grounded 2 crafted from various Tier 3 Resources.",
-  "_ib": "",
-  "icon": "/icons/Acid_Ruin.png"
+  "summary": "The Acid Ruin is a Tier 3 Staff in Grounded 2 crafted from various Tier 3 Resources.",
+  "_ib": ""
  },
  {
   "title": "Acorn Shovel",
   "slug": "Acorn_Shovel",
-  "summary": "is a Tier 1 Shovel used to harvest Clay, Sunken Bones, and Muddy Scales as well as digging up submerged Grubs, Larvae, Ladybird Larvae, and Antlions.",
+  "summary": "The Acorn Shovel is a Tier 1 Shovel used to harvest Clay, Sunken Bones, and Muddy Scales as well as digging up submerged Grubs, Larvae, Ladybird Larvae, and Antlions.",
   "tooltype": "Digging",
   "subcat": "Digging",
   "tier": "1",
@@ -68,13 +65,12 @@
   "damagethrow": "10",
   "stunthrow": "10",
   "durability": "300",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Acorn_Shovel.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Ant Queen Repair Tool",
   "slug": "Ant_Queen_Repair_Tool",
-  "summary": "is a stronger repair tool made of Black Ant Queen Pheromones from the Black Ant Queen.",
+  "summary": "The Ant Queen Repair Tool is a stronger repair tool made of Black Ant Queen Pheromones from the Black Ant Queen.",
   "description": "An exceptional tool capable of repairing buildings in a radius around the player.",
   "subcat": "Repair",
   "urecipe": "Analyze Black Ant Queen Pheromone",
@@ -85,13 +81,12 @@
   "stunthrow": "10",
   "repairdamage": "65",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Ant_Queen_Repair_Tool.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Ant Queen Scepter",
   "slug": "Ant_Queen_Scepter",
-  "summary": "is a Tier 2, one-handed Hammer, although it cannot destroy Resource Nodes that requires busting damage types.",
+  "summary": "The Ant Queen Scepter is a Tier 2, one-handed Hammer, although it cannot destroy Resource Nodes that requires busting damage types.",
   "description": "A quick attacking sign of royalty, perfect for summoning a horde to your side.",
   "tier": "2",
   "type": "Hammer",
@@ -110,13 +105,12 @@
   "tooltype": "Generic",
   "damagethrow": "5",
   "stunthrow": "0",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Ant_Queen_Scepter.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Ant Queen Staff",
   "slug": "Ant_Queen_Staff",
-  "summary": "is a Tier 3, two-handed Staff made of Fire Ant Queen Pheromones from the Fire Ant Queen.",
+  "summary": "The Ant Queen Staff is a Tier 3, two-handed Staff made of Fire Ant Queen Pheromones from the Fire Ant Queen.",
   "description": "A grotesque staff made from fire ant parts. Fires acidic goo.",
   "subcat": "Ranged",
   "type": "Staff",
@@ -131,13 +125,12 @@
   "stun": "5",
   "tooltype": "Acid",
   "stam": "15",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Ant_Queen_Staff.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Antlion Greatsword",
   "slug": "Antlion_Greatsword",
-  "summary": "is a Tier 3, two-handed Sword that deals Slashing damage.",
+  "summary": "The Antlion Greatsword is a Tier 3, two-handed Sword that deals Slashing damage.",
   "tier": "3",
   "description": "Incredibly large and heavy. Uses multiple antlion pincers to form many dangerous points.",
   "repair": "3 Antlion Part 1 Antlion Pincer",
@@ -156,13 +149,12 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Damage",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Antlion_Greatsword.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Arrow",
   "slug": "Arrow",
-  "summary": "s are Tier 1 basic Arrow in Grounded. It is the weakest arrow variant.",
+  "summary": "Arrows are Tier 1 basic Arrow in Grounded. It is the weakest arrow variant.",
   "type": "Arrow",
   "description": "Simple thistle prickle arrow with mite fuzz fletching to make it fly right. Retrievable.",
   "urecipe": "*Analyze Mite Fuzz or Thistle Needle *Reach Brainpower Level 2",
@@ -170,27 +162,24 @@
   "subcat": "Ranged",
   "tier": "1",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Ash Maw",
   "slug": "Ash_Maw",
-  "summary": "is a Tier 3 One-Handed Club in Grounded 2 crafted using parts from King Dozer.",
-  "_ib": "",
-  "icon": "/icons/Ash_Maw.png"
+  "summary": "The Ash Maw is a Tier 3 One-Handed Club in Grounded 2 crafted using parts from King Dozer.",
+  "_ib": ""
  },
  {
   "title": "Axl's Talon",
   "slug": "Axls_Talon",
-  "summary": "is a Tier 3 Spear in Grounded 2 crafted using parts from Axl.",
-  "_ib": "",
-  "icon": "/icons/Axl_s_Talon.png"
+  "summary": "The Axl's Talon is a Tier 3 Spear in Grounded 2 crafted using parts from Axl.",
+  "_ib": ""
  },
  {
   "title": "BURG.L's Old Flipper",
   "slug": "BURG.Ls_Old_Flipper",
-  "summary": "is a Tier 3, one-handed Club in Grounded.",
+  "summary": "BURG.L's Old Flipper is a Tier 3, one-handed Club in Grounded.",
   "image": "File:BURG.L's Old Flipper.png",
   "description": "The tried and true, perfectly seasoned spatula of your robotic friend. Can still flip a mean patty.",
   "type": "Club",
@@ -208,13 +197,12 @@
   "stam": "7",
   "repair": "1 Repair Glue",
   "perk": "Victory Feast",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/BURG_L_s_Old_Flipper.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Bard's Bow",
   "slug": "Bards_Bow",
-  "summary": "The is the strongest bow obtainable, crafted from parts of the Wasp Queen boss. It is slightly stronger than the Black Ox Crossbow in terms of damage per second, but is much harder to obtain due to being locked behind a",
+  "summary": "The Bard's Bow is the strongest bow obtainable, crafted from parts of the Wasp Queen boss. It is slightly stronger than the Black Ox Crossbow in terms of damage per second, but is much harder to obtain due to being locke",
   "description": "To both entertain and defend yourself gracefully in the queen's court.",
   "urecipe": "Analyze Wasp Queen Wing",
   "image": "Bard's Bow.png",
@@ -233,25 +221,23 @@
   "type": "Bow",
   "tooltype": "Stabbing",
   "perklvl": "Critical Hit Chance",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Bard_s_Bow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Basketball",
   "slug": "Basketball",
-  "summary": "is an Misc tool in Grounded.",
+  "summary": "The Basketball is an Misc tool in Grounded.",
   "description": "Not quite regulation, but it'll go through a hoop just fine.",
   "subcat": "Misc",
   "urecipe": "Analyze Web Fiber",
   "repairdamage": "1",
   "tooltype": "Repair",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Basketball.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Black Ant Shield",
   "slug": "Black_Ant_Shield",
-  "summary": "is a Tier 2 Shield in Grounded crafted from Black Ant parts.",
+  "summary": "The Black Ant Shield is a Tier 2 Shield in Grounded crafted from Black Ant parts.",
   "description": "A sturdy shield made of black and red ant parts.",
   "subcat": "Shield",
   "defense": "50",
@@ -259,13 +245,12 @@
   "tier": "2",
   "repair": "4 Black Ant Part",
   "urecipe": "* Analyze Black Ant Part * Reach Brainpower Level 10",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Black_Ant_Shield.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Black Ant Shovel",
   "slug": "Black_Ant_Shovel",
-  "summary": "is a Tier 2 Shovel, and is a upgrade to the Acorn Shovel that allows the harvesting of Chewed Gum, Buried Treasure, and large Clay Nodes found around the Stump.",
+  "summary": "The Black Ant Shovel is a Tier 2 Shovel, and is a upgrade to the Acorn Shovel that allows the harvesting of Chewed Gum, Buried Treasure, and large Clay Nodes found around the Stump.",
   "description": "A dependable shovel that can dig and harvest all sorts of goodies.",
   "urecipe": "*Analyze Black Ant Head *Reach Brainpower Level 10",
   "damage": "20",
@@ -282,13 +267,12 @@
   "subcat": "Digging",
   "tooltype": "Digging",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Black_Ant_Shovel.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Black Ant Sword",
   "slug": "Black_Ant_Sword",
-  "summary": "is a Tier 2 One-Handed Sword in Grounded.",
+  "summary": "The Black Ant Sword is a Tier 2 One-Handed Sword in Grounded.",
   "image": "Black Ant Sword.png",
   "description": "A clean blade with the cutting power of ants.",
   "urecipe": "*Analyze Black Ant Mandibles *Reach Brainpower Level 10",
@@ -308,13 +292,12 @@
   "stam": "6",
   "tooltype": "Slashing",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Black_Ant_Sword.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Black Ox Crossbow",
   "slug": "Black_Ox_Crossbow",
-  "summary": "is a Tier 3 stronger variant of the Crow Crossbow made from parts harvested from a Black Ox Beetle.",
+  "summary": "The Black Ox Crossbow is a Tier 3 stronger variant of the Crow Crossbow made from parts harvested from a Black Ox Beetle.",
   "description": "A crossbow made from impossibly strong black ox parts.",
   "tier": "3",
   "stun": "5",
@@ -330,13 +313,12 @@
   "repair": "2 30px|link=Lint Rope Lint Rope",
   "urecipe": "Analyze Black Ox Part or Pinecone Piece",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Black_Ox_Crossbow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Black Ox Hammer",
   "slug": "Black_Ox_Hammer",
-  "summary": "is a Tier 3, one-handed Hammer that deals Busting damage.",
+  "summary": "The Black Ox Hammer is a Tier 3, one-handed Hammer that deals Busting damage.",
   "description": "A hammer so strong it can bust open almost all natural materials.",
   "subcat": "Busting",
   "damage": "72/72/90",
@@ -355,13 +337,12 @@
   "damagethrow": "50",
   "stunthrow": "50",
   "durability": "800",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Black_Ox_Hammer.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Blaster of the Moldy Matriarch",
   "slug": "Blaster_of_the_Moldy_Matriarch",
-  "summary": "is a Tier 3 unique ranged weapon crafted from parts of the Infected Broodmother.",
+  "summary": "The Blaster of the Moldy Matriarch is a Tier 3 unique ranged weapon crafted from parts of the Infected Broodmother.",
   "description": "An explosive, perpetually regenerative fungal orb that can be repeatedly thrown as a grenade.",
   "subcat": "Ranged",
   "tier": "3",
@@ -373,13 +354,12 @@
   "urecipe": "Analyze Infected Venom",
   "repair": "50 Fungal Growth",
   "durability": "100",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Blaster_of_the_Moldy_Matriarch.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Blazing Edge",
   "slug": "Blazing_Edge",
-  "summary": "is a Tier 3, two-handed Axe.",
+  "summary": "The Blazing Edge is a Tier 3, two-handed Axe.",
   "description": "A menacing greataxe of spicy candy that gives your enemies a chill.",
   "type": "Axe",
   "durability": "500",
@@ -399,13 +379,12 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Fury",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Blazing_Edge.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Bomb Arrow",
   "slug": "Bomb_Arrow",
-  "summary": "is a unique Tier 3 arrow variant that makes a Bratburst-like explosion when hitting any surface.",
+  "summary": "The Bomb Arrow is a unique Tier 3 arrow variant that makes a Bratburst-like explosion when hitting any surface.",
   "description": "Highly volatile arrow created by merging natural and man-made explosives.",
   "subcat": "Ranged",
   "tier": "3",
@@ -413,13 +392,12 @@
   "urecipe": "Discover Water Logged Recipe",
   "damage": "60",
   "tooltype": "Explosive",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Bomb_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Bone Dagger",
   "slug": "Bone_Dagger",
-  "summary": "is a Tier 2, one-handed Dagger that deals Slashing damage.",
+  "summary": "The Bone Dagger is a Tier 2, one-handed Dagger that deals Slashing damage.",
   "type": "Dagger",
   "subcat": "Underwater",
   "description": "A diving knife made of more robust materials, increasing the tool's effectiveness in its various functions.",
@@ -441,13 +419,12 @@
   "damagethrow": "13",
   "durability": "400",
   "stunthrow": "0",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Bone_Dagger.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Bone Trident",
   "slug": "Bone_Trident",
-  "summary": "is a Tier 2 Spear in Grounded crafted various aquatic resources.",
+  "summary": "The Bone Trident is a Tier 2 Spear in Grounded crafted various aquatic resources.",
   "type": "Spear",
   "subcat": "Underwater",
   "description": "A hydrodynamic bone weapon that excels at underwater combat.",
@@ -469,20 +446,18 @@
   "damagethrow": "140",
   "stunthrow": "0",
   "durability": "500",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Bone_Trident.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Boom Stick",
   "slug": "Boom_Stick",
-  "summary": "is a Tier 3 Stranger Weapon variant of the Wallopeño from Grounded.",
-  "_ib": "",
-  "icon": "/icons/Boom_Stick.png"
+  "summary": "The Boom Stick is a Tier 3 Stranger Weapon variant of the Wallopeño from Grounded.",
+  "_ib": ""
  },
  {
   "title": "Bratburst",
   "slug": "Bratburst",
-  "summary": "is a Tier 1 Bomb in Grounded.",
+  "summary": "The Bratburst is a Tier 1 Bomb in Grounded.",
   "subcat": "Explosive",
   "urecipe": "*Analyze Fungal Growth or Red Ant Egg *Reach Brainpower Level 6",
   "damage": "300",
@@ -491,13 +466,12 @@
   "tier": "1",
   "location": "* Black Anthill Lab * Haze Lab *Oak Lab ZIP.R Room",
   "tooltype": "Explosive",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Bratburst.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Breathslayer",
   "slug": "Breathslayer",
-  "summary": "is a Tier 3, two-handed Sword.",
+  "summary": "The Breathslayer is a Tier 3, two-handed Sword.",
   "description": "A heavy sword made of minty candy that delivers arctic bite to your foulest foes.",
   "type": "Sword",
   "durability": "500",
@@ -516,13 +490,12 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Aftershock",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Breathslayer.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Burny Rounds",
   "slug": "Burny_Rounds",
-  "summary": "are a Tier 2 ammo type in Grounded used by the Acorn Turret. They deal Burning damage.",
+  "summary": "Burny Rounds are a Tier 2 ammo type in Grounded used by the Acorn Turret. They deal Burning damage.",
   "description": "These hot suckers can set the ground around them ablaze. Handle with caution.",
   "urecipe": "Analyze EverChar Coal Chunk",
   "stun": "0",
@@ -531,20 +504,18 @@
   "tooltype": "Burning",
   "tier": "3",
   "reload": "2.5 Sec | -perk1= Damage Resist | -perk = Corrosion",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Burny_Rounds.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Bushwacker",
   "slug": "Bushwacker",
-  "summary": "is a Tier 2 Stranger Weapon variant of the Spider Stringer.",
-  "_ib": "",
-  "icon": "/icons/Bushwacker.png"
+  "summary": "The Bushwacker is a Tier 2 Stranger Weapon variant of the Spider Stringer.",
+  "_ib": ""
  },
  {
   "title": "Club of the Mother Demon",
   "slug": "Club_of_the_Mother_Demon",
-  "summary": "is a 2-handed weapon.",
+  "summary": "The Club of the Mother Demon is currently one of the strongest tier 3 weapons in the game, it does surpass the Mint Mace terms of damage but has no elemental damage. It is a 2-handed weapon.",
   "description": "A spiked club built for violence. Fashioned from various parts from a brood mother and other resources.",
   "urecipe": "Analyze Broodmother Fang",
   "subcat": "Melee",
@@ -562,34 +533,30 @@
   "damagethrow": "140| perklvl = Poison Damage",
   "stunthrow": "40",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Club_of_the_Mother_Demon.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Crimson Avenger",
   "slug": "Crimson_Avenger",
-  "summary": "is a Tier 2 Stranger Weapon variant of the Crimson Saber.",
-  "_ib": "",
-  "icon": "/icons/Crimson_Avenger.png"
+  "summary": "The Crimson Avenger is a Tier 2 Stranger Weapon variant of the Crimson Saber.",
+  "_ib": ""
  },
  {
   "title": "Crimson Reapers",
   "slug": "Crimson_Reapers",
-  "summary": "is a Tier 3 Stranger Weapon variant of the Dusk Blades.",
-  "_ib": "",
-  "icon": "/icons/Crimson_Reapers.png"
+  "summary": "The Crimson Reapers is a Tier 3 Stranger Weapon variant of the Dusk Blades.",
+  "_ib": ""
  },
  {
   "title": "Crimson Saber",
   "slug": "Crimson_Saber",
-  "summary": "is a Tier 1 One-Handed Sword in Grounded 2 crafted from parts of Red Ants.",
-  "_ib": "",
-  "icon": "/icons/Crimson_Saber.png"
+  "summary": "The Crimson Saber is a Tier 1 One-Handed Sword in Grounded 2 crafted from parts of Red Ants.",
+  "_ib": ""
  },
  {
   "title": "Crow Crossbow",
   "slug": "Crow_Crossbow",
-  "summary": "is a Tier 2 ranged weapon.",
+  "summary": "The Crow Crossbow is a Tier 2 ranged weapon.",
   "description": "A crossbow made out of crow feathers.",
   "tier": "2",
   "arrowtier1": "70",
@@ -605,20 +572,18 @@
   "repair": "2 30px|link=Silk Rope Silk Rope",
   "urecipe": "Analyze Crow Feather Piece",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Crow_Crossbow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Crystal Trident",
   "slug": "Crystal_Trident",
-  "summary": "is a Tier 3 Spear in Grounded 2 crafted various aquatic resources and Phantom Quartz Shards.",
-  "_ib": "",
-  "icon": "/icons/Crystal_Trident.png"
+  "summary": "The Crystal Trident is a Tier 3 Spear in Grounded 2 crafted various aquatic resources and Phantom Quartz Shards.",
+  "_ib": ""
  },
  {
   "title": "Cupid's Arrow",
   "slug": "Cupids_Arrow",
-  "summary": "is a special Tier 2 Arrow in Grounded.",
+  "summary": "The Cupid's Arrow is a special Tier 2 Arrow in Grounded.",
   "type": "Arrow",
   "image": "Cupid's Arrow.png",
   "subcat": "Ranged",
@@ -628,45 +593,40 @@
   "tier": "2",
   "tooltype": "Stabbing",
   "perk": "Bleed",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Cupid_s_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Cut Lass",
   "slug": "Cut_Lass",
-  "summary": "is a Tier 4 Stranger Weapon variant of the Toenail Cutlass.",
-  "_ib": "",
-  "icon": "/icons/Cut_Lass.png"
+  "summary": "The Cut Lass is a Tier 4 Stranger Weapon variant of the Toenail Cutlass.",
+  "_ib": ""
  },
  {
   "title": "Decoy Bait",
   "slug": "Decoy_Bait",
-  "summary": "is a tool that allows the player to distract predators found both on land and in the water.",
+  "summary": "The Decoy Bait is a tool that allows the player to distract predators found both on land and in the water.",
   "description": "A bundle of bait made from tadpole meat, use it to distract larger predators.",
   "subcat": "Misc",
   "type": "Bait",
   "urecipe": "Analyze Algae, Raw Tadpole Meat, Water Boatman Fin, or Water Flea Meat",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Decoy_Bait.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Discord",
   "slug": "Discord",
-  "summary": "is a Tier 3 Stranger Weapon variant of the Cricket Lute Bow.",
-  "_ib": "",
-  "icon": "/icons/Discord.png"
+  "summary": "The Discord is a Tier 3 Stranger Weapon variant of the Cricket Lute Bow.",
+  "_ib": ""
  },
  {
   "title": "Dusk Blades",
   "slug": "Dusk_Blades",
-  "summary": "are a Tier 3 Dual Sickles in Grounded 2. It deals Slashing damage.",
-  "_ib": "",
-  "icon": "/icons/Dusk_Blades.png"
+  "summary": "Dusk Blades are a Tier 3 Dual Sickles in Grounded 2. It deals Slashing damage.",
+  "_ib": ""
  },
  {
   "title": "Feather Arrow",
   "slug": "Feather_Arrow",
-  "summary": "is a Tier 2 basic Arrow in both Grounded.",
+  "summary": "The Feather Arrow is a Tier 2 basic Arrow in both Grounded.",
   "type": "Arrow",
   "subcat": "Ranged",
   "description": "A fancy arrow crafted from sleek crow feather bits and strands of spider web.",
@@ -676,20 +636,18 @@
   "tier": "2",
   "tooltype": "Stabbing",
   "perk": "Bleed",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Feather_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Fellfeast",
   "slug": "Fellfeast",
-  "summary": "is a Tier 3 Stranger Weapon variant of the Ticky Maul.",
-  "_ib": "",
-  "icon": "/icons/Fellfeast.png"
+  "summary": "The Fellfeast is a Tier 3 Stranger Weapon variant of the Ticky Maul.",
+  "_ib": ""
  },
  {
   "title": "Fire Ant Club",
   "slug": "Fire_Ant_Club",
-  "summary": "is a Tier 3, two-handed Club that deals Generic damage.",
+  "summary": "The Fire Ant Club is a Tier 3, two-handed Club that deals Generic damage.",
   "type": "Club",
   "subcat": "Melee",
   "repair": "2 Fire Ant Part Fire Ant Part 1 Fire Ant Mandibles Fire Ant Mandibles",
@@ -709,13 +667,12 @@
   "tooltype": "Generic",
   "durability": "500",
   "perklvl": "Finale Damage",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Fire_Ant_Club.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Fire Ant Shield",
   "slug": "Fire_Ant_Shield",
-  "summary": "is a Tier 3 shield, crafted from Fire Ant parts.",
+  "summary": "The Fire Ant Shield is a Tier 3 shield, crafted from Fire Ant parts.",
   "description": "An exotic shield made of fire ant parts.",
   "subcat": "Shield",
   "tier": "3",
@@ -724,19 +681,18 @@
   "perk": "Defensive Stance",
   "perk1": "Block Corrosion",
   "defense": "75",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Fire_Ant_Shield.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Fresh Coldtana",
   "slug": "Fresh_Coldtana",
-  "summary": "is a Tier 3, two-handed Sword.",
+  "summary": "The Fresh Coldtana is a Tier 3, two-handed Sword.",
   "description": "Chill foes with a finely crafted blade. A stone cold katana made of tempered minty candy.",
   "type": "Sword",
   "durability": "500",
   "subcat": "Melee",
   "tier": "3",
-  "urecipe": "Buy",
+  "urecipe": "Buy Fresh Coldtana",
   "damage": "85/85/106",
   "stun": "0",
   "speed": "Average",
@@ -749,19 +705,18 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Parry",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Fresh_Coldtana.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Fresh Edge",
   "slug": "Fresh_Edge",
-  "summary": "is a Tier 3, two-handed Axe.",
+  "summary": "The Fresh Edge is a Tier 3, two-handed Axe.",
   "description": "A bitingly deadly axe that's larger than necessary, packing the frost power of minty candies.",
   "type": "Axe",
   "durability": "500",
   "subcat": "Melee",
   "tier": "3",
-  "urecipe": "Buy",
+  "urecipe": "Buy Fresh Edge",
   "damage": "95/95/118",
   "stun": "15",
   "speed": "Average",
@@ -775,13 +730,12 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Fury",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Fresh_Edge.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Frosted Flake",
   "slug": "Frosted_Flake",
-  "summary": "is a Tier 3, two-handed Axe.",
+  "summary": "The Frosted Flake is a Tier 3, two-handed Axe.",
   "description": "A menacing greataxe of minty candy that gives your enemies a chill.",
   "type": "Axe",
   "durability": "500",
@@ -801,13 +755,12 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Stamina Surge",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Frosted_Flake.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Fungnir",
   "slug": "Fungnir",
-  "summary": "is a Tier 3, one-handed Spear that deals Stabbing damage.",
+  "summary": "The Fungnir is a Tier 3, one-handed Spear that deals Stabbing damage.",
   "description": "A grotesque spear of pure pulsating destruction. Crafted from various foul parts and mandibles of infected ants.",
   "type": "Spear",
   "durability": "600",
@@ -830,13 +783,12 @@
   "stunwater": "0",
   "damagethrow": "168",
   "stunthrow": "0",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Fungnir.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Gas Arrow",
   "slug": "Gas_Arrow",
-  "summary": "s are special Tier 1 Arrows in Grounded. It deals Stabbing damage. It will become a normal Arrow when landing.",
+  "summary": "Gas Arrows are special Tier 1 Arrows in Grounded. It deals Stabbing damage. It will become a normal Arrow when landing.",
   "type": "Arrow",
   "image1": "Gas Arrow.png",
   "tier": "1",
@@ -847,27 +799,24 @@
   "damage": "5",
   "tooltype": "Stabbing",
   "perk": "Gas Hazard",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Gas_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Glacial Sting",
   "slug": "Glacial_Sting",
-  "summary": "is a Tier 2 Staff in Grounded 2 crafted from Mint Shards and Northern Scorpion parts.",
-  "_ib": "",
-  "icon": "/icons/Glacial_Sting.png"
+  "summary": "The Glacial Sting is a Tier 2 Staff in Grounded 2 crafted from Mint Shards and Northern Scorpion parts.",
+  "_ib": ""
  },
  {
   "title": "Gloom Skewer",
   "slug": "Gloom_Skewer",
-  "summary": "is a Tier 2 Stranger Weapon variant of the Larvalance.",
-  "_ib": "",
-  "icon": "/icons/Gloom_Skewer.png"
+  "summary": "The Gloom Skewer is a Tier 2 Stranger Weapon variant of the Larvalance.",
+  "_ib": ""
  },
  {
   "title": "Groundy Rounds",
   "slug": "Groundy_Rounds",
-  "summary": "are a Tier 1 ammo type in Grounded used by the Acorn Turret. They deal Generic damage.",
+  "summary": "Groundy Rounds are a Tier 1 ammo type in Grounded used by the Acorn Turret. They deal Generic damage.",
   "description": "These sticky turret rounds don't do a lot of damage but they can ground flying insects with ease.",
   "urecipe": "Buy Acorn Turret",
   "damage": "30",
@@ -877,34 +826,30 @@
   "tier": "1",
   "reload": "1 Sec",
   "perk": "Flyers Stun",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Groundy_Rounds.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Heatwave",
   "slug": "Heatwave",
-  "summary": "is a Tier 2 Stranger Weapon variant of the Scorching Orb.",
-  "_ib": "",
-  "icon": "/icons/Heatwave.png"
+  "summary": "The Heatwave is a Tier 2 Stranger Weapon variant of the Scorching Orb.",
+  "_ib": ""
  },
  {
   "title": "Ice Breakers",
   "slug": "Ice_Breakers",
-  "summary": "is a Tier 3 Stranger Weapon variant of the Woolly Whoppers.",
-  "_ib": "",
-  "icon": "/icons/Ice_Breakers.png"
+  "summary": "The Ice Breakers is a Tier 3 Stranger Weapon variant of the Woolly Whoppers.",
+  "_ib": ""
  },
  {
   "title": "Ice Sickles",
   "slug": "Ice_Sickles",
-  "summary": "is accessed by climing a leaning pipe near the primary entrance of the biome.",
-  "_ib": "",
-  "icon": "/icons/Ice_Sickles.png"
+  "summary": "*The name “Ice Sickles” is a pun on the word “icicles”.",
+  "_ib": ""
  },
  {
   "title": "Infected Ant Shield",
   "slug": "Infected_Ant_Shield",
-  "summary": "is a tier 3 shield, crafted from Infected Ant parts.",
+  "summary": "The Infected Ant Shield is a tier 3 shield, crafted from Infected Ant parts.",
   "description": "A grotesque shield crafted from the ever-glowing parts of infected ants.",
   "subcat": "Shield",
   "tier": "3",
@@ -913,13 +858,12 @@
   "urecipe": "Analyze Infected Ant Part",
   "perk": "Defensive Stance",
   "perk1": "Explosive Resist",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infected_Ant_Shield.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Infused Axe",
   "slug": "Infused_Axe",
-  "summary": "| description = An anomaly of a weapon, infused with raw science.",
+  "summary": "Infused Axes are Tier 4 Weapons & Tools (Grounded) in Grounded. They are obtained by harvesting the remains of the Orchid Mantis in New Game+4 or higher at a 25% chance for each axe to drop. There are 3 Infused Axes: inf",
   "type": "Axe",
   "subcat": "Uncategorized",
   "damage": "71/71/89",
@@ -938,13 +882,12 @@
   "damagethrow": "70",
   "stunthrow": "0",
   "durability": "800",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infused_Axe.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Infused Blaster",
   "slug": "Infused_Blaster",
-  "summary": "is a tier 4 tool in Grounded.",
+  "summary": "The Infused Blaster is a tier 4 tool in Grounded.",
   "subcat": "Uncategorized",
   "damage": "150",
   "stam": "40",
@@ -956,13 +899,12 @@
   "source": "Infected Broodmother (NG+4)",
   "tooltype": "Explosive",
   "durability": "100",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infused_Blaster.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Infused Bow",
   "slug": "Infused_Bow",
-  "summary": "s are tier 4 tools in Grounded. They are obtained by harvesting the remains of the Wasp Queen in New Game+4 or higher at a 25% chance for the Sprig Bow and Insect Bow variants but oddly a 30% for the Bard's Bow variant.",
+  "summary": "Infused Bows are tier 4 tools in Grounded. They are obtained by harvesting the remains of the Wasp Queen in New Game+4 or higher at a 25% chance for the Sprig Bow and Insect Bow variants but oddly a 30% for the Bard's Bo",
   "image": "Infused Bow.png|1 Infused Bow2.png|2 Infused Bow3.png|3",
   "description": "An anomaly of a weapon, infused with raw science.",
   "source": "Wasp Queen (NG+4)",
@@ -978,13 +920,12 @@
   "speed": "Average",
   "type": "Bow",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infused_Bow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Infused Club",
   "slug": "Infused_Club",
-  "summary": "is a tier 4 tools in Grounded.",
+  "summary": "The Infused Club is a tier 4 tools in Grounded.",
   "type": "Club",
   "subcat": "Uncategorized",
   "damage": "125/125/157",
@@ -1002,13 +943,12 @@
   "durability": "600",
   "damagethrow": "140",
   "stunthrow": "40",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infused_Club.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Infused Crossbow",
   "slug": "Infused_Crossbow",
-  "summary": "s are tier 4 tools in Grounded. They are obtained by harvesting the remains of the Wasp Queen in New Game+4 or higher at a 25% chance for each crossbow to drop. There are 2 s: infused versions of the Crow Crossbow and Bl",
+  "summary": "Infused Crossbows are tier 4 tools in Grounded. They are obtained by harvesting the remains of the Wasp Queen in New Game+4 or higher at a 25% chance for each crossbow to drop. There are 2 Infused Crossbows: infused vers",
   "image": "Infused Crossbow.png|1 Infused Crossbow2.png|2",
   "description": "An anomaly of a weapon, infused with raw science.",
   "source": "Wasp Queen (NG+4)",
@@ -1024,13 +964,12 @@
   "speed": "Slow",
   "type": "Bow",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infused_Crossbow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Infused Dagger",
   "slug": "Infused_Dagger",
-  "summary": "| description = An anomaly of a weapon, infused with raw science.",
+  "summary": "Infused Daggers are Tier 4 tools in Grounded. They are obtained by harvesting the remains of the Hedge Broodmother in New Game+4 or higher at a 25% chance for each dagger to drop. There are 4 Infused Daggers: infused ver",
   "type": "Dagger",
   "subcat": "Uncategorized",
   "damage": "46/46",
@@ -1052,13 +991,12 @@
   "damagewater": "50",
   "stamwater": "7",
   "stunwater": "0",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infused_Dagger.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Infused Greatsword",
   "slug": "Infused_Greatsword",
-  "summary": "is a tier 4 tool obtained from killing the Mant in New Game+4 or higher at a 25% chance.",
+  "summary": "The Infused Greatsword is a tier 4 tool obtained from killing the Mant in New Game+4 or higher at a 25% chance.",
   "type": "Sword",
   "subcat": "Uncategorized",
   "damage": "102/102/128",
@@ -1076,13 +1014,12 @@
   "durability": "500",
   "damagethrow": "140",
   "stunthrow": "40",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infused_Greatsword.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Infused Hammer",
   "slug": "Infused_Hammer",
-  "summary": "| description = An anomaly of a weapon, infused with raw science.",
+  "summary": "Infused Hammers are Tier 4 tools in Grounded. They are obtained by harvesting the remains of the Mant in New Game+4 or higher at a 25% chance for each hammer to drop. There are 3 Infused Hammers: infused versions of the",
   "type": "Hammer",
   "subcat": "Uncategorized",
   "damage": "86/86/108",
@@ -1101,13 +1038,12 @@
   "damagethrow": "50",
   "stunthrow": "50",
   "durability": "800",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infused_Hammer.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Infused Scythe",
   "slug": "Infused_Scythe",
-  "summary": "is a tier 4 tool in Grounded.",
+  "summary": "The Infused Scythe is a tier 4 tool in Grounded.",
   "type": "Dagger",
   "subcat": "Uncategorized",
   "damage": "84/84/105",
@@ -1126,13 +1062,12 @@
   "tooltype": "Chopping",
   "tooltype2": "Slashing",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infused_Scythe.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Infused Spear",
   "slug": "Infused_Spear",
-  "summary": "is about 24%.",
+  "summary": "Infused Spears are tier 4 tools in Grounded. They are obtained by harvesting the remains of Director Schmector in New Game+4 or higher at a 25% chance for each spear to drop. There are 5 Infused Spears: infused versions",
   "description": "An anomaly of a weapon, infused with raw science.",
   "subcat": "Uncategorized",
   "damage": "66/66/83",
@@ -1154,13 +1089,12 @@
   "damagethrow": "168",
   "stunthrow": "0",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infused_Spear.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Infused Sword",
   "slug": "Infused_Sword",
-  "summary": "| description = An anomaly of a weapon, infused with raw science.",
+  "summary": "Infused Swords are Tier 4 tools in Grounded. They are obtained by harvesting the remains of the Infected Broodmother in New Game+4 or higher at a 25% chance for each sword to drop. There are 4 Infused Swords: infused ver",
   "type": "Sword",
   "subcat": "Uncategorized",
   "damage": "66/66/83",
@@ -1179,13 +1113,12 @@
   "damagethrow": "50",
   "stunthrow": "0",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Infused_Sword.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Insect Axe",
   "slug": "Insect_Axe",
-  "summary": "is a Tier 2, one-handed Axe that deals chopping damage.",
+  "summary": "The Insect Axe is a Tier 2, one-handed Axe that deals chopping damage.",
   "type": "Axe",
   "subcat": "Chopping",
   "damage": "35/35/44",
@@ -1204,13 +1137,12 @@
   "description": "Axe made up of sharp and strong bug parts. Sturdier and more durable than the pebblet axe.",
   "urecipe": "*Analyze Bombardier Part, Ladybug Head, or Silk Rope *Reach Brainpower Level 6",
   "tooltype": "Chopping",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Insect_Axe.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Insect Bow",
   "slug": "Insect_Bow",
-  "summary": "is a Tier 2 bow that can shoot every type of arrow.",
+  "summary": "Insect Bow is a Tier 2 bow that can shoot every type of arrow.",
   "description": "A high quality bow made of sturdy chunks of various insects",
   "urecipe": "*Analyze Silk Rope or Spider Fang *Reach Brainpower Level 8",
   "subcat": "Ranged",
@@ -1226,13 +1158,12 @@
   "speed": "Average",
   "type": "Bow",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Insect_Bow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Insect Hammer",
   "slug": "Insect_Hammer",
-  "summary": "is a Tier 2, one-handed Hammer that deals Busting damage.",
+  "summary": "The Insect Hammer is a Tier 2, one-handed Hammer that deals Busting damage.",
   "description": "A capable hammer made of durable insect parts that are much stronger than the pebblet hammer.",
   "subcat": "Busting",
   "damage": "42/42/53",
@@ -1251,13 +1182,12 @@
   "damagethrow": "50",
   "stunthrow": "50",
   "durability": "700",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Insect_Hammer.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Killbasa",
   "slug": "Killbasa",
-  "summary": "is a tier 3 bomb obtained from offering a Moldy Hoagie to one Infected Ant Queen.",
+  "summary": "The Killbasa is a tier 3 bomb obtained from offering a Moldy Hoagie to one Infected Ant Queen.",
   "subcat": "Explosive",
   "urecipe": "Offer A Moldy Hoagie To One Infected Ant Queen",
   "damage": "450",
@@ -1266,13 +1196,12 @@
   "tier": "3",
   "location": "",
   "tooltype": "Explosive",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Killbasa.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Ladybird Shield",
   "slug": "Ladybird_Shield",
-  "summary": "is a Tier 3 shield, crafted from Ladybird parts.",
+  "summary": "The Ladybird Shield is a Tier 3 shield, crafted from Ladybird parts.",
   "description": "A sleek and stylish shield crafted from the jet black shell of a ladybird.",
   "subcat": "Shield",
   "tier": "3",
@@ -1281,13 +1210,12 @@
   "urecipe": "Analyze Ladybird Shell",
   "perk": "Defensive Stance",
   "perk1": "Block Free Attack",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Ladybird_Shield.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Larva Blade",
   "slug": "Larva_Blade",
-  "summary": "is a Tier 1, one-handed Sword that deals Slashing damage.",
+  "summary": "The Larva Blade is a Tier 1, one-handed Sword that deals Slashing damage.",
   "description": "A swift blade crafted from serrated larva pincers that poisons on hit.",
   "subcat": "Melee",
   "tooltype": "Sword",
@@ -1313,20 +1241,18 @@
   "damagechargerot": "31",
   "durabilityrot": "175",
   "locationrot": "Central Grasslands",
-  "_ib": "Infobox/Tools/Rotten",
-  "icon": "/icons/Larva_Blade.png"
+  "_ib": "Infobox/Tools/Rotten"
  },
  {
   "title": "Larvalance",
   "slug": "Larvalance",
-  "summary": "is a Tier 1 Spear in Grounded 2 crafted from parts of Red Ants and Larva.",
-  "_ib": "",
-  "icon": "/icons/Larvalance.png"
+  "summary": "The Larvalance is a Tier 1 Spear in Grounded 2 crafted from parts of Red Ants and Larva.",
+  "_ib": ""
  },
  {
   "title": "Lure Arrow",
   "slug": "Lure_Arrow",
-  "summary": "s are Tier 1 arrows that can be used to attract Creatures towards their location, similar to the Lure Trap. When shot, all creatures nearby will approach the arrows location and investigate it. You can get them from buyi",
+  "summary": "Lure Arrows are Tier 1 arrows that can be used to attract Creatures towards their location, similar to the Lure Trap. When shot, all creatures nearby will approach the arrows location and investigate it. You can get them",
   "type": "Arrow",
   "description": "Arrow designed to attract insects.",
   "tier": "1",
@@ -1334,20 +1260,18 @@
   "urecipe": "Buy Lures",
   "damage": "5",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Lure_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Mantis Blade",
   "slug": "Mantis_Blade",
-  "summary": "is a Tier 3 Two-Handed Sword in Grounded 2 crafted from parts of Praying Mantis Nymphs.",
-  "_ib": "",
-  "icon": "/icons/Mantis_Blade.png"
+  "summary": "The Mantis Blade is a Tier 3 Two-Handed Sword in Grounded 2 crafted from parts of Praying Mantis Nymphs.",
+  "_ib": ""
  },
  {
   "title": "Mint Arrow",
   "slug": "Mint_Arrow",
-  "summary": "s are a Tier 2 elemental Arrow in Grounded. It deals Fresh damage. It becomes a Feather Arrow when landing.",
+  "summary": "Mint Arrows are a Tier 2 elemental Arrow in Grounded. It deals Fresh damage. It becomes a Feather Arrow when landing.",
   "description": "A simple arrow that deals minty damage.",
   "subcat": "Ranged",
   "type": "Arrow",
@@ -1356,13 +1280,12 @@
   "damage": "15",
   "tier": "2",
   "augmenttype": "Fresh",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Mint_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Mint Mace",
   "slug": "Mint_Mace",
-  "summary": "is a Tier 3, two-handed Club.",
+  "summary": "The Mint Mace is a Tier 3, two-handed Club.",
   "urecipe": "Buy Mint Mace",
   "damage": "100/100/125",
   "stun": "20",
@@ -1381,13 +1304,12 @@
   "stunthrow": "40",
   "durability": "700",
   "perklvl": "Finale Aftershock",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Mint_Mace.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Mint Staff",
   "slug": "Mint_Staff",
-  "summary": "is a Tier 3 magic tool that casts potent minty magic.",
+  "summary": "The Mint Staff is a Tier 3 magic tool that casts potent minty magic.",
   "type": "Staff",
   "description": "A staff made of Ice Caps fresh mints. Crafted by forbidden chemistry and arcane science, mimics the effects of a magic spell found in Minotaur and Myrmidons.",
   "subcat": "Ranged",
@@ -1402,20 +1324,18 @@
   "stunthrow": "40",
   "durability": "200",
   "augmenttype": "Fresh",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Mint_Staff.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Mitey Claws",
   "slug": "Mitey_Claws",
-  "summary": "is a Tier 1 Dual Fists in Grounded 2 crafted from parts of Red Ants and Lawn Mites.",
-  "_ib": "",
-  "icon": "/icons/Mitey_Claws.png"
+  "summary": "The Mitey Claws is a Tier 1 Dual Fists in Grounded 2 crafted from parts of Red Ants and Lawn Mites.",
+  "_ib": ""
  },
  {
   "title": "Mosquito Needle",
   "slug": "Mosquito_Needle",
-  "summary": "is a Tier 2 One-Handed Sword in Grounded.",
+  "summary": "The Mosquito Needle is a Tier 2 One-Handed Sword in Grounded.",
   "description": "A fast and deadly rapier that mimics the functionality of a mosquito's blood sucking tool.",
   "tier": "2",
   "type": "Sword",
@@ -1438,20 +1358,18 @@
   "damagewater": "27",
   "stamwater": "7",
   "stunwater": "0",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Mosquito_Needle.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Northern Shredders",
   "slug": "Northern_Shredders",
-  "summary": "is a Tier 2 Dual Fists in Grounded 2 crafted from parts of Northern Scorpions and Caterpillars.",
-  "_ib": "",
-  "icon": "/icons/Northern_Shredders.png"
+  "summary": "The Northern Shredders is a Tier 2 Dual Fists in Grounded 2 crafted from parts of Northern Scorpions and Caterpillars.",
+  "_ib": ""
  },
  {
   "title": "Pebblet Axe",
   "slug": "Pebblet_Axe",
-  "summary": "is a Tier 1, one-handed Axe that deals Chopping damage and is used to harvest Grass, Dry Grass, Clovers, Dandelions, and Berries; it is the weakest axe variant and thus cannot harvest higher tier nodes.",
+  "summary": "The Pebblet Axe is a Tier 1, one-handed Axe that deals Chopping damage and is used to harvest Grass, Dry Grass, Clovers, Dandelions, and Berries; it is the weakest axe variant and thus cannot harvest higher tier nodes.",
   "urecipe": "*Analyze Crude Rope or Pebblet * Reach Brainpower Level 1",
   "description": "A basic chopping tool strong enough to hack into plant material.",
   "tier": "1",
@@ -1470,13 +1388,12 @@
   "damagethrow": "70",
   "stunthrow": "0",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Pebblet_Axe.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Pebblet Dagger",
   "slug": "Pebblet_Dagger",
-  "summary": "is a Tier 1, one-handed Dagger that deals Slashing damage.",
+  "summary": "The Pebblet Dagger is a Tier 1, one-handed Dagger that deals Slashing damage.",
   "type": "Dagger",
   "description": "A handy tool for harvesting aquatic flora or for defending oneself against underwater fauna.",
   "tier": "1",
@@ -1498,13 +1415,12 @@
   "urecipe": "*Analyze Lilypad Wax *Reach Brainpower Level 4",
   "repair": "1 Pebblet",
   "durability": "400",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Pebblet_Dagger.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Pebblet Hammer",
   "slug": "Pebblet_Hammer",
-  "summary": "is a Tier 1, one-handed Hammer that deals Busting damage.",
+  "summary": "The Pebblet Hammer is a Tier 1, one-handed Hammer that deals Busting damage.",
   "type": "Hammer",
   "subcat": "Busting",
   "description": "A basic busting tool necessary to pound large things into smaller, more portable particles.",
@@ -1523,13 +1439,12 @@
   "damagethrow": "50",
   "stunthrow": "50",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Pebblet_Hammer.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Pebblet Spear",
   "slug": "Pebblet_Spear",
-  "summary": "is a Tier 1 Spear in Grounded crafted from basic materials.",
+  "summary": "The Pebblet Spear is a Tier 1 Spear in Grounded crafted from basic materials.",
   "subcat": "Melee",
   "type": "Spear",
   "description": "A basic stabby weapon to keep creatures at bay. Can also be thrown for a deadly amount of damage.",
@@ -1551,19 +1466,18 @@
   "damagethrow": "75",
   "stunthrow": "0",
   "durability": "500",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Pebblet_Spear.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Pepper Flake",
   "slug": "Pepper_Flake",
-  "summary": "is a Tier 3, two-handed Axe.",
+  "summary": "The Pepper Flake is a Tier 3, two-handed Axe.",
   "description": "A deadly greataxe made of spicy candy that makes your enemies feel the heat.",
   "type": "Axe",
   "durability": "500",
   "subcat": "Melee",
   "tier": "3",
-  "urecipe": "Buy",
+  "urecipe": "Buy Pepper Flake",
   "damage": "95/95/118",
   "stun": "15",
   "speed": "Average",
@@ -1577,19 +1491,18 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Stamina Surge",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Pepper_Flake.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Picklemaul",
   "slug": "Picklemaul",
-  "summary": "is a Tier 3, two-handed Club.",
+  "summary": "The Picklemaul is a Tier 3, two-handed Club.",
   "description": "A mighty blunt weapon made of sour candy that delivers jaw shattering tartness to enemies.",
   "type": "Club",
   "durability": "700",
   "subcat": "Melee",
   "tier": "3",
-  "urecipe": "Buy",
+  "urecipe": "Buy Picklemaul",
   "damage": "100/100/125",
   "stun": "20",
   "speed": "Slow",
@@ -1602,13 +1515,12 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Fury",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Picklemaul.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Pinch Whacker",
   "slug": "Pinch_Whacker",
-  "summary": "is a Tier 2 One-Handed Club in Grounded.",
+  "summary": "The Pinch Whacker is a Tier 2 One-Handed Club in Grounded.",
   "type": "Club",
   "damage": "45/45/56",
   "stun": "5",
@@ -1627,13 +1539,12 @@
   "perk": "Finale Short Circuit",
   "damagethrow": "10",
   "stunthrow": "10",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Pinch_Whacker.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Pointy Rounds",
   "slug": "Pointy_Rounds",
-  "summary": "are a Tier 2 ammo type in Grounded used by the Acorn Turret. They deal Stabbing damage.",
+  "summary": "Pointy Rounds are a Tier 2 ammo type in Grounded used by the Acorn Turret. They deal Stabbing damage.",
   "description": "These sharp, little rounds aren't complicated but they get the point across.",
   "urecipe": "Analyze Crow Feather Piece",
   "damage": "25",
@@ -1642,13 +1553,12 @@
   "tier": "2",
   "reload": ".2 Sec",
   "stun": "0",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Pointy_Rounds.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Pollen Arrow",
   "slug": "Pollen_Arrow",
-  "summary": "s are a special Tier 1 Arrow in Grounded crafted from Pollen. They become normal Arrows when landing.",
+  "summary": "Pollen Arrows are a special Tier 1 Arrow in Grounded crafted from Pollen. They become normal Arrows when landing.",
   "type": "Arrow",
   "tier": "1",
   "subcat": "Ranged",
@@ -1658,13 +1568,12 @@
   "damage": "5",
   "tooltype": "Stabbing | -perk = Movement Speed",
   "perk1": "Flyers Stun",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Pollen_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Prod Smacker",
   "slug": "Prod_Smacker",
-  "summary": "is a Tier 3 Two-Handed Club in Grounded.",
+  "summary": "The Prod Smacker is a Tier 3 Two-Handed Club in Grounded.",
   "type": "Club",
   "damage": "110/110/138",
   "stun": "25",
@@ -1683,19 +1592,18 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Prod_Smacker.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Pucker Thumper",
   "slug": "Pucker_Thumper",
-  "summary": "is a Tier 3, two-handed Club.",
+  "summary": "The Pucker Thumper is a Tier 3, two-handed Club.",
   "description": "A giant bonking tool crafted from a chunk of sour candy. Deals sour damage on hit.",
   "type": "Club",
   "durability": "700",
   "subcat": "Melee",
   "tier": "3",
-  "urecipe": "Buy",
+  "urecipe": "Buy Pucker Thumper",
   "damage": "100/100/125",
   "stun": "20",
   "speed": "Slow",
@@ -1708,25 +1616,23 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Aftershock",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Pucker_Thumper.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Pupa Basketball",
   "slug": "Pupa_Basketball",
-  "summary": "is an odd Misc tool that is crafted from Pupa Leather and primarily designed to be used with the Basketball Hoop.",
+  "summary": "The Pupa Basketball is an odd Misc tool that is crafted from Pupa Leather and primarily designed to be used with the Basketball Hoop.",
   "description": "Not quite regulation, but it'll go through a hoop just fine.",
   "subcat": "Misc",
   "urecipe": "Analyze Pupa Leather",
   "repairdamage": "5",
   "tooltype": "Repair",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Pupa_Basketball.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Red Ant Club",
   "slug": "Red_Ant_Club",
-  "summary": "is a Tier 2 Two-Handed Club in Grounded.",
+  "summary": "The Red Ant Club is a Tier 2 Two-Handed Club in Grounded.",
   "description": "Meaty red ant leg perfect for beatings.",
   "subcat": "Melee",
   "tooltype": "Club",
@@ -1751,13 +1657,12 @@
   "damagechargerot": "100",
   "durabilityrot": "300",
   "locationrot": "Ant Totem Cave",
-  "_ib": "Infobox/Tools/Rotten",
-  "icon": "/icons/Red_Ant_Club.png"
+  "_ib": "Infobox/Tools/Rotten"
  },
  {
   "title": "Repair Tool",
   "slug": "Repair_Tool",
-  "summary": "is a simple tool that can be used to repair Base Buildings, Storage & Utilities, and Décor.",
+  "summary": "The Repair Tool is a simple tool that can be used to repair Base Buildings, Storage & Utilities, and Décor.",
   "description": "A small tool useful for repairing damaged structures. Totally useless as a weapon, though.",
   "subcat": "Repair",
   "urecipe": "Analyze Clay",
@@ -1768,27 +1673,24 @@
   "stunthrow": "10",
   "repairdamage": "40",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Repair_Tool.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Rime Rend",
   "slug": "Rime_Rend",
-  "summary": "is a Tier 3 Stranger Weapon variant of the Glacial Sting.",
-  "_ib": "",
-  "icon": "/icons/Rime_Rend.png"
+  "summary": "The Rime Rend is a Tier 3 Stranger Weapon variant of the Glacial Sting.",
+  "_ib": ""
  },
  {
   "title": "Roach Club",
   "slug": "Roach_Club",
-  "summary": "is a Tier 2 One-Handed Club in Grounded 2 crafted from parts of Cockroaches.",
-  "_ib": "",
-  "icon": "/icons/Roach_Club.png"
+  "summary": "The Roach Club is a Tier 2 One-Handed Club in Grounded 2 crafted from parts of Cockroaches.",
+  "_ib": ""
  },
  {
   "title": "Rocky Rounds",
   "slug": "Rocky_Rounds",
-  "summary": "are a Tier 1 ammo type in Grounded used by the Acorn Turret. They deal Generic damage.",
+  "summary": "Rocky Rounds are a Tier 1 ammo type in Grounded used by the Acorn Turret. They deal Generic damage.",
   "description": "These pebblet rounds have been made smooth with bug acid to make them more aerodynamic. They pack a punch and can push their targets back.",
   "urecipe": "Buy Acorn Turret",
   "damage": "60",
@@ -1797,13 +1699,12 @@
   "subcat": "Ranged",
   "tier": "1",
   "reload": "1 Sec",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Rocky_Rounds.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Roman Candle",
   "slug": "Roman_Candle",
-  "summary": "is a Tier 2 ranged unique weapon that can fires bolts of fire at foes.",
+  "summary": "The Roman Candle is a Tier 2 ranged unique weapon that can fires bolts of fire at foes.",
   "description": "A handheld firework that shoots bolts of fire.",
   "urecipe": "N/A",
   "subcat": "Ranged",
@@ -1814,13 +1715,12 @@
   "speed": "Fast",
   "durability": "13 Sec",
   "tooltype": "Burning",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Roman_Candle.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Rusty Spear",
   "slug": "Rusty_Spear",
-  "summary": "is a Tier 3 Spear in Grounded.",
+  "summary": "The Rusty Spear is a Tier 3 Spear in Grounded.",
   "description": "A bacterially infectious spear crafted from sharp flakes of rust.",
   "type": "Spear",
   "durability": "600",
@@ -1843,13 +1743,12 @@
   "stunwater": "0",
   "damagethrow": "168",
   "stunthrow": "0",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Rusty_Spear.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Salt Arrow",
   "slug": "Salt_Arrow",
-  "summary": "s are a special type of arrow that does around the same damage as a Feather Arrow, but has the added damage of salty damage when shot. When it hits a target, it will revert back to a Feather Arrow.",
+  "summary": "Salt Arrows are a special type of arrow that does around the same damage as a Feather Arrow, but has the added damage of salty damage when shot. When it hits a target, it will revert back to a Feather Arrow.",
   "description": "A simple arrow that deals salty damage.",
   "subcat": "Ranged",
   "type": "Arrow",
@@ -1858,20 +1757,19 @@
   "tier": "2",
   "location": "*JavaMatic Storage Facility *Undershed Entrance",
   "augmenttype": "Salty",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Salt_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Salt Chipper",
   "slug": "Salt_Chipper",
-  "summary": "is a Tier 3, two-handed hammer.",
+  "summary": "The Salt Chipper is a Tier 3, two-handed hammer.",
   "description": "The epic powers of sodium ions creates the perfect mining tool. Busting objects with the same intensity as salt busts blandness.",
   "type": "Hammer",
   "tooltype": "Busting",
   "durability": "700",
   "subcat": "Melee",
   "tier": "3",
-  "urecipe": "Buy",
+  "urecipe": "Buy Salt Chipper",
   "damage": "100/100/125",
   "stun": "16",
   "speed": "Slow",
@@ -1884,13 +1782,12 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Bleed",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Salt_Chipper.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Salt Morning Star",
   "slug": "Salt_Morning_Star",
-  "summary": "is a hard to obtain, one-handed tier 3 weapon that excels in battle.",
+  "summary": "The Salt Morning Star is a hard to obtain, one-handed tier 3 weapon that excels in battle.",
   "description": "A heavy ball of hurt coated in shards of salt to ensure whatever it hits feels excruciating pain",
   "subcat": "Melee",
   "type": "Club",
@@ -1909,13 +1806,12 @@
   "stunthrow": "40",
   "durability": "600",
   "perklvl": "Finale Bleed",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Salt_Morning_Star.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Sappy Rounds",
   "slug": "Sappy_Rounds",
-  "summary": "are a Tier 2 ammo type in Grounded used by the Acorn Turret. It deals Generic damage.",
+  "summary": "Sappy Rounds are a Tier 2 ammo type in Grounded used by the Acorn Turret. It deals Generic damage.",
   "description": "These gooey rounds are perfect for slowing down enemy crawlers while giving them a salty sizzle.",
   "urecipe": "Analyze Salt Shard",
   "damage": "40",
@@ -1924,27 +1820,24 @@
   "subcat": "Ranged",
   "tier": "2",
   "reload": "1 Sec",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Sappy_Rounds.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Scarlet Aegis",
   "slug": "Scarlet_Aegis",
-  "summary": "The is the Tier 2 Stranger Weapon variant of the Ladyguard. It costs less stamina to block along with providing an extra perk. It is located in a O.R.C. Stash found in the Ceremony Area, specifically inbetween the podiu",
-  "_ib": "",
-  "icon": "/icons/Scarlet_Aegis.png"
+  "summary": "The Scarlet Aegis is the Tier 2 Stranger Weapon variant of the Ladyguard. It costs less stamina to block along with providing an extra perk. It is located in a O.R.C. Stash found in the Ceremony Area, specifically inbetw",
+  "_ib": ""
  },
  {
   "title": "Scorching Orb",
   "slug": "Scorching_Orb",
-  "summary": "is a Tier 2 Staff in Grounded 2 crafted from Spicy Shards and Bombardier Beetle parts.",
-  "_ib": "",
-  "icon": "/icons/Scorching_Orb.png"
+  "summary": "The Scorching Orb is a Tier 2 Staff in Grounded 2 crafted from Spicy Shards and Bombardier Beetle parts.",
+  "_ib": ""
  },
  {
   "title": "Scythe of Blossoms",
   "slug": "Scythe_of_Blossoms",
-  "summary": "is a Tier 3, two-handed Scythe.",
+  "summary": "The Scythe of Blossoms is a Tier 3, two-handed Scythe.",
   "type": "Dagger",
   "description": "A deadly, nimble scythe crafted from mantis chunks and a mantis claw of a fallen assassin.",
   "subcat": "Melee",
@@ -1965,19 +1858,18 @@
   "perklvl": "Critical Hit Chance",
   "perk": "Yoked Blows",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Scythe_of_Blossoms.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Sizzle Striker",
   "slug": "Sizzle_Striker",
-  "summary": "is a Tier 3, two-handed Club.",
+  "summary": "The Sizzle Striker is a Tier 3, two-handed Club.",
   "description": "A giant bonking tool crafted from a chunk of spicy candy. Deals spicy damage on hit, but useless for busting.",
   "type": "Club",
   "durability": "700",
   "subcat": "Melee",
   "tier": "3",
-  "urecipe": "Buy",
+  "urecipe": "Buy Sizzle Striker",
   "damage": "100/100/125",
   "stun": "20",
   "speed": "Slow",
@@ -1990,25 +1882,23 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Aftershock",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Sizzle_Striker.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Slime Mold Torch",
   "slug": "Slime_Mold_Torch",
-  "summary": "is a Torch in Grounded.",
+  "summary": "The Slime Mold Torch is a Torch in Grounded.",
   "description": "A torch-like stalk from a cluster of mold. Should be able to light your way for a short time.",
   "tier": "",
   "subcat": "Light",
   "locations": "Slime Lantern Outpost",
   "urecipe": "Analyze Slime Mold Stalk",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Slime_Mold_Torch.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Sour Arrow",
   "slug": "Sour_Arrow",
-  "summary": "s are a Tier 3 elemental Arrow in Grounded. It deals Sour damage. It becomes a Feather Arrow when landing.",
+  "summary": "Sour Arrows are a Tier 3 elemental Arrow in Grounded. It deals Sour damage. It becomes a Feather Arrow when landing.",
   "description": "A simple arrow that deals sour damage.",
   "subcat": "Ranged",
   "tier": "3",
@@ -2016,13 +1906,12 @@
   "stun": "5",
   "damage": "15",
   "augmenttype": "Sour",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Sour_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Sour Katanga",
   "slug": "Sour_Katanga",
-  "summary": "is a Tier 3 Two-Handed Sword in Grounded.",
+  "summary": "The Sour Katanga is a Tier 3 Two-Handed Sword in Grounded.",
   "description": "Smite foes with a finely crafted and tangy blade. A tantalizing katana made of tempered sour candy.",
   "type": "Sword",
   "durability": "500",
@@ -2041,13 +1930,12 @@
   "augmenttype": "Sour",
   "damagethrow": "140",
   "stunthrow": "40",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Sour_Katanga.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Sour Staff",
   "slug": "Sour_Staff",
-  "summary": "is a Tier 3 magic tool that casts a potent Sour static charge from afar.",
+  "summary": "The Sour Staff is a Tier 3 magic tool that casts a potent Sour static charge from afar.",
   "type": "Staff",
   "description": "A staff made of Wormholes sour candy. Crafted by forbidden chemistry and arcane science, mimics the effects of a magic spell found in Minotaur and Myrmidons.",
   "subcat": "Ranged",
@@ -2065,13 +1953,12 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "durability": "200",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Sour_Staff.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Spicy Arrow",
   "slug": "Spicy_Arrow",
-  "summary": "s are a Tier 2 elemental Arrow in Grounded. It deals Spicy damage. It becomes a Feather Arrow when landing.",
+  "summary": "Spicy Arrows are a Tier 2 elemental Arrow in Grounded. It deals Spicy damage. It becomes a Feather Arrow when landing.",
   "description": "A simple arrow that deals spicy damage.",
   "subcat": "Ranged",
   "type": "Arrow",
@@ -2080,13 +1967,12 @@
   "tier": "2",
   "location": "*Black Anthill Lab *JavaMatic Storage Facility *Sandbox Lab Outpost",
   "augmenttype": "Spicy",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Spicy_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Spicy Coaltana",
   "slug": "Spicy_Coaltana",
-  "summary": "is a Tier 3 Two-Handed Sword in Grounded.",
+  "summary": "The Spicy Coaltana is a Tier 3 Two-Handed Sword in Grounded.",
   "urecipe": "Defend the Flaming Sword in the EverChar Coal Bag",
   "damage": "85/85/106",
   "stun": "0",
@@ -2106,13 +1992,12 @@
   "stunthrow": "40",
   "durability": "500",
   "perklvl": "Finale Parry",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Spicy_Coaltana.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Spicy Staff",
   "slug": "Spicy_Staff",
-  "summary": "is a Tier 3 magic tool that casts potent spicy magic from afar.",
+  "summary": "The Spicy Staff is a Tier 3 magic tool that casts potent spicy magic from afar.",
   "type": "Staff",
   "description": "A staff made of Hot Cha Chas spicy candy. Crafted by forbidden chemistry and arcane science, mimics the effects of a magic spell found in Minotaur and Myrmidons.",
   "subcat": "Ranged",
@@ -2130,13 +2015,12 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "durability": "200",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Spicy_Staff.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Spider Fang Dagger",
   "slug": "Spider_Fang_Dagger",
-  "summary": "is a Tier 2, one-handed Dagger that deals Slashing damage.",
+  "summary": "The Spider Fang Dagger is a Tier 2, one-handed Dagger that deals Slashing damage.",
   "description": "A nimble dagger made from a wolf spider fang that poisons on hit.",
   "tier": "2",
   "type": "Dagger",
@@ -2159,13 +2043,12 @@
   "tooltype": "Slashing",
   "damagethrow": "12",
   "stunthrow": "0",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Spider_Fang_Dagger.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Spiky Sprig",
   "slug": "Spiky_Sprig",
-  "summary": "is a Tier 1, two-handed Club that deals Generic damage.",
+  "summary": "The Spiky Sprig is a Tier 1, two-handed Club that deals Generic damage.",
   "type": "Club",
   "description": "A weaponized sprig with thorns at the end.",
   "subcat": "Melee",
@@ -2184,13 +2067,12 @@
   "stunthrow": "40",
   "perk": "Bleed",
   "durability": "400",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Spiky_Sprig.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Splatburst",
   "slug": "Splatburst",
-  "summary": "is Tier 2 Bomb in Grounded. It is identical to the Bratburst, except that it can stick to whatever surface it hits. It can additionally destroy all Tier 2 nodes.",
+  "summary": "Splatburst is Tier 2 Bomb in Grounded. It is identical to the Bratburst, except that it can stick to whatever surface it hits. It can additionally destroy all Tier 2 nodes.",
   "type": "Bomb",
   "subcat": "Explosive",
   "description": "A bomb that’s covered in a sticky substance. Attaches to the first thing it hits",
@@ -2199,26 +2081,24 @@
   "tooltype": "Explosive",
   "tier": "2",
   "location": "Undershed Entrance",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Splatburst.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Splinter Arrow",
   "slug": "Splinter_Arrow",
-  "summary": "s are a basic Tier 3 Arrow in Grounded crafted from Wooden Splinters. They are stronger than Feather Arrows, but have a sharper drop than either Arrows or Feather Arrows.",
+  "summary": "Splinter Arrows are a basic Tier 3 Arrow in Grounded crafted from Wooden Splinters. They are stronger than Feather Arrows, but have a sharper drop than either Arrows or Feather Arrows.",
   "subcat": "Ranged",
   "description": "Sharp and deadly arrow crafted from wooden splinters.",
   "urecipe": "Analyze Wooden Splinter",
   "damage": "15",
   "tier": "3",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Splinter_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Splody Rounds",
   "slug": "Splody_Rounds",
-  "summary": "are a Tier 3 ammo type used by the Acorn Turret. It deals Explosive damage. Aside from exploding on impact, they have no further effects.",
+  "summary": "Splody Rounds are a Tier 3 ammo type used by the Acorn Turret. It deals Explosive damage. Aside from exploding on impact, they have no further effects.",
   "description": "They explode. Nuff said.",
   "urecipe": "Analyze Gunpowder Clump",
   "damage": "120",
@@ -2227,13 +2107,12 @@
   "tier": "3",
   "tooltype": "Explosive",
   "reload": "3.5 Sec",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Splody_Rounds.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Sprig Bow",
   "slug": "Sprig_Bow",
-  "summary": "is a Tier 1 Bow in Grounded crafted from basic materials.",
+  "summary": "The Sprig Bow is a Tier 1 Bow in Grounded crafted from basic materials.",
   "type": "Bow",
   "subcat": "Ranged",
   "description": "Perform attacks from a long distance. Requires arrows to be useful.",
@@ -2249,13 +2128,12 @@
   "repair": "2 30px|link=Crude Rope Crude Rope",
   "urecipe": "*Analyze Crude Rope or Gnat Fuzz *Reach Brainpower Level 2",
   "tooltype": "Stabbing",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Sprig_Bow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Stinger Spear",
   "slug": "Stinger_Spear",
-  "summary": "is a Tier 2 Spear in Grounded.",
+  "summary": "The Stinger Spear is a Tier 2 Spear in Grounded.",
   "description": "Supreme stinging apparatus.",
   "subcat": "Melee",
   "tooltype": "Spear",
@@ -2284,20 +2162,18 @@
   "damagechargerot": "65",
   "durabilityrot": "300",
   "locationrot": "Pond Depths",
-  "_ib": "Infobox/Tools/Rotten",
-  "icon": "/icons/Stinger_Spear.png"
+  "_ib": "Infobox/Tools/Rotten"
  },
  {
   "title": "Striped Slashers",
   "slug": "Striped_Slashers",
-  "summary": "is a Tier 4 Dual Fists in Grounded 2 crafted from Striped Bark Scorpion parts.",
-  "_ib": "",
-  "icon": "/icons/Striped_Slashers.png"
+  "summary": "The Striped Slashers is a Tier 4 Dual Fists in Grounded 2 crafted from Striped Bark Scorpion parts.",
+  "_ib": ""
  },
  {
   "title": "Super Gas Arrow",
   "slug": "Super_Gas_Arrow",
-  "summary": "s are a Tier 3 upgraded version of Gas Arrows in Grounded. It deals Stabbing damage. It will become a Splinter Arrow when landing.",
+  "summary": "Super Gas Arrows are a Tier 3 upgraded version of Gas Arrows in Grounded. It deals Stabbing damage. It will become a Splinter Arrow when landing.",
   "type": "Arrow",
   "tier": "3",
   "subcat": "Ranged",
@@ -2306,13 +2182,12 @@
   "damage": "15",
   "tooltype": "Stabbing",
   "perk": "Gas Hazard",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Super_Gas_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Super Venom Arrow",
   "slug": "Super_Venom_Arrow",
-  "summary": "is a Tier 3 upgraded version of the Venom Arrow made from the Super Spider Venom of a Black Widow.",
+  "summary": "The Super Venom Arrow is a Tier 3 upgraded version of the Venom Arrow made from the Super Spider Venom of a Black Widow.",
   "description": "An arrow coated in the deadliest of venoms.",
   "subcat": "Ranged",
   "tier": "3",
@@ -2320,13 +2195,12 @@
   "perk": "Poison",
   "urecipe": "Analyze Super Spider Venom",
   "damage": "15",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Super_Venom_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Termite Axe",
   "slug": "Termite_Axe",
-  "summary": "is a Tier 3, one-handed Axe that deals Chopping damage.",
+  "summary": "The Termite Axe is a Tier 3, one-handed Axe that deals Chopping damage.",
   "type": "Axe",
   "subcat": "Chopping",
   "damage": "59/59/74",
@@ -2345,13 +2219,12 @@
   "damagethrow": "70",
   "stunthrow": "0",
   "durability": "800",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Termite_Axe.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Tick Macuahuitl",
   "slug": "Tick_Macuahuitl",
-  "summary": "is a Tier 3, one-handed Sword that deals Slashing damage.",
+  "summary": "The Tick Macuahuitl (Mak-wa-Hwee-Til) is a Tier 3, one-handed Sword that deals Slashing damage.",
   "description": "A violent bat crafted from tick fangs.",
   "urecipe": "*Analyze Pinecone Piece or Tick Fang *Reach Brainpower Level 14",
   "subcat": "Melee",
@@ -2371,20 +2244,18 @@
   "damagethrow": "50",
   "stunthrow": "0",
   "durability": "600",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Tick_Macuahuitl.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Ticky Maul",
   "slug": "Ticky_Maul",
-  "summary": "is a Tier 3 Two-Handed Club in Grounded 2 crafted from Tick Fangs and other resources.",
-  "_ib": "",
-  "icon": "/icons/Ticky_Maul.png"
+  "summary": "The Ticky Maul is a Tier 3 Two-Handed Club in Grounded 2 crafted from Tick Fangs and other resources.",
+  "_ib": ""
  },
  {
   "title": "Tiger Mosquito Rapier",
   "slug": "Tiger_Mosquito_Rapier",
-  "summary": "is a Tier 3 One-Handed Sword in Grounded crafted out of Tiger Mosquito parts.",
+  "summary": "The Tiger Mosquito Rapier is a Tier 3 One-Handed Sword in Grounded crafted out of Tiger Mosquito parts.",
   "description": "A rapier fashioned out of an even deadlier mosquito.",
   "tier": "3",
   "type": "Sword",
@@ -2407,19 +2278,18 @@
   "damagewater": "59",
   "stamwater": "7",
   "stunwater": "0",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Tiger_Mosquito_Rapier.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Tingle Tongue",
   "slug": "Tingle_Tongue",
-  "summary": "is a Tier 3, two-handed Sword.",
+  "summary": "The Tingle Tongue is a Tier 3, two-handed Sword.",
   "description": "A stylish, wavy sword made of sour candy. Sends shivers down the backs of your enemies.",
   "type": "Sword",
   "durability": "500",
   "subcat": "Melee",
   "tier": "3",
-  "urecipe": "Buy",
+  "urecipe": "Buy Tingle Tongue",
   "damage": "85/85/106",
   "stun": "0",
   "speed": "Average",
@@ -2432,27 +2302,24 @@
   "augmenttype": "Sour",
   "damagethrow": "140",
   "stunthrow": "40",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Tingle_Tongue.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Toe Biter Scythe",
   "slug": "Toe_Biter_Scythe",
-  "summary": "is a Tier 4 Two-Handed Sword in Grounded 2 crafted from parts of Toe Biters.",
-  "_ib": "",
-  "icon": "/icons/Toe_Biter_Scythe.png"
+  "summary": "The Toe Biter Scythe is a Tier 4 Two-Handed Sword in Grounded 2 crafted from parts of Toe Biters.",
+  "_ib": ""
  },
  {
   "title": "Toenail Cutlass",
   "slug": "Toenail_Cutlass",
-  "summary": "is a Tier 4 One-handed Sword in Grounded 2 crafted from Toenails and other high-level crafting materials.",
-  "_ib": "",
-  "icon": "/icons/Toenail_Cutlass.png"
+  "summary": "The Toenail Cutlass is a Tier 4 One-handed Sword in Grounded 2 crafted from Toenails and other high-level crafting materials.",
+  "_ib": ""
  },
  {
   "title": "Toenail Scimitar",
   "slug": "Toenail_Scimitar",
-  "summary": "is a Tier 3 One-Handed Sword in Grounded that deals Slashing damage.",
+  "summary": "The Toenail Scimitar is a Tier 3 One-Handed Sword in Grounded that deals Slashing damage.",
   "description": "A serious and noble weapon made of forged serrated toenail clippings, wrapped in luxurious materials, and accented by deadly flakes of rust.",
   "subcat": "Melee",
   "tier": "3",
@@ -2472,21 +2339,19 @@
   "stunthrow": "0",
   "durability": "600",
   "type": "Sword",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Toenail_Scimitar.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Torch",
   "slug": "Torch",
-  "summary": "is a Tier 1 Torch in Grounded.",
+  "summary": "The Torch is a Tier 1 Torch in Grounded.",
   "description": "Provides light in dark places. Held in the weak hand.",
   "subcat": "Light",
   "tier": "1",
   "urecipe": "Discover Sap or Dry Grass Chunk",
   "urecipeplus": "Buy Torch Upgrade",
   "descriptionplus": "A torch that's been improved by the power of science. Will light your way for a very long time.",
-  "_ib": "Infobox/Tools/Plus",
-  "icon": "/icons/Torch.png"
+  "_ib": "Infobox/Tools/Plus"
  },
  {
   "title": "Venom Arrow",
@@ -2501,13 +2366,12 @@
   "damage": "5",
   "tooltype": "Stabbing",
   "perk": "Poison",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Venom_Arrow.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Wallopeño",
   "slug": "Wallopeño",
-  "summary": "is a Tier 3, two-handed Club.",
+  "summary": "The Wallopeño is a Tier 3, two-handed Club.",
   "description": "A mighty blunt weapon made of spicy candy that packs a hot and heavy impact to foes.",
   "type": "Club",
   "durability": "700",
@@ -2526,34 +2390,30 @@
   "damagethrow": "140",
   "stunthrow": "40",
   "perklvl": "Finale Fury",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Wallope_o.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Warhammerlet",
   "slug": "Warhammerlet",
-  "summary": "is a Tier 1 Two-Handed Club in Grounded 2 crafted from various basic resources.",
-  "_ib": "",
-  "icon": "/icons/Warhammerlet.png"
+  "summary": "The Warhammerlet is a Tier 1 Two-Handed Club in Grounded 2 crafted from various basic resources.",
+  "_ib": ""
  },
  {
   "title": "Weapons & Tools (Grounded)",
   "slug": "Weapons_&_Tools_(Grounded)",
   "summary": "thumb|400px|Max, equipped with a Sprig Bow and Red Ant Armor.",
-  "_ib": "",
-  "icon": "/icons/Weapons_Tools_Grounded.png"
+  "_ib": ""
  },
  {
   "title": "Weaver Daggers",
   "slug": "Weaver_Daggers",
-  "summary": "is a Tier 2 Dual Daggers in Grounded 2 crafted from parts of Orb Weavers.",
-  "_ib": "",
-  "icon": "/icons/Weaver_Daggers.png"
+  "summary": "The Weaver Daggers is a Tier 2 Dual Daggers in Grounded 2 crafted from parts of Orb Weavers.",
+  "_ib": ""
  },
  {
   "title": "Weevil Shield",
   "slug": "Weevil_Shield",
-  "summary": "is a Tier 1 Shield in Grounded crafted from Weevil parts.",
+  "summary": "The Weevil Shield is a Tier 1 Shield in Grounded crafted from Weevil parts.",
   "subcat": "Shield",
   "description": "Hopefully this shell will defend you better than the weevil it came from.",
   "tier": "1",
@@ -2571,13 +2431,12 @@
   "urecipeg2": "*Analze Raw Weevil Meat *Reach Brainpower Level 2",
   "repairg2": "1 Raw Weevil Meat",
   "durabilityg2": "100",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Weevil_Shield.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Widow Dagger",
   "slug": "Widow_Dagger",
-  "summary": "is a Tier 3 One-Handed Dagger that deals slashing damage.",
+  "summary": "The Widow Dagger is a Tier 3 One-Handed Dagger that deals slashing damage.",
   "description": "A fang from a legendary spider. Venom with an unmatched potency still lurks inside.",
   "subcat": "Melee",
   "tier": "3",
@@ -2600,28 +2459,24 @@
   "perk": "Venom",
   "type": "Dagger",
   "durability": "500",
-  "_ib": "Infobox/Tools",
-  "icon": "/icons/Widow_Dagger.png"
+  "_ib": "Infobox/Tools"
  },
  {
   "title": "Wither Sting",
   "slug": "Wither_Sting",
-  "summary": "is a Tier 3 Stranger Variant variant of the Acid Ruin.",
-  "_ib": "",
-  "icon": "/icons/Wither_Sting.png"
+  "summary": "The Wither Sting is a Tier 3 Stranger Variant variant of the Acid Ruin.",
+  "_ib": ""
  },
  {
   "title": "Wolfsbane Fangs",
   "slug": "Wolfsbane_Fangs",
-  "summary": "is a Tier 3 Dual Daggers in Grounded 2 crafted from parts of Wolf Spiders It deals Stabbing damage.",
-  "_ib": "",
-  "icon": "/icons/Wolfsbane_Fangs.png"
+  "summary": "The Wolfsbane Fangs is a Tier 3 Dual Daggers in Grounded 2 crafted from parts of Wolf Spiders It deals Stabbing damage.",
+  "_ib": ""
  },
  {
   "title": "Woolly Whoppers",
   "slug": "Woolly_Whoppers",
-  "summary": "is a Tier 3 Dual Fists in Grounded 2 crafted from parts of Woolly Aphids.",
-  "_ib": "",
-  "icon": "/icons/Woolly_Whoppers.png"
+  "summary": "The Woolly Whoppers is a Tier 3 Dual Fists in Grounded 2 crafted from parts of Woolly Aphids.",
+  "_ib": ""
  }
 ]

@@ -1,6 +1,6 @@
 {
   "siteName": "GroundDB",
-  "siteUrl": "https://grounded-db.pages.dev",
+  "siteUrl": "https://grounded.lootseer.com",
   "tagline": "Grounded database — weapons, armor, creatures, smoothies & trinkets with rankings and a gear planner",
   "description": "Grounded database — weapons, armor, creatures, smoothies & trinkets with rankings and a gear planner — complete searchable database with guides.",
   "adsenseClientId": "ca-pub-3245910354455258",
@@ -28,6 +28,11 @@
     {
       "label": "Rankings",
       "href": "/rankings/",
+      "tool": true
+    },
+    {
+      "label": "Loot Table",
+      "href": "/loot/",
       "tool": true
     },
     {

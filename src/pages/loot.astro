@@ -1,0 +1,217 @@
+---
+// Loot Table — the reverse lookup a wiki can't give you:
+// pick a material, see which creature drops it (and how many).
+import Base from "../layouts/Base.astro";
+import DataTable from "../components/DataTable.astro";
+import Related from "../components/Related.astro";
+import creatures from "../data/creatures.json";
+
+const SPECIAL = /(when tamed|passive drop|when on legs|when killed|when analyzed|when filled)/i;
+const SKIP = /^(raw science|pet memorial)/i;
+// 分组标签：wiki 里 "Normal:" / "Burrowed:" / "Undershed:" 用来区分同一生物的多种形态，
+// 每种形态各有一张掉落表。整段只有标签时要记下来，不能当成材料名。
+const SEG_LABEL = /^[A-Z][A-Za-z &.\-]{2,20}:$/;
+const TAIL_LABEL = /^(.*?)\s+([A-Z][A-Za-z &.\-]{2,20}):$/;
+
+interface Drop {
+  name: string;
+  qty: string;
+  special: boolean;
+  creature: string;
+  slug: string;
+  tier: string;
+  variant: string;
+}
+
+function parseLoot(c: any): Drop[] {
+  const out: Drop[] = [];
+  const seen = new Set<string>();
+  let variant = "";
+  for (const seg of String(c.loot || "").split("*")) {
+    let s = seg.trim();
+    if (!s) continue;
+    // 整段就是一个分组标签 → 记录形态，继续下一段
+    if (SEG_LABEL.test(s)) {
+      variant = s.slice(0, -1).trim();
+      continue;
+    }
+    // 段尾挂着标签（"Tough Gunk (0-1) Burrowed:"）→ 剥掉标签，保留材料
+    const mt = TAIL_LABEL.exec(s);
+    if (mt) {
+      variant = mt[2];
+      s = mt[1].trim();
+    }
+    s = s
+      .replace(/^\d+px\|(?:link=)?/, "")
+      .replace(/\s*-{2,}\s*/g, " ")
+      .replace(/\}\}/g, " ")
+      .replace(/\{\{/g, " ")
+      .replace(/\|/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+    if (!s) continue;
+    let label = s;
+    let qty = "";
+    let special = false;
+    const m = /^(.*?)\s*\(([^()]*)\)\s*(.*)$/.exec(s);
+    if (m) {
+      label = m[1].trim();
+      qty = m[2].trim();
+      const tail = m[3].trim();
+      special = SPECIAL.test("(" + qty + ")");
+      // 括号后还跟着内容、且括号内不是条件说明 → 这一段缺材料名（只剩数量），丢弃
+      if (tail && !special) label = "";
+    }
+    const h = Math.floor(label.length / 2);
+    if (h > 2 && label.slice(0, h).trim().toLowerCase() === label.slice(h).trim().toLowerCase()) {
+      label = label.slice(h).trim();
+    } else {
+      label = label.replace(/^(.{3,}?)\s+\1$/i, "$1");
+    }
+    label = label.replace(/\s+/g, " ").replace(/^[-·,\s()]+|[-·,\s()]+$/g, "");
+    // 材料名必须含字母，否则是 wiki 模板残渣
+    if (!label || !/[A-Za-z]/.test(label) || label.length < 3 || SKIP.test(label)) continue;
+    // 同一生物同一形态下重复出现只保留一次
+    const key = label.toLowerCase() + "|" + variant.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    const t = String(c.tier ?? "").replace(/^T/i, "").split("|")[0].trim();
+    out.push({
+      name: label,
+      qty,
+      special,
+      creature: c.title,
+      slug: c.slug,
+      tier: /^\d|^boss/i.test(t) ? t : "",
+      variant,
+    });
+  }
+  return out;
+}
+
+const perCreature = creatures.map((c: any) => ({ c, drops: parseLoot(c) }));
+
+// 默认形态（Normal）不标注，只标出特殊形态，避免 "Ladybird Larva (Normal)" 这种噪音
+const vtag = (v: string) => (v && v.toLowerCase() !== "normal" ? ` (${v})` : "");
+const vpre = (v: string) => (v && v.toLowerCase() !== "normal" ? `${v}: ` : "");
+
+const byMat = new Map<string, Drop[]>();
+for (const { drops } of perCreature) {
+  for (const d of drops) {
+    const k = d.name.toLowerCase();
+    if (!byMat.has(k)) byMat.set(k, []);
+    byMat.get(k)!.push(d);
+  }
+}
+
+const matRows = [...byMat.values()]
+  .map((list) => {
+    // 同一生物的不同形态（Normal / Burrowed）算两个来源，但同一来源只出现一次
+    const seenSrc = new Set<string>();
+    const links: string[] = [];
+    for (const d of list) {
+      const k = d.slug + "|" + d.variant;
+      if (seenSrc.has(k)) continue;
+      seenSrc.add(k);
+      links.push(`<a href="/creatures/${d.slug}/">${d.creature}${vtag(d.variant)}</a>`);
+    }
+    const amounts = [...new Set(list.map((d) => d.qty).filter(Boolean))].join(" / ");
+    return {
+      material: list[0].name,
+      sources: links.join(" · "),
+      amount: amounts || "—",
+      count: String(links.length),
+    };
+  })
+  .sort((a, b) => a.material.localeCompare(b.material));
+
+const creatureRows = perCreature
+  .filter((x) => x.drops.length)
+  .map(({ c, drops }) => ({
+    creature: `<a href="/creatures/${c.slug}/">${c.title}</a>`,
+    tier: String(c.tier ?? "").replace(/^T/i, "").split("|")[0].trim() || "—",
+    drops: drops
+      .map((d) => `${vpre(d.variant)}${d.name}${d.qty ? ` (${d.qty})` : ""}`)
+      .join(" · "),
+    count: String(drops.length),
+  }))
+  .sort((a, b) => a.creature.localeCompare(b.creature));
+
+const matCount = matRows.length;
+const cCount = creatureRows.length;
+const dropCount = perCreature.reduce((s, x) => s + x.drops.length, 0);
+const topMats = [...matRows].sort((a, b) => Number(b.count) - Number(a.count)).slice(0, 6);
+---
+
+<Base
+  title="Grounded Loot Table — Every Drop & Which Creature Drops It"
+  description={`Grounded loot lookup: all ${dropCount} drops mapped to the ${cCount} creatures that drop them — Antlion Pincer, Tough Gunk, Web Fiber and the rest, with amounts.`}
+>
+  <h1>Grounded loot table</h1>
+  <p>
+    <strong>{matCount} materials</strong> drop from <strong>{cCount} creatures</strong> in Grounded —
+    {dropCount} drop entries in total. Wikis list loot on each bug's page and stop there. This table runs
+    the other way: type the material you need and see exactly which creature drops it, and how many per kill.
+  </p>
+
+  <div class="card" style="margin:1rem 0 1.5rem">
+    <p style="margin:0 0 0.5rem" class="muted">Most-shared drops — farm these from any of the sources listed:</p>
+    <p style="margin:0">
+      {topMats.map((m, i) => (
+        <>
+          {i > 0 && " · "}
+          <strong>{m.material}</strong> <span class="muted">({m.count} sources)</span>
+        </>
+      ))}
+    </p>
+  </div>
+
+  <h2 id="by-material">Which creature drops it? (material lookup)</h2>
+  <p class="muted">
+    Sorted A–Z. Click a column header to sort, or use the box to search — try <em>tough gunk</em>, <em>web fiber</em>
+    or <em>ant part</em>. "Amount" is the drop count per kill where the wiki records one.
+  </p>
+  <DataTable
+    id="mats"
+    rows={matRows}
+    searchPlaceholder="Search a material… e.g. tough gunk"
+    columns={[
+      { key: "material", label: "Material" },
+      { key: "sources", label: "Dropped by" },
+      { key: "amount", label: "Amount / drop rate" },
+      { key: "count", label: "Sources", type: "number" },
+    ]}
+  />
+
+  <h2 id="by-creature">Every creature's full drop list</h2>
+  <p class="muted">The same data forwards, if you already know what you are about to fight.</p>
+  <DataTable
+    id="cre"
+    rows={creatureRows}
+    searchPlaceholder="Search a creature… e.g. ladybug"
+    columns={[
+      { key: "creature", label: "Creature" },
+      { key: "tier", label: "Tier" },
+      { key: "drops", label: "Drops" },
+      { key: "count", label: "Items", type: "number" },
+    ]}
+  />
+
+  <h2>How to use this table</h2>
+  <p>
+    Crafting in Grounded is gated by one or two rare drops, not by the common ones. If you are building
+    an <a href="/armor/">armor set</a> or a <a href="/weapons/">weapon</a> and missing a single component,
+    search that component here first — the table shows every creature that drops it, so you can pick the
+    easiest fight instead of farming the one you happened to remember. Drops marked "when tamed" or
+    "passive drop" come from pets or specialist harvesting, not from kills.
+  </p>
+
+  <Related
+    heading="Next steps"
+    links={[
+      { href: "/creatures/", title: "Creature stats & weaknesses", sub: "See how hard the source actually is", tool: true },
+      { href: "/rankings/", title: "Damage & armor rankings", sub: "Pick the weapon before the fight", tool: true },
+      { href: "/calculator/", title: "Smoothie planner", sub: "Total the ingredients you just farmed", tool: true },
+    ]}
+  />
+</Base>

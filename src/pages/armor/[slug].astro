@@ -2,10 +2,11 @@
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import armor from "../../data/armor.json";
+import { cl, desc, stats, best } from "../../lib/seo";
 
 export async function getStaticPaths() {
   const armor = (await import("../../data/armor.json")).default;
-  return armor.map((a) => ({ params: { slug: a.slug }, props: { a } }));
+  return armor.filter((a) => !/\(Grounded\)$/.test(String(a.title))).map((a) => ({ params: { slug: a.slug }, props: { a } }));
 }
 const { a } = Astro.props;
 const totalDef = a.pieces.reduce((s, p) => s + p.defense, 0);
@@ -13,11 +14,25 @@ const totalRes = a.pieces.reduce((s, p) => s + p.resist, 0);
 const sameTier = a.tier
   ? armor.filter((x) => x.tier === a.tier && x.slug !== a.slug).slice(0, 3)
   : [];
+
+// SEO: de-duplicated set totals first, then the scraped summary sentence.
+const uniqPieces = a.pieces.filter((p, i, arr) => arr.findIndex((q) => q.name === p.name) === i);
+const setDef = uniqPieces.reduce((s, p) => s + (Number(p.defense) || 0), 0);
+const setRes = uniqPieces.reduce((s, p) => s + (Number(p.resist) || 0), 0);
+const description = desc(
+  `${a.title.replace(/ Armor$/, "")} set —`,
+  stats(
+    cl(a.tier) && `Tier ${cl(a.tier)}`,
+    uniqPieces.length > 0 && `${uniqPieces.length} pieces, ${setDef} total defense, ${setRes}% resistance`,
+    cl(a.setBonus) && `set bonus: ${cl(a.setBonus)}`
+  ),
+  best(a.summary, `Grounded armor set: per-piece defense, resistance and set bonus.`)
+);
 ---
 
 <Base
   title={`${a.title} — Grounded Armor Set Stats & Set Bonus`}
-  description={`${a.title} defense and resistance for each piece, piece effect and set bonus in Grounded.`}
+  description={description}
 >
   <p style="margin:0"><a href="/armor/">← All armor sets</a></p>
   <h1 class="icon-h1">
@@ -58,6 +73,7 @@ const sameTier = a.tier
     links={[
       { href: "/rankings/", title: "Armor sets ranked", sub: "All sets by defense & resistance", tool: true },
       { href: "/calculator/", title: "Smoothie planner", sub: "Total your buffs before a big fight", tool: true },
+      { href: "/loot/", title: "Loot table", sub: "Where the crafting materials drop", tool: true },
       ...sameTier.map((x) => ({ href: `/armor/${x.slug}/`, title: x.title, sub: x.tier ? `Tier ${x.tier} set` : "Armor set", icon: x.icon })),
     ]}
   />

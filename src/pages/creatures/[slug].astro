@@ -5,15 +5,18 @@ import armor from "../../data/armor.json";
 import trinkets from "../../data/trinkets.json";
 import consumables from "../../data/consumables.json";
 import weapons from "../../data/weapons.json";
+import { cl, desc, stats, best } from "../../lib/seo";
 
 export async function getStaticPaths() {
   const creatures = (await import("../../data/creatures.json")).default;
-  return creatures.map((c) => ({ params: { slug: c.slug }, props: { c } }));
+  return creatures.filter((c) => !/\(Grounded\)$/.test(String(c.title))).map((c) => ({ params: { slug: c.slug }, props: { c } }));
 }
 const { c } = Astro.props;
 
-const weaknesses = [c.eweakness, c.weakness1, c.weakness2, c.weakness3].filter(Boolean);
-const resistances = [c.eresistance1, c.eresistance2, c.eresistance3].filter(Boolean);
+// Wiki values carry template fragments ("Salty|inflicteffect1=-Movement Speed") — keep the first part.
+const clean = (v: unknown): string => cl(String(v ?? "").split("|")[0]);
+const weaknesses = [c.eweakness, c.weakness1, c.weakness2, c.weakness3].map(clean).filter(Boolean);
+const resistances = [c.eresistance1, c.eresistance2, c.eresistance3].map(clean).filter(Boolean);
 const attacks = String(c.attack || "")
   .split(/\n|\*/)
   .map((s) => s.replace(/[*:]/g, "").trim())
@@ -28,6 +31,19 @@ const loot = String(c.loot || "")
   .map((s) => s.replace(/\*/g, "").replace(/\(\d+-\d+\)/, "").trim())
   .filter((s) => s && !s.includes("NG") && !s.includes("LootBox") && !s.includes("Science"))
   .slice(0, 8);
+
+// SEO: defense / weakness / resistance up front, then the scraped summary sentence.
+const description = desc(
+  `${c.title} —`,
+  stats(
+    cl(c.tier) && `Tier ${cl(c.tier)}`,
+    clean(c.defense) && `defense ${clean(c.defense)}`,
+    weaknesses.length > 0 && `weak to ${weaknesses.slice(0, 3).join(", ")}`,
+    clean(c.resist) && `resists ${clean(c.resist).replace(/\bNone\b/g, "0%")}`,
+    attacks.length > 0 && `attacks up to ${Math.max(...attacks.map((a: any) => Number(a.dmg) || 0))} damage`
+  ),
+  best(c.summary, `Grounded creature: weaknesses, resistances and attack damage.`)
+);
 
 // related: items craftable from this creature's loot (match loot family word in recipes)
 const families = [...new Set(loot.map((l) => l.split(/[\s,]+/)[0]).filter((w) => w.length > 3))];
@@ -46,7 +62,7 @@ const related = families.length
 
 <Base
   title={`${c.title} — Grounded Creature Weaknesses & Stats`}
-  description={`${c.title} weaknesses, resistances, defense and attack damage in Grounded. Kill it fast with the right damage type.`}
+  description={description}
 >
   <p style="margin:0"><a href="/creatures/">← All creatures</a></p>
   <h1 class="icon-h1">
@@ -84,7 +100,7 @@ const related = families.length
       <table>
         <thead><tr><th>Attack</th><th>Damage</th></tr></thead>
         <tbody>
-          {attacks.map((a) => (
+          {attacks.map((a: any) => (
             <tr><td>{a.name}</td><td><strong>{a.dmg}</strong></td></tr>
           ))}
         </tbody>
@@ -97,6 +113,7 @@ const related = families.length
     <section>
       <h2>Loot</h2>
       <p>{loot.join(" · ")}</p>
+      <p class="muted"><a href="/loot/">See the full loot table →</a> every material and the creature that drops it.</p>
     </section>
   )}
 
@@ -106,7 +123,7 @@ const related = families.length
     heading="Next steps"
     links={[
       { href: "/rankings/", title: "Creature weakness cheat sheet", sub: "Every bug grouped by element", tool: true },
-      { href: "/weapons/", title: "Weapon damage rankings", sub: "Best damage-per-hit weapons", tool: true },
+      { href: "/loot/", title: "Loot table", sub: "Farm any material — see every creature that drops it", tool: true },
       ...related.map((r) => ({ href: r.href, title: r.title, sub: r.sub, icon: r.icon })),
     ]}
   />

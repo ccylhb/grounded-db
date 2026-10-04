@@ -2,18 +2,32 @@
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import trinkets from "../../data/trinkets.json";
+import { cl, desc, stats, best } from "../../lib/seo";
 
 export async function getStaticPaths() {
   const trinkets = (await import("../../data/trinkets.json")).default;
-  return trinkets.map((t) => ({ params: { slug: t.slug }, props: { t } }));
+  return trinkets.filter((t) => !/\(Grounded\)$/.test(String(t.title))).map((t) => ({ params: { slug: t.slug }, props: { t } }));
 }
 const { t } = Astro.props;
 const others = trinkets.filter((x) => x.slug !== t.slug).slice(0, 3);
+
+// SEO: effect and where to find it first, then the scraped summary sentence.
+const description = desc(
+  `${t.title} —`,
+  stats(
+    cl(t.tier) && `Tier ${cl(t.tier)}`,
+    cl(t.effect) && `effect: ${cl(t.effect)}`,
+    cl(t.effect2) && cl(t.effect2),
+    cl(t.location) && `found in ${cl(t.location)}`,
+    cl(t.source) && `source: ${cl(t.source)}`
+  ),
+  best(t.summary, `Grounded trinket: what it does and where to find it.`)
+);
 ---
 
 <Base
   title={`${t.title} — Grounded Trinket Effect & Location`}
-  description={`${t.title} effect, tier and location in Grounded.`}
+  description={description}
 >
   <p style="margin:0"><a href="/trinkets/">← All trinkets</a></p>
   <h1 class="icon-h1">
@@ -39,12 +53,14 @@ const others = trinkets.filter((x) => x.slug !== t.slug).slice(0, 3);
   )}
 
   {t.location && <p><strong>Where to find:</strong> {t.location}</p>}
+  {t.source && <p><strong>How to get:</strong> {t.source}</p>}
   {t.description && <p class="muted">{t.description}</p>}
 
   <Related
     heading="Next steps"
     links={[
       { href: "/rankings/", title: "Creature weakness cheat sheet", sub: "Bring the right element", tool: true },
+      { href: "/loot/", title: "Loot table", sub: "Where trinket materials drop", tool: true },
       ...others.map((x) => ({ href: `/trinkets/${x.slug}/`, title: x.title, sub: x.effect || "Trinket", icon: x.icon })),
     ]}
   />

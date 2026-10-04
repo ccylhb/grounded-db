@@ -47,13 +47,33 @@ def category_members(cat: str) -> list[str]:
     return sorted(set(titles))
 
 
+# --- wiki 魔术字展开 ---------------------------------------------------------
+# 清洗器整段删无名模板，{{PAGENAME}}（条目名）随之消失，正文出现主语缺失残句。
+_MAGIC_TITLE = re.compile(r"\{\{\s*(?:SUB|BASE|FULL)?PAGENAME(?:E)?\s*\}\}", re.I)
+_MAGIC_GAME = re.compile(r"\{\{\s*(?:Gamename|Game|SITENAME|Sitename)\s*\}\}", re.I)
+_MAGIC_DROP = re.compile(
+    r"\{\{\s*(?:DISPLAYTITLE|DEFAULTSORT|#(?:expr|var|if|ifeq|ifexist|switch|tag|invoke|time|pos|len|replace|sub|explode|titleparts)[^}]*)\}\}",
+    re.I,
+)
+
+
+def expand_magic(wt: str | None, title: str) -> str | None:
+    """把 {{PAGENAME}} 换成条目名，丢弃解析器函数等元魔术字。"""
+    if not wt:
+        return wt
+    wt = _MAGIC_TITLE.sub(lambda _m: title, wt)
+    wt = _MAGIC_GAME.sub("Grounded", wt)
+    wt = _MAGIC_DROP.sub("", wt)
+    return wt
+
+
 def get_wikitext(page: str) -> str | None:
     d = api({"action": "parse", "page": page, "prop": "wikitext"})
     if "parse" not in d:
         err = d.get("error", {}).get("info", "no parse in response")[:60]
         print(f"  MISS {page}: {err}")
         return None
-    return d["parse"]["wikitext"]["*"]
+    return expand_magic(d["parse"]["wikitext"]["*"], page)
 
 
 def match_infobox(wikitext: str, family: str) -> tuple[str, str] | None:
@@ -111,10 +131,34 @@ def first_sentence(wikitext: str) -> str:
     t = re.sub(r"<[^>]+>", " ", t)
     t = re.sub(r"\[\[([^|\]]*\|)?([^\]]*)\]\]", r"\2", t)
     t = re.sub(r"'{2,}", "", t)
-    m = re.search(r"is a[^.]*\.", t)
-    if m:
-        return clean(m.group(0))
-    parts = [p.strip() for p in t.split("\n") if len(p.strip()) > 40]
+
+    # 注意：旧写法 re.search(r"is a[^.]*\.", t) 会让匹配「从 is a 处开始」，
+    # 于是句子主语（The Acorn Armor / ARC.R …）连同前置短语一起被丢掉，
+    # 全站 408 条简介变成 "is a Tier 1 Heavy Armor Set in Grounded …"。
+    # 正确做法：先定位含有 "is a/an" 的那一行，再取该行里这一句的完整句子。
+    def _lead(line: str) -> str:
+        m = re.search(r"\bis (?:a|an)\b", line)
+        if not m:
+            return ""
+        # 从**行首**取到句末：句末 = 句点后跟「空格+大写」或行尾。
+        # 不能用 rfind(". ") 找句首边界 —— 会把缩写里的点当成句末，
+        # 例如 'The C.K.U. is a Tier 1 …' / 'The ARC.R is a …' 会把主语切掉。
+        tail = line[m.end():]
+        e = re.search(r"\.(?=\s+[A-Z]|\s*$)", tail)
+        end = m.end() + (e.end() if e else len(tail))
+        return line[:end].strip()
+
+    for ln in t.splitlines():
+        ln = ln.strip()
+        # 跳过 infobox 参数行/模板行（`|image=…` 这类行里也可能出现 "is a"）
+        if len(ln) < 20 or ln.startswith(("|", "=", "{", "}", "[", "!")):
+            continue
+        s = _lead(ln)
+        if len(s) >= 20:
+            return clean(s)[:240]
+    parts = [p.strip() for p in t.split("\n")
+             if len(p.strip()) > 40
+             and not p.strip().startswith(("|", "=", "{", "}", "[", "!"))]
     return clean(parts[0][:220]) if parts else ""
 
 

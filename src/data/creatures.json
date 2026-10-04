@@ -2,7 +2,7 @@
  {
   "title": "ARC.R",
   "slug": "ARC.R",
-  "summary": "is a more weaponized variant of the TAYZ.",
+  "summary": "The ARC.R is a more weaponized variant of the TAYZ.T found only in the Pond Lab and the Assistant Manager Fight.",
   "aggression": "Angry",
   "tier": "2",
   "description": "This upgraded energy blasting TAYZ.T fleet patrols the pond lab and follows orders in the black ant hill. Drops raw science on defeat.",
@@ -37,20 +37,18 @@
   "immune2": "Poison",
   "immune3": "Venom",
   "health": "220",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/ARC_R.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Ancient Pond Jockey Swarm",
   "slug": "Ancient_Pond_Jockey_Swarm",
-  "summary": "is a stronger variant of the Pond Jockey Swarm in Grounded 2 found throughout the entire Abyss region.",
-  "_ib": "",
-  "icon": "/icons/Ancient_Pond_Jockey_Swarm.png"
+  "summary": "The Ancient Pond Jockey Swarm is a stronger variant of the Pond Jockey Swarm in Grounded 2 found throughout the entire Abyss region.",
+  "_ib": ""
  },
  {
   "title": "Antlion",
   "slug": "Antlion",
-  "summary": "is an aggressive creature found in abundance, and is the primary and most dangerous insect threat of the Sandbox.",
+  "summary": "The Antlion is an aggressive creature found in abundance, and is the primary and most dangerous insect threat of the Sandbox.",
   "aggression": "Angry",
   "image": "Antlion.png",
   "environment": "* Antlion Burrows * Sandbox * Sandbox MIX.R",
@@ -82,13 +80,12 @@
   "effectresistance": "Gas Hazard|effectresistance%=25%",
   "tier": "3",
   "description": "This burrowing creature dwells in the dunes of the sandbox. Can drop antlion part and antlion pincer.",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Antlion.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Aphid",
   "slug": "Aphid",
-  "summary": "is a Harmless Creature in Grounded found throughout the majority of surface areas in the Backyard.",
+  "summary": "The Aphid is a Harmless Creature in Grounded found throughout the majority of surface areas in the Backyard.",
   "aggression": "Harmless",
   "description": "A tiny harmless sausage shaped bug found in regions surrounding the oak hill and other grassy areas. Becomes raw aphid meat on death.",
   "image": "Aphid.png",
@@ -99,13 +96,12 @@
   "health": "12",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Aphid.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Assistant Manager",
   "slug": "Assistant_Manager",
-  "summary": "is attack with the laser pillar, making the fight very hectic very quickly.",
+  "summary": "The Assistant Manager is the first story boss, and most likely the first boss enemy the player will encounter. It is the last challenge of the Black Anthill area. It cannot be re-summoned after being defeated.",
   "environment": "Black Anthill Lab",
   "aggression": "Angry",
   "defense": "20",
@@ -144,20 +140,18 @@
   "resistance5d%": "50%",
   "loot": "* Asst. Manager Keycard (1) * Raw Science (1000)",
   "health": "1400",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Assistant_Manager.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Axl",
   "slug": "Axl",
-  "summary": "is a Tier 3 Boss Creature in Grounded 2, being the first intended optional boss.",
-  "_ib": "",
-  "icon": "/icons/Axl.png"
+  "summary": "Axl is a Tier 3 Boss Creature in Grounded 2, being the first intended optional boss.",
+  "_ib": ""
  },
  {
   "title": "Baby Black Ant",
   "slug": "Baby_Black_Ant",
-  "summary": "is a Tier 2 pet that will always spawn after feeding a Yummy Gum Sandwich to the Black Ant Queen.",
+  "summary": "The Baby Black Ant is a Tier 2 pet that will always spawn after feeding a Yummy Gum Sandwich to the Black Ant Queen.",
   "description": "A harmless baby ant, proof of your friendship towards the colony.",
   "tier": "1",
   "aggression": "Harmless",
@@ -174,13 +168,12 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "loot": "*Pet Memorial Ant",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Baby_Black_Ant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Baby Fire Ant",
   "slug": "Baby_Fire_Ant",
-  "summary": "is a Tier 3 pet that will always spawn after feeding a Tasty Toejam Sandwich to the Fire Ant Queen.",
+  "summary": "The Baby Fire Ant is a Tier 3 pet that will always spawn after feeding a Tasty Toejam Sandwich to the Fire Ant Queen.",
   "description": "A harmless baby ant, proof of your friendship towards the colony.",
   "tier": "1",
   "aggression": "Harmless",
@@ -197,20 +190,18 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "loot": "*Pet Memorial Ant",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Baby_Fire_Ant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Baby Garden Snail",
   "slug": "Baby_Garden_Snail",
-  "summary": "is a Tier 3 Harmless Creature in Grounded 2 and the baby variant of Garden Snails.",
-  "_ib": "",
-  "icon": "/icons/Baby_Garden_Snail.png"
+  "summary": "The Baby Garden Snail is a Tier 3 Harmless Creature in Grounded 2 and the baby variant of Garden Snails.",
+  "_ib": ""
  },
  {
   "title": "Baby Red Ant",
   "slug": "Baby_Red_Ant",
-  "summary": "is a Tier 1 pet that will always spawn after feeding a Juicy Mushroom Sandwich to the Red Ant Queen.",
+  "summary": "The Baby Red Ant is a Tier 1 pet that will always spawn after feeding a Juicy Mushroom Sandwich to the Red Ant Queen.",
   "description": "A harmless baby ant, proof of your friendship towards the colony.",
   "tier": "1",
   "aggression": "Harmless",
@@ -227,13 +218,12 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "loot": "*Pet Memorial Ant",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Baby_Red_Ant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Bee",
   "slug": "Bee",
-  "summary": "is also possible to knock pollen off their legs, when they are carrying it, by inflicting damage on them.",
+  "summary": "This is a more advanced covering of the loot-table of Bee.",
   "image": "Bee.png",
   "aggression": "Neutral",
   "description": "A noble creature that surveys most of the yard looking for nectar and lives at the picnic table. Carries pollen and can drop bee fuzz and bee stinger on death.",
@@ -264,25 +254,23 @@
   "resistance2%": "25%",
   "weakpoint": "Eyes",
   "health": "375",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Bee.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Black Ant Queen",
   "slug": "Black_Ant_Queen",
-  "summary": "is a unique creature found in the depths of the Black Anthill.",
+  "summary": "The Black Ant Queen is a unique creature found in the depths of the Black Anthill.",
   "environment": "Black Anthill",
   "aggression": "Harmless",
   "loot": "*Black Ant Queen Chunk (10) *Black Ant Queen Head (1) *Black Ant Queen Pheromone (5)",
   "tier": "2",
   "description": "Queen of the black ants, found deep within the sandbox anthill.",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Black_Ant_Queen.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Black Ox Beetle",
   "slug": "Black_Ox_Beetle",
-  "summary": "is a powerful creature found throughout the upper yard.",
+  "summary": "The Black Ox Beetle is a powerful creature found throughout the upper yard.",
   "aggression": "Angry",
   "description": "A burly foe who roams the lands surrounding the shed. Can drop black ox horn, black ox part, and tough gunk on death.",
   "eweakness": "Salty",
@@ -312,13 +300,12 @@
   "environment": "* Moldorc Highlands *Shed Surroundings *Undershed *Upper Grasslands",
   "loot": "* 30px|link=Black Ox Horn Black Ox Horn (0-1) * 30px|link=Black Ox Part Black Ox Part (1-5) * 30px|link=Tough Gunk Tough Gunk (0-4)",
   "health": "1450",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Black_Ox_Beetle.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Black Soldier Ant",
   "slug": "Black_Soldier_Ant",
-  "summary": "is a Tier 2 Angry Creature in Grounded found throughout the Black Anthill and the sheds porch.",
+  "summary": "The Black Soldier Ant is a Tier 2 Angry Creature in Grounded found throughout the Black Anthill and the sheds porch.",
   "aggression": "Angry",
   "weakpoint": "Eyes",
   "eweakness": "Spicy",
@@ -344,13 +331,12 @@
   "environment": "* Black Anthill * Shed Surroundings * Northern Grasslands MIX.R * Trash Heap * Western Grasslands",
   "loot": "*Black Ant Head (0-1) *Black Ant Mandibles (1-2) *Black Ant Part (0-2)",
   "health": "600",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Black_Soldier_Ant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Black Widow",
   "slug": "Black_Widow",
-  "summary": "is a challenging spider variant located within the Upper Yard, and is perhaps one of, if not the most, deadly non-boss spider the player can fight.",
+  "summary": "The Black Widow is a challenging spider variant located within the Upper Yard, and is perhaps one of, if not the most, deadly non-boss spider the player can fight.",
   "aggression": "Angry",
   "tier": "3",
   "health": "3000",
@@ -379,13 +365,12 @@
   "description": "Legendary killer spider in classic black and red. Identifiable by the hourglass marking that indicates your time is at hand. Found in areas in the upper yard. Drops super spider venom, black widow fangs, and spider chunks on death.",
   "environment": "* Black Widow Cave *Brawny Boy Bin * Moldorc Highlands * Undershed * Upper Grasslands",
   "loot": "*Black Widow Fang Black Widow Fang (0-2) *Spider Chunk Spider Chunk (0-1) *Super Spider Venom Super Spider Venom (0-1)",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Black_Widow.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Black Widowling",
   "slug": "Black_Widowling",
-  "summary": "is a stronger variant of the Spiderlings of the lower yard.",
+  "summary": "The Black Widowling is a stronger variant of the Spiderlings of the lower yard.",
   "aggression": "Angry",
   "tier": "3",
   "defense": "0",
@@ -411,13 +396,12 @@
   "stuntime": "N/A",
   "effectresistance": "Poison",
   "effectresistance%": "50%",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Black_Widowling.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Black Worker Ant",
   "slug": "Black_Worker_Ant",
-  "summary": "is a Tier 2 Neutral Creature in Grounded found around the western sections of the yard and the sheds porch.",
+  "summary": "The Black Worker Ant is a Tier 2 Neutral Creature in Grounded found around the western sections of the yard and the sheds porch.",
   "aggression": "Neutral",
   "image1": "Black Worker Ant.png",
   "tier": "2",
@@ -439,20 +423,18 @@
   "stuntime": "15 Sec",
   "environment": "* Black Anthill * Picnic Table * Sandbox * Shed Surroundings * Trash Heap *Undershed * Western Grasslands",
   "health": "425",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Black_Worker_Ant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Blue Butterfly",
   "slug": "Blue_Butterfly",
-  "summary": "is a Tier 2 Neutral Creature in Grounded 2.",
-  "_ib": "",
-  "icon": "/icons/Blue_Butterfly.png"
+  "summary": "The Blue Butterfly is a Tier 2 Neutral Creature in Grounded 2.",
+  "_ib": ""
  },
  {
   "title": "Bombardier Beetle",
   "slug": "Bombardier_Beetle",
-  "summary": "is a Tier 2 Angry Creature in Grounded found sparsely in a majority of the early-game biomes of the Backyard.",
+  "summary": "The Bombardier Beetle is a Tier 2 Angry Creature in Grounded found sparsely in a majority of the early-game biomes of the Backyard.",
   "image": "Bombardier Beetle.png",
   "loot": "* Boiling Gland (0-1) * Bombardier Part (0-4)",
   "environment": "* Eastern Flooded Zone * Grasslands",
@@ -480,81 +462,71 @@
   "tier": "2",
   "description": "A beetle with a big blasting booty that patrols the south east area of the yard. A highly volatile boiling gland and bombardier part can be dropped on death.",
   "health": "500",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Bombardier_Beetle.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "C.K.U.",
   "slug": "C.K.U",
-  "summary": "is a Tier 1 weaker variant of the CHOP.",
-  "_ib": "",
-  "icon": "/icons/C_K_U.png"
+  "summary": "The C.K.U. is a Tier 1 weaker variant of the CHOP.R in Grounded 2 found patrolling inside the Monitoring Station and Ominent outposts in the Rocky Chamber only after the antenna near it is active.",
+  "_ib": ""
  },
  {
   "title": "CHOP.R",
   "slug": "CHOP.R",
-  "summary": "is a Tier 2 Angry Creature in Grounded 2 found patrolling inside the Monitoring Station and Ominent outposts in the Rocky Chamber only after the antenna near it is active.",
-  "_ib": "",
-  "icon": "/icons/CHOP_R.png"
+  "summary": "The CHOP.R is a Tier 2 Angry Creature in Grounded 2 found patrolling inside the Monitoring Station and Ominent outposts in the Rocky Chamber only after the antenna near it is active.",
+  "_ib": ""
  },
  {
   "title": "Caterpillar",
   "slug": "Caterpillar",
-  "summary": "is a Tier 2 Harmless Creature in Grounded 2 often found on the leaves of Milkweed Plants and on various roots and branches of the trees across Brookhollow Park.",
-  "_ib": "",
-  "icon": "/icons/Caterpillar.png"
+  "summary": "The Caterpillar is a Tier 2 Harmless Creature in Grounded 2 often found on the leaves of Milkweed Plants and on various roots and branches of the trees across Brookhollow Park.",
+  "_ib": ""
  },
  {
   "title": "Cockroach",
   "slug": "Cockroach",
-  "summary": "is a Tier 2 Neutral Creature in Grounded 2.",
-  "_ib": "",
-  "icon": "/icons/Cockroach.png"
+  "summary": "The Cockroach is a Tier 2 Neutral Creature in Grounded 2.",
+  "_ib": ""
  },
  {
   "title": "Cockroach Nymph",
   "slug": "Cockroach_Nymph",
-  "summary": "is a Tier 2 Neutral Creature in Grounded 2 and juvenile variant of the Cockroach.",
-  "_ib": "",
-  "icon": "/icons/Cockroach_Nymph.png"
+  "summary": "The Cockroach Nymph is a Tier 2 Neutral Creature in Grounded 2 and juvenile variant of the Cockroach.",
+  "_ib": ""
  },
  {
   "title": "Cockroach Queen",
   "slug": "Cockroach_Queen",
-  "summary": "is a Tier 2 Angry Creature in Grounded 2 found in very specific and unique locations, often surrounded by other Cockroaches.",
-  "_ib": "",
-  "icon": "/icons/Cockroach_Queen.png"
+  "summary": "The Cockroach Queen is a Tier 2 Angry Creature in Grounded 2 found in very specific and unique locations, often surrounded by other Cockroaches.",
+  "_ib": ""
  },
  {
   "title": "Creatures (Grounded)",
   "slug": "Creatures_(Grounded)",
   "summary": "Creatures are the friends and foes found across the many Biomes of the Backyard. They all serve primarily in one of the many sources of various Resources as well as the majority being dangerous threats. They come in vary",
-  "_ib": "",
-  "icon": "/icons/Creatures_Grounded.png"
+  "_ib": ""
  },
  {
   "title": "Cricket",
   "slug": "Cricket",
-  "summary": "is a Tier 3 Neutral Creature in Grounded 2 found throughout the Garden region of Brookhollow Park.",
-  "_ib": "",
-  "icon": "/icons/Cricket.png"
+  "summary": "The Cricket is a Tier 3 Neutral Creature in Grounded 2 found throughout the Garden region of Brookhollow Park.",
+  "_ib": ""
  },
  {
   "title": "Crow",
   "slug": "Crow",
-  "summary": "is a flying non-interactable Colossi Creature found in Grounded that will randomly perch on various locations across the Backyard.",
+  "summary": "The Crow is a flying non-interactable Colossi Creature found in Grounded that will randomly perch on various locations across the Backyard.",
   "aggression": "Harmless",
   "image": "Crow.png",
   "loot": "*Crow Feather (Passive Drop) **Crow Feather Piece (1-6)",
   "environment": "*Haze *Hedge *Koi Pond *Moldorc Highlands *Picnic Table *Western Grasslands",
   "tier": "Boss",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Crow.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Director Schmector",
   "slug": "Director_Schmector",
-  "summary": "is an optional secret boss enemy found below Castle Moldorc in the Mysterious Lab.",
+  "summary": "Director Schmector is an optional secret boss enemy found below Castle Moldorc in the Mysterious Lab.",
   "environment": "Mysterious Lab",
   "aggression": "Angry",
   "defense": "40",
@@ -597,13 +569,12 @@
   "resistance5d%": "50%",
   "description": "One of the most disliked employees in Ominent history: Director Dalton Schmector. Found dwelling in the lab beneath the damp depths of Castle Moldorc, toiling away on Project O.R.C. Drops a very important looking Ominent Data Disk.",
   "tier": "Boss",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Director_Schmector.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Diving Bell Spider",
   "slug": "Diving_Bell_Spider",
-  "summary": "is a hostile arachnid.",
+  "summary": "The Diving Bell Spider is a hostile arachnid.",
   "loot": "* Diving Bell Spider Chunk (1) * Web Fiber (0-3)",
   "environment": "* Exposed Pipe * Koi Pond * Pond Caves * Pond Depths * Pond Lab",
   "weakness": "Slashing",
@@ -624,13 +595,12 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "respawn": "*Default: 2 Days *Pond Depths: 1 Day",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Diving_Bell_Spider.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Dust Mite",
   "slug": "Dust_Mite",
-  "summary": "is a creature found in large clusters around the Shed Surroundings and the Undershed.",
+  "summary": "The Dust Mite is a creature found in large clusters around the Shed Surroundings and the Undershed.",
   "eweakness": "Fresh",
   "weakness": "Stabbing",
   "resistance1": "Busting",
@@ -661,25 +631,23 @@
   "immune": "Dust",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Dust_Mite.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Fire Ant Queen",
   "slug": "Fire_Ant_Queen",
-  "summary": "is a unique creature found in the depths of the Fire Anthill.",
+  "summary": "The Fire Ant Queen is a unique creature found in the depths of the Fire Anthill.",
   "environment": "Fire Anthill",
   "aggression": "Harmless",
   "loot": "*Fire Ant Queen Chunk (10) *Fire Ant Queen Head (1) *Fire Ant Queen Pheromone (5)",
   "tier": "3",
   "description": "Queen of the fire ants, found deep within the upper yard anthill.",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Fire_Ant_Queen.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Fire Soldier Ant",
   "slug": "Fire_Soldier_Ant",
-  "summary": "is an aggressive creature found in high amounts in the Upper Grasslands and their anthill.",
+  "summary": "The Fire Soldier Ant is an aggressive creature found in high amounts in the Upper Grasslands and their anthill.",
   "description": "An extra spicy ant soldier that lives in colonies in the upper yard. Can drop Fire Ant Mandibles, Fire Ant Parts, and Fire Ant Heads.",
   "aggression": "Angry",
   "tier": "3|stun=60",
@@ -702,13 +670,12 @@
   "eresistance%": "75%",
   "weakpoint": "Eyes",
   "health": "900",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Fire_Soldier_Ant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Fire Worker Ant",
   "slug": "Fire_Worker_Ant",
-  "summary": "is an tier 3 variant of ants found primarily in the Upper Grasslands and their anthill.",
+  "summary": "The Fire Worker Ant is an tier 3 variant of ants found primarily in the Upper Grasslands and their anthill.",
   "description": "A spicy ant that lives in colonies in the upper yard. Can drop fire ant part and a fire ant head.",
   "aggression": "Angry|stun=25",
   "stuntime": "15 Sec",
@@ -731,13 +698,12 @@
   "eresistance%": "75%",
   "weakpoint": "Eyes",
   "health": "600",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Fire_Worker_Ant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Firefly",
   "slug": "Firefly",
-  "summary": "is a Tier 2 Neutral Creature in Grounded found primarily at night.",
+  "summary": "The Firefly is a Tier 2 Neutral Creature in Grounded found primarily at night.",
   "image": "Firefly.png",
   "loot": "* 30px|Glow Goo Glow Goo (1-3) * 30px|Iridescent Scale Iridescent Scale (0-2)",
   "respawn": "5 Days",
@@ -761,13 +727,12 @@
   "environment": "* Flooded Zone (Night) * Flower Bed (Night)",
   "aggression": "Neutral",
   "health": "330",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Firefly.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Garden Snail",
   "slug": "Garden_Snail",
-  "summary": "is a Tier 3 Harmless Creature in Grounded 2.",
+  "summary": "The Garden Snail is a Tier 3 Harmless Creature in Grounded 2.",
   "aggression": "Harmless",
   "description": "A common gastropod found around the park. Drops raw meat and eye stalks on death. Bust the shell to collect garden snail fragments.",
   "tier": "3",
@@ -785,13 +750,12 @@
   "eweakness2%": "25%",
   "buildeffectweakness": "Chill",
   "buildeffectweakness%": "200%",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Garden_Snail.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Gnat",
   "slug": "Gnat",
-  "summary": "is a Harmless Creature in Grounded often found flying near various pools of water.",
+  "summary": "The Gnat is a Harmless Creature in Grounded often found flying near various pools of water.",
   "aggression": "Harmless",
   "image": "Gnat.png",
   "description": "An annoying but harmless flying pest found mainly around pools of water. Drops gnat fuzz and raw gnat meat on death.",
@@ -802,13 +766,12 @@
   "stun": "N/A",
   "respawn": "*Default: *Undershed:",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Gnat.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Green Shield Bug",
   "slug": "Green_Shield_Bug",
-  "summary": "is a more powerful variant of the Stinkbug found throughout the upper yard in mostly sparse or secluded areas.",
+  "summary": "The Green Shield Bug is a more powerful variant of the Stinkbug found throughout the upper yard in mostly sparse or secluded areas.",
   "aggression": "Angry",
   "tier": "3",
   "description": "A smelly behemoth that patrols the area around the shed. Can drop tough gunk, stinkbug part, and the almighty super stink sack.",
@@ -834,13 +797,12 @@
   "attackstype": "All Attacks",
   "health": "2000",
   "immune": "Gas Hazard",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Green_Shield_Bug.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Grub",
   "slug": "Grub",
-  "summary": "is a Harmless Creature in Grounded often found in areas of low ground or caves.",
+  "summary": "The Grub is a Harmless Creature in Grounded often found in areas of low ground or caves.",
   "aggression": "Harmless",
   "image": "Grub.png",
   "loot": "* Grub Sludge (1-6) * Grub Hide (1-3) * Raw Grub Meat (0-1)",
@@ -850,13 +812,12 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "respawn": "Default:",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Grub.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Hedge Broodmother",
   "slug": "Hedge_Broodmother",
-  "summary": "is a boss Creature found deep within the Hedge, meant to be fought sometime after the Black Anthill Lab.",
+  "summary": "The Hedge Broodmother is a boss Creature found deep within the Hedge, meant to be fought sometime after the Black Anthill Lab.",
   "environment": "Hedge",
   "description": "Deep in her lair, and summoned with a BLT, the terrifying queen of spiders known as the broodmother waits for battle. Drops broodmother chunks, broodmother fangs, broodmother venom, and web fiber on death.",
   "mutationunlock": "Mom Genes",
@@ -899,13 +860,12 @@
   "inflictattack3": "Pounce",
   "inflicteffect4": "Poison (Broodmother)",
   "inflictattack4": "All Attacks In Phase 2",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Hedge_Broodmother.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Infected Ant",
   "slug": "Infected_Ant",
-  "summary": "is an infected variant of either a Red Worker Ant, Black Worker Ant, or Fire Worker Ant that spawns in places of them in their Anthills if a Infected Ant Queen is present.",
+  "summary": "The Infected Ant is an infected variant of either a Red Worker Ant, Black Worker Ant, or Fire Worker Ant that spawns in places of them in their Anthills if a Infected Ant Queen is present.",
   "description": "An abomination of your own creation, mindlessly working for a queen long gone.",
   "aggression": "Angry",
   "tier": "3",
@@ -927,24 +887,22 @@
   "eweakness%": "50%",
   "weakpoint": "Eyes",
   "health": "300",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Infected_Ant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Infected Ant Queen",
   "slug": "Infected_Ant_Queen",
-  "summary": "is a unique creature found only in New Game+ after the player has infected a previous ant queen in either the base save before starting New Game+ or the previous New Game+.",
+  "summary": "The Infected Ant Queen is a unique creature found only in New Game+ after the player has infected a previous ant queen in either the base save before starting New Game+ or the previous New Game+.",
   "environment": "Anthills",
   "aggression": "Harmless",
   "tier": "3",
   "description": "The resulting creature after infecting an ant queen. Strangely docile compared to other sources of infection.",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Infected_Ant_Queen.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Infected Broodmother",
   "slug": "Infected_Broodmother",
-  "summary": "is an extraordinarily strong variant of the Hedge Broodmother boss and by far the hardest boss encounter in the game.",
+  "summary": "The Infected Broodmother is an extraordinarily strong variant of the Hedge Broodmother boss and by far the hardest boss encounter in the game.",
   "aggression": "Angry",
   "tier": "Boss",
   "environment": "Haze",
@@ -986,13 +944,12 @@
   "inflictattack4": "5-Hit Combo, Dodge Dust Cloud, Scream, and Spore Shot",
   "inflicteffect5": "Venom",
   "inflictattack5": "Charged Bite and Side Lunge",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Infected_Broodmother.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Infected Gnat",
   "slug": "Infected_Gnat",
-  "summary": "is a more advanced covering of the loot-table of .",
+  "summary": "This is a more advanced covering of the loot-table of Infected Gnat.",
   "aggression": "Angry",
   "tier": "2",
   "description": "A variant of gnat infected by parasitic fungi. Found in pockets of haze that appear across the yard. Drops fungal growth, gnat fuzz, and raw gnat meat on death.",
@@ -1005,13 +962,12 @@
   "health": "40",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Infected_Gnat.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Infected Ladybug",
   "slug": "Infected_Ladybug",
-  "summary": "is a dangerous, infected creature found sparsely throughout the Haze biome.",
+  "summary": "The Infected Ladybug is a dangerous, infected creature found sparsely throughout the Haze biome.",
   "aggression": "Angry",
   "tier": "2",
   "defense": "15",
@@ -1042,13 +998,12 @@
   "health": "Normal: 800 Haze Lab: 900",
   "stun": "80",
   "stuntime": "45 Sec",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Infected_Ladybug.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Infected Larva",
   "slug": "Infected_Larva",
-  "summary": "is an infected creature that can be found in the Haze, especially in the resource rich crevices of the area.",
+  "summary": "The Infected Larva is an infected creature that can be found in the Haze, especially in the resource rich crevices of the area.",
   "aggression": "Angry",
   "tier": "2",
   "description": "A hostile infected larva found in areas polluted with haze. Can drop fungal growth, acid gland, and larva spike on death.",
@@ -1084,13 +1039,12 @@
   "eresistance2": "Spicy",
   "immune": "Gas Hazard",
   "health": "300",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Infected_Larva.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Infected Mite",
   "slug": "Infected_Mite",
-  "summary": "is a mutated version of the Lawn Mite found in the Haze biome.",
+  "summary": "Infected Mite is a mutated version of the Lawn Mite found in the Haze biome.",
   "aggression": "Angry",
   "tier": "2",
   "defense": "6",
@@ -1122,13 +1076,12 @@
   "health": "140",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Infected_Mite.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Infected Soldier Ant",
   "slug": "Infected_Soldier_Ant",
-  "summary": "is an infected variant of either a Red Soldier Ant, Black Soldier Ant, or Fire Soldier Ant that spawns in place of them in their Anthills if an Infected Ant Queen is present.",
+  "summary": "The Infected Soldier Ant is an infected variant of either a Red Soldier Ant, Black Soldier Ant, or Fire Soldier Ant that spawns in place of them in their Anthills if an Infected Ant Queen is present.",
   "description": "An abomination of your own creation, tasked with defending the home of its infected queen.",
   "aggression": "Angry",
   "tier": "3",
@@ -1154,13 +1107,12 @@
   "weakness%": "25%",
   "weakpoint": "Eyes",
   "health": "600",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Infected_Soldier_Ant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Infected Weevil",
   "slug": "Infected_Weevil",
-  "summary": "is a mutated version of the Weevil found in the Haze biome.",
+  "summary": "The Infected Weevil is a mutated version of the Weevil found in the Haze biome.",
   "aggression": "Angry",
   "tier": "2",
   "description": "A irritable, explosing, fungal-infected weevil found in areas polluted by haze. Can drop fungal growth and weevil nose on death.",
@@ -1187,13 +1139,12 @@
   "health": "100",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Infected_Weevil.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Infected Wolf Spider",
   "slug": "Infected_Wolf_Spider",
-  "summary": "is a strong creature that appears after sealing the weed killer canister in the Haze.",
+  "summary": "The Infected Wolf Spider is a strong creature that appears after sealing the weed killer canister in the Haze.",
   "aggression": "Angry",
   "tier": "3",
   "description": "A massive spider infected by fungus and found in areas polluted by haze. Can drop fungal growth in addition to the usual spider gibs.",
@@ -1229,20 +1180,18 @@
   "eresistance%": "50%",
   "eweakness1%": "50%",
   "immune": "Gas Hazard",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Infected_Wolf_Spider.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Infused Creatures",
   "slug": "Infused_Creatures",
-  "summary": "is and Mini-Mant when summoned by their respective bosses in New Game+.",
-  "_ib": "",
-  "icon": ""
+  "summary": "Infused Creatures are stronger variants of ordinary Creatures that replace 10% of creatures in New Game+. These creatures have a chance to replace any normal variant of their respective creature as they spawn in. They ca",
+  "_ib": ""
  },
  {
   "title": "King Dozer",
   "slug": "King_Dozer",
-  "summary": "is a Tier 3 Boss Creature in Grounded 2, being the second intended optional boss after Axl.",
+  "summary": "King Dozer is a Tier 3 Boss Creature in Grounded 2, being the second intended optional boss after Axl.",
   "resist": "Phase 1: 20% Phase 2: 50% Phase 3: 70%",
   "buildeffectresistance1b": "Chill",
   "buildeffectresistance1b%": "75%",
@@ -1274,13 +1223,12 @@
   "stuntime": "120 Sec",
   "loot": "*Lizard Horn (2) *Lizard Scale (3-5) *Searing Stone (1)",
   "weakpoint": "Eyes",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/King_Dozer.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Koi Fish",
   "slug": "Koi_Fish",
-  "summary": "is an aquatic creature found in the Koi Pond biome.",
+  "summary": "The Koi Fish is an aquatic creature found in the Koi Pond biome.",
   "environment": "Koi Pond",
   "aggression": "Angry",
   "loot": "Koi Fish Scale (10% Chance Per Hit)",
@@ -1289,13 +1237,12 @@
   "attackstype": "All Attacks",
   "tier": "Boss",
   "description": "Queen of the pond. Wendell's prized koi fish asserts her dominance on anyone who dares to trespass in her domain.",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Koi_Fish.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Ladybird",
   "slug": "Ladybird",
-  "summary": "is an extremely deadly attack and can do a lot of damage if not perfectly blocked.",
+  "summary": "Ladybirds behave in a similar manner to Ladybugs, roaming aimlessly and sleeping under Dandelions when they are nearby. They share all of the Ladybug's attacks, including the headbutt, shoulder tackle, charging attack, regeneration roar, an",
   "loot": "* Ladybird Shell (0-2) * Ladybug Head (1) * Ladybug Part (0-4) * Tough Gunk (0-5)",
   "defense": "10",
   "resist": "25%",
@@ -1327,13 +1274,12 @@
   "weakness2%": "25%",
   "eresistance2%": "25%",
   "resistance%": "50%",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Ladybird.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Ladybird Larva",
   "slug": "Ladybird_Larva",
-  "summary": "is a combo bite and the second is a charge bite.",
+  "summary": "Ladybird Larvae have two variants, normal and burrowing variants. The normal larvae act in a similar manner to their weaker counterparts, wandering the general area especially in their caves. The burrowing variant behave mildly differently ",
   "aggression": "Angry",
   "eweakness": "Fresh",
   "weakness": "Stabbing",
@@ -1362,13 +1308,12 @@
   "description": "An extra tough larva built to survive the harsh climate of the BBQ spill and can be found roaming the upper yard. Can drop acid gland, tough gunk, and larva spike on death.",
   "loot": "Normal: * Acid Gland (4) * Larva Spike (1) * Tough Gunk (0-1) Burrowed: * Acid Gland (4) * Larva Spike (1-4) * Tough Gunk (0-1) }}",
   "health": "450",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Ladybird_Larva.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Ladybug",
   "slug": "Ladybug",
-  "summary": "is a Tier 2 Neutral Creature in Grounded found sparsely across a majority of early-game areas.",
+  "summary": "The Ladybug is a Tier 2 Neutral Creature in Grounded found sparsely across a majority of early-game areas.",
   "image": "Ladybug.png",
   "loot": "*Ladybug Head (0-1) *Ladybug Part (2-5)",
   "eweakness": "Fresh",
@@ -1399,13 +1344,12 @@
   "description": "Trundles through areas surrounding the oak hill looking for aphid snacks. Can drop ladybug head and ladybug part on death.",
   "aggression": "Neutral",
   "health": "600",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Ladybug.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Larva",
   "slug": "Larva",
-  "summary": "is a Tier 1 Angry Creature in Grounded found primarily patrolling the Central Grasslands and Eastern Flooded Zone.",
+  "summary": "The Larva is a Tier 1 Angry Creature in Grounded found primarily patrolling the Central Grasslands and Eastern Flooded Zone.",
   "image": "Larva.png",
   "loot": "* Acid Gland (0-1) * Larva Spike (1)",
   "environment": "* Central Grasslands * Eastern Flooded Zone * Hedge MIX.R * Larva Cave",
@@ -1424,13 +1368,12 @@
   "aggression": "Angry",
   "health": "185|stun=25",
   "stuntime": "4 Sec",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Larva.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Lawn Mite",
   "slug": "Lawn_Mite",
-  "summary": "is a Tier 1 Angry Creature in Grounded found primarily in the Central Grasslands in small swarms.",
+  "summary": "The Lawn Mite is a Tier 1 Angry Creature in Grounded found primarily in the Central Grasslands in small swarms.",
   "image": "Lawn Mite.png",
   "environment": "* Central Grasslands * Central Grasslands MIX.R * Eastern Flooded Zone * Wire Cave",
   "weakness1": "Stabbing",
@@ -1449,13 +1392,12 @@
   "heath": "41",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Lawn_Mite.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Mant",
   "slug": "Mant",
-  "summary": "is a Boss Creature found in the Undershed Lab, blocking the path to Dr.",
+  "summary": "The Mant is a Boss Creature found in the Undershed Lab, blocking the path to Dr.",
   "environment": "Undershed Lab",
   "aggression": "Angry",
   "eweakness": "Fresh",
@@ -1491,20 +1433,18 @@
   "stun": "100",
   "stuntime": "40 Sec",
   "mutationunlock": "Mantsterious Stranger",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Mant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Masked Stranger",
   "slug": "Masked_Stranger",
-  "summary": "is an unknown teenage figure who leads an army of O.",
-  "_ib": "",
-  "icon": "/icons/Masked_Stranger.png"
+  "summary": "The Masked Stranger, also referred to as the Mysterious Stranger or Someone is the main antagonist and first story Boss of Grounded 2. She is an unknown teenage figure who leads an army of O.R.C Creatures with supposed intentions of destroy",
+  "_ib": ""
  },
  {
   "title": "Meaty Gnat",
   "slug": "Meaty_Gnat",
-  "summary": "is a larger variant of the Gnat found in the Trash Heap.",
+  "summary": "The Meaty Gnat is a larger variant of the Gnat found in the Trash Heap.",
   "aggression": "Harmless",
   "description": "A yoked variant of the gnat that thrives in the wastes of the trash heap. Can drop gnat fuzz and raw gnat meat on death.",
   "environment": "Trash Heap",
@@ -1517,13 +1457,12 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "respawn": "* Default:",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Meaty_Gnat.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Mosquito",
   "slug": "Mosquito",
-  "summary": "is a Tier 2 Angry Creature in Grounded found near various bodies of water, especially in early-game areas.",
+  "summary": "The Mosquito is a Tier 2 Angry Creature in Grounded found near various bodies of water, especially in early-game areas.",
   "image": "Mosquito.png",
   "loot": "* Mosquito Beak (1) * Mosquito Blood Sack (When Filled)",
   "environment": "* Flower Bed * Northern Grasslands MIX.R * Shed Surroundings *Undershed * Woodpile",
@@ -1547,13 +1486,12 @@
   "resistance2%": "50%",
   "aggression": "Angry",
   "health": "400",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Mosquito.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Moth",
   "slug": "Moth",
-  "summary": "is a creature found throughout the eastern upper yard, primarily around bright light sources.",
+  "summary": "The Moth is a creature found throughout the eastern upper yard, primarily around bright light sources.",
   "aggression": "Neutral",
   "eweakness1b": "Fresh",
   "eweakness2b": "Sour",
@@ -1589,34 +1527,30 @@
   "loot": "* Moth Fuzz (1-7) * Moth Scale (0-1)",
   "description": "A nocturnal creature that mainly floats around the rotten stump. Can drop moth fuzz and moth scales on death.",
   "health": "1200",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Moth.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Northern Scorpion",
   "slug": "Northern_Scorpion",
-  "summary": "is a Tier 2 Angry Creature in Grounded 2.",
-  "_ib": "",
-  "icon": "/icons/Northern_Scorpion.png"
+  "summary": "The Northern Scorpion is a Tier 2 Angry Creature in Grounded 2.",
+  "_ib": ""
  },
  {
   "title": "Northern Scorpion Jr.",
   "slug": "Northern_Scorpion_Jr",
-  "summary": "is a Tier 2 Angry Creature and the juvenile variant of the Northern Scorpions.",
-  "_ib": "",
-  "icon": "/icons/Northern_Scorpion_Jr.png"
+  "summary": "The Northern Scorpion Jr. is a Tier 2 Angry Creature and the juvenile variant of the Northern Scorpions.",
+  "_ib": ""
  },
  {
   "title": "Northern Scorpling",
   "slug": "Northern_Scorpling",
-  "summary": "is a Tier 2 Neutral Creature and a weak variant of the Northern Scorpion.",
-  "_ib": "",
-  "icon": "/icons/Northern_Scorpling.png"
+  "summary": "The Northern Scorpling is a Tier 2 Neutral Creature and a weak variant of the Northern Scorpion.",
+  "_ib": ""
  },
  {
   "title": "O.G.R.R. Blue Butterfly",
   "slug": "O.G.R.R._Blue_Butterfly",
-  "summary": "is added on top.",
+  "summary": "This is a more advanced covering of the loot-table of O.G.R.R.",
   "description": "A blue butterfly juiced up by science in bizarre ways. They are resistant to the flavor of their mutation.",
   "aggression": "Angry",
   "tier": "2",
@@ -1658,13 +1592,12 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE",
-  "icon": ""
+  "_ib": "Infobox/Creatures/Multi/OGRE"
  },
  {
   "title": "O.G.R.R. Cricket",
   "slug": "O.G.R.R._Cricket",
-  "summary": "is attack if the player attacked the Cricket before mounting the Buggy.",
+  "summary": "This is a more advanced covering of the loot-table of O.G.R.R.",
   "description": "A genetically modifed cricket teeming with unusual power. They are resistant to the flavor of their mutation.",
   "aggression": "Angry",
   "tier": "3",
@@ -1704,13 +1637,12 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE",
-  "icon": "/icons/O_G_R_R_Cricket.png"
+  "_ib": "Infobox/Creatures/Multi/OGRE"
  },
  {
   "title": "O.G.R.R. Ladybug",
   "slug": "O.G.R.R._Ladybug",
-  "summary": "is attack can be preformed from a distance.",
+  "summary": "This is a more advanced covering of the loot-table of O.G.R.R.",
   "description": "A unnaturally powerful ladybug. They are resistant to the flavor of their mutation.",
   "aggression": "Angry",
   "tier": "2",
@@ -1754,13 +1686,12 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE",
-  "icon": ""
+  "_ib": "Infobox/Creatures/Multi/OGRE"
  },
  {
   "title": "O.G.R.R. Northern Scorpion",
   "slug": "O.G.R.R._Northern_Scorpion",
-  "summary": "is attack can be interrupted by using any charged attack.",
+  "summary": "This is a more advanced covering of the loot-table of O.G.R.R.",
   "description": "A Northern Scorpion pumped up with bizarre strength. They are resistant to the flavor of their mutation.",
   "aggression": "Angry",
   "tier": "2",
@@ -1806,13 +1737,12 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE",
-  "icon": "/icons/O_G_R_R_Northern_Scorpion.png"
+  "_ib": "Infobox/Creatures/Multi/OGRE"
  },
  {
   "title": "O.G.R.R. Pincher Earwig",
   "slug": "O.G.R.R._Pincher_Earwig",
-  "summary": "is attack can be interrupted by using any charged attack.",
+  "summary": "This is a more advanced covering of the loot-table of O.G.R.R.",
   "description": "A pincher earwig genetically modified to be extra dangerous. They are resistant to the flavor of their mutation.",
   "aggression": "Angry",
   "tier": "3",
@@ -1847,13 +1777,12 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE",
-  "icon": "/icons/O_G_R_R_Pincher_Earwig.png"
+  "_ib": "Infobox/Creatures/Multi/OGRE"
  },
  {
   "title": "O.G.R.R. Praying Mantis Nymph",
   "slug": "O.G.R.R._Praying_Mantis_Nymph",
-  "summary": "is attack only if the player is not in direct melee range.",
+  "summary": "This is a more advanced covering of the loot-table of O.G.R.R.",
   "description": "A praying mantis nymph unlike any found in nature. They are resistant to the flavor of their mutation.",
   "aggression": "Angry",
   "tier": "3",
@@ -1899,13 +1828,12 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE",
-  "icon": ""
+  "_ib": "Infobox/Creatures/Multi/OGRE"
  },
  {
   "title": "O.G.R.R. Rust Beetle",
   "slug": "O.G.R.R._Rust_Beetle",
-  "summary": "is attack can be interrupted by using any charged attack.",
+  "summary": "This is a more advanced covering of the loot-table of O.G.R.R.",
   "description": "An experimental rust beetle that can do what normal rust beetles cannot. They are resistant to the flavor of their mutation.",
   "aggression": "Angry",
   "tier": "3|resist=20%",
@@ -1949,20 +1877,18 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE",
-  "icon": "/icons/O_G_R_R_Rust_Beetle.png"
+  "_ib": "Infobox/Creatures/Multi/OGRE"
  },
  {
   "title": "O.G.R.R. Toe Biter Leviathan",
   "slug": "O.G.R.R._Toe_Biter_Leviathan",
-  "summary": "is attack if the player is far, but may occasionally intentionally back off to use it.",
-  "_ib": "",
-  "icon": ""
+  "summary": "The O.G.R.R. Toe Biter Leviathan is the O.G.R.R. variant of the Toe Biter Leviathan in Grounded 2.",
+  "_ib": ""
  },
  {
   "title": "O.G.R.R. Wasp",
   "slug": "O.G.R.R._Wasp",
-  "summary": "is attack deals 10 Venom buildup if hit.",
+  "summary": "This is a more advanced covering of the loot-table of O.G.R.R.",
   "aggression": "Angry",
   "description": "An extra powerful and bizarre wasp. They are resistant to the flavor of their mutation.",
   "resistance1c": "Slashing",
@@ -2010,13 +1936,12 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE",
-  "icon": "/icons/O_G_R_R_Wasp.png"
+  "_ib": "Infobox/Creatures/Multi/OGRE"
  },
  {
   "title": "O.G.R.R. Wasp Drone",
   "slug": "O.G.R.R._Wasp_Drone",
-  "summary": "is attack deals 10 Venom buildup if hit.",
+  "summary": "This is a more advanced covering of the loot-table of O.G.R.R.",
   "aggression": "Angry",
   "description": "A wasp drone modified into something even more terrible. They are resistant to the flavor of their mutation.",
   "resistance1c": "Slashing",
@@ -2063,13 +1988,12 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE",
-  "icon": "/icons/O_G_R_R_Wasp_Drone.png"
+  "_ib": "Infobox/Creatures/Multi/OGRE"
  },
  {
   "title": "O.G.R.R. Whipper Earwig",
   "slug": "O.G.R.R._Whipper_Earwig",
-  "summary": "is attack can be interrupted by using any charged attack.",
+  "summary": "This is a more advanced covering of the loot-table of O.G.R.R.",
   "description": "A whipper earwig with unholy, hard to describe powers. They are resistant to the flavor of their mutation.",
   "aggression": "Angry",
   "tier": "3",
@@ -2106,13 +2030,12 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE",
-  "icon": "/icons/O_G_R_R_Whipper_Earwig.png"
+  "_ib": "Infobox/Creatures/Multi/OGRE"
  },
  {
   "title": "O.G.R.R. Wolf Spider",
   "slug": "O.G.R.R._Wolf_Spider",
-  "summary": "is a more advanced covering of the loot-table of .",
+  "summary": "This is a more advanced covering of the loot-table of O.G.R.R.",
   "description": "A wolf spider that was not created by God or evolution but super science. They are resistant to the flavor of their mutation.",
   "aggression": "Angry",
   "tier": "3",
@@ -2158,41 +2081,36 @@
   "eweakness%sour": "50%",
   "buildeffectimmunesour": "Tang",
   "damageimmunesour": "Sour",
-  "_ib": "Infobox/Creatures/Multi/OGRE",
-  "icon": ""
+  "_ib": "Infobox/Creatures/Multi/OGRE"
  },
  {
   "title": "O.R.C. Bee",
   "slug": "O.R.C._Bee",
-  "summary": "is ability |400px |- |Combo Sting | style=\"color:green\" |✓ | style=\"color:red\" |X | style=\"color:red\" |X |The bee will preform a combo of 3 blockable stings.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Bee.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Black Soldier Ant",
   "slug": "O.R.C._Black_Soldier_Ant",
-  "summary": "is attack can be interrupted by using any charged attack.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Black_Soldier_Ant.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Blue Butterfly",
   "slug": "O.R.C._Blue_Butterfly",
-  "summary": "is also a much stronger named variant found guarding the O.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Blue_Butterfly.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Bombardier Beetle",
   "slug": "O.R.C._Bombardier_Beetle",
-  "summary": "is attack can be interrupted by using any charged attack.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Bombardier_Beetle.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Broodmother & Masked Fighter",
   "slug": "O.R.C._Broodmother_&_Masked_Fighter",
-  "summary": "is attack tracks the player as it charges up.",
+  "summary": "The O.R.C. Broodmother & Masked Fighter are the second story bosses in Grounded 2, being a duo fight between the O.R.C. Broodmother and a stronger Masked Stranger. They ambush the player after attempting to grow the key",
   "creaturea": "O.R.C. Broodmother",
   "image": "O.R.C. Broodmother.png",
   "aggression": "Angry",
@@ -2247,83 +2165,72 @@
   "buildeffectresistance2%g2": "90%",
   "buildeffectdamageresistanceg2": "Venom",
   "buildeffectdamageresistance%g2": "50%",
-  "_ib": "Infobox/Creatures/Multi/Specific",
-  "icon": ""
+  "_ib": "Infobox/Creatures/Multi/Specific"
  },
  {
   "title": "O.R.C. Cockroach",
   "slug": "O.R.C._Cockroach",
-  "summary": "is attack on either side.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Cockroach.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Cockroach Nymph",
   "slug": "O.R.C._Cockroach_Nymph",
-  "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Cockroach_Nymph.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Cockroach Queen",
   "slug": "O.R.C._Cockroach_Queen",
-  "summary": "is also a named variant, being \"General Berserker\".",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Cockroach_Queen.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Creatures",
   "slug": "O.R.C._Creatures",
-  "summary": "is area.",
-  "_ib": "",
-  "icon": ""
+  "summary": "*The reason it is called O.R.C. is due to the fact that moldORC is a minion to Lurkin Shriek in the Yoked girth franchise just how the O.R.C.s are minions to Ominent.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Cricket",
   "slug": "O.R.C._Cricket",
-  "summary": "is also a named variant, being \"Private Bouncer\".",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Cricket.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Firefly",
   "slug": "O.R.C._Firefly",
-  "summary": "is attack is unique in that, while it cannot be blocked with weapons, it can be blocked with shields.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Firefly.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Ladybug",
   "slug": "O.R.C._Ladybug",
-  "summary": "is attack can be preformed from a distance.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Ladybug.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Larva",
   "slug": "O.R.C._Larva",
-  "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Larva.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Mosquito",
   "slug": "O.R.C._Mosquito",
-  "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Mosquito.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Northern Scorpion",
   "slug": "O.R.C._Northern_Scorpion",
-  "summary": "is attack can be interrupted by using any charged attack.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Northern_Scorpion.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Northern Scorpion Jr.",
   "slug": "O.R.C._Northern_Scorpion_Jr",
-  "summary": "is ability |400px |- |Laser Turret | style=\"color:red\" |X | style=\"color:red\" |X | style=\"color:red\" |X |The O.",
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
   "description": "A young remote-controlled northern scorpion. May drop its O.R.C. Receiver as well as creature parts.",
   "aggression": "Angry",
   "image": "O.R.C. Northern Scorpion Jr..png|Base O.R.C. Northern Scorpion Jr. Wave.png|Wave",
@@ -2350,55 +2257,48 @@
   "attackstype": "All Attacks",
   "damagetype1": "Laser",
   "attackstype1": "Laser Turret",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/O_R_C_Northern_Scorpion_Jr.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "O.R.C. Northern Scorpling",
   "slug": "O.R.C._Northern_Scorpling",
-  "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Northern_Scorpling.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Pincher Earwig",
   "slug": "O.R.C._Pincher_Earwig",
-  "summary": "is also a much stronger named variant found guarding the O.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Pincher_Earwig.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Potato Beetle",
   "slug": "O.R.C._Potato_Beetle",
-  "summary": "is attack can be preformed from a distance.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Potato_Beetle.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Praying Mantis Nymph",
   "slug": "O.R.C._Praying_Mantis_Nymph",
-  "summary": "is attack only if the player is not in direct melee range.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Praying_Mantis_Nymph.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Red Soldier Ant",
   "slug": "O.R.C._Red_Soldier_Ant",
-  "summary": "is attack can be interrupted by using any charged attack.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Red_Soldier_Ant.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Rust Beetle",
   "slug": "O.R.C._Rust_Beetle",
-  "summary": "is also a much stronger named variant found guarding the Greenhouse MIX.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Rust_Beetle.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Spiderling",
   "slug": "O.R.C._Spiderling",
-  "summary": "is a more advanced covering of the loot-table of .",
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
   "aggression": "Angry",
   "tier": "1",
   "stun": "20",
@@ -2423,20 +2323,18 @@
   "attack": "*Bite: 25",
   "damagetype": "Stabbing",
   "attackstype": "All Attacks",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/O_R_C_Spiderling.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "O.R.C. Stinkbug",
   "slug": "O.R.C._Stinkbug",
-  "summary": "is ability passively without attacking anything.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Stinkbug.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Wasp",
   "slug": "O.R.C._Wasp",
-  "summary": "is also a named variant, being \"Sergeant Stinger\".",
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
   "aggression": "Angry",
   "description": "A remote-controlled wasp with aggression jacked to eleven. Can drop an O.R.C. Receiver on death as well as its creature parts.",
   "resistance1b": "Slashing",
@@ -2463,55 +2361,48 @@
   "attackstype": "All Other Attacks",
   "damagetype1": "Smashing",
   "attackstype1": "Stinger Shot",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/O_R_C_Wasp.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "O.R.C. Wasp Drone",
   "slug": "O.R.C._Wasp_Drone",
-  "summary": "is attack deals 10 Venom buildup if hit.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Wasp_Drone.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Weaver",
   "slug": "O.R.C._Weaver",
-  "summary": "is additonally the only O.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Weaver.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Weaver Jr.",
   "slug": "O.R.C._Weaver_Jr",
-  "summary": "is attack tracks the player as it charges up.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Weaver_Jr.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Weevil",
   "slug": "O.R.C._Weevil",
-  "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Weevil.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Whipper Earwig",
   "slug": "O.R.C._Whipper_Earwig",
-  "summary": "is also a much stronger named variant found guarding the O.",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Whipper_Earwig.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "O.R.C. Wolf Spider",
   "slug": "O.R.C._Wolf_Spider",
-  "summary": "is a more advanced covering of the loot-table of .",
-  "_ib": "",
-  "icon": "/icons/O_R_C_Wolf_Spider.png"
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": ""
  },
  {
   "title": "Orb Weaver",
   "slug": "Orb_Weaver",
-  "summary": "is a Tier 2 Angry Creature in Grounded found in a majority of the Backyard.",
+  "summary": "The Orb Weaver is a Tier 2 Angry Creature in Grounded found in a majority of the Backyard.",
   "eweakness": "Spicy",
   "eresistance": "Fresh",
   "image": "Orb Weaver.png",
@@ -2540,13 +2431,12 @@
   "stuntime": "15 Sec",
   "effectresistance": "Poison",
   "effectresistance%": "50%",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Orb_Weaver.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Orb Weaver Jr.",
   "slug": "Orb_Weaver_Jr",
-  "summary": "is a Tier 1 Angry Creature in Grounded.",
+  "summary": "The Orb Weaver Jr. is a Tier 1 Angry Creature in Grounded.",
   "health": "335",
   "stun": "50",
   "defense": "3",
@@ -2573,13 +2463,12 @@
   "effectresistance": "Poison",
   "effectresistance%": "25%",
   "loot": "* Spider Chunk (1) * Web Fiber (0-6)",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Orb_Weaver_Jr.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Orchid Mantis",
   "slug": "Orchid_Mantis",
-  "summary": "is a optional Boss Creature in Grounded found in the orchid pot in the sheds porch.",
+  "summary": "The Orchid Mantis is a optional Boss Creature in Grounded found in the orchid pot in the sheds porch.",
   "aggression": "Angry",
   "tier": "Boss",
   "environment": "Shed Surroundings",
@@ -2622,55 +2511,48 @@
   "resistance4d%": "50%",
   "resistance5d%": "50%",
   "health": "3400",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Orchid_Mantis.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Papa Toe Biter",
   "slug": "Papa_Toe_Biter",
-  "summary": "is a variant of the Toe Biter Leviathan found beneath Gnarly Bark in a cave accessed behind the picture in the Memorial.",
-  "_ib": "",
-  "icon": "/icons/Papa_Toe_Biter.png"
+  "summary": "The Papa Toe Biter is a variant of the Toe Biter Leviathan found beneath Gnarly Bark in a cave accessed behind the picture in the Memorial.",
+  "_ib": ""
  },
  {
   "title": "Pets",
   "slug": "Pets",
-  "summary": "is a complete list of possible personalities: {| class=\"wikitable sortable mw-collapsed mw-collapsible\" width=\"100%\" style=\"text-align:center; font-size:15px\" |- ! colspan=\"5\" style=\"background-color:#468847; color:#ffffff\" |Personalities |- |Absentminded |Adaptive |Adventurous |Agape |Aggressive |- |Aloof |Anxious |Audacious |Bashful |Big-thinking |- |Bizarre |Bland |Brave |Brutal |Bristly |- |Calm |Carefree |Chaotic Evil |Chaotic Good |Chaotic Neutral |- |Chill |Clumsy |Composed |Cowardly |Curious |- |Curmudgeonly |Dedicated |Degenerate |Devious |Dignified |- |Disrespectful |Dumb |Earnest |Fearful |Fearless |- |Ferocious |Folksy |Forgiving |Frivolous |Fruitive |- |Friendly |Genius |Goofball |Gracious |Hateful |- |Heroic |Hotheaded |Iconoclastic |Ignorant |Impressive |- |Loyal |Logical |Lazy |Lawful Evil |Lawful Good |- |Lawful Neutral |Legendary |Mean |Mellow |Modish |- |Murderous |Neutral Evil |Neutral Good |Obnoxious |Obedient |- |Old-fashioned |Ordinary |Pensive |Playful |Pure |- |Pompous |Regal |Reliable |Reckless |Rookie |- |Savage |Scared |Sedentary |Sedulous |Serious |- |Shy |Skittish |Sleazy |Smol |Spicy |- |Spontaneous |Stoic |Strategic |Suspicious |Swole |- |Vigilant |Violent |Wary |Whimsical |Wholesome |- |Wishful |Zany |} ==List of Pet Attire== Pet Attire is a special type of Armor pets can equip.",
-  "_ib": "",
-  "icon": ""
+  "summary": "This is a complete list of possible personalities:",
+  "_ib": ""
  },
  {
   "title": "Pincher Earwig",
   "slug": "Pincher_Earwig",
-  "summary": "is a Tier 3 Angry Creature in Grounded 2 found throughout the Garden region of Brookhollow Park, especially at night.",
-  "_ib": "",
-  "icon": "/icons/Pincher_Earwig.png"
+  "summary": "The Pincher Earwig is a Tier 3 Angry Creature in Grounded 2 found throughout the Garden region of Brookhollow Park, especially at night.",
+  "_ib": ""
  },
  {
   "title": "Pond Jockey Swarm",
   "slug": "Pond_Jockey_Swarm",
-  "summary": "is a Tier 3 Angry Creature in Grounded 2 found throughout the Skunk Pond biome, water sources in the Bridge Area, and the aquatic caves within the Gnarly Grotto.",
-  "_ib": "",
-  "icon": "/icons/Pond_Jockey_Swarm.png"
+  "summary": "The Pond Jockey Swarm is a Tier 3 Angry Creature in Grounded 2 found throughout the Skunk Pond biome, water sources in the Bridge Area, and the aquatic caves within the Gnarly Grotto.",
+  "_ib": ""
  },
  {
   "title": "Potato Beetle",
   "slug": "Potato_Beetle",
-  "summary": "is a Tier 3 variant of the Ladybug in Grounded 2 found throughout the Garden region of Brookhollow Park.",
-  "_ib": "",
-  "icon": "/icons/Potato_Beetle.png"
+  "summary": "The Potato Beetle is a Tier 3 variant of the Ladybug in Grounded 2 found throughout the Garden region of Brookhollow Park.",
+  "_ib": ""
  },
  {
   "title": "Praying Mantis Nymph",
   "slug": "Praying_Mantis_Nymph",
-  "summary": "is a Tier 3 Angry Creature in Grounded 2.",
-  "_ib": "",
-  "icon": "/icons/Praying_Mantis_Nymph.png"
+  "summary": "The Praying Mantis Nymph is a Tier 3 Angry Creature in Grounded 2.",
+  "_ib": ""
  },
  {
   "title": "RUZ.T",
   "slug": "RUZ.T",
-  "summary": "is a weaker variant of the TAYZ.",
+  "summary": "The RUZ.T is a weaker variant of the TAYZ.T found exclusively in the Hedge near certain Ominent structures.",
   "aggression": "Angry",
   "tier": "1",
   "description": "A battered, inferior version of the TAYZ.T. Found patrolling the heights of the hedges.",
@@ -2691,25 +2573,23 @@
   "stun": "60",
   "defense": "3",
   "stuntime": "2 Sec",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/RUZ_T.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Red Ant Queen",
   "slug": "Red_Ant_Queen",
-  "summary": "is a unique creature found in the depths of the Red Anthill.",
+  "summary": "The Red Ant Queen is a unique creature found in the depths of the Red Anthill.",
   "environment": "Red Anthill",
   "aggression": "Harmless",
   "loot": "*Red Ant Queen Chunk (10) *Red Ant Queen Head (1) *Red Ant Queen Pheromone (5)",
   "tier": "1",
   "description": "Queen of the red ants, found deep within the lower yard anthill.",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Red_Ant_Queen.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Red Soldier Ant",
   "slug": "Red_Soldier_Ant",
-  "summary": "is aggressive towards the player unless the player is wearing a full set of Red Ant Armor, which make it becomes neutral toward the player unless attacked or if the player is spotted stealing Red Ant Eggs.",
+  "summary": "This is a more advanced covering of the loot-table of Red Soldier Ant.",
   "image": "Red Soldier Ant.png",
   "aggression": "Angry",
   "environment": "* Anthills * Central Grasslands * Central Grasslands MIX.R",
@@ -2732,13 +2612,12 @@
   "tier": "1",
   "weakpoint": "Eyes",
   "health": "320",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Red_Soldier_Ant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Red Worker Ant",
   "slug": "Red_Worker_Ant",
-  "summary": "is a Tier 1 Neutral Creature in Grounded often found in mass across the early-game areas of the Backyard.",
+  "summary": "The Red Worker Ant is a Tier 1 Neutral Creature in Grounded often found in mass across the early-game areas of the Backyard.",
   "aggression": "Neutral",
   "weakness": "Stabbing",
   "weakness%": "25%",
@@ -2757,13 +2636,12 @@
   "loot": "*Red Ant Head (0-1) *Red Ant Part (1-2) *Red Ant Egg (Passive Drop in Anthill)",
   "environment": "* Anthills * Central Grasslands * Central Grasslands MIX.R * Flower Bed * Oak Hill",
   "health": "120",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Red_Worker_Ant.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Roly Poly",
   "slug": "Roly_Poly",
-  "summary": "is a more advanced covering of the loot-table of .",
+  "summary": "This is a more advanced covering of the loot-table of Roly Poly.",
   "aggression": "Neutral",
   "environment": "*Lawnmower MIX.R * Northern Grasslands * Shed Surroundings *Undershed *Upper Grasslands *Upper Grasslands MIX.R",
   "stun": "150",
@@ -2792,29 +2670,26 @@
   "resistance1b%": "25%",
   "weakpoint": "Legs| tier = 3",
   "description": "A lumbering behemoth that rolls deep in the upper yard. Powerful when provoked. Can drop tough gunk, roly poly part, and roly poly shell on death.",
-  "loot": "* (4-8) * (2-6) * Tough Gunk (0-5) (0-2) * (0-1)}}",
+  "loot": "* Roly Poly Part (4-8) * Roly Poly Shell (2-6) * Tough Gunk (0-5)",
   "health": "1050",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Roly_Poly.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Rust Beetle",
   "slug": "Rust_Beetle",
-  "summary": "is a Tier 3 variation of the Bombardier Beetle in Grounded 2 found throughout the Community Garden region.",
-  "_ib": "",
-  "icon": "/icons/Rust_Beetle.png"
+  "summary": "The Rust Beetle is a Tier 3 variation of the Bombardier Beetle in Grounded 2 found throughout the Community Garden region.",
+  "_ib": ""
  },
  {
   "title": "SAUC.R",
   "slug": "SAUC.R",
-  "summary": "is a Tier 2 ranged variant of the CHOP.",
-  "_ib": "",
-  "icon": "/icons/SAUC_R.png"
+  "summary": "The SAUC.R is a Tier 2 ranged variant of the CHOP.R in Grounded 2 found exclusively patrolling inside the Monitoring Station.",
+  "_ib": ""
  },
  {
   "title": "Scarab",
   "slug": "Scarab",
-  "summary": "is a rare creature found throughout the Shed Surroundings in fairly random areas and the Undershed.",
+  "summary": "The Scarab is a rare creature found throughout the Shed Surroundings in fairly random areas and the Undershed.",
   "aggression": "Harmless",
   "environment": "* Northern Grasslands * Shed Surroundings * Termite Den * Undershed * Woodpile",
   "eweakness1c": "Fresh",
@@ -2833,13 +2708,12 @@
   "health": "80",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Scarab.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Sickly Roly Poly",
   "slug": "Sickly_Roly_Poly",
-  "summary": "is a creature that can be found in the western portion of the Grasslands area, primarily around the Trash Heap and behind the Sandbox.",
+  "summary": "The Sickly Roly Poly is a creature that can be found in the western portion of the Grasslands area, primarily around the Trash Heap and behind the Sandbox.",
   "aggression": "Neutral",
   "environment": "Western Grasslands",
   "eweakness": "Spicy",
@@ -2873,13 +2747,12 @@
   "tier": "3",
   "loot": "*Roly Poly Part (2-6) *Tough Gunk (0-2)",
   "health": "750",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Sickly_Roly_Poly.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Spiderling",
   "slug": "Spiderling",
-  "summary": "is a Tier 1 Angry Creature in Grounded often seen along side Orb Weavers or from burst Web Sacs.",
+  "summary": "The Spiderling is a Tier 1 Angry Creature in Grounded often seen along side Orb Weavers or from burst Web Sacs.",
   "image": "Spiderling.png",
   "aggression": "Angry",
   "tier": "1",
@@ -2905,13 +2778,12 @@
   "attack": "*Bite: 25",
   "damagetype": "Stabbing",
   "attackstype": "All Attacks",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Spiderling.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Spiny Water Flea",
   "slug": "Spiny_Water_Flea",
-  "summary": "is a stronger upper yard variant of Water Flea found exclusively in the Moldorc Highlands, Undershed, and small puddles near the Stump in swarms.",
+  "summary": "Spiny Water Flea is a stronger upper yard variant of Water Flea found exclusively in the Moldorc Highlands, Undershed, and small puddles near the Stump in swarms.",
   "loot": "*Water Flea Meat (1)",
   "environment": "*Moldorc Highlands *Undershed *Upper Grasslands",
   "health": "300",
@@ -2932,13 +2804,12 @@
   "aggression": "Angry",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Spiny_Water_Flea.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Stinkbug",
   "slug": "Stinkbug",
-  "summary": "is a Tier 2 Angry Creature in Grounded found throughout the Central Grasslands and Flower Bed in groups.",
+  "summary": "The Stinkbug is a Tier 2 Angry Creature in Grounded found throughout the Central Grasslands and Flower Bed in groups.",
   "image": "Stinkbug.png",
   "aggression": "Angry",
   "tier": "2",
@@ -2965,34 +2836,30 @@
   "stun": "80",
   "stuntime": "10 Sec",
   "health": "500",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Stinkbug.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Striped Bark Scorpion",
   "slug": "Striped_Bark_Scorpion",
-  "summary": "is a Tier 4 Angry Creature found in Gnarly Bark and Pergola Area.",
-  "_ib": "",
-  "icon": "/icons/Striped_Bark_Scorpion.png"
+  "summary": "The Striped Bark Scorpion is a Tier 4 Angry Creature found in Gnarly Bark and Pergola Area.",
+  "_ib": ""
  },
  {
   "title": "Striped Bark Scorpion Jr.",
   "slug": "Striped_Bark_Scorpion_Jr",
-  "summary": "is a Tier 3 Angry Creature and the juvenile variant of the Striped Bark Scorpion.",
-  "_ib": "",
-  "icon": "/icons/Striped_Bark_Scorpion_Jr.png"
+  "summary": "The Striped Bark Scorpion Jr. is a Tier 3 Angry Creature and the juvenile variant of the Striped Bark Scorpion.",
+  "_ib": ""
  },
  {
   "title": "Striped Bark Scorpling",
   "slug": "Striped_Bark_Scorpling",
-  "summary": "is a Tier 3 hostile Creature and an alternate variant of the Northern Scorpling.",
-  "_ib": "",
-  "icon": "/icons/Striped_Bark_Scorpling.png"
+  "summary": "The Striped Bark Scorpling is a Tier 3 hostile Creature and an alternate variant of the Northern Scorpling.",
+  "_ib": ""
  },
  {
   "title": "TAYZ.T",
   "slug": "TAYZ.T",
-  "summary": "is a mechanical creature found in most labs throughout the Backyard and serve as a enemy in these areas.",
+  "summary": "TAYZ.T is a mechanical creature found in most labs throughout the Backyard and serve as a enemy in these areas.",
   "aggression": "Angry",
   "tier": "2",
   "description": "Formerly a squad of janitorial and fry cook robots for Roby's, this fleet now patrols science labs of the yard. Drops raw science on defeat.",
@@ -3028,13 +2895,12 @@
   "health": "175",
   "stun": "60",
   "stuntime": "2 Sec",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/TAYZ_T.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Tadpole",
   "slug": "Tadpole",
-  "summary": "is an aquatic creature that can be found in the Koi Pond biome.",
+  "summary": "The Tadpole is an aquatic creature that can be found in the Koi Pond biome.",
   "environment": "Koi Pond",
   "description": "A docile creature that swims in the shallows of the koi pond. Drops raw tadpole meat on death.",
   "loot": "* Raw Tadpole Meat (1)",
@@ -3043,13 +2909,12 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "respawn": "*Default:",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Tadpole.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Termite King",
   "slug": "Termite_King",
-  "summary": "is a powerful creature found in the depths of the Termite Den guarding the Woodpile BURG.",
+  "summary": "The Termite King is a powerful creature found in the depths of the Termite Den guarding the Woodpile BURG.L Chip.",
   "aggression": "Angry",
   "tier": "3",
   "description": "The ruler of the termites, the mighty king inhabits the inner sanctum of the termite den. Drops tough gunk, termite chompers, termite king carapace, and termite part on death.",
@@ -3073,13 +2938,12 @@
   "weakness%": "25%",
   "resistance1%": "25%",
   "resistance2%": "50%",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Termite_King.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Termite Soldier",
   "slug": "Termite_Soldier",
-  "summary": "is a more advanced covering of the loot-table of .",
+  "summary": "This is a more advanced covering of the loot-table of Termite Soldier.",
   "environment": "*Brawny Boy Bin *Termite Den *Undershed *Woodpile",
   "aggression": "Angry",
   "defense": "12",
@@ -3111,13 +2975,12 @@
   "resistance1%": "25%",
   "resistance2%": "50%",
   "immune": "Dust",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Termite_Soldier.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Termite Worker",
   "slug": "Termite_Worker",
-  "summary": "is a creature found mainly in the Termite Den caves in the Woodpile area, but can be found in other areas like the Undershed.",
+  "summary": "The Termite Worker is a creature found mainly in the Termite Den caves in the Woodpile area, but can be found in other areas like the Undershed.",
   "environment": "*Brawny Boy Bin * Termite Cave * Termite Den *Undershed * Woodpile",
   "stun": "50",
   "stuntime": "6 Sec",
@@ -3147,13 +3010,12 @@
   "resistance1%": "25%",
   "resistance2%": "50%",
   "immune": "Dust",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Termite_Worker.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Tick",
   "slug": "Tick",
-  "summary": "is a creature found primarily around the Stump, although they do appear in other areas.",
+  "summary": "The Tick is a creature found primarily around the Stump, although they do appear in other areas.",
   "description": "A bloodthirsty arachnid that lives near the rotten stump. Can drop a tick fang.",
   "aggression": "Angry",
   "tier": "3",
@@ -3178,13 +3040,12 @@
   "eresistance1%": "50%",
   "loot": "* Tick Fang (1-4)",
   "health": "400",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Tick.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Tiger Mosquito",
   "slug": "Tiger_Mosquito",
-  "summary": "is an upper yard variant of the Mosquito found throughout the upper yard.",
+  "summary": "The Tiger Mosquito is an upper yard variant of the Mosquito found throughout the upper yard.",
   "aggression": "Angry",
   "tier": "3",
   "description": "An even deadlier version of the common mosquito. Roams the scummy moat of Castle Moldorc. Can drop blood sacks and tiger mosquito beaks.",
@@ -3209,34 +3070,30 @@
   "resistance2%": "50%",
   "stun": "N/A",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Tiger_Mosquito.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Toe Biter",
   "slug": "Toe_Biter",
-  "summary": "is a Tier 3 Angry Creature in Grounded 2 found throughout the Resting Area Region region of Brookhollow Park, both underwater and patrolling on land.",
-  "_ib": "",
-  "icon": "/icons/Toe_Biter.png"
+  "summary": "The Toe Biter is a Tier 3 Angry Creature in Grounded 2 found throughout the Resting Area Region region of Brookhollow Park, both underwater and patrolling on land.",
+  "_ib": ""
  },
  {
   "title": "Toe Biter Leviathan",
   "slug": "Toe_Biter_Leviathan",
-  "summary": "is a Tier 4 Angry Creature in Grounded 2.",
-  "_ib": "",
-  "icon": "/icons/Toe_Biter_Leviathan.png"
+  "summary": "The Toe Biter Leviathan is a Tier 4 Angry Creature in Grounded 2.",
+  "_ib": ""
  },
  {
   "title": "Toe Biter Nymph",
   "slug": "Toe_Biter_Nymph",
-  "summary": "is a Tier 3 Angry Creature in Grounded 2 found throughout the Resting Area Region region of Brookhollow Park, both underwater and patrolling on land.",
-  "_ib": "",
-  "icon": "/icons/Toe_Biter_Nymph.png"
+  "summary": "The Toe Biter Nymph is a Tier 3 Angry Creature in Grounded 2 found throughout the Resting Area Region region of Brookhollow Park, both underwater and patrolling on land.",
+  "_ib": ""
  },
  {
   "title": "Wasp",
   "slug": "Wasp",
-  "summary": "is a Tier 3 Angry Creature in Grounded found throughout the Upper Grasslands area and in large amounts in the Brawny Boy Bin.",
+  "summary": "The Wasp is a Tier 3 Angry Creature in Grounded found throughout the Upper Grasslands area and in large amounts in the Brawny Boy Bin.",
   "aggression": "Angry",
   "description": "A scary, aggressive winged creature. Lives in the Brawny Boy Bin in the upper yard. Can drop wasp shells, wasp legs, and pollen.",
   "resistance1b": "Chopping",
@@ -3267,13 +3124,12 @@
   "damagetype": "Generic",
   "attackstype": "Stinger Shot",
   "inflicteffect1": "Poison",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Wasp.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Wasp Drone",
   "slug": "Wasp_Drone",
-  "summary": "is a Tier 3 Angry Creature in Grounded found throughout the Upper Grasslands area and in large amounts in the Brawny Boy Bin.",
+  "summary": "The Wasp Drone is a Tier 3 Angry Creature in Grounded found throughout the Upper Grasslands area and in large amounts in the Brawny Boy Bin.",
   "aggression": "Angry",
   "description": "A nearly identical version of wasp that provides healing backup. Hangs out in the Brawny Boy bin in the upper yard. Can drop wasp shells, wasp legs, and pollen.",
   "eweakness": "Salty",
@@ -3302,13 +3158,12 @@
   "health": "450",
   "inflicteffect1": "Bleed",
   "inflictattack1": "Stinger Shot",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Wasp_Drone.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Wasp Queen",
   "slug": "Wasp_Queen",
-  "summary": "is an optional boss Creature found in the Wasp Nest in the Brawny Boy Bin.",
+  "summary": "Phase 1 lasts for 30 seconds the first time, and 25 on subsequent occurrences. It is an attack phase in which the Wasp Queen uses a combination of her basic sting, a ranged stinger shot, a melee stinger combo, a charged melee sting, or an 1",
   "environment": "Brawny Boy Bin",
   "description": "Cozy within her hidden hive, and summoned by a Bee Bee Q Medley, the ominous queen of the skies known as the Wasp Queen awaits. Drops Wasp Queen chunk, Wasp Queen head, and Wasp Queen wings on death.|mutationunlock=Bardic Inspiration",
   "attack": "*Sting: 70 *Sting Combo: 65 *Charged Sting: 135 *Stinger Shot: 85 *Poison Bomb: 115 *Poison Bomb Barrage 15 *Tired Land: 80",
@@ -3353,13 +3208,12 @@
   "loot": "*Wasp Queen Chunk (5-8) *Wasp Queen Head (1) *Wasp Queen Wing (2)",
   "health": "5000|stun=350",
   "stuntime": "120 Sec",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Wasp_Queen.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Water Boatman",
   "slug": "Water_Boatman",
-  "summary": "is a creature found in the Koi Pond Biome underwater.",
+  "summary": "Water Boatman is a creature found in the Koi Pond Biome underwater.",
   "aggression": "Harmless",
   "description": "A gentle bug that swims gracefully in the koi pond. Drops water boatman fin on death.",
   "loot": "*Water Boatman Fin (1)",
@@ -3368,13 +3222,12 @@
   "stun": "N/A",
   "stuntime": "N/A",
   "respawn": "*Default:",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Water_Boatman.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Water Flea",
   "slug": "Water_Flea",
-  "summary": "is a small swimming creature that abound in the deep water of the Koi Pond and the southeast Flooded Zone of The Grasslands.",
+  "summary": "The Water Flea is a small swimming creature that abound in the deep water of the Koi Pond and the southeast Flooded Zone of The Grasslands.",
   "loot": "*Water Flea Meat (1)",
   "environment": "* Exposed Pipe * Eastern Flooded Zone * Koi Pond",
   "respawn": "*Default: 1 Day *Flooded Zone: 2 Days",
@@ -3394,13 +3247,12 @@
   "tier": "1|health=50",
   "description": "Ghoulish creatures that floats in bodies of water, looking for prey. Drops water flea meat on death.",
   "aggression": "Angry",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Water_Flea.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Weevil",
   "slug": "Weevil",
-  "summary": "is a Harmless Creature in Grounded found lumbering throughout a majority of surface areas in the Backyard.",
+  "summary": "The Weevil is a Harmless Creature in Grounded found lumbering throughout a majority of surface areas in the Backyard.",
   "aggression": "Harmless",
   "description": "A tiny creature that lumbers around the grassy areas of the lower yard. Can drop raw weevil meat and weevil nose on death.",
   "image": "Weevil.png",
@@ -3411,20 +3263,18 @@
   "stun": "N/A",
   "respawn": "Default:",
   "stuntime": "N/A",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Weevil.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Whipper Earwig",
   "slug": "Whipper_Earwig",
-  "summary": "is a Tier 3 Angry Creature in Grounded 2 found throughout the Garden region of Brookhollow Park, especially at night.",
-  "_ib": "",
-  "icon": "/icons/Whipper_Earwig.png"
+  "summary": "The Whipper Earwig is a Tier 3 Angry Creature in Grounded 2 found throughout the Garden region of Brookhollow Park, especially at night.",
+  "_ib": ""
  },
  {
   "title": "Wolf Spider",
   "slug": "Wolf_Spider",
-  "summary": "is a Tier 2 Angry Creature in Grounded found in mass around the Oak Tree, but also patrolling most other areas in the Backyard.",
+  "summary": "The Wolf Spider is a Tier 2 Angry Creature in Grounded found in mass around the Oak Tree, but also patrolling most other areas in the Backyard.",
   "image": "Wolf Spider.png",
   "loot": "* Spider Chunk (0-4) * Spider Fang (1-2) * Spider Venom (0-2)",
   "stun": "85",
@@ -3459,14 +3309,12 @@
   "inflicteffect2": "Venom",
   "inflictattack2": "Charged Bite",
   "health": "850",
-  "_ib": "Infobox/Creatures",
-  "icon": "/icons/Wolf_Spider.png"
+  "_ib": "Infobox/Creatures"
  },
  {
   "title": "Woolly Aphid",
   "slug": "Woolly_Aphid",
-  "summary": "is a Tier 3 variation of the Aphid in Grounded 2 found throughout the Garden region and the Croquet Court.",
-  "_ib": "",
-  "icon": "/icons/Woolly_Aphid.png"
+  "summary": "The Woolly Aphid is a Tier 3 variation of the Aphid in Grounded 2 found throughout the Garden region and the Croquet Court.",
+  "_ib": ""
  }
 ]
