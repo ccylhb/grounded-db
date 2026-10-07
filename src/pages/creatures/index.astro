@@ -8,6 +8,10 @@ const num = (v: unknown): number => {
   return Number.isFinite(n) ? n : 0;
 };
 const withDef = creatures.filter((c) => num(c.defense) > 0);
+// Every page that actually gets generated - mirrors the [slug].astro filter so the
+// index below can never link a 404. The table above only shows rows with a defense
+// value, which left ~110 detail pages with no internal entry point at all.
+const all = creatures.filter((c) => !/\(Grounded\)$/.test(String(c.title)));
 const bossy = creatures.filter((c) => c.title.includes("Boss") || ["Hedge Broodmother", "Wasp Queen", "Mantis", "Black Widow", "Director Schmector", "Assistant Manager", "Infected Broodmother"].some((b) => c.title.includes(b)));
 ---
 
@@ -42,4 +46,14 @@ const bossy = creatures.filter((c) => c.title.includes("Boss") || ["Hedge Broodm
       ])}
     searchPlaceholder="Search creatures..."
   />
+
+  <h2>All {all.length} creatures</h2>
+  <p class="muted">
+    Every creature in the database, including the ones with no defense value listed above.
+  </p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:0.35rem 0.9rem;margin:1rem 0 2rem">
+    {all.map((c) => (
+      <a href={`/creatures/${c.slug}/`} style="font-size:0.9rem">{c.title}</a>
+    ))}
+  </div>
 </Base>

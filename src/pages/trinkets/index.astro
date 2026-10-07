@@ -7,7 +7,10 @@ const num = (v: unknown): number => {
   const n = parseFloat(String(v ?? ""));
   return Number.isFinite(n) ? n : 0;
 };
-const byTier = [...trinkets].sort((a, b) => num(b.tier) - num(a.tier));
+// Mirrors the [slug].astro filter. Without it the table linked
+// /trinkets/Trinkets_(Grounded)/, a list page that is never generated.
+const all = trinkets.filter((t) => !/\(Grounded\)$/.test(String(t.title)));
+const byTier = [...all].sort((a, b) => num(b.tier) - num(a.tier));
 ---
 
 <Base

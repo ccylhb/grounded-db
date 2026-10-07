@@ -7,6 +7,9 @@ const kind = (c) => (c._ib || "").replace("Infobox/", "").split("/").join("-");
 const kinds = [...new Set(consumables.map(kind).filter(Boolean))].sort();
 const ing = (c) =>
   [c.ingredient1, c.ingredient2, c.ingredient3, c.ingredient4].filter(Boolean).join(" + ") || c.urecipe || "—";
+// Mirrors the [slug].astro filter. Without it the table linked
+// /consumables/Consumables_(Grounded)/, a list page that is never generated.
+const all = consumables.filter((c) => !/\(Grounded\)$/.test(String(c.title)));
 ---
 
 <Base
@@ -28,7 +31,7 @@ const ing = (c) =>
   <h2>All consumables</h2>
   <DataTable
     head={["Item", "Kind", "Effect", "Ingredients"]}
-    rows={consumables.map((c) => [
+    rows={all.map((c) => [
       `<a href="/consumables/${c.slug}/">${c.title}</a>`,
       kind(c) || "—",
       c.effect1 || c.effect || "—",

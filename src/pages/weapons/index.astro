@@ -9,6 +9,8 @@ const num = (v: unknown): number => {
 };
 
 const withDmg = weapons.filter((w) => num(w.damage) > 0);
+// Mirrors the [slug].astro filter; keeps the full index below link-safe.
+const all = weapons.filter((w) => !/\(Grounded\)$/.test(String(w.title)));
 const groups = [...new Set(withDmg.map((w) => w.type || "Other"))].sort();
 const count = (g: string) => withDmg.filter((w) => (w.type || "Other") === g).length;
 ---
@@ -46,4 +48,14 @@ const count = (g: string) => withDmg.filter((w) => (w.type || "Other") === g).le
       ])}
     searchPlaceholder="Search weapons..."
   />
+
+  <h2>All {all.length} weapons &amp; tools</h2>
+  <p class="muted">
+    Every weapon and tool in the database, including the ones with no damage value listed above.
+  </p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:0.35rem 0.9rem;margin:1rem 0 2rem">
+    {all.map((w) => (
+      <a href={`/weapons/${w.slug}/`} style="font-size:0.9rem">{w.title}</a>
+    ))}
+  </div>
 </Base>

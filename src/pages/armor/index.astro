@@ -6,6 +6,8 @@ import armor from "../../data/armor.json";
 const withPieces = armor.filter((a) => a.pieces.length > 0);
 const totalDef = (a) => a.pieces.reduce((s, p) => s + p.defense, 0);
 const sorted = [...withPieces].sort((a, b) => totalDef(b) - totalDef(a));
+// Mirrors the [slug].astro filter; keeps the full index below link-safe.
+const all = armor.filter((a) => !/\(Grounded\)$/.test(String(a.title)));
 ---
 
 <Base
@@ -28,4 +30,14 @@ const sorted = [...withPieces].sort((a, b) => totalDef(b) - totalDef(a));
     ])}
     searchPlaceholder="Search armor sets..."
   />
+
+  <h2>All {all.length} armor sets</h2>
+  <p class="muted">
+    Every armor set in the database, including the ones with no pieces listed above.
+  </p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:0.35rem 0.9rem;margin:1rem 0 2rem">
+    {all.map((a) => (
+      <a href={`/armor/${a.slug}/`} style="font-size:0.9rem">{a.title.replace(/ Armor$/, "")}</a>
+    ))}
+  </div>
 </Base>
