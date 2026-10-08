@@ -65,5 +65,31 @@
       "href": "/about/"
     }
   ],
-  "footerNote": "Fan-made database. Not affiliated with the game publisher."
+  "footerNote": "Fan-made database. Not affiliated with the game publisher.",
+  "sisterSites": [
+    {
+      "name": "D7TDDB",
+      "url": "https://7dtd.lootseer.com",
+      "blurb": "Zombie health by tier, weapon damage per quality, mods and ammo."
+    },
+    {
+      "name": "IcarusDB",
+      "url": "https://icarus.lootseer.com",
+      "blurb": "Weapon durability, food buffs and creature health per biome."
+    },
+    {
+      "name": "ValheimDB",
+      "url": "https://valheim.lootseer.com",
+      "blurb": "Weapon damage per tier, food health and creature resistances."
+    },
+    {
+      "name": "DiverDB",
+      "url": "https://diverdb.lootseer.com",
+      "blurb": "Fish farming stats, recipe filters and staff comparisons."
+    }
+  ],
+  "hubSite": {
+    "name": "LootSeer",
+    "url": "https://lootseer.com"
+  }
 }
