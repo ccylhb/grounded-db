@@ -1,0 +1,1294 @@
+{
+ "Merica_Rounds": {
+  "lead": "'Merica Rounds is a ranged weapon in Grounded. It is a Tier 3 item. It deals 75 damage as a Burning attack. In-game it is described as: \"Force your foes to celebrate independence from their mortal coils.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 75 damage puts it among the stronger of the 28 ranged entries tracked here (#6 by raw damage).",
+   "Practical notes: it reloads in 2 Sec."
+  ],
+  "verdict": "Overall 'Merica Rounds is a ranged weapon."
+ },
+ "Acid_Edge": {
+  "lead": "Acid Edge is a melee weapon in Grounded. It is a Tier 3 item. It deals 95 damage as a Chopping attack. It has 17 stun. In-game it is described as: \"A shockingly deadly axe that's larger than necessary, packing the jolting power of Wormhole sour candies.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 95 damage puts it among the stronger of the 37 melee entries tracked here (#8 by raw damage).",
+   "Its Sour augmentation matches the 3 creatures in this database that are weak to Sour damage — including Black Widow, Director Schmector, and Spiny Water Flea.",
+   "As a Chopping weapon it exploits the physical weakness of the 5 creatures here weak to Chopping damage — Bee, Infected Mite, Lawn Mite, and 2 more.",
+   "Practical notes: it lands 17 stun per hit and is obtained via Discover Ominent Data Chip."
+  ],
+  "verdict": "Overall Acid Edge is a melee weapon whose Sour elemental damage is worth matching to the creatures weak to it."
+ },
+ "Acid_Ruin": {
+  "lead": "Acid Ruin is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Acid Ruin is a weapon."
+ },
+ "Acorn_Shovel": {
+  "lead": "Acorn Shovel is a digging tool in Grounded. It is a Tier 1 item. It deals 10 damage as a Digging attack. It has 15 stun. In-game it is described as: \"Used to dig up grubs.\"",
+  "body": [
+   "A digging tool — its job is terrain and resource nodes rather than combat.",
+   "Practical notes: it lands 15 stun per hit and is obtained via Analyze Acorn Shell or Crude Rope Reach Brainpower Level 3."
+  ],
+  "verdict": "Overall Acorn Shovel is a digging tool."
+ },
+ "Ant_Queen_Repair_Tool": {
+  "lead": "Ant Queen Repair Tool is a repair tool in Grounded. Its damage type is Repair. In-game it is described as: \"An exceptional tool capable of repairing buildings in a radius around the player.\"",
+  "body": [
+   "A repair tool rather than a weapon; carry it alongside your combat gear.",
+   "Practical notes: it is obtained via Analyze Black Ant Queen Pheromone."
+  ],
+  "verdict": "Overall Ant Queen Repair Tool is a repair tool."
+ },
+ "Ant_Queen_Scepter": {
+  "lead": "Ant Queen Scepter is a melee weapon in Grounded. It is a Tier 2 item. It deals 15 damage as a Generic attack. It has 4 stun. In-game it is described as: \"A quick attacking sign of royalty, perfect for summoning a horde to your side.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 15 damage puts it near the bottom of the 37 melee entries tracked here (#37 by raw damage).",
+   "As a Generic weapon it exploits the physical weakness of the 6 creatures here weak to Generic damage — ARC.R, Infected Ladybug, Ladybird, and 3 more.",
+   "Practical notes: it lands 4 stun per hit and is obtained via Analyze Red Ant Queen Pheromone."
+  ],
+  "verdict": "Overall Ant Queen Scepter is a melee weapon whose Generic damage answers several of the creatures catalogued here."
+ },
+ "Ant_Queen_Staff": {
+  "lead": "Ant Queen Staff is a ranged weapon in Grounded. It is a Tier 3 item. It deals 50 damage as a Acid attack. It has 5 stun. In-game it is described as: \"A grotesque staff made from fire ant parts. Fires acidic goo.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 50 damage puts it among the stronger of the 28 ranged entries tracked here (#11 by raw damage).",
+   "Practical notes: it lands 5 stun per hit and is obtained via Analyze Fire Ant Queen Pheromone."
+  ],
+  "verdict": "Overall Ant Queen Staff is a ranged weapon."
+ },
+ "Antlion_Greatsword": {
+  "lead": "Antlion Greatsword is a melee weapon in Grounded. It is a Tier 3 item. It deals 83 damage as a Slashing attack. In-game it is described as: \"Incredibly large and heavy. Uses multiple antlion pincers to form many dangerous points.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 83 damage puts it around the middle of the 37 melee entries tracked here (#18 by raw damage).",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more.",
+   "Practical notes: it is obtained via Analyze Antlion Pincer Reach Brainpower Level 11."
+  ],
+  "verdict": "Overall Antlion Greatsword is a melee weapon whose Slashing damage answers several of the creatures catalogued here."
+ },
+ "Arrow": {
+  "lead": "Arrow is a ranged weapon in Grounded. It is a Tier 1 item. It deals 5 damage as a Stabbing attack. In-game it is described as: \"Simple thistle prickle arrow with mite fuzz fletching to make it fly right. Retrievable.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 5 damage puts it near the bottom of the 28 ranged entries tracked here (#24 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Mite Fuzz or Thistle Needle Reach Brainpower Level 2."
+  ],
+  "verdict": "Overall Arrow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Ash_Maw": {
+  "lead": "Ash Maw is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Ash Maw is a weapon."
+ },
+ "Axls_Talon": {
+  "lead": "Axl's Talon is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Axl's Talon is a weapon."
+ },
+ "BURG.Ls_Old_Flipper": {
+  "lead": "BURG.L's Old Flipper is a melee weapon in Grounded. It is a Tier 3 item. It deals 60 damage as a Generic attack. It has 5 stun. In-game it is described as: \"The tried and true, perfectly seasoned spatula of your robotic friend. Can still flip a mean patty.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 60 damage puts it around the middle of the 37 melee entries tracked here (#21 by raw damage).",
+   "As a Generic weapon it exploits the physical weakness of the 6 creatures here weak to Generic damage — ARC.R, Infected Ladybug, Ladybird, and 3 more.",
+   "Practical notes: it lands 5 stun per hit and is obtained via Buy BURG.L Bundle."
+  ],
+  "verdict": "Overall BURG.L's Old Flipper is a melee weapon whose Generic damage answers several of the creatures catalogued here."
+ },
+ "Bards_Bow": {
+  "lead": "Bard's Bow is a ranged weapon in Grounded. It is a Tier 3 item. Its damage type is Stabbing. In-game it is described as: \"To both entertain and defend yourself gracefully in the queen's court.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Wasp Queen Wing."
+  ],
+  "verdict": "Overall Bard's Bow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Basketball": {
+  "lead": "Basketball is an utility item in Grounded. Its damage type is Repair. In-game it is described as: \"Not quite regulation, but it'll go through a hoop just fine.\"",
+  "body": [
+   "A utility item rather than a dedicated weapon.",
+   "Practical notes: it is obtained via Analyze Web Fiber."
+  ],
+  "verdict": "Overall Basketball is an utility item."
+ },
+ "Black_Ant_Shield": {
+  "lead": "Black Ant Shield is a shield in Grounded. It is a Tier 2 item. In-game it is described as: \"A sturdy shield made of black and red ant parts.\"",
+  "body": [
+   "A shield-slot item — it blocks rather than deals damage, so pair it with a one-handed weapon.",
+   "Practical notes: it is obtained via Analyze Black Ant Part Reach Brainpower Level 10."
+  ],
+  "verdict": "Overall Black Ant Shield is a shield."
+ },
+ "Black_Ant_Shovel": {
+  "lead": "Black Ant Shovel is a digging tool in Grounded. It is a Tier 2 item. It deals 20 damage as a Digging attack. It has 15 stun. In-game it is described as: \"A dependable shovel that can dig and harvest all sorts of goodies.\"",
+  "body": [
+   "A digging tool — its job is terrain and resource nodes rather than combat.",
+   "Practical notes: it lands 15 stun per hit and is obtained via Analyze Black Ant Head Reach Brainpower Level 10."
+  ],
+  "verdict": "Overall Black Ant Shovel is a digging tool."
+ },
+ "Black_Ant_Sword": {
+  "lead": "Black Ant Sword is a melee weapon in Grounded. It is a Tier 2 item. It deals 39 damage as a Slashing attack. In-game it is described as: \"A clean blade with the cutting power of ants.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 39 damage puts it near the bottom of the 37 melee entries tracked here (#30 by raw damage).",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more.",
+   "Practical notes: it is obtained via Analyze Black Ant Mandibles Reach Brainpower Level 10."
+  ],
+  "verdict": "Overall Black Ant Sword is a melee weapon whose Slashing damage answers several of the creatures catalogued here."
+ },
+ "Black_Ox_Crossbow": {
+  "lead": "Black Ox Crossbow is a ranged weapon in Grounded. It is a Tier 3 item. Its damage type is Stabbing. It has 5 stun. In-game it is described as: \"A crossbow made from impossibly strong black ox parts.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it lands 5 stun per hit and is obtained via Analyze Black Ox Part or Pinecone Piece."
+  ],
+  "verdict": "Overall Black Ox Crossbow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Black_Ox_Hammer": {
+  "lead": "Black Ox Hammer is a busting tool in Grounded. It is a Tier 3 item. It deals 72 damage as a Busting attack. It has 6 stun. In-game it is described as: \"A hammer so strong it can bust open almost all natural materials.\"",
+  "body": [
+   "A busting tool for smashing ore and resource nodes as much as for fighting.",
+   "Its 72 damage puts it among the stronger of the 3 busting entries tracked here (#1 by raw damage).",
+   "As a Busting weapon it exploits the physical weakness of the 7 creatures here weak to Busting damage — ARC.R, Infected Ladybug, Infected Wolf Spider, and 4 more.",
+   "Practical notes: it lands 6 stun per hit and is obtained via Analyze Black Ox Horn or Pupa Leather Reach Brainpower Level 13."
+  ],
+  "verdict": "Overall Black Ox Hammer is a busting tool whose Busting damage answers several of the creatures catalogued here."
+ },
+ "Blaster_of_the_Moldy_Matriarch": {
+  "lead": "Blaster of the Moldy Matriarch is a ranged weapon in Grounded. It is a Tier 3 item. It deals 125 damage as a Explosive attack. In-game it is described as: \"An explosive, perpetually regenerative fungal orb that can be repeatedly thrown as a grenade.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 125 damage puts it right at the top of the 28 ranged entries tracked here (#1 by raw damage).",
+   "Practical notes: it is obtained via Analyze Infected Venom."
+  ],
+  "verdict": "Overall Blaster of the Moldy Matriarch is a ranged weapon."
+ },
+ "Blazing_Edge": {
+  "lead": "Blazing Edge is a melee weapon in Grounded. It is a Tier 3 item. It deals 95 damage as a Chopping attack. It has 15 stun. In-game it is described as: \"A menacing greataxe of spicy candy that gives your enemies a chill.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 95 damage puts it among the stronger of the 37 melee entries tracked here (#8 by raw damage).",
+   "Its Spicy augmentation matches the 15 creatures in this database that are weak to Spicy damage — including Black Soldier Ant, Black Widowling, Black Worker Ant, and 12 more.",
+   "As a Chopping weapon it exploits the physical weakness of the 5 creatures here weak to Chopping damage — Bee, Infected Mite, Lawn Mite, and 2 more.",
+   "Practical notes: it lands 15 stun per hit and is obtained via Buy Blazing Edge."
+  ],
+  "verdict": "Overall Blazing Edge is a melee weapon whose Spicy elemental damage is worth matching to the creatures weak to it."
+ },
+ "Bomb_Arrow": {
+  "lead": "Bomb Arrow is a ranged weapon in Grounded. It is a Tier 3 item. It deals 60 damage as a Explosive attack. In-game it is described as: \"Highly volatile arrow created by merging natural and man-made explosives.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 60 damage puts it among the stronger of the 28 ranged entries tracked here (#9 by raw damage).",
+   "Practical notes: it is obtained via Discover Water Logged Recipe."
+  ],
+  "verdict": "Overall Bomb Arrow is a ranged weapon."
+ },
+ "Bone_Dagger": {
+  "lead": "Bone Dagger is an underwater tool in Grounded. It is a Tier 2 item. It deals 25 damage as a Slashing attack. It has 3 stun. In-game it is described as: \"A diving knife made of more robust materials, increasing the tool's effectiveness in its various functions.\"",
+  "body": [
+   "An underwater-capable tool; the flooded sections and pond lab are its home turf.",
+   "Its 25 damage puts it around the middle of the 3 underwater entries tracked here (#2 by raw damage).",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more.",
+   "Practical notes: it lands 3 stun per hit and is obtained via Analyze Diving Bell Spider Chunk or Sunken Bone."
+  ],
+  "verdict": "Overall Bone Dagger is an underwater tool whose Slashing damage answers several of the creatures catalogued here."
+ },
+ "Bone_Trident": {
+  "lead": "Bone Trident is an underwater tool in Grounded. It is a Tier 2 item. It deals 32 damage as a Stabbing attack. It has 5 stun. In-game it is described as: \"A hydrodynamic bone weapon that excels at underwater combat.\"",
+  "body": [
+   "An underwater-capable tool; the flooded sections and pond lab are its home turf.",
+   "Its 32 damage puts it among the stronger of the 3 underwater entries tracked here (#1 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it lands 5 stun per hit and is obtained via Analyze Diving Bell Spider Chunk or Sunken Bone."
+  ],
+  "verdict": "Overall Bone Trident is an underwater tool whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Boom_Stick": {
+  "lead": "Boom Stick is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Boom Stick is a weapon."
+ },
+ "Bratburst": {
+  "lead": "Bratburst is an explosive weapon in Grounded. It is a Tier 1 item. It deals 300 damage as a Explosive attack. In-game it is described as: \"An incendiary sausage stuffed with reactive fungus and dry grass. Lays waste to everything in a small radius.\"",
+  "body": [
+   "An explosive: strong against grouped enemies and breakable obstacles, but keep your own footing in mind.",
+   "Its 300 damage puts it around the middle of the 3 explosive entries tracked here (#2 by raw damage).",
+   "Practical notes: it is obtained via Analyze Fungal Growth or Red Ant Egg Reach Brainpower Level 6."
+  ],
+  "verdict": "Overall Bratburst is an explosive weapon."
+ },
+ "Breathslayer": {
+  "lead": "Breathslayer is a melee weapon in Grounded. It is a Tier 3 item. It deals 85 damage. In-game it is described as: \"A heavy sword made of minty candy that delivers arctic bite to your foulest foes.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 85 damage puts it among the stronger of the 37 melee entries tracked here (#13 by raw damage).",
+   "Its Fresh augmentation matches the 20 creatures in this database that are weak to Fresh damage — including Baby Black Ant, Baby Fire Ant, Baby Red Ant, and 17 more.",
+   "Practical notes: it is obtained via Buy Breathslayer."
+  ],
+  "verdict": "Overall Breathslayer is a melee weapon whose Fresh elemental damage is worth matching to the creatures weak to it."
+ },
+ "Burny_Rounds": {
+  "lead": "Burny Rounds is a ranged weapon in Grounded. It is a Tier 3 item. It deals 100 damage as a Burning attack. In-game it is described as: \"These hot suckers can set the ground around them ablaze. Handle with caution.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 100 damage puts it right at the top of the 28 ranged entries tracked here (#3 by raw damage).",
+   "Practical notes: it reloads in 2.5 Sec and is obtained via Analyze EverChar Coal Chunk."
+  ],
+  "verdict": "Overall Burny Rounds is a ranged weapon."
+ },
+ "Bushwacker": {
+  "lead": "Bushwacker is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Bushwacker is a weapon."
+ },
+ "Club_of_the_Mother_Demon": {
+  "lead": "Club of the Mother Demon is a melee weapon in Grounded. It is a Tier 3 item. It deals 105 damage as a Generic attack. It has 15 stun. In-game it is described as: \"A spiked club built for violence. Fashioned from various parts from a brood mother and other resources.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 105 damage puts it right at the top of the 37 melee entries tracked here (#1 by raw damage).",
+   "As a Generic weapon it exploits the physical weakness of the 6 creatures here weak to Generic damage — ARC.R, Infected Ladybug, Ladybird, and 3 more.",
+   "Practical notes: it lands 15 stun per hit and is obtained via Analyze Broodmother Fang."
+  ],
+  "verdict": "Overall Club of the Mother Demon is a melee weapon whose Generic damage answers several of the creatures catalogued here."
+ },
+ "Crimson_Avenger": {
+  "lead": "Crimson Avenger is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Crimson Avenger is a weapon."
+ },
+ "Crimson_Reapers": {
+  "lead": "Crimson Reapers is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Crimson Reapers is a weapon."
+ },
+ "Crimson_Saber": {
+  "lead": "Crimson Saber is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Crimson Saber is a weapon."
+ },
+ "Crow_Crossbow": {
+  "lead": "Crow Crossbow is a ranged weapon in Grounded. It is a Tier 2 item. Its damage type is Stabbing. It has 5 stun. In-game it is described as: \"A crossbow made out of crow feathers.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it lands 5 stun per hit and is obtained via Analyze Crow Feather Piece."
+  ],
+  "verdict": "Overall Crow Crossbow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Crystal_Trident": {
+  "lead": "Crystal Trident is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Crystal Trident is a weapon."
+ },
+ "Cupids_Arrow": {
+  "lead": "Cupid's Arrow is a ranged weapon in Grounded. It is a Tier 2 item. It deals 7 damage as a Stabbing attack. In-game it is described as: \"An arrow that carries the spirit of love, occasionally forcing your target to fight alongside you.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 7 damage puts it near the bottom of the 28 ranged entries tracked here (#23 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Smoochies Chunk."
+  ],
+  "verdict": "Overall Cupid's Arrow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Cut_Lass": {
+  "lead": "Cut Lass is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Cut Lass is a weapon."
+ },
+ "Decoy_Bait": {
+  "lead": "Decoy Bait is an utility item in Grounded. In-game it is described as: \"A bundle of bait made from tadpole meat, use it to distract larger predators.\"",
+  "body": [
+   "A utility item rather than a dedicated weapon.",
+   "Practical notes: it is obtained via Analyze Algae, Raw Tadpole Meat, Water Boatman Fin, or Water Flea Meat."
+  ],
+  "verdict": "Overall Decoy Bait is an utility item."
+ },
+ "Discord": {
+  "lead": "Discord is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Discord is a weapon."
+ },
+ "Dusk_Blades": {
+  "lead": "Dusk Blades is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Dusk Blades is a weapon."
+ },
+ "Feather_Arrow": {
+  "lead": "Feather Arrow is a ranged weapon in Grounded. It is a Tier 2 item. It deals 10 damage as a Stabbing attack. In-game it is described as: \"A fancy arrow crafted from sleek crow feather bits and strands of spider web.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 10 damage puts it near the bottom of the 28 ranged entries tracked here (#22 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Crow Feather Piece."
+  ],
+  "verdict": "Overall Feather Arrow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Fellfeast": {
+  "lead": "Fellfeast is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Fellfeast is a weapon."
+ },
+ "Fire_Ant_Club": {
+  "lead": "Fire Ant Club is a melee weapon in Grounded. It is a Tier 3 item. It deals 80 damage as a Generic attack. It has 20 stun. In-game it is described as: \"Exceptionally deadly club crafted from fire ant parts.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 80 damage puts it around the middle of the 37 melee entries tracked here (#19 by raw damage).",
+   "As a Generic weapon it exploits the physical weakness of the 6 creatures here weak to Generic damage — ARC.R, Infected Ladybug, Ladybird, and 3 more.",
+   "Practical notes: it lands 20 stun per hit and is obtained via Analyze Fire Ant Mandibles."
+  ],
+  "verdict": "Overall Fire Ant Club is a melee weapon whose Generic damage answers several of the creatures catalogued here."
+ },
+ "Fire_Ant_Shield": {
+  "lead": "Fire Ant Shield is a shield in Grounded. It is a Tier 3 item. In-game it is described as: \"An exotic shield made of fire ant parts.\"",
+  "body": [
+   "A shield-slot item — it blocks rather than deals damage, so pair it with a one-handed weapon.",
+   "Practical notes: it is obtained via Analyze Fire Ant Head."
+  ],
+  "verdict": "Overall Fire Ant Shield is a shield."
+ },
+ "Fresh_Coldtana": {
+  "lead": "Fresh Coldtana is a melee weapon in Grounded. It is a Tier 3 item. It deals 85 damage. In-game it is described as: \"Chill foes with a finely crafted blade. A stone cold katana made of tempered minty candy.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 85 damage puts it among the stronger of the 37 melee entries tracked here (#13 by raw damage).",
+   "Its Fresh augmentation matches the 20 creatures in this database that are weak to Fresh damage — including Baby Black Ant, Baby Fire Ant, Baby Red Ant, and 17 more.",
+   "Practical notes: it is obtained via Buy Fresh Coldtana."
+  ],
+  "verdict": "Overall Fresh Coldtana is a melee weapon whose Fresh elemental damage is worth matching to the creatures weak to it."
+ },
+ "Fresh_Edge": {
+  "lead": "Fresh Edge is a melee weapon in Grounded. It is a Tier 3 item. It deals 95 damage as a Chopping attack. It has 15 stun. In-game it is described as: \"A bitingly deadly axe that's larger than necessary, packing the frost power of minty candies.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 95 damage puts it among the stronger of the 37 melee entries tracked here (#8 by raw damage).",
+   "Its Fresh augmentation matches the 20 creatures in this database that are weak to Fresh damage — including Baby Black Ant, Baby Fire Ant, Baby Red Ant, and 17 more.",
+   "As a Chopping weapon it exploits the physical weakness of the 5 creatures here weak to Chopping damage — Bee, Infected Mite, Lawn Mite, and 2 more.",
+   "Practical notes: it lands 15 stun per hit and is obtained via Buy Fresh Edge."
+  ],
+  "verdict": "Overall Fresh Edge is a melee weapon whose Fresh elemental damage is worth matching to the creatures weak to it."
+ },
+ "Frosted_Flake": {
+  "lead": "Frosted Flake is a melee weapon in Grounded. It is a Tier 3 item. It deals 95 damage as a Chopping attack. It has 15 stun. In-game it is described as: \"A menacing greataxe of minty candy that gives your enemies a chill.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 95 damage puts it among the stronger of the 37 melee entries tracked here (#8 by raw damage).",
+   "Its Fresh augmentation matches the 20 creatures in this database that are weak to Fresh damage — including Baby Black Ant, Baby Fire Ant, Baby Red Ant, and 17 more.",
+   "As a Chopping weapon it exploits the physical weakness of the 5 creatures here weak to Chopping damage — Bee, Infected Mite, Lawn Mite, and 2 more.",
+   "Practical notes: it lands 15 stun per hit and is obtained via Buy Frosted Flake."
+  ],
+  "verdict": "Overall Frosted Flake is a melee weapon whose Fresh elemental damage is worth matching to the creatures weak to it."
+ },
+ "Fungnir": {
+  "lead": "Fungnir is a melee weapon in Grounded. It is a Tier 3 item. It deals 55 damage as a Stabbing attack. In-game it is described as: \"A grotesque spear of pure pulsating destruction. Crafted from various foul parts and mandibles of infected ants.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 55 damage puts it around the middle of the 37 melee entries tracked here (#23 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Infected Ant Mandibles."
+  ],
+  "verdict": "Overall Fungnir is a melee weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Gas_Arrow": {
+  "lead": "Gas Arrow is a ranged weapon in Grounded. It is a Tier 1 item. It deals 5 damage as a Stabbing attack. In-game it is described as: \"An arrow dipped in the stink-juices of a stinkbug's gas sack. Creates a noxious gas zone where it lands.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 5 damage puts it near the bottom of the 28 ranged entries tracked here (#24 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Stinkbug Gas Sack."
+  ],
+  "verdict": "Overall Gas Arrow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Glacial_Sting": {
+  "lead": "Glacial Sting is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Glacial Sting is a weapon."
+ },
+ "Gloom_Skewer": {
+  "lead": "Gloom Skewer is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Gloom Skewer is a weapon."
+ },
+ "Groundy_Rounds": {
+  "lead": "Groundy Rounds is a ranged weapon in Grounded. It is a Tier 1 item. It deals 30 damage as a Generic attack. It has 25 stun. In-game it is described as: \"These sticky turret rounds don't do a lot of damage but they can ground flying insects with ease.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 30 damage puts it around the middle of the 28 ranged entries tracked here (#13 by raw damage).",
+   "As a Generic weapon it exploits the physical weakness of the 6 creatures here weak to Generic damage — ARC.R, Infected Ladybug, Ladybird, and 3 more.",
+   "Practical notes: it lands 25 stun per hit, reloads in 1 Sec, and is obtained via Buy Acorn Turret."
+  ],
+  "verdict": "Overall Groundy Rounds is a ranged weapon whose Generic damage answers several of the creatures catalogued here."
+ },
+ "Heatwave": {
+  "lead": "Heatwave is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Heatwave is a weapon."
+ },
+ "Ice_Breakers": {
+  "lead": "Ice Breakers is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Ice Breakers is a weapon."
+ },
+ "Ice_Sickles": {
+  "lead": "Ice Sickles is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Ice Sickles is a weapon."
+ },
+ "Infected_Ant_Shield": {
+  "lead": "Infected Ant Shield is a shield in Grounded. It is a Tier 3 item. In-game it is described as: \"A grotesque shield crafted from the ever-glowing parts of infected ants.\"",
+  "body": [
+   "A shield-slot item — it blocks rather than deals damage, so pair it with a one-handed weapon.",
+   "Practical notes: it is obtained via Analyze Infected Ant Part."
+  ],
+  "verdict": "Overall Infected Ant Shield is a shield."
+ },
+ "Infused_Axe": {
+  "lead": "Infused Axe is an uncategorized in Grounded. It is a Tier 4 item. It deals 71 damage as a Chopping attack. It has 5 stun. In-game it is described as: \"An anomaly of a weapon, infused with raw science.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Its 71 damage puts it around the middle of the 11 uncategorized entries tracked here (#7 by raw damage).",
+   "As a Chopping weapon it exploits the physical weakness of the 5 creatures here weak to Chopping damage — Bee, Infected Mite, Lawn Mite, and 2 more.",
+   "Practical notes: it lands 5 stun per hit."
+  ],
+  "verdict": "Overall Infused Axe is an uncategorized whose Chopping damage answers several of the creatures catalogued here."
+ },
+ "Infused_Blaster": {
+  "lead": "Infused Blaster is an uncategorized in Grounded. It is a Tier 4 item. It deals 150 damage as a Explosive attack. In-game it is described as: \"An anomaly of a weapon, infused with raw science.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Its 150 damage puts it right at the top of the 11 uncategorized entries tracked here (#1 by raw damage)."
+  ],
+  "verdict": "Overall Infused Blaster is an uncategorized."
+ },
+ "Infused_Bow": {
+  "lead": "Infused Bow is an uncategorized in Grounded. It is a Tier 4 item. Its damage type is Stabbing. In-game it is described as: \"An anomaly of a weapon, infused with raw science.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant."
+  ],
+  "verdict": "Overall Infused Bow is an uncategorized whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Infused_Club": {
+  "lead": "Infused Club is an uncategorized in Grounded. It is a Tier 4 item. It deals 125 damage as a Generic attack. It has 15 stun. In-game it is described as: \"An anomaly of a weapon, infused with raw science.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Its 125 damage puts it among the stronger of the 11 uncategorized entries tracked here (#2 by raw damage).",
+   "As a Generic weapon it exploits the physical weakness of the 6 creatures here weak to Generic damage — ARC.R, Infected Ladybug, Ladybird, and 3 more.",
+   "Practical notes: it lands 15 stun per hit."
+  ],
+  "verdict": "Overall Infused Club is an uncategorized whose Generic damage answers several of the creatures catalogued here."
+ },
+ "Infused_Crossbow": {
+  "lead": "Infused Crossbow is an uncategorized in Grounded. It is a Tier 4 item. Its damage type is Stabbing. In-game it is described as: \"An anomaly of a weapon, infused with raw science.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant."
+  ],
+  "verdict": "Overall Infused Crossbow is an uncategorized whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Infused_Dagger": {
+  "lead": "Infused Dagger is an uncategorized in Grounded. It is a Tier 4 item. It deals 46 damage as a Slashing attack. In-game it is described as: \"An anomaly of a weapon, infused with raw science.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Its 46 damage puts it near the bottom of the 11 uncategorized entries tracked here (#10 by raw damage).",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more."
+  ],
+  "verdict": "Overall Infused Dagger is an uncategorized whose Slashing damage answers several of the creatures catalogued here."
+ },
+ "Infused_Greatsword": {
+  "lead": "Infused Greatsword is an uncategorized in Grounded. It is a Tier 4 item. It deals 102 damage as a Slashing attack. In-game it is described as: \"An anomaly of a weapon, infused with raw science.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Its 102 damage puts it among the stronger of the 11 uncategorized entries tracked here (#4 by raw damage).",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more."
+  ],
+  "verdict": "Overall Infused Greatsword is an uncategorized whose Slashing damage answers several of the creatures catalogued here."
+ },
+ "Infused_Hammer": {
+  "lead": "Infused Hammer is an uncategorized in Grounded. It is a Tier 4 item. It deals 86 damage as a Busting attack. It has 6 stun. In-game it is described as: \"An anomaly of a weapon, infused with raw science.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Its 86 damage puts it around the middle of the 11 uncategorized entries tracked here (#5 by raw damage).",
+   "As a Busting weapon it exploits the physical weakness of the 7 creatures here weak to Busting damage — ARC.R, Infected Ladybug, Infected Wolf Spider, and 4 more.",
+   "Practical notes: it lands 6 stun per hit."
+  ],
+  "verdict": "Overall Infused Hammer is an uncategorized whose Busting damage answers several of the creatures catalogued here."
+ },
+ "Infused_Scythe": {
+  "lead": "Infused Scythe is an uncategorized in Grounded. It is a Tier 4 item. It deals 84 damage as a Chopping attack. It has 2 stun. In-game it is described as: \"An anomaly of a weapon, infused with raw science.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Its 84 damage puts it around the middle of the 11 uncategorized entries tracked here (#6 by raw damage).",
+   "As a Chopping weapon it exploits the physical weakness of the 5 creatures here weak to Chopping damage — Bee, Infected Mite, Lawn Mite, and 2 more.",
+   "Practical notes: it lands 2 stun per hit."
+  ],
+  "verdict": "Overall Infused Scythe is an uncategorized whose Chopping damage answers several of the creatures catalogued here."
+ },
+ "Infused_Spear": {
+  "lead": "Infused Spear is an uncategorized in Grounded. It is a Tier 4 item. It deals 66 damage as a Stabbing attack. In-game it is described as: \"An anomaly of a weapon, infused with raw science.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Its 66 damage puts it near the bottom of the 11 uncategorized entries tracked here (#8 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant."
+  ],
+  "verdict": "Overall Infused Spear is an uncategorized whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Infused_Sword": {
+  "lead": "Infused Sword is an uncategorized in Grounded. It is a Tier 4 item. It deals 66 damage as a Slashing attack. In-game it is described as: \"An anomaly of a weapon, infused with raw science.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Its 66 damage puts it near the bottom of the 11 uncategorized entries tracked here (#8 by raw damage).",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more."
+  ],
+  "verdict": "Overall Infused Sword is an uncategorized whose Slashing damage answers several of the creatures catalogued here."
+ },
+ "Insect_Axe": {
+  "lead": "Insect Axe is a chopping tool in Grounded. It is a Tier 2 item. It deals 35 damage as a Chopping attack. It has 5 stun. In-game it is described as: \"Axe made up of sharp and strong bug parts. Sturdier and more durable than the pebblet axe.\"",
+  "body": [
+   "A chopping tool for felling plants and nodes; it doubles as a weapon in a pinch.",
+   "Its 35 damage puts it around the middle of the 3 chopping entries tracked here (#2 by raw damage).",
+   "As a Chopping weapon it exploits the physical weakness of the 5 creatures here weak to Chopping damage — Bee, Infected Mite, Lawn Mite, and 2 more.",
+   "Practical notes: it lands 5 stun per hit and is obtained via Analyze Bombardier Part, Ladybug Head, or Silk Rope Reach Brainpower Level 6."
+  ],
+  "verdict": "Overall Insect Axe is a chopping tool whose Chopping damage answers several of the creatures catalogued here."
+ },
+ "Insect_Bow": {
+  "lead": "Insect Bow is a ranged weapon in Grounded. It is a Tier 2 item. Its damage type is Stabbing. In-game it is described as: \"A high quality bow made of sturdy chunks of various insects.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Silk Rope or Spider Fang Reach Brainpower Level 8."
+  ],
+  "verdict": "Overall Insect Bow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Insect_Hammer": {
+  "lead": "Insect Hammer is a busting tool in Grounded. It is a Tier 2 item. It deals 42 damage as a Busting attack. It has 5 stun. In-game it is described as: \"A capable hammer made of durable insect parts that are much stronger than the pebblet hammer.\"",
+  "body": [
+   "A busting tool for smashing ore and resource nodes as much as for fighting.",
+   "Its 42 damage puts it around the middle of the 3 busting entries tracked here (#2 by raw damage).",
+   "As a Busting weapon it exploits the physical weakness of the 7 creatures here weak to Busting damage — ARC.R, Infected Ladybug, Infected Wolf Spider, and 4 more.",
+   "Practical notes: it lands 5 stun per hit and is obtained via Analyze Berry Leather, Boiling Gland, or Stinkbug Part Reach Brainpower Level 6."
+  ],
+  "verdict": "Overall Insect Hammer is a busting tool whose Busting damage answers several of the creatures catalogued here."
+ },
+ "Killbasa": {
+  "lead": "Killbasa is an explosive weapon in Grounded. It is a Tier 3 item. It deals 450 damage as a Explosive attack. In-game it is described as: \"A bomb of the highest caliber, designed for death.\"",
+  "body": [
+   "An explosive: strong against grouped enemies and breakable obstacles, but keep your own footing in mind.",
+   "Its 450 damage puts it among the stronger of the 3 explosive entries tracked here (#1 by raw damage).",
+   "Practical notes: it is obtained via Offer A Moldy Hoagie To One Infected Ant Queen."
+  ],
+  "verdict": "Overall Killbasa is an explosive weapon."
+ },
+ "Ladybird_Shield": {
+  "lead": "Ladybird Shield is a shield in Grounded. It is a Tier 3 item. In-game it is described as: \"A sleek and stylish shield crafted from the jet black shell of a ladybird.\"",
+  "body": [
+   "A shield-slot item — it blocks rather than deals damage, so pair it with a one-handed weapon.",
+   "Practical notes: it is obtained via Analyze Ladybird Shell."
+  ],
+  "verdict": "Overall Ladybird Shield is a shield."
+ },
+ "Larva_Blade": {
+  "lead": "Larva Blade is a melee weapon in Grounded. It is a Tier 1 item. It deals 20 damage as a Sword attack. In-game it is described as: \"A swift blade crafted from serrated larva pincers that poisons on hit.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 20 damage puts it near the bottom of the 37 melee entries tracked here (#35 by raw damage).",
+   "Practical notes: it is obtained via Analyze Larva Spike or Rotten Larva Blade."
+  ],
+  "verdict": "Overall Larva Blade is a melee weapon."
+ },
+ "Larvalance": {
+  "lead": "Larvalance is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Larvalance is a weapon."
+ },
+ "Lure_Arrow": {
+  "lead": "Lure Arrow is a ranged weapon in Grounded. It is a Tier 1 item. It deals 5 damage as a Stabbing attack. In-game it is described as: \"Arrow designed to attract insects.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 5 damage puts it near the bottom of the 28 ranged entries tracked here (#24 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Buy Lures."
+  ],
+  "verdict": "Overall Lure Arrow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Mantis_Blade": {
+  "lead": "Mantis Blade is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Mantis Blade is a weapon."
+ },
+ "Mint_Arrow": {
+  "lead": "Mint Arrow is a ranged weapon in Grounded. It is a Tier 2 item. It deals 15 damage. In-game it is described as: \"A simple arrow that deals minty damage.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 15 damage puts it around the middle of the 28 ranged entries tracked here (#15 by raw damage).",
+   "Its Fresh augmentation matches the 20 creatures in this database that are weak to Fresh damage — including Baby Black Ant, Baby Fire Ant, Baby Red Ant, and 17 more.",
+   "Practical notes: it is obtained via Analyze Mint Shard."
+  ],
+  "verdict": "Overall Mint Arrow is a ranged weapon whose Fresh elemental damage is worth matching to the creatures weak to it."
+ },
+ "Mint_Mace": {
+  "lead": "Mint Mace is a melee weapon in Grounded. It is a Tier 3 item. It deals 100 damage. It has 20 stun. In-game it is described as: \"A giant club crafted from a chunk of fresh mints. Deals fresh damage on hit, but useless for busting.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 100 damage puts it right at the top of the 37 melee entries tracked here (#2 by raw damage).",
+   "Its Fresh augmentation matches the 20 creatures in this database that are weak to Fresh damage — including Baby Black Ant, Baby Fire Ant, Baby Red Ant, and 17 more.",
+   "Practical notes: it lands 20 stun per hit and is obtained via Buy Mint Mace."
+  ],
+  "verdict": "Overall Mint Mace is a melee weapon whose Fresh elemental damage is worth matching to the creatures weak to it."
+ },
+ "Mint_Staff": {
+  "lead": "Mint Staff is a ranged weapon in Grounded. It is a Tier 3 item. It deals 78 damage. It has 5 stun. In-game it is described as: \"A staff made of Ice Caps fresh mints. Crafted by forbidden chemistry and arcane science, mimics the effects of a magic spell found in Minotaur and Myrmidons.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 78 damage puts it among the stronger of the 28 ranged entries tracked here (#5 by raw damage).",
+   "Its Fresh augmentation matches the 20 creatures in this database that are weak to Fresh damage — including Baby Black Ant, Baby Fire Ant, Baby Red Ant, and 17 more.",
+   "Practical notes: it lands 5 stun per hit and is obtained via Buy Candy Staves."
+  ],
+  "verdict": "Overall Mint Staff is a ranged weapon whose Fresh elemental damage is worth matching to the creatures weak to it."
+ },
+ "Mitey_Claws": {
+  "lead": "Mitey Claws is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Mitey Claws is a weapon."
+ },
+ "Mosquito_Needle": {
+  "lead": "Mosquito Needle is a melee weapon in Grounded. It is a Tier 2 item. It deals 25 damage as a Stabbing attack. It has 3 stun. In-game it is described as: \"A fast and deadly rapier that mimics the functionality of a mosquito's blood sucking tool.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 25 damage puts it near the bottom of the 37 melee entries tracked here (#33 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it lands 3 stun per hit and is obtained via Analyze Mosquito Beak or Mosquito Blood Sack Reach Brainpower Level 7."
+  ],
+  "verdict": "Overall Mosquito Needle is a melee weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Northern_Shredders": {
+  "lead": "Northern Shredders is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Northern Shredders is a weapon."
+ },
+ "Pebblet_Axe": {
+  "lead": "Pebblet Axe is a chopping tool in Grounded. It is a Tier 1 item. It deals 20 damage as a Chopping attack. It has 5 stun. In-game it is described as: \"A basic chopping tool strong enough to hack into plant material.\"",
+  "body": [
+   "A chopping tool for felling plants and nodes; it doubles as a weapon in a pinch.",
+   "Its 20 damage puts it near the bottom of the 3 chopping entries tracked here (#3 by raw damage).",
+   "As a Chopping weapon it exploits the physical weakness of the 5 creatures here weak to Chopping damage — Bee, Infected Mite, Lawn Mite, and 2 more.",
+   "Practical notes: it lands 5 stun per hit and is obtained via Analyze Crude Rope or Pebblet Reach Brainpower Level 1."
+  ],
+  "verdict": "Overall Pebblet Axe is a chopping tool whose Chopping damage answers several of the creatures catalogued here."
+ },
+ "Pebblet_Dagger": {
+  "lead": "Pebblet Dagger is an underwater tool in Grounded. It is a Tier 1 item. It deals 14 damage as a Slashing attack. In-game it is described as: \"A handy tool for harvesting aquatic flora or for defending oneself against underwater fauna.\"",
+  "body": [
+   "An underwater-capable tool; the flooded sections and pond lab are its home turf.",
+   "Its 14 damage puts it near the bottom of the 3 underwater entries tracked here (#3 by raw damage).",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more.",
+   "Practical notes: it is obtained via Analyze Lilypad Wax Reach Brainpower Level 4."
+  ],
+  "verdict": "Overall Pebblet Dagger is an underwater tool whose Slashing damage answers several of the creatures catalogued here."
+ },
+ "Pebblet_Hammer": {
+  "lead": "Pebblet Hammer is a busting tool in Grounded. It is a Tier 1 item. It deals 26 damage as a Busting attack. It has 2 stun. In-game it is described as: \"A basic busting tool necessary to pound large things into smaller, more portable particles.\"",
+  "body": [
+   "A busting tool for smashing ore and resource nodes as much as for fighting.",
+   "Its 26 damage puts it near the bottom of the 3 busting entries tracked here (#3 by raw damage).",
+   "As a Busting weapon it exploits the physical weakness of the 7 creatures here weak to Busting damage — ARC.R, Infected Ladybug, Infected Wolf Spider, and 4 more.",
+   "Practical notes: it lands 2 stun per hit and is obtained via Analyze Crude Rope Reach Brainpower Level 1."
+  ],
+  "verdict": "Overall Pebblet Hammer is a busting tool whose Busting damage answers several of the creatures catalogued here."
+ },
+ "Pebblet_Spear": {
+  "lead": "Pebblet Spear is a melee weapon in Grounded. It is a Tier 1 item. It deals 20 damage as a Stabbing attack. In-game it is described as: \"A basic stabby weapon to keep creatures at bay. Can also be thrown for a deadly amount of damage.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 20 damage puts it near the bottom of the 37 melee entries tracked here (#35 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Pebblet."
+  ],
+  "verdict": "Overall Pebblet Spear is a melee weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Pepper_Flake": {
+  "lead": "Pepper Flake is a melee weapon in Grounded. It is a Tier 3 item. It deals 95 damage as a Chopping attack. It has 15 stun. In-game it is described as: \"A deadly greataxe made of spicy candy that makes your enemies feel the heat.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 95 damage puts it among the stronger of the 37 melee entries tracked here (#8 by raw damage).",
+   "Its Spicy augmentation matches the 15 creatures in this database that are weak to Spicy damage — including Black Soldier Ant, Black Widowling, Black Worker Ant, and 12 more.",
+   "As a Chopping weapon it exploits the physical weakness of the 5 creatures here weak to Chopping damage — Bee, Infected Mite, Lawn Mite, and 2 more.",
+   "Practical notes: it lands 15 stun per hit and is obtained via Buy Pepper Flake."
+  ],
+  "verdict": "Overall Pepper Flake is a melee weapon whose Spicy elemental damage is worth matching to the creatures weak to it."
+ },
+ "Picklemaul": {
+  "lead": "Picklemaul is a melee weapon in Grounded. It is a Tier 3 item. It deals 100 damage. It has 20 stun. In-game it is described as: \"A mighty blunt weapon made of sour candy that delivers jaw shattering tartness to enemies.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 100 damage puts it right at the top of the 37 melee entries tracked here (#2 by raw damage).",
+   "Its Sour augmentation matches the 3 creatures in this database that are weak to Sour damage — including Black Widow, Director Schmector, and Spiny Water Flea.",
+   "Practical notes: it lands 20 stun per hit and is obtained via Buy Picklemaul."
+  ],
+  "verdict": "Overall Picklemaul is a melee weapon whose Sour elemental damage is worth matching to the creatures weak to it."
+ },
+ "Pinch_Whacker": {
+  "lead": "Pinch Whacker is an uncategorized in Grounded. It is a Tier 3 item. It deals 45 damage as a Generic attack. It has 5 stun. In-game it is described as: \"a pinchy grabby arm from a fallen robot repurposed as a lethal weapon. Can no longer pinch, only whack.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Its 45 damage puts it near the bottom of the 11 uncategorized entries tracked here (#11 by raw damage).",
+   "As a Generic weapon it exploits the physical weakness of the 6 creatures here weak to Generic damage — ARC.R, Infected Ladybug, Ladybird, and 3 more.",
+   "Practical notes: it lands 5 stun per hit."
+  ],
+  "verdict": "Overall Pinch Whacker is an uncategorized whose Generic damage answers several of the creatures catalogued here."
+ },
+ "Pointy_Rounds": {
+  "lead": "Pointy Rounds is a ranged weapon in Grounded. It is a Tier 2 item. It deals 25 damage as a Stabbing attack. In-game it is described as: \"These sharp, little rounds aren't complicated but they get the point across.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 25 damage puts it around the middle of the 28 ranged entries tracked here (#14 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it reloads in .2 Sec and is obtained via Analyze Crow Feather Piece."
+  ],
+  "verdict": "Overall Pointy Rounds is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Pollen_Arrow": {
+  "lead": "Pollen Arrow is a ranged weapon in Grounded. It is a Tier 1 item. It deals 5 damage as a Stabbing attack. In-game it is described as: \"An arrow laced with pollen. Perfect for bringing down pesky flying critters.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 5 damage puts it near the bottom of the 28 ranged entries tracked here (#24 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Pollen."
+  ],
+  "verdict": "Overall Pollen Arrow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Prod_Smacker": {
+  "lead": "Prod Smacker is an uncategorized in Grounded. It is a Tier 3 item. It deals 110 damage as a Generic attack. It has 25 stun. In-game it is described as: \"An electric prod arm from a fallen service robot given a second life as a tool for smacking enemies.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Its 110 damage puts it among the stronger of the 11 uncategorized entries tracked here (#3 by raw damage).",
+   "As a Generic weapon it exploits the physical weakness of the 6 creatures here weak to Generic damage — ARC.R, Infected Ladybug, Ladybird, and 3 more.",
+   "Practical notes: it lands 25 stun per hit."
+  ],
+  "verdict": "Overall Prod Smacker is an uncategorized whose Generic damage answers several of the creatures catalogued here."
+ },
+ "Pucker_Thumper": {
+  "lead": "Pucker Thumper is a melee weapon in Grounded. It is a Tier 3 item. It deals 100 damage. It has 20 stun. In-game it is described as: \"A giant bonking tool crafted from a chunk of sour candy. Deals sour damage on hit.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 100 damage puts it right at the top of the 37 melee entries tracked here (#2 by raw damage).",
+   "Its Sour augmentation matches the 3 creatures in this database that are weak to Sour damage — including Black Widow, Director Schmector, and Spiny Water Flea.",
+   "Practical notes: it lands 20 stun per hit and is obtained via Buy Pucker Thumper."
+  ],
+  "verdict": "Overall Pucker Thumper is a melee weapon whose Sour elemental damage is worth matching to the creatures weak to it."
+ },
+ "Pupa_Basketball": {
+  "lead": "Pupa Basketball is an utility item in Grounded. Its damage type is Repair. In-game it is described as: \"Not quite regulation, but it'll go through a hoop just fine.\"",
+  "body": [
+   "A utility item rather than a dedicated weapon.",
+   "Practical notes: it is obtained via Analyze Pupa Leather."
+  ],
+  "verdict": "Overall Pupa Basketball is an utility item."
+ },
+ "Red_Ant_Club": {
+  "lead": "Red Ant Club is a melee weapon in Grounded. It is a Tier 2 item. It deals 58 damage as a Club attack. It has 10 stun. In-game it is described as: \"Meaty red ant leg perfect for beatings.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 58 damage puts it around the middle of the 37 melee entries tracked here (#22 by raw damage).",
+   "Practical notes: it lands 10 stun per hit and is obtained via Analyze Red Ant Mandibles, Red Ant Part, or Rotten Red Ant Club Reach Brainpower Level 5."
+  ],
+  "verdict": "Overall Red Ant Club is a melee weapon."
+ },
+ "Repair_Tool": {
+  "lead": "Repair Tool is a repair tool in Grounded. Its damage type is Repair. In-game it is described as: \"A small tool useful for repairing damaged structures. Totally useless as a weapon, though.\"",
+  "body": [
+   "A repair tool rather than a weapon; carry it alongside your combat gear.",
+   "Practical notes: it is obtained via Analyze Clay."
+  ],
+  "verdict": "Overall Repair Tool is a repair tool."
+ },
+ "Rime_Rend": {
+  "lead": "Rime Rend is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Rime Rend is a weapon."
+ },
+ "Roach_Club": {
+  "lead": "Roach Club is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Roach Club is a weapon."
+ },
+ "Rocky_Rounds": {
+  "lead": "Rocky Rounds is a ranged weapon in Grounded. It is a Tier 1 item. It deals 60 damage as a Generic attack. In-game it is described as: \"These pebblet rounds have been made smooth with bug acid to make them more aerodynamic. They pack a punch and can push their targets back.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 60 damage puts it among the stronger of the 28 ranged entries tracked here (#9 by raw damage).",
+   "As a Generic weapon it exploits the physical weakness of the 6 creatures here weak to Generic damage — ARC.R, Infected Ladybug, Ladybird, and 3 more.",
+   "Practical notes: it reloads in 1 Sec and is obtained via Buy Acorn Turret."
+  ],
+  "verdict": "Overall Rocky Rounds is a ranged weapon whose Generic damage answers several of the creatures catalogued here."
+ },
+ "Roman_Candle": {
+  "lead": "Roman Candle is a ranged weapon in Grounded. It is a Tier 2 item. It deals 75 damage as a Burning attack. In-game it is described as: \"A handheld firework that shoots bolts of fire.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 75 damage puts it among the stronger of the 28 ranged entries tracked here (#6 by raw damage)."
+  ],
+  "verdict": "Overall Roman Candle is a ranged weapon."
+ },
+ "Rusty_Spear": {
+  "lead": "Rusty Spear is a melee weapon in Grounded. It is a Tier 3 item. It deals 46 damage as a Stabbing attack. In-game it is described as: \"A bacterially infectious spear crafted from sharp flakes of rust.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 46 damage puts it near the bottom of the 37 melee entries tracked here (#26 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Rust Reach Brainpower Level 14."
+  ],
+  "verdict": "Overall Rusty Spear is a melee weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Salt_Arrow": {
+  "lead": "Salt Arrow is a ranged weapon in Grounded. It is a Tier 2 item. It deals 15 damage. In-game it is described as: \"A simple arrow that deals salty damage.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 15 damage puts it around the middle of the 28 ranged entries tracked here (#15 by raw damage).",
+   "Its Salty augmentation matches the 12 creatures in this database that are weak to Salty damage — including Antlion, Black Ox Beetle, Diving Bell Spider, and 9 more.",
+   "Practical notes: it is obtained via Analyze Salt Shard."
+  ],
+  "verdict": "Overall Salt Arrow is a ranged weapon whose Salty elemental damage is worth matching to the creatures weak to it."
+ },
+ "Salt_Chipper": {
+  "lead": "Salt Chipper is a melee weapon in Grounded. It is a Tier 3 item. It deals 100 damage as a Busting attack. It has 16 stun. In-game it is described as: \"The epic powers of sodium ions creates the perfect mining tool. Busting objects with the same intensity as salt busts blandness.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 100 damage puts it right at the top of the 37 melee entries tracked here (#2 by raw damage).",
+   "Its Salty augmentation matches the 12 creatures in this database that are weak to Salty damage — including Antlion, Black Ox Beetle, Diving Bell Spider, and 9 more.",
+   "As a Busting weapon it exploits the physical weakness of the 7 creatures here weak to Busting damage — ARC.R, Infected Ladybug, Infected Wolf Spider, and 4 more.",
+   "Practical notes: it lands 16 stun per hit and is obtained via Buy Salt Chipper."
+  ],
+  "verdict": "Overall Salt Chipper is a melee weapon whose Salty elemental damage is worth matching to the creatures weak to it."
+ },
+ "Salt_Morning_Star": {
+  "lead": "Salt Morning Star is a melee weapon in Grounded. It is a Tier 3 item. It deals 55 damage. It has 8 stun. In-game it is described as: \"A heavy ball of hurt coated in shards of salt to ensure whatever it hits feels excruciating pain.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 55 damage puts it around the middle of the 37 melee entries tracked here (#23 by raw damage).",
+   "Its Salty augmentation matches the 12 creatures in this database that are weak to Salty damage — including Antlion, Black Ox Beetle, Diving Bell Spider, and 9 more.",
+   "Practical notes: it lands 8 stun per hit and is obtained via Discover Water Logged Recipe."
+  ],
+  "verdict": "Overall Salt Morning Star is a melee weapon whose Salty elemental damage is worth matching to the creatures weak to it."
+ },
+ "Sappy_Rounds": {
+  "lead": "Sappy Rounds is a ranged weapon in Grounded. It is a Tier 2 item. It deals 40 damage as a Generic attack. It has 5 stun. In-game it is described as: \"These gooey rounds are perfect for slowing down enemy crawlers while giving them a salty sizzle.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 40 damage puts it around the middle of the 28 ranged entries tracked here (#12 by raw damage).",
+   "As a Generic weapon it exploits the physical weakness of the 6 creatures here weak to Generic damage — ARC.R, Infected Ladybug, Ladybird, and 3 more.",
+   "Practical notes: it lands 5 stun per hit, reloads in 1 Sec, and is obtained via Analyze Salt Shard."
+  ],
+  "verdict": "Overall Sappy Rounds is a ranged weapon whose Generic damage answers several of the creatures catalogued here."
+ },
+ "Scarlet_Aegis": {
+  "lead": "Scarlet Aegis is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Scarlet Aegis is a weapon."
+ },
+ "Scorching_Orb": {
+  "lead": "Scorching Orb is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Scorching Orb is a weapon."
+ },
+ "Scythe_of_Blossoms": {
+  "lead": "Scythe of Blossoms is a melee weapon in Grounded. It is a Tier 3 item. It deals 70 damage as a Chopping attack. It has 2 stun. In-game it is described as: \"A deadly, nimble scythe crafted from mantis chunks and a mantis claw of a fallen assassin.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 70 damage puts it around the middle of the 37 melee entries tracked here (#20 by raw damage).",
+   "As a Chopping weapon it exploits the physical weakness of the 5 creatures here weak to Chopping damage — Bee, Infected Mite, Lawn Mite, and 2 more.",
+   "Practical notes: it lands 2 stun per hit and is obtained via Analyze Mantis Claw."
+  ],
+  "verdict": "Overall Scythe of Blossoms is a melee weapon whose Chopping damage answers several of the creatures catalogued here."
+ },
+ "Sizzle_Striker": {
+  "lead": "Sizzle Striker is a melee weapon in Grounded. It is a Tier 3 item. It deals 100 damage. It has 20 stun. In-game it is described as: \"A giant bonking tool crafted from a chunk of spicy candy. Deals spicy damage on hit, but useless for busting.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 100 damage puts it right at the top of the 37 melee entries tracked here (#2 by raw damage).",
+   "Its Spicy augmentation matches the 15 creatures in this database that are weak to Spicy damage — including Black Soldier Ant, Black Widowling, Black Worker Ant, and 12 more.",
+   "Practical notes: it lands 20 stun per hit and is obtained via Buy Sizzle Striker."
+  ],
+  "verdict": "Overall Sizzle Striker is a melee weapon whose Spicy elemental damage is worth matching to the creatures weak to it."
+ },
+ "Slime_Mold_Torch": {
+  "lead": "Slime Mold Torch is an utility item in Grounded. In-game it is described as: \"A torch-like stalk from a cluster of mold. Should be able to light your way for a short time.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Practical notes: it is obtained via Analyze Slime Mold Stalk."
+  ],
+  "verdict": "Overall Slime Mold Torch is an utility item."
+ },
+ "Sour_Arrow": {
+  "lead": "Sour Arrow is a ranged weapon in Grounded. It is a Tier 3 item. It deals 15 damage. It has 5 stun. In-game it is described as: \"A simple arrow that deals sour damage.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 15 damage puts it around the middle of the 28 ranged entries tracked here (#15 by raw damage).",
+   "Its Sour augmentation matches the 3 creatures in this database that are weak to Sour damage — including Black Widow, Director Schmector, and Spiny Water Flea.",
+   "Practical notes: it lands 5 stun per hit and is obtained via Analyze Sour Lump."
+  ],
+  "verdict": "Overall Sour Arrow is a ranged weapon whose Sour elemental damage is worth matching to the creatures weak to it."
+ },
+ "Sour_Katanga": {
+  "lead": "Sour Katanga is a melee weapon in Grounded. It is a Tier 3 item. It deals 85 damage. In-game it is described as: \"Smite foes with a finely crafted and tangy blade. A tantalizing katana made of tempered sour candy.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 85 damage puts it among the stronger of the 37 melee entries tracked here (#13 by raw damage).",
+   "Its Sour augmentation matches the 3 creatures in this database that are weak to Sour damage — including Black Widow, Director Schmector, and Spiny Water Flea.",
+   "Practical notes: it is obtained via Buy Sour Katanga."
+  ],
+  "verdict": "Overall Sour Katanga is a melee weapon whose Sour elemental damage is worth matching to the creatures weak to it."
+ },
+ "Sour_Staff": {
+  "lead": "Sour Staff is a ranged weapon in Grounded. It is a Tier 3 item. It deals 80 damage. It has 30 stun. In-game it is described as: \"A staff made of Wormholes sour candy. Crafted by forbidden chemistry and arcane science, mimics the effects of a magic spell found in Minotaur and Myrmidons.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 80 damage puts it right at the top of the 28 ranged entries tracked here (#4 by raw damage).",
+   "Its Sour augmentation matches the 3 creatures in this database that are weak to Sour damage — including Black Widow, Director Schmector, and Spiny Water Flea.",
+   "Practical notes: it lands 30 stun per hit and is obtained via Buy Candy Staves."
+  ],
+  "verdict": "Overall Sour Staff is a ranged weapon whose Sour elemental damage is worth matching to the creatures weak to it."
+ },
+ "Spicy_Arrow": {
+  "lead": "Spicy Arrow is a ranged weapon in Grounded. It is a Tier 2 item. It deals 15 damage. In-game it is described as: \"A simple arrow that deals spicy damage.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 15 damage puts it around the middle of the 28 ranged entries tracked here (#15 by raw damage).",
+   "Its Spicy augmentation matches the 15 creatures in this database that are weak to Spicy damage — including Black Soldier Ant, Black Widowling, Black Worker Ant, and 12 more.",
+   "Practical notes: it is obtained via Analyze Spicy Shard."
+  ],
+  "verdict": "Overall Spicy Arrow is a ranged weapon whose Spicy elemental damage is worth matching to the creatures weak to it."
+ },
+ "Spicy_Coaltana": {
+  "lead": "Spicy Coaltana is a melee weapon in Grounded. It is a Tier 3 item. It deals 85 damage as a Slashing attack. In-game it is described as: \"Sear foes with a finely crafted blade, hammered out of tempered spicy globs and always-hot EverChar coal chunks.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 85 damage puts it among the stronger of the 37 melee entries tracked here (#13 by raw damage).",
+   "Its Spicy augmentation matches the 15 creatures in this database that are weak to Spicy damage — including Black Soldier Ant, Black Widowling, Black Worker Ant, and 12 more.",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more.",
+   "Practical notes: it is obtained via Defend the Flaming Sword in the EverChar Coal Bag."
+  ],
+  "verdict": "Overall Spicy Coaltana is a melee weapon whose Spicy elemental damage is worth matching to the creatures weak to it."
+ },
+ "Spicy_Staff": {
+  "lead": "Spicy Staff is a ranged weapon in Grounded. It is a Tier 3 item. It deals 75 damage. In-game it is described as: \"A staff made of Hot Cha Chas spicy candy. Crafted by forbidden chemistry and arcane science, mimics the effects of a magic spell found in Minotaur and Myrmidons.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 75 damage puts it among the stronger of the 28 ranged entries tracked here (#6 by raw damage).",
+   "Its Spicy augmentation matches the 15 creatures in this database that are weak to Spicy damage — including Black Soldier Ant, Black Widowling, Black Worker Ant, and 12 more.",
+   "Practical notes: it is obtained via Buy Candy Staves."
+  ],
+  "verdict": "Overall Spicy Staff is a ranged weapon whose Spicy elemental damage is worth matching to the creatures weak to it."
+ },
+ "Spider_Fang_Dagger": {
+  "lead": "Spider Fang Dagger is a melee weapon in Grounded. It is a Tier 2 item. It deals 23 damage as a Slashing attack. In-game it is described as: \"A nimble dagger made from a wolf spider fang that poisons on hit.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 23 damage puts it near the bottom of the 37 melee entries tracked here (#34 by raw damage).",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more.",
+   "Practical notes: it is obtained via Analyze Silk Rope, Spider Fang or Spider Venom Reach Brainpower Level 8."
+  ],
+  "verdict": "Overall Spider Fang Dagger is a melee weapon whose Slashing damage answers several of the creatures catalogued here."
+ },
+ "Spiky_Sprig": {
+  "lead": "Spiky Sprig is a melee weapon in Grounded. It is a Tier 1 item. It deals 40 damage as a Generic attack. It has 8 stun. In-game it is described as: \"A weaponized sprig with thorns at the end.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 40 damage puts it near the bottom of the 37 melee entries tracked here (#28 by raw damage).",
+   "As a Generic weapon it exploits the physical weakness of the 6 creatures here weak to Generic damage — ARC.R, Infected Ladybug, Ladybird, and 3 more.",
+   "Practical notes: it lands 8 stun per hit and is obtained via Analyze Sprig or Thistle Needle Reach Brainpower Level 2."
+  ],
+  "verdict": "Overall Spiky Sprig is a melee weapon whose Generic damage answers several of the creatures catalogued here."
+ },
+ "Splatburst": {
+  "lead": "Splatburst is an explosive weapon in Grounded. It is a Tier 2 item. It deals 300 damage as a Explosive attack. In-game it is described as: \"A bomb that’s covered in a sticky substance. Attaches to the first thing it hits.\"",
+  "body": [
+   "An explosive: strong against grouped enemies and breakable obstacles, but keep your own footing in mind.",
+   "Its 300 damage puts it around the middle of the 3 explosive entries tracked here (#2 by raw damage).",
+   "Practical notes: it is obtained via Buy Splatburst Recipe."
+  ],
+  "verdict": "Overall Splatburst is an explosive weapon."
+ },
+ "Splinter_Arrow": {
+  "lead": "Splinter Arrow is a ranged weapon in Grounded. It is a Tier 3 item. It deals 15 damage as a Stabbing attack. In-game it is described as: \"Sharp and deadly arrow crafted from wooden splinters.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 15 damage puts it around the middle of the 28 ranged entries tracked here (#15 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Wooden Splinter."
+  ],
+  "verdict": "Overall Splinter Arrow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Splody_Rounds": {
+  "lead": "Splody Rounds is a ranged weapon in Grounded. It is a Tier 3 item. It deals 120 damage as a Explosive attack. In-game it is described as: \"They explode. Nuff said.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 120 damage puts it right at the top of the 28 ranged entries tracked here (#2 by raw damage).",
+   "Practical notes: it reloads in 3.5 Sec and is obtained via Analyze Gunpowder Clump."
+  ],
+  "verdict": "Overall Splody Rounds is a ranged weapon."
+ },
+ "Sprig_Bow": {
+  "lead": "Sprig Bow is a ranged weapon in Grounded. It is a Tier 1 item. Its damage type is Stabbing. In-game it is described as: \"Perform attacks from a long distance. Requires arrows to be useful.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Crude Rope or Gnat Fuzz Reach Brainpower Level 2."
+  ],
+  "verdict": "Overall Sprig Bow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Stinger_Spear": {
+  "lead": "Stinger Spear is a melee weapon in Grounded. It is a Tier 2 item. It deals 32 damage as a Spear attack. In-game it is described as: \"Supreme stinging apparatus.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 32 damage puts it near the bottom of the 37 melee entries tracked here (#32 by raw damage).",
+   "Practical notes: it is obtained via Analyze Bee Fuzz, Bee Stinger, or Rotten Stinger Spear Reach Brainpower Level 7."
+  ],
+  "verdict": "Overall Stinger Spear is a melee weapon."
+ },
+ "Striped_Slashers": {
+  "lead": "Striped Slashers is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Striped Slashers is a weapon."
+ },
+ "Super_Gas_Arrow": {
+  "lead": "Super Gas Arrow is a ranged weapon in Grounded. It is a Tier 3 item. It deals 15 damage as a Stabbing attack. In-game it is described as: \"Arrows that create extremely powerful stink clouds.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 15 damage puts it around the middle of the 28 ranged entries tracked here (#15 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Super Stink Sack."
+  ],
+  "verdict": "Overall Super Gas Arrow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Super_Venom_Arrow": {
+  "lead": "Super Venom Arrow is a ranged weapon in Grounded. It is a Tier 3 item. It deals 15 damage as a Stabbing attack. In-game it is described as: \"An arrow coated in the deadliest of venoms.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 15 damage puts it around the middle of the 28 ranged entries tracked here (#15 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Super Spider Venom."
+  ],
+  "verdict": "Overall Super Venom Arrow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Termite_Axe": {
+  "lead": "Termite Axe is a chopping tool in Grounded. It is a Tier 3 item. It deals 59 damage as a Chopping attack. It has 5 stun. In-game it is described as: \"An axe made of the super sharp mandibles of a termite. Powerful enough to cut through almost all natural materials.\"",
+  "body": [
+   "A chopping tool for felling plants and nodes; it doubles as a weapon in a pinch.",
+   "Its 59 damage puts it among the stronger of the 3 chopping entries tracked here (#1 by raw damage).",
+   "As a Chopping weapon it exploits the physical weakness of the 5 creatures here weak to Chopping damage — Bee, Infected Mite, Lawn Mite, and 2 more.",
+   "Practical notes: it lands 5 stun per hit and is obtained via Analyze Termite Chompers, Termite Part, or Tough Gunk Reach Brainpower Level 12."
+  ],
+  "verdict": "Overall Termite Axe is a chopping tool whose Chopping damage answers several of the creatures catalogued here."
+ },
+ "Tick_Macuahuitl": {
+  "lead": "Tick Macuahuitl is a melee weapon in Grounded. It is a Tier 3 item. It deals 46 damage as a Slashing attack. In-game it is described as: \"A violent bat crafted from tick fangs.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 46 damage puts it near the bottom of the 37 melee entries tracked here (#26 by raw damage).",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more.",
+   "Practical notes: it is obtained via Analyze Pinecone Piece or Tick Fang Reach Brainpower Level 14."
+  ],
+  "verdict": "Overall Tick Macuahuitl is a melee weapon whose Slashing damage answers several of the creatures catalogued here."
+ },
+ "Ticky_Maul": {
+  "lead": "Ticky Maul is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Ticky Maul is a weapon."
+ },
+ "Tiger_Mosquito_Rapier": {
+  "lead": "Tiger Mosquito Rapier is a melee weapon in Grounded. It is a Tier 3 item. It deals 40 damage as a Stabbing attack. It has 4 stun. In-game it is described as: \"A rapier fashioned out of an even deadlier mosquito.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 40 damage puts it near the bottom of the 37 melee entries tracked here (#28 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it lands 4 stun per hit and is obtained via Analyze Tiger Mosquito Beak Reach Brainpower Level 15."
+  ],
+  "verdict": "Overall Tiger Mosquito Rapier is a melee weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Tingle_Tongue": {
+  "lead": "Tingle Tongue is a melee weapon in Grounded. It is a Tier 3 item. It deals 85 damage. In-game it is described as: \"A stylish, wavy sword made of sour candy. Sends shivers down the backs of your enemies.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 85 damage puts it among the stronger of the 37 melee entries tracked here (#13 by raw damage).",
+   "Its Sour augmentation matches the 3 creatures in this database that are weak to Sour damage — including Black Widow, Director Schmector, and Spiny Water Flea.",
+   "Practical notes: it is obtained via Buy Tingle Tongue."
+  ],
+  "verdict": "Overall Tingle Tongue is a melee weapon whose Sour elemental damage is worth matching to the creatures weak to it."
+ },
+ "Toe_Biter_Scythe": {
+  "lead": "Toe Biter Scythe is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Toe Biter Scythe is a weapon."
+ },
+ "Toenail_Cutlass": {
+  "lead": "Toenail Cutlass is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Toenail Cutlass is a weapon."
+ },
+ "Toenail_Scimitar": {
+  "lead": "Toenail Scimitar is a melee weapon in Grounded. It is a Tier 3 item. It deals 55 damage as a Slashing attack. In-game it is described as: \"A serious and noble weapon made of forged serrated toenail clippings, wrapped in luxurious materials, and accented by deadly flakes of rust.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 55 damage puts it around the middle of the 37 melee entries tracked here (#23 by raw damage).",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more.",
+   "Practical notes: it is obtained via Analyze Toenail."
+  ],
+  "verdict": "Overall Toenail Scimitar is a melee weapon whose Slashing damage answers several of the creatures catalogued here."
+ },
+ "Torch": {
+  "lead": "Torch is an utility item in Grounded. It is a Tier 1 item. In-game it is described as: \"Provides light in dark places. Held in the weak hand.\"",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit.",
+   "Practical notes: it is obtained via Discover Sap or Dry Grass Chunk."
+  ],
+  "verdict": "Overall Torch is an utility item."
+ },
+ "Venom_Arrow": {
+  "lead": "Venom Arrow is a ranged weapon in Grounded. It is a Tier 1 item. It deals 5 damage as a Stabbing attack. In-game it is described as: \"An arrow dipped in spider venom, deals toxic damage.\"",
+  "body": [
+   "A ranged weapon: keep your distance and let its damage type land on a target's weakness before the fight closes in.",
+   "Its 5 damage puts it near the bottom of the 28 ranged entries tracked here (#24 by raw damage).",
+   "As a Stabbing weapon it exploits the physical weakness of the 2 creatures here weak to Stabbing damage — Lawn Mite and Mant.",
+   "Practical notes: it is obtained via Analyze Spider Venom."
+  ],
+  "verdict": "Overall Venom Arrow is a ranged weapon whose Stabbing damage answers several of the creatures catalogued here."
+ },
+ "Wallopeño": {
+  "lead": "Wallopeño is a melee weapon in Grounded. It is a Tier 3 item. It deals 100 damage. It has 20 stun. In-game it is described as: \"A mighty blunt weapon made of spicy candy that packs a hot and heavy impact to foes.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 100 damage puts it right at the top of the 37 melee entries tracked here (#2 by raw damage).",
+   "Its Spicy augmentation matches the 15 creatures in this database that are weak to Spicy damage — including Black Soldier Ant, Black Widowling, Black Worker Ant, and 12 more.",
+   "Practical notes: it lands 20 stun per hit and is obtained via Buy Wallopeño."
+  ],
+  "verdict": "Overall Wallopeño is a melee weapon whose Spicy elemental damage is worth matching to the creatures weak to it."
+ },
+ "Warhammerlet": {
+  "lead": "Warhammerlet is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Warhammerlet is a weapon."
+ },
+ "Weapons_&_Tools_(Grounded)": {
+  "lead": "Weapons & Tools (Grounded) is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Weapons & Tools (Grounded) is a weapon."
+ },
+ "Weaver_Daggers": {
+  "lead": "Weaver Daggers is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Weaver Daggers is a weapon."
+ },
+ "Weevil_Shield": {
+  "lead": "Weevil Shield is a shield in Grounded. It is a Tier 1 item. In-game it is described as: \"Hopefully this shell will defend you better than the weevil it came from.\"",
+  "body": [
+   "A shield-slot item — it blocks rather than deals damage, so pair it with a one-handed weapon.",
+   "Practical notes: it is obtained via Analyze Raw Weevil Meat Reach Brainpower Level 3."
+  ],
+  "verdict": "Overall Weevil Shield is a shield."
+ },
+ "Widow_Dagger": {
+  "lead": "Widow Dagger is a melee weapon in Grounded. It is a Tier 3 item. It deals 38 damage as a Slashing attack. In-game it is described as: \"A fang from a legendary spider. Venom with an unmatched potency still lurks inside.\"",
+  "body": [
+   "A melee weapon, so you have to close the distance — weigh its stun value if you plan to trade hits rather than hit and run.",
+   "Its 38 damage puts it near the bottom of the 37 melee entries tracked here (#31 by raw damage).",
+   "As a Slashing weapon it exploits the physical weakness of the 6 creatures here weak to Slashing damage — Bee, Infected Mite, Infected Wolf Spider, and 3 more.",
+   "Practical notes: it is obtained via Analyze Super Spider Venom."
+  ],
+  "verdict": "Overall Widow Dagger is a melee weapon whose Slashing damage answers several of the creatures catalogued here."
+ },
+ "Wither_Sting": {
+  "lead": "Wither Sting is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Wither Sting is a weapon."
+ },
+ "Wolfsbane_Fangs": {
+  "lead": "Wolfsbane Fangs is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Wolfsbane Fangs is a weapon."
+ },
+ "Woolly_Whoppers": {
+  "lead": "Woolly Whoppers is a weapon in Grounded.",
+  "body": [
+   "A weapons-and-tools entry — check its damage type against a creature's weakness before you commit."
+  ],
+  "verdict": "Overall Woolly Whoppers is a weapon."
+ }
+}

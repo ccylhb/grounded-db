@@ -2,6 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import trinkets from "../../data/trinkets.json";
+import proseMap from "../../data/prose_trinkets.json";
 import { cl, desc, stats, best } from "../../lib/seo";
 
 export async function getStaticPaths() {
@@ -9,6 +10,7 @@ export async function getStaticPaths() {
   return trinkets.filter((t) => !/\(Grounded\)$/.test(String(t.title))).map((t) => ({ params: { slug: t.slug }, props: { t } }));
 }
 const { t } = Astro.props;
+const prose = (proseMap as any)[t.slug];
 const others = trinkets.filter((x) => x.slug !== t.slug).slice(0, 3);
 
 // SEO: effect and where to find it first, then the scraped summary sentence.
@@ -39,7 +41,15 @@ const description = desc(
     {t.effect && <span class="tag hot">{t.effect}</span>}
   </p>
 
-  {t.summary && <p class="muted">{t.summary}</p>}
+  {prose ? (
+    <div class="prose">
+      <p>{prose.lead}</p>
+      {prose.body.map((p: string) => <p>{p}</p>)}
+      {prose.verdict && <p class="verdict"><strong>Verdict:</strong> {prose.verdict}</p>}
+    </div>
+  ) : t.summary ? (
+    <p class="muted">{t.summary}</p>
+  ) : null}
 
   {t.effect && (
     <div class="card answer-card">

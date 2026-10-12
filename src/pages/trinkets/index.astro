@@ -20,6 +20,13 @@ const byTier = [...all].sort((a, b) => num(b.tier) - num(a.tier));
   <h1>Trinkets</h1>
   <p class="muted">{trinkets.length} trinkets, sorted by tier.</p>
 
+  <p class="muted">
+    Every trinket with the effect it grants, its tier and where to find it. A trinket occupies a utility
+    slot, so the real question is always whether its effect beats the damage or survival perk you would
+    otherwise run. Search by name to compare effects at a glance.
+  </p>
+
+
   <DataTable
     head={["Trinket", "Tier", "Effect", "Location"]}
     rows={byTier.map((t) => [

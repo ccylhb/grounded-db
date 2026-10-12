@@ -19,6 +19,14 @@ const all = consumables.filter((c) => !/\(Grounded\)$/.test(String(c.title)));
   <h1>Food &amp; Smoothies</h1>
   <p class="muted">{consumables.length} consumables.</p>
 
+  <p class="muted">
+    Every meal, smoothie, snack and boss item, with the buff effect it grants and the ingredients needed to
+    make it. Smoothies are the pre-fight power-ups — their buffs last a set time and stack with food — while
+    cooked meals handle hunger. Search by name, or filter by type to see everything that grants the same
+    effect before a specific fight.
+  </p>
+
+
   <div class="grid grid-3" style="margin:1.25rem 0">
     {kinds.map((k) => (
       <a class="card" href={`/consumables/group/${k.toLowerCase().replace(/\s+/g, "-")}/`} style="display:block">

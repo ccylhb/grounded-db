@@ -6,12 +6,14 @@ import trinkets from "../../data/trinkets.json";
 import consumables from "../../data/consumables.json";
 import weapons from "../../data/weapons.json";
 import { cl, desc, stats, best } from "../../lib/seo";
+import proseMap from "../../data/prose_creatures.json";
 
 export async function getStaticPaths() {
   const creatures = (await import("../../data/creatures.json")).default;
   return creatures.filter((c) => !/\(Grounded\)$/.test(String(c.title))).map((c) => ({ params: { slug: c.slug }, props: { c } }));
 }
 const { c } = Astro.props;
+const prose = (proseMap as any)[c.slug];
 
 // Wiki values carry template fragments ("Salty|inflicteffect1=-Movement Speed") — keep the first part.
 const clean = (v: unknown): string => cl(String(v ?? "").split("|")[0]);
@@ -75,7 +77,15 @@ const related = families.length
     {c.temperament && <span class="tag">{c.temperament}</span>}
   </p>
 
-  {c.summary && <p class="muted">{c.summary}</p>}
+  {prose ? (
+    <div class="prose">
+      <p>{prose.lead}</p>
+      {prose.body.map((p: string) => <p>{p}</p>)}
+      {prose.verdict && <p class="verdict"><strong>Verdict:</strong> {prose.verdict}</p>}
+    </div>
+  ) : c.summary ? (
+    <p class="muted">{c.summary}</p>
+  ) : null}
 
   <div class="card answer-card">
     <div class="stat-row">

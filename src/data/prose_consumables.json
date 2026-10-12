@@ -1,0 +1,465 @@
+{
+ "Basketball": {
+  "lead": "Basketball is a misc in Grounded. In-game it is described as: \"Not quite regulation, but it'll go through a hoop just fine.\"",
+  "body": [
+   "A utility consumable used outside combat or cooking.",
+   "It is unlocked or obtained via Analyze Web Fiber."
+  ],
+  "verdict": "Overall Basketball is a misc."
+ },
+ "Bee_Bee_Q_Medley": {
+  "lead": "Bee Bee Q Medley is a boss item in Grounded. In-game it is described as: \"An array of flavors for a flying queen.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Discover MEMO: O.R.C Wasp Queen Research."
+  ],
+  "verdict": "Overall Bee Bee Q Medley is a boss item."
+ },
+ "Black_Ox_Burger": {
+  "lead": "Black Ox Burger is a meal in Grounded. Its effect is Max Health. It restores 75 food. In-game it is described as: \"Perfectly seared black ox part with a lovely tough gunk aioli.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Damage Resist, Meals, and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Woodpile."
+  ],
+  "verdict": "Overall Black Ox Burger is a meal worth carrying for its Damage Resist effect."
+ },
+ "Boatman_Fin_Soup": {
+  "lead": "Boatman Fin Soup is a meal in Grounded. Its effect is Swim Speed. It restores 50 food. In-game it is described as: \"A fine fin soup made from ethically sourced boatman fins. Hearty enough to be considered a whole meal.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Meals and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Pond."
+  ],
+  "verdict": "Overall Boatman Fin Soup is a meal worth carrying for its Meals effect."
+ },
+ "Boost_Juice": {
+  "lead": "Boost Juice is a smoothie in Grounded. Its effect is Max Stamina. In-game it is described as: \"Filled with vitamins and nutrients! Boosts your max stamina.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Max Stamina — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Raw Aphid Meat, Mushroom, and Acorn Bits, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Boost Juice is a smoothie worth carrying for its Max Stamina effect."
+ },
+ "Boss_Sauce": {
+  "lead": "Boss Sauce is a smoothie in Grounded. Its effect is Critical Hit Chance. In-game it is described as: \"A critically acclaimed blend of the baddest bugs in the yard.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Critical Hit Chance — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Wasp Queen Head, Broodmother Fang, and Mantis Head, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Boss Sauce is a smoothie worth carrying for its Critical Hit Chance effect."
+ },
+ "Bratburst": {
+  "lead": "Bratburst is an explosive in Grounded. In-game it is described as: \"An incendiary sausage stuffed with reactive fungus and dry grass. Lays waste to everything in a small radius.\"",
+  "body": [
+   "A consumable used in Grounded's survival, crafting and combat-prep loops.",
+   "It is unlocked or obtained via Analyze Fungal Growth or Red Ant Egg Reach Brainpower Level 6.",
+   "As a thrown or deployed item it deals 300 damage."
+  ],
+  "verdict": "Overall Bratburst is an explosive."
+ },
+ "Broodmother_BLT": {
+  "lead": "Broodmother BLT is a boss item in Grounded. In-game it is described as: \"Bait no Broodmother can resist. Not fit for human consumption.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Discover Broodmother Research Notes."
+  ],
+  "verdict": "Overall Broodmother BLT is a boss item."
+ },
+ "Canteen": {
+  "lead": "Canteen is a drink in Grounded. In-game it is described as: \"A pouch made from grub hide that can be used to carry two scoops of liquid to transfer to storage or slurp.\"",
+  "body": [
+   "A drink: it tops up thirst, which drains you as fast as hunger out in the yard.",
+   "It is unlocked or obtained via Analyze Crude Rope Reach Brainpower Level 3.",
+   "As a thrown or deployed item it deals 12 damage."
+  ],
+  "verdict": "Overall Canteen is a drink."
+ },
+ "Charcoal_Canteen": {
+  "lead": "Charcoal Canteen is a drink in Grounded. In-game it is described as: \"A high quality liquid container with the power to purify dirty water in to a deliciously drinkable flavor with the power of charcoal.\"",
+  "body": [
+   "A drink: it tops up thirst, which drains you as fast as hunger out in the yard.",
+   "It is unlocked or obtained via Analyze EverChar Coal Chunk.",
+   "As a thrown or deployed item it deals 12 damage."
+  ],
+  "verdict": "Overall Charcoal Canteen is a drink."
+ },
+ "Consumables_(Grounded)": {
+  "lead": "Consumables (Grounded) is a consumable in Grounded.",
+  "body": [
+   "A consumable used in Grounded's survival, crafting and combat-prep loops."
+  ],
+  "verdict": "Overall Consumables (Grounded) is a consumable."
+ },
+ "Empanadust": {
+  "lead": "Empanadust is a meal in Grounded. Its effect is Dust Guard. It restores 75 food. In-game it is described as: \"A spicy pocket of various creature parts.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Hyperstamina, Meals, and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Brawny Boy Bin."
+  ],
+  "verdict": "Overall Empanadust is a meal worth carrying for its Hyperstamina effect."
+ },
+ "Fiber_Bandage": {
+  "lead": "Fiber Bandage is a health in Grounded. Its effect is Trickle Regen. In-game it is described as: \"Patches up scrapes and scratches. Recovers health over time.\"",
+  "body": [
+   "A healing item — keep one on your bar for emergencies rather than relying on regeneration.",
+   "It is unlocked or obtained via Normal: Analyze Plant Fiber Reach Brainpower Level 1 Upgraded Recipe: Buy Fiber Bandage Efficiency.",
+   "It also restores +85 health."
+  ],
+  "verdict": "Overall Fiber Bandage is a health."
+ },
+ "Flare": {
+  "lead": "Flare is a device in Grounded. In-game it is described as: \"Disposable, throwable light.\"",
+  "body": [
+   "A device: it is a deployable tool rather than something you eat.",
+   "It is unlocked or obtained via Analyze Gunpowder Clump."
+  ],
+  "verdict": "Overall Flare is a device."
+ },
+ "Fluid_Flippers": {
+  "lead": "Fluid Flippers is a smoothie in Grounded. Its effect is Swim Speed. In-game it is described as: \"A drinkable sludge that is scientifically proven to make you swim faster.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Swim Speed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Water Boatman Fin, Eelgrass Strand, and Lilypad Wax, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Fluid Flippers is a smoothie worth carrying for its Swim Speed effect."
+ },
+ "Funguspacho": {
+  "lead": "Funguspacho is a meal in Grounded. Its effect is Attack Stamina. It restores 75 food. In-game it is described as: \"A goopy blend of fungal growths. Packed so tight with nutrients it's considered a meal.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Meals and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Haze."
+  ],
+  "verdict": "Overall Funguspacho is a meal worth carrying for its Meals effect."
+ },
+ "Fuzz_on_the_Rocks": {
+  "lead": "Fuzz on the Rocks is a smoothie in Grounded. Its effect is Max Health. In-game it is described as: \"As literal as they come. Drinking this disgusting combination somehow makes you healthier for a while.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Max Health — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Clay, Mite Fuzz, and Pebblet, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Fuzz on the Rocks is a smoothie worth carrying for its Max Health effect."
+ },
+ "Gastro_Goo": {
+  "lead": "Gastro Goo is a smoothie in Grounded. Its effect is Gas Guard. In-game it is described as: \"Smells almost as bad as it looks, but goes down surprisingly smooth. Makes you immune to gas damage.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Gas Guard — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Stinkbug Gas Sack, Fungal Growth, and Aphid Honeydew, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Gastro Goo is a smoothie worth carrying for its Gas Guard effect."
+ },
+ "Gnatchos": {
+  "lead": "Gnatchos is a meal in Grounded. Its effect is Fall Defense. It restores 50 food. In-game it is described as: \"Hot and gooey gnat meat gristle atop crunchy chips. Satisfying enough to be considered a whole meal.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Meals and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cooking 101."
+  ],
+  "verdict": "Overall Gnatchos is a meal worth carrying for its Meals effect."
+ },
+ "Green_Machine": {
+  "lead": "Green Machine is a smoothie in Grounded. Its effect is Hyperstamina. In-game it is described as: \"A delicious blend of locally sourced greens. Boosts your stamina recovery rate.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Hyperstamina — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Lilypad Wax, Sprig, and Clover Leaf, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Green Machine is a smoothie worth carrying for its Hyperstamina effect."
+ },
+ "Healbasa": {
+  "lead": "Healbasa is a health in Grounded. Its effect is Heals. In-game it is described as: \"A juicy mosquito blood sack wrapped so tightly in silk rope that it could burst at any moment. Showers allies in a small area with a healing splash of filtered blood jelly.\"",
+  "body": [
+   "A healing item — keep one on your bar for emergencies rather than relying on regeneration.",
+   "It is unlocked or obtained via Analyze Mosquito Blood Sack.",
+   "It also restores +40 health."
+  ],
+  "verdict": "Overall Healbasa is a health."
+ },
+ "Hedge_Lord": {
+  "lead": "Hedge Lord is a smoothie in Grounded. Its effect is Fuller. In-game it is described as: \"Refreshing and nutritious. Lowers the rates of both hunger and thirst.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Fuller and Moist — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Berry Chunk, Aphid Honeydew, and Acorn Bits, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Hedge Lord is a smoothie worth carrying for its Fuller effect."
+ },
+ "Human_Food": {
+  "lead": "Human Food is a smoothie in Grounded. Its effect is Damage Resist. In-game it is described as: \"All of the ingredients are normal everyday foods; what could go wrong if you smash them all together?.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Damage Resist — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Fresh Apple Bits, Fresh Cookie Sandwich Bits, and Fresh Billy Hog Bite, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Human Food is a smoothie worth carrying for its Damage Resist effect."
+ },
+ "Infected_Gum_Sandwich": {
+  "lead": "Infected Gum Sandwich is a boss item in Grounded. In-game it is described as: \"A mold infested preparation of the black ant queen's favorite food.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Discover Infected Gum Sandwich Recipe."
+  ],
+  "verdict": "Overall Infected Gum Sandwich is a boss item."
+ },
+ "Infected_Mushroom_Sandwich": {
+  "lead": "Infected Mushroom Sandwich is a boss item in Grounded. In-game it is described as: \"A mold infested preparation of the red ant queen's favorite food.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Discover Infected Mushroom Sandwich Recipe."
+  ],
+  "verdict": "Overall Infected Mushroom Sandwich is a boss item."
+ },
+ "Infected_Toejam_Sandwich": {
+  "lead": "Infected Toejam Sandwich is a boss item in Grounded. In-game it is described as: \"A mold infested preparation of the fire ant queen's favorite food.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Discover Infected Toejam Sandwich Recipe."
+  ],
+  "verdict": "Overall Infected Toejam Sandwich is a boss item."
+ },
+ "Juicy_Mushroom_Sandwich": {
+  "lead": "Juicy Mushroom Sandwich is a boss item in Grounded. In-game it is described as: \"The red ant queen's favorite food.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Buy Friendship Offering: Red Ant Queen."
+  ],
+  "verdict": "Overall Juicy Mushroom Sandwich is a boss item."
+ },
+ "Koi_Bait": {
+  "lead": "Koi Bait is a consumable in Grounded.",
+  "body": [
+   "A consumable used in Grounded's survival, crafting and combat-prep loops."
+  ],
+  "verdict": "Overall Koi Bait is a consumable."
+ },
+ "Larvagna": {
+  "lead": "Larvagna is a meal in Grounded. Its effect is Critical Hit Chance. It restores 50 food. In-game it is described as: \"A deliciously baked collection of goopy and slimy bits. Hearty enough to be considered a whole meal.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Meals and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Hedge."
+  ],
+  "verdict": "Overall Larvagna is a meal worth carrying for its Meals effect."
+ },
+ "Liquid_Gills": {
+  "lead": "Liquid Gills is a smoothie in Grounded. Its effect is Veteran Diver. In-game it is described as: \"A scientific mystery that allows you to breathe underwater for a short time.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Veteran Diver — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Water Flea Meat, Eelgrass Strand, and Raw Tadpole Meat, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Liquid Gills is a smoothie worth carrying for its Veteran Diver effect."
+ },
+ "Liquid_Rage": {
+  "lead": "Liquid Rage is a smoothie in Grounded. Its effect is Attack. In-game it is described as: \"All sorts of dangerous things in drinkable form! Consuming this makes you feel way stronger.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Attack — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Larva Spike, Spider Fang, and Red Ant Mandibles, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Liquid Rage is a smoothie worth carrying for its Attack effect."
+ },
+ "Mac_N_Bees": {
+  "lead": "Mac N Bees is a meal in Grounded. Its effect is Fall Defense. It restores 75 food. In-game it is described as: \"A creamy meal that warms the soul. A deliciously melty blend of objects mixed with warm bits of bees.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Meals and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Hedge."
+  ],
+  "verdict": "Overall Mac N Bees is a meal worth carrying for its Meals effect."
+ },
+ "Miteloaf": {
+  "lead": "Miteloaf is a meal in Grounded. Its effect is Attack Stamina. It restores 50 food. In-game it is described as: \"A mysterious, chewy lump topped with a fuzzy glaze. Satisfying enough to be considered a meal.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Meals and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cooking 101."
+  ],
+  "verdict": "Overall Miteloaf is a meal worth carrying for its Meals effect."
+ },
+ "Moldy_Hoagie": {
+  "lead": "Moldy Hoagie is a boss item in Grounded. In-game it is described as: \"A nauseating concoction of seemingly edible items, suitable for a repulsive yet regal overlord.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Discover Moldy Note."
+  ],
+  "verdict": "Overall Moldy Hoagie is a boss item."
+ },
+ "Omelant": {
+  "lead": "Omelant is a meal in Grounded. Its effect is Thorns. It restores 75 food. In-game it is described as: \"Black ant eggs with a bit of salt create the perfect breakfast.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Meals and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Sandbox."
+  ],
+  "verdict": "Overall Omelant is a meal worth carrying for its Meals effect."
+ },
+ "Orchid_Mantis_Kebab": {
+  "lead": "Orchid Mantis Kebab is a boss item in Grounded. In-game it is described as: \"A delicious delicacy fit for a mantis. Not for human consumption.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Discover Mantis Research Notes."
+  ],
+  "verdict": "Overall Orchid Mantis Kebab is a boss item."
+ },
+ "Poison_Gum_Sandwich": {
+  "lead": "Poison Gum Sandwich is a boss item in Grounded. In-game it is described as: \"The black ant queen's favorite food, but laced with deadly poison.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Discover Poison Gum Sandwich Recipe."
+  ],
+  "verdict": "Overall Poison Gum Sandwich is a boss item."
+ },
+ "Poison_Mushroom_Sandwich": {
+  "lead": "Poison Mushroom Sandwich is a boss item in Grounded. In-game it is described as: \"The red ant queen's favorite food, but laced with deadly poison.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Discover Poison Mushroom Sandwich Recipe."
+  ],
+  "verdict": "Overall Poison Mushroom Sandwich is a boss item."
+ },
+ "Poison_Toejam_Sandwich": {
+  "lead": "Poison Toejam Sandwich is a boss item in Grounded. In-game it is described as: \"The fire ant queen's favorite food, but laced with deadly poison.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Discover Poison Toejam Sandwich Recipe."
+  ],
+  "verdict": "Overall Poison Toejam Sandwich is a boss item."
+ },
+ "Quesadillantlion": {
+  "lead": "Quesadillantlion is a meal in Grounded. Its effect is Sizzle Protection. It restores 75 food. In-game it is described as: \"Chunks and bits of antlion folded and baked into an edible semicircle.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Thorns, Meals, and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Sandbox."
+  ],
+  "verdict": "Overall Quesadillantlion is a meal worth carrying for its Thorns effect."
+ },
+ "Shinobi_Sneeze": {
+  "lead": "Shinobi Sneeze is a device in Grounded. Its effect is Invisibility. In-game it is described as: \"A pollen puff blast hides you from enemy sight for a short duration.\"",
+  "body": [
+   "A device: it is a deployable tool rather than something you eat.",
+   "It is unlocked or obtained via Analyze Pollen."
+  ],
+  "verdict": "Overall Shinobi Sneeze is a device."
+ },
+ "Slime_Mold_Torch": {
+  "lead": "Slime Mold Torch is a light in Grounded. In-game it is described as: \"A torch-like stalk from a cluster of mold. Should be able to light your way for a short time.\"",
+  "body": [
+   "A light source — useful anywhere the ceiling blocks the sun.",
+   "It is unlocked or obtained via Analyze Slime Mold Stalk."
+  ],
+  "verdict": "Overall Slime Mold Torch is a light."
+ },
+ "Soothing_Syrup": {
+  "lead": "Soothing Syrup is a smoothie in Grounded. In-game it is described as: \"A delicious, healing mush of fine ingredients.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "It is made from Algae and Mushroom, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Soothing Syrup is a smoothie."
+ },
+ "Spaghetflea": {
+  "lead": "Spaghetflea is a meal in Grounded. Its effect is Junior Diver. It restores 50 food. In-game it is described as: \"Acorn bits combined with lilypad wax form a perfectly unique rendition of this classic dish. Completed by an assortment of waterflea meatballs.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Meals and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Pond."
+  ],
+  "verdict": "Overall Spaghetflea is a meal worth carrying for its Meals effect."
+ },
+ "Spider_Slider": {
+  "lead": "Spider Slider is a meal in Grounded. Its effect is Critical Hit Chance. It restores 75 food. In-game it is described as: \"A delicious burger made of various chunks of cooked spider. Hearty enough to be considered a whole meal.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Meals and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Haze."
+  ],
+  "verdict": "Overall Spider Slider is a meal worth carrying for its Meals effect."
+ },
+ "Splatburst": {
+  "lead": "Splatburst is an explosive in Grounded. In-game it is described as: \"A bomb that’s covered in a sticky substance. Attaches to the first thing it hits.\"",
+  "body": [
+   "A consumable used in Grounded's survival, crafting and combat-prep loops.",
+   "It is unlocked or obtained via Buy Splatburst Recipe.",
+   "As a thrown or deployed item it deals 300 damage."
+  ],
+  "verdict": "Overall Splatburst is an explosive."
+ },
+ "Tadpoloca_Pudding": {
+  "lead": "Tadpoloca Pudding is a meal in Grounded. Its effect is Veteran Diver. It restores 75 food. In-game it is described as: \"Surprisingly creamy blend of water-based ingredients with a bit of a chill from an Ice Caps breath mint.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Swim Speed, Meals, and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Pond."
+  ],
+  "verdict": "Overall Tadpoloca Pudding is a meal worth carrying for its Swim Speed effect."
+ },
+ "Tasty_Toejam_Sandwich": {
+  "lead": "Tasty Toejam Sandwich is a boss item in Grounded. In-game it is described as: \"The fire ant queen's favorite food.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Buy Friendship Offering: Fire Ant Queen."
+  ],
+  "verdict": "Overall Tasty Toejam Sandwich is a boss item."
+ },
+ "Termite_Delight": {
+  "lead": "Termite Delight is a meal in Grounded. Its effect is Chopping Harvest Speed. It restores 75 food. In-game it is described as: \"A mysterious meat pie baked with a variety of unknown additives to create a very uniquely textured dish.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Busting Harvest Speed, Meals, and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Woodpile."
+  ],
+  "verdict": "Overall Termite Delight is a meal worth carrying for its Busting Harvest Speed effect."
+ },
+ "Torch": {
+  "lead": "Torch is a light in Grounded. In-game it is described as: \"Provides light in dark places. Held in the weak hand.\"",
+  "body": [
+   "A light source — useful anywhere the ceiling blocks the sun.",
+   "It is unlocked or obtained via Discover Sap or Dry Grass Chunk."
+  ],
+  "verdict": "Overall Torch is a light."
+ },
+ "Wasperole": {
+  "lead": "Wasperole is a meal in Grounded. Its effect is Exhaustion Recovery. It restores 75 food. In-game it is described as: \"A crunchy dish that really brings out the flavor of wasps.\"",
+  "body": [
+   "A cooked meal: it is the core of the hunger loop, so cook one before a long expedition.",
+   "The effect it grants is Poison Resist, Meals, and Well Fed — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is unlocked or obtained via Buy Cookbook: Brawny Boy Bin."
+  ],
+  "verdict": "Overall Wasperole is a meal worth carrying for its Poison Resist effect."
+ },
+ "Waspidote": {
+  "lead": "Waspidote is a smoothie in Grounded. Its effect is Poison Cure. In-game it is described as: \"A blend of various toxins and bits that provide instant relief and lasting resistance to poison.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Poison Cure and Poison Resist — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Wasp Shell, Wasp Paper, and Spider Venom, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Waspidote is a smoothie worth carrying for its Poison Cure effect."
+ },
+ "Workers_Comp": {
+  "lead": "Worker's Comp is a smoothie in Grounded. Its effect is Hauling Strength. In-game it is described as: \"The power of an ant in the palm of your hand. Drinking this makes you feel like you can haul more.\"",
+  "body": [
+   "A smoothie: blend it at a Smoothie Station and its buff lasts a set time, so it is a pre-fight power-up rather than a snack.",
+   "The effect it grants is Hauling Strength — the reason to craft it is the buff it adds for its duration, not the item itself.",
+   "It is made from Red Ant Part, Red Ant Head, and Red Ant Mandibles, so topping up your stock of those ingredients is the prerequisite for keeping a supply on hand."
+  ],
+  "verdict": "Overall Worker's Comp is a smoothie worth carrying for its Hauling Strength effect."
+ },
+ "Yummy_Gum_Sandwich": {
+  "lead": "Yummy Gum Sandwich is a boss item in Grounded. In-game it is described as: \"The black ant queen's favorite food.\"",
+  "body": [
+   "A boss-sourced item — these come from a specific boss fight and usually gate a key upgrade.",
+   "It is unlocked or obtained via Buy Friendship Offering: Black Ant Queen."
+  ],
+  "verdict": "Overall Yummy Gum Sandwich is a boss item."
+ }
+}

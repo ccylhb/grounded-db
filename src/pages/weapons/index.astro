@@ -24,6 +24,15 @@ const count = (g: string) => withDmg.filter((w) => (w.type || "Other") === g).le
     {weapons.length} weapons and tools. Damage numbers are per hit at base level — charged values shown on each detail page.
   </p>
 
+  <p class="muted">
+    Every weapon and tool links to a page with its exact damage, attack type, stun, speed and tier.
+    Attack type matters more than raw damage here: Grounded creatures have both physical weaknesses
+    (Stabbing, Chopping, Busting and more) and elemental weaknesses (Fresh, Spicy, Salty, Sour), and each
+    weapon page names the creatures its damage type actually counters. Search by name, or open a type group
+    to compare weapons within the same class.
+  </p>
+
+
   <div class="grid grid-3" style="margin:1.25rem 0">
     {groups.map((g) => (
       <a class="card" href={`/weapons/type/${encodeURIComponent(g.toLowerCase().replace(/\s+/g, "-"))}/`} style="display:block">

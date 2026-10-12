@@ -1,0 +1,442 @@
+{
+ "Astonishing_Acid": {
+  "lead": "Astonishing Acid is a Tier 1 trinket in Grounded. Its effect is Finale Damage. In-game it is described as: \"A gland full of seemingly infinite acid. Combo attacks cause it to burst.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Finale Damage, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Analyze Acid Gland."
+  ],
+  "verdict": "Overall Astonishing Acid is a Tier 1 trinket best used when its Finale Damage effect fits the fight ahead."
+ },
+ "BURG.L_Charm_Black_Anthill": {
+  "lead": "BURG.L Charm: Black Anthill is a Tier 3 trinket in Grounded. Its effect is Dust Guard. In-game it is described as: \"A scientific wonder gifted to you by BURG.L.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Dust Guard, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Black Anthill Lab."
+  ],
+  "verdict": "Overall BURG.L Charm: Black Anthill is a Tier 3 trinket best used when its Dust Guard effect fits the fight ahead."
+ },
+ "BURG.L_Charm_Haze": {
+  "lead": "BURG.L Charm: Haze is a Tier 3 trinket in Grounded. Its effect is Gas Guard. In-game it is described as: \"A scientific wonder gifted to you by BURG.L.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Gas Guard, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Haze Lab."
+  ],
+  "verdict": "Overall BURG.L Charm: Haze is a Tier 3 trinket best used when its Gas Guard effect fits the fight ahead."
+ },
+ "BURG.L_Charm_Hedge": {
+  "lead": "BURG.L Charm: Hedge is a Tier 3 trinket in Grounded. Its effect is Fall Immunity. In-game it is described as: \"A scientific wonder gifted to you by BURG.L.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Fall Immunity, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Hedge Lab."
+  ],
+  "verdict": "Overall BURG.L Charm: Hedge is a Tier 3 trinket best used when its Fall Immunity effect fits the fight ahead."
+ },
+ "BURG.L_Charm_Pond": {
+  "lead": "BURG.L Charm: Pond is a Tier 3 trinket in Grounded. Its effect is Veteran Diver. In-game it is described as: \"A scientific wonder gifted to you by BURG.L.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Veteran Diver, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Pond Lab."
+  ],
+  "verdict": "Overall BURG.L Charm: Pond is a Tier 3 trinket best used when its Veteran Diver effect fits the fight ahead."
+ },
+ "Biomedical_Badge": {
+  "lead": "Biomedical Badge is a Tier 2 trinket in Grounded. Its effect is Trickle Regen. In-game it is described as: \"A badge from an ominent scientist, granting access to their specific department of work.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Trickle Regen, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Sandbox."
+  ],
+  "verdict": "Overall Biomedical Badge is a Tier 2 trinket best used when its Trickle Regen effect fits the fight ahead."
+ },
+ "Broodmother_Trinket": {
+  "lead": "Broodmother Trinket is a Tier 3 trinket in Grounded. Its effect is Summon Poison. In-game it is described as: \"Rare memento from the broodmother.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Summon Poison, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Hedge Broodmother."
+  ],
+  "verdict": "Overall Broodmother Trinket is a Tier 3 trinket best used when its Summon Poison effect fits the fight ahead."
+ },
+ "Compliance_Badge": {
+  "lead": "Compliance Badge is a Tier 2 trinket in Grounded. Its effect is Parry Heal. In-game it is described as: \"A badge from an ominent scientist, granting access to their specific department of work.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Parry Heal, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Eastern Flooded Zone."
+  ],
+  "verdict": "Overall Compliance Badge is a Tier 2 trinket best used when its Parry Heal effect fits the fight ahead."
+ },
+ "Defense_Badge": {
+  "lead": "Defense Badge is a Tier 2 trinket in Grounded. Its effect is Damage Resist. In-game it is described as: \"A badge from an Ominent scientist, granting access to their specific department of work.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Damage Resist, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Haze_Lab."
+  ],
+  "verdict": "Overall Defense Badge is a Tier 2 trinket best used when its Damage Resist effect fits the fight ahead."
+ },
+ "Deuces_Sign": {
+  "lead": "Deuces Sign is a Tier 3 trinket in Grounded. Its effect is Deuces. In-game it is described as: \"A crude drawing of a boastful escape.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Deuces, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Central Grasslands."
+  ],
+  "verdict": "Overall Deuces Sign is a Tier 3 trinket best used when its Deuces effect fits the fight ahead."
+ },
+ "Entomologist_Badge": {
+  "lead": "Entomologist Badge is a Tier 2 trinket in Grounded. Its effect is Attack. In-game it is described as: \"A badge from an ominent scientist, granting access to their specific department of work.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Attack, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in BBQ Spill."
+  ],
+  "verdict": "Overall Entomologist Badge is a Tier 2 trinket best used when its Attack effect fits the fight ahead."
+ },
+ "Everlasting_Hogstopper": {
+  "lead": "Everlasting Hogstopper is a Tier 3 trinket in Grounded. Its effect is Food Generation. In-game it is described as: \"A source of infinite food. A nibble now and then satiates your hunger in just the right amounts.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Food Generation, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Billy Hog."
+  ],
+  "verdict": "Overall Everlasting Hogstopper is a Tier 3 trinket best used when its Food Generation effect fits the fight ahead."
+ },
+ "Fancy_Fletching": {
+  "lead": "Fancy Fletching is a Tier 2 trinket in Grounded. Its effect is Effortless Arrows. In-game it is described as: \"A mysterious feather that makes shooting arrows significantly less exhausting.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Effortless Arrows, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Crow Feather."
+  ],
+  "verdict": "Overall Fancy Fletching is a Tier 2 trinket best used when its Effortless Arrows effect fits the fight ahead."
+ },
+ "Fluffy_Dandelion_Tuft": {
+  "lead": "Fluffy Dandelion Tuft is a Tier 2 trinket in Grounded. In-game it is described as: \"A fluffy puff of dandelion of exceptionally high quality. Could be used to drift down from even greater heights.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "You get it via Dandelion."
+  ],
+  "verdict": "Overall Fluffy Dandelion Tuft is a Tier 2 trinket."
+ },
+ "Fungal_Charm": {
+  "lead": "Fungal Charm is a Tier 2 trinket in Grounded. Its effect is Explosive Resist. In-game it is described as: \"A pretty growth of fungus that seems to want to protect you from harm.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Explosive Resist, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Haze Fungus."
+  ],
+  "verdict": "Overall Fungal Charm is a Tier 2 trinket best used when its Explosive Resist effect fits the fight ahead."
+ },
+ "Giddy_Goop": {
+  "lead": "Giddy Goop is a Tier 2 trinket in Grounded. Its effect is Finale Goo. In-game it is described as: \"Mysteriously excited firefly goo ready to jump out at your foes.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Finale Goo, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Firefly."
+  ],
+  "verdict": "Overall Giddy Goop is a Tier 2 trinket best used when its Finale Goo effect fits the fight ahead."
+ },
+ "Glowbasa_Link": {
+  "lead": "Glowbasa Link is a Tier 1 trinket in Grounded. In-game it is described as: \"A stuffed link containing a randomized effect generated from deduper jelly to carry in your pockets.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "You get it via Offer A Moldy Hoagie To One Infected Ant Queen."
+  ],
+  "verdict": "Overall Glowbasa Link is a Tier 1 trinket."
+ },
+ "Glowbasa_Necklace": {
+  "lead": "Glowbasa Necklace is a Tier 3 trinket in Grounded. In-game it is described as: \"Three stuffed links worn as a thick necklace containing a few randomized effects generated from deduper jelly.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "You get it via Offer A Moldy Hoagie To Three Infected Ant Queens."
+  ],
+  "verdict": "Overall Glowbasa Necklace is a Tier 3 trinket."
+ },
+ "Glowbasa_Wristband": {
+  "lead": "Glowbasa Wristband is a Tier 2 trinket in Grounded. In-game it is described as: \"Two stuffed links worn as a wristband containing a couple randomized effect generated from deduper jelly.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "You get it via Offer A Moldy Hoagie To Two Infected Ant Queens."
+  ],
+  "verdict": "Overall Glowbasa Wristband is a Tier 2 trinket."
+ },
+ "Health_And_Safety_Badge": {
+  "lead": "Health And Safety Badge is a Tier 2 trinket in Grounded. Its effect is Life Steal. In-game it is described as: \"A badge from an ominent scientist, granting access to their specific department of work.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Life Steal, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Brawny Boy Bin."
+  ],
+  "verdict": "Overall Health And Safety Badge is a Tier 2 trinket best used when its Life Steal effect fits the fight ahead."
+ },
+ "Infected_Broodmother_Trinket": {
+  "lead": "Infected Broodmother Trinket is a Tier 3 trinket in Grounded. Its effect is Blastwave. In-game it is described as: \"Extremely rare memento from the Infected Broodmother.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Blastwave, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Infected Broodmother."
+  ],
+  "verdict": "Overall Infected Broodmother Trinket is a Tier 3 trinket best used when its Blastwave effect fits the fight ahead."
+ },
+ "Insulating_Larva_Spike": {
+  "lead": "Insulating Larva Spike is a Tier 2 trinket in Grounded. Its effect is Sizzle Protection. In-game it is described as: \"A larva spike that seems to absorb heat.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Sizzle Protection, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Ladybird Larva."
+  ],
+  "verdict": "Overall Insulating Larva Spike is a Tier 2 trinket best used when its Sizzle Protection effect fits the fight ahead."
+ },
+ "Intern_Badge": {
+  "lead": "Intern Badge is a Tier 2 trinket in Grounded. Its effect is Hauling Strength. In-game it is described as: \"A badge from an ominent scientist, granting access to their specific department of work.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Hauling Strength, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Upper Grasslands."
+  ],
+  "verdict": "Overall Intern Badge is a Tier 2 trinket best used when its Hauling Strength effect fits the fight ahead."
+ },
+ "Left_Elf_Charm": {
+  "lead": "Left Elf Charm is a Tier 2 trinket in Grounded. Its effect is Invincible Shielding. In-game it is described as: \"A pebble village gossip elf reaches for something to the right. It feels important.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Invincible Shielding, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Pond Outpost Alpha."
+  ],
+  "verdict": "Overall Left Elf Charm is a Tier 2 trinket best used when its Invincible Shielding effect fits the fight ahead."
+ },
+ "Mantis_Trinket": {
+  "lead": "Mantis Trinket is a Tier 3 trinket in Grounded. Its effect is Finale Crit Boost. In-game it is described as: \"A rare and powerful memento from the mysterious mantis.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Finale Crit Boost, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Orchid Mantis."
+  ],
+  "verdict": "Overall Mantis Trinket is a Tier 3 trinket best used when its Finale Crit Boost effect fits the fight ahead."
+ },
+ "Nifty_Needle": {
+  "lead": "Nifty Needle is a Tier 1 trinket in Grounded. Its effect is Charged Shot Damage. In-game it is described as: \"A very useful thistle needle that increases the damage of fully charged bow shots.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Charged Shot Damage, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Analyze Thistle Needle."
+  ],
+  "verdict": "Overall Nifty Needle is a Tier 1 trinket best used when its Charged Shot Damage effect fits the fight ahead."
+ },
+ "Power_Droplet": {
+  "lead": "Power Droplet is a Tier 3 trinket in Grounded. Its effect is Fury. In-game it is described as: \"Tap into a hidden power, unleashing unarmed fury on your foes.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Fury, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Upper Grasslands."
+  ],
+  "verdict": "Overall Power Droplet is a Tier 3 trinket best used when its Fury effect fits the fight ahead."
+ },
+ "Pucker_Charm": {
+  "lead": "Pucker Charm is a Tier 3 trinket in Grounded. Its effect is Sour Attack. In-game it is described as: \"A condensed nugget of elemental force. Simply holding it fills you with power.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Sour Attack, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Easter Egg Sour Candy."
+  ],
+  "verdict": "Overall Pucker Charm is a Tier 3 trinket best used when its Sour Attack effect fits the fight ahead."
+ },
+ "Right_Elf_Charm": {
+  "lead": "Right Elf Charm is a Tier 2 trinket in Grounded. Its effect is Invincible Attack. In-game it is described as: \"A pebble village gossip elf reaches for something to the left. It feels important.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Invincible Attack, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Stump Lab Outpost."
+  ],
+  "verdict": "Overall Right Elf Charm is a Tier 2 trinket best used when its Invincible Attack effect fits the fight ahead."
+ },
+ "Rotten_Berry_Charm": {
+  "lead": "Rotten Berry Charm is a Tier 3 trinket in Grounded. Its effect is Rotten Deluge. In-game it is described as: \"A piece of a grotesque berry that seems to bring out the innate power of rotten weapons.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Rotten Deluge, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Berry Outpost."
+  ],
+  "verdict": "Overall Rotten Berry Charm is a Tier 3 trinket best used when its Rotten Deluge effect fits the fight ahead."
+ },
+ "Sarahs_Charm": {
+  "lead": "Sarah's Charm is a Tier 3 trinket in Grounded. Its effect is Invincible Attack. In-game it is described as: \"A reunited Pebble Village gossip elf hug charm. A shrunken keepsake of Sarah Tully. A powerful embrace combines the energy of both pieces in one.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Invincible Attack, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Discover Left Elf Charm or Right Elf Charm."
+  ],
+  "verdict": "Overall Sarah's Charm is a Tier 3 trinket best used when its Invincible Attack effect fits the fight ahead."
+ },
+ "Science_Cone": {
+  "lead": "Science Cone is a Tier 3 trinket in Grounded. In-game it is described as: \"A loose Raw Science particle found within a creature. You feel the unsettling hum of science surging within, yearning to manifest in random attributes.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "You get it via Various Creatures in New Game+."
+  ],
+  "verdict": "Overall Science Cone is a Tier 3 trinket."
+ },
+ "Science_Crinkle": {
+  "lead": "Science Crinkle is a Tier 1 trinket in Grounded. In-game it is described as: \"A loose Raw Science particle found within a creature. You feel the unsettling hum of science surging within, yearning to manifest in random attributes.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "You get it via Various Creatures in New Game+."
+  ],
+  "verdict": "Overall Science Crinkle is a Tier 1 trinket."
+ },
+ "Science_Waffle": {
+  "lead": "Science Waffle is a Tier 2 trinket in Grounded. In-game it is described as: \"A loose Raw Science particle found within a creature. You feel the unsettling hum of science surging within, yearning to manifest in random attributes.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "You get it via Various Creatures in New Game+."
+  ],
+  "verdict": "Overall Science Waffle is a Tier 2 trinket."
+ },
+ "Shield_Solidifier": {
+  "lead": "Shield Solidifier is a Tier 3 trinket in Grounded. Its effect is Block Strength. In-game it is described as: \"An impossibly strong layer of fiber that can reinforce a shield to be nearly indestructible.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Block Strength, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Brawny Boy Bin."
+  ],
+  "verdict": "Overall Shield Solidifier is a Tier 3 trinket best used when its Block Strength effect fits the fight ahead."
+ },
+ "Shiny_Salt_Crystal": {
+  "lead": "Shiny Salt Crystal is a Tier 2 trinket in Grounded. Its effect is Salty Attack. In-game it is described as: \"A condensed nugget of elemental force. Simply holding it fills you with power.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Salty Attack, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Salt Cluster."
+  ],
+  "verdict": "Overall Shiny Salt Crystal is a Tier 2 trinket best used when its Salty Attack effect fits the fight ahead."
+ },
+ "Spectacular_Spicy_Shard": {
+  "lead": "Spectacular Spicy Shard is a Tier 2 trinket in Grounded. Its effect is Spicy Attack. In-game it is described as: \"A condensed nugget of elemental force. Simply holding it fills you with power.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Spicy Attack, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Easter Egg Spicy Candy."
+  ],
+  "verdict": "Overall Spectacular Spicy Shard is a Tier 2 trinket best used when its Spicy Attack effect fits the fight ahead."
+ },
+ "Speed_Droplet": {
+  "lead": "Speed Droplet is a Tier 3 trinket in Grounded. Its effect is The Quickness. In-game it is described as: \"A mystical droplet that gives you the energy to run faster and longer.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is The Quickness, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Aphid."
+  ],
+  "verdict": "Overall Speed Droplet is a Tier 3 trinket best used when its The Quickness effect fits the fight ahead."
+ },
+ "Sticky_Fingers": {
+  "lead": "Sticky Fingers is a Tier 2 trinket in Grounded. Its effect is Steal Item. In-game it is described as: \"A sticky pair of gloves that lets you steal pieces of insects as you attack them.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Steal Item, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Upper Grasslands."
+  ],
+  "verdict": "Overall Sticky Fingers is a Tier 2 trinket best used when its Steal Item effect fits the fight ahead."
+ },
+ "Sturdy_Shell": {
+  "lead": "Sturdy Shell is a Tier 1 trinket in Grounded. Its effect is Friendly Fire Defense Up. In-game it is described as: \"An incredibly solid piece of acorn that increases your defensive capabilities.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Friendly Fire Defense Up, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Analyze Acorn Shell."
+  ],
+  "verdict": "Overall Sturdy Shell is a Tier 1 trinket best used when its Friendly Fire Defense Up effect fits the fight ahead."
+ },
+ "Suspicious_Mint": {
+  "lead": "Suspicious Mint is a Tier 2 trinket in Grounded. Its effect is Fresh Attack. In-game it is described as: \"A condensed nugget of elemental force. Simply holding it fills you with power.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Fresh Attack, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Easter Egg Fresh Mint."
+  ],
+  "verdict": "Overall Suspicious Mint is a Tier 2 trinket best used when its Fresh Attack effect fits the fight ahead."
+ },
+ "Thors_Pendant": {
+  "lead": "Thor's Pendant is a Tier 3 trinket in Grounded. Its effect is Pendant. In-game it is described as: \"A shining helm charm from the Minotaurs and Myrmidons logo on a simple chain. A shrunken keepsake from Thor Tully that inspires perseverance.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Pendant, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Upper Grasslands."
+  ],
+  "verdict": "Overall Thor's Pendant is a Tier 3 trinket best used when its Pendant effect fits the fight ahead."
+ },
+ "Toxicology_Badge": {
+  "lead": "Toxicology Badge is a Tier 2 trinket in Grounded. Its effect is Gas Resist. In-game it is described as: \"A badge from an ominent scientist, granting access to their specific department of work.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Gas Resist, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "It is found in Pond Depths."
+  ],
+  "verdict": "Overall Toxicology Badge is a Tier 2 trinket best used when its Gas Resist effect fits the fight ahead."
+ },
+ "Trinkets_(Grounded)": {
+  "lead": "Trinkets (Grounded) is a trinket in Grounded.",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot."
+  ],
+  "verdict": "Overall Trinkets (Grounded) is a trinket."
+ },
+ "Unstable_Capacitor": {
+  "lead": "Unstable Capacitor is a Tier 3 trinket in Grounded. Its effect is Short Circuit. In-game it is described as: \"Filled with electricity and ready to break free.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Short Circuit, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via TAYZ.T."
+  ],
+  "verdict": "Overall Unstable Capacitor is a Tier 3 trinket best used when its Short Circuit effect fits the fight ahead."
+ },
+ "Valentines_Fortune": {
+  "lead": "Valentine's Fortune is a Tier 2 trinket in Grounded. Its effect is Vampirism. In-game it is described as: \"A small piece of paper that inexplicably reveals your secret crush, received from a valentine's day chocolate. Grants a mysterious but chivalrous bonus.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Vampirism, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Chocolate Smoochies."
+  ],
+  "verdict": "Overall Valentine's Fortune is a Tier 2 trinket best used when its Vampirism effect fits the fight ahead."
+ },
+ "Volatile_Fang": {
+  "lead": "Volatile Fang is a Tier 3 trinket in Grounded. Its effect is Explosive Perfect Block. In-game it is described as: \"The fang of an infected wolf spider that's ready to explode on command.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Explosive Perfect Block, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Infected Wolf Spider."
+  ],
+  "verdict": "Overall Volatile Fang is a Tier 3 trinket best used when its Explosive Perfect Block effect fits the fight ahead."
+ },
+ "Wasp_Queen_Trinket": {
+  "lead": "Wasp Queen Trinket is a Tier 3 trinket in Grounded. Its effect is Arrow Refund. In-game it is described as: \"A rare and powerful memento of the elegant Wasp Queen.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Arrow Refund, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Wasp Queen."
+  ],
+  "verdict": "Overall Wasp Queen Trinket is a Tier 3 trinket best used when its Arrow Refund effect fits the fight ahead."
+ },
+ "Web_Clippers": {
+  "lead": "Web Clippers is a Tier 1 trinket in Grounded. Its effect is Web Damage. In-game it is described as: \"Doubles your damage against all web-based harvestables.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Web Damage, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger."
+  ],
+  "verdict": "Overall Web Clippers is a Tier 1 trinket best used when its Web Damage effect fits the fight ahead."
+ },
+ "Wittle_Widowling": {
+  "lead": "Wittle Widowling is a Tier 3 trinket in Grounded. Its effect is Widowling Wrangler. In-game it is described as: \"An unusual piece of a black widow that seems to call out for its children.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants a passive effect rather than raw armor or damage, so it competes with your damage and survival perks for that slot.",
+   "The effect it grants is Widowling Wrangler, which is what you are really equipping it for; the slot is better spent here than on a trinket whose effect you will not trigger.",
+   "You get it via Web Sac (Black Widow)."
+  ],
+  "verdict": "Overall Wittle Widowling is a Tier 3 trinket best used when its Widowling Wrangler effect fits the fight ahead."
+ }
+}

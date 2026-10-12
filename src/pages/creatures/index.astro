@@ -24,6 +24,13 @@ const bossy = creatures.filter((c) => c.title.includes("Boss") || ["Hedge Broodm
     {creatures.length} backyard bugs. Open any creature to see its weaknesses, resistances and per-attack damage numbers.
   </p>
 
+  <p class="muted">
+    Each creature page gives its defense, elemental and physical weaknesses, resistances, per-attack damage
+    and what it drops. The fastest way to end a fight is to match your damage type to its weakness — every
+    page names the weapons in this database that exploit it. Check the weakness before you pick a loadout.
+  </p>
+
+
   <div class="card" style="margin:1.25rem 0;border-left:4px solid var(--accent)">
     <strong>Boss fights:</strong>{" "}
     {bossy.slice(0, 6).map((b, i) => (

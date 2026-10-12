@@ -2,6 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import weapons from "../../data/weapons.json";
+import proseMap from "../../data/prose_weapons.json";
 import { cl, desc, stats, best } from "../../lib/seo";
 
 export async function getStaticPaths() {
@@ -9,6 +10,7 @@ export async function getStaticPaths() {
   return weapons.filter((w) => !/\(Grounded\)$/.test(String(w.title))).map((w) => ({ params: { slug: w.slug }, props: { w } }));
 }
 const { w } = Astro.props;
+const prose = (proseMap as any)[w.slug];
 const dmgParts = String(w.damage || "").split("/").filter(Boolean);
 const sameType = w.type
   ? weapons.filter((x) => x.type === w.type && x.slug !== w.slug).slice(0, 3)
@@ -45,7 +47,15 @@ const description = desc(
     {w.augmenttype && <span class="tag hot">{w.augmenttype} damage</span>}
   </p>
 
-  {w.summary && <p class="muted">{w.summary}</p>}
+  {prose ? (
+    <div class="prose">
+      <p>{prose.lead}</p>
+      {prose.body.map((p: string) => <p>{p}</p>)}
+      {prose.verdict && <p class="verdict"><strong>Verdict:</strong> {prose.verdict}</p>}
+    </div>
+  ) : w.summary ? (
+    <p class="muted">{w.summary}</p>
+  ) : null}
 
   {(dmgParts.length > 0 || w.damagecharge) && (
     <div class="card answer-card">

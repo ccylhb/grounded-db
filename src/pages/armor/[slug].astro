@@ -2,6 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import armor from "../../data/armor.json";
+import proseMap from "../../data/prose_armor.json";
 import { cl, desc, stats, best } from "../../lib/seo";
 
 export async function getStaticPaths() {
@@ -9,6 +10,7 @@ export async function getStaticPaths() {
   return armor.filter((a) => !/\(Grounded\)$/.test(String(a.title))).map((a) => ({ params: { slug: a.slug }, props: { a } }));
 }
 const { a } = Astro.props;
+const prose = (proseMap as any)[a.slug];
 const totalDef = a.pieces.reduce((s, p) => s + p.defense, 0);
 const totalRes = a.pieces.reduce((s, p) => s + p.resist, 0);
 const sameTier = a.tier
@@ -45,7 +47,15 @@ const description = desc(
     {a.pieceEffect && <span class="tag">Piece effect: {a.pieceEffect}</span>}
   </p>
 
-  {a.summary && <p class="muted">{a.summary}</p>}
+  {prose ? (
+    <div class="prose">
+      <p>{prose.lead}</p>
+      {prose.body.map((p: string) => <p>{p}</p>)}
+      {prose.verdict && <p class="verdict"><strong>Verdict:</strong> {prose.verdict}</p>}
+    </div>
+  ) : a.summary ? (
+    <p class="muted">{a.summary}</p>
+  ) : null}
 
   {a.pieces.length > 0 && (
     <div class="card answer-card">

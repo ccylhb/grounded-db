@@ -2,6 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import consumables from "../../data/consumables.json";
+import proseMap from "../../data/prose_consumables.json";
 import { cl, desc, stats, best } from "../../lib/seo";
 
 export async function getStaticPaths() {
@@ -9,6 +10,7 @@ export async function getStaticPaths() {
   return consumables.filter((c) => !/\(Grounded\)$/.test(String(c.title))).map((c) => ({ params: { slug: c.slug }, props: { c } }));
 }
 const { c } = Astro.props;
+const prose = (proseMap as any)[c.slug];
 const kind = (c._ib || "").replace("Infobox/", "").split("/").join("-");
 const ingredients = [c.ingredient1, c.ingredient2, c.ingredient3, c.ingredient4].filter(Boolean);
 const effects = [c.effect1, c.effect2, c.effect3].filter(Boolean);
@@ -46,7 +48,15 @@ const description = desc(
     {effects.map((e) => <span class="tag hot">{e}</span>)}
   </p>
 
-  {c.summary && <p class="muted">{c.summary}</p>}
+  {prose ? (
+    <div class="prose">
+      <p>{prose.lead}</p>
+      {prose.body.map((p: string) => <p>{p}</p>)}
+      {prose.verdict && <p class="verdict"><strong>Verdict:</strong> {prose.verdict}</p>}
+    </div>
+  ) : c.summary ? (
+    <p class="muted">{c.summary}</p>
+  ) : null}
 
   {(ingredients.length > 0 || c.urecipe) && (
     <div class="card answer-card">

@@ -19,6 +19,14 @@ const all = armor.filter((a) => !/\(Grounded\)$/.test(String(a.title)));
     {armor.length} armor sets. Ranked by combined defense of all three pieces — open a set for per-piece numbers and set bonus.
   </p>
 
+  <p class="muted">
+    Each set lists per-piece defense and resist plus the combined total, and is ranked against every other
+    set in the same tier. Resistance reduces chip damage from hazards and glancing hits, but defense is the
+    headline number for surviving a boss — check where a set lands in its tier before committing to a full
+    set run.
+  </p>
+
+
   <DataTable
     head={["Set", "Tier", "Total defense", "Resistance", "Set bonus"]}
     rows={sorted.map((a) => [
