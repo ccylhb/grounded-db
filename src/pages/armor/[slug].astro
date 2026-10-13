@@ -3,7 +3,7 @@ import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import armor from "../../data/armor.json";
 import proseMap from "../../data/prose_armor.json";
-import { cl, desc, stats, best } from "../../lib/seo";
+import { best, cl, desc, stats, tail } from "../../lib/seo";
 
 export async function getStaticPaths() {
   const armor = (await import("../../data/armor.json")).default;
@@ -21,15 +21,12 @@ const sameTier = a.tier
 const uniqPieces = a.pieces.filter((p, i, arr) => arr.findIndex((q) => q.name === p.name) === i);
 const setDef = uniqPieces.reduce((s, p) => s + (Number(p.defense) || 0), 0);
 const setRes = uniqPieces.reduce((s, p) => s + (Number(p.resist) || 0), 0);
-const description = desc(
-  `${a.title.replace(/ Armor$/, "")} set —`,
-  stats(
+const statLine = stats(
     cl(a.tier) && `Tier ${cl(a.tier)}`,
     uniqPieces.length > 0 && `${uniqPieces.length} pieces, ${setDef} total defense, ${setRes}% resistance`,
     cl(a.setBonus) && `set bonus: ${cl(a.setBonus)}`
-  ),
-  best(a.summary, `Grounded armor set: per-piece defense, resistance and set bonus.`)
 );
+const description = desc(`${a.title.replace(/ Armor$/, "")} set —`, statLine, tail(a.summary, prose, statLine, `Grounded armor set: per-piece defense, resistance and set bonus.`));
 ---
 
 <Base

@@ -60,11 +60,48 @@ export const introSentence = (intro: unknown, n = 150): string => {
   return clip(m ? m[0] : s, n);
 };
 
-/** Use the summary only when substantial; a short one is worse than a topic sentence. */
+/**
+ * `"X is a Tier 3 Axe."` / `"X is a Tier 2 Trinket in Grounded."` — a wiki lead
+ * sentence that only restates the item's identity adds nothing the stats line
+ * has not already said, and it pushes real numbers past the 158-char cap.
+ * A lead is kept only when it is long enough AND carries a relation the stats
+ * lack (source, use, material, behaviour).
+ */
+const RESTATES_ONLY =
+  /\b(of|by|from|with|that|which|used|found|obtained|drops?|requires?|grants?|unlocks?|made|variant|being|contain|leads?)\b/i;
+
+const NOISE_LEAD = /^This is a (?:more advanced covering of the loot-table|complete list)/i;
+
+const isRestatement = (s: string): boolean => {
+  if (NOISE_LEAD.test(s)) return true; // a wiki maintenance note, not an item description
+  if (s.length >= 90) return false; // long enough to be saying something
+  if (!/^(?:the\s+)?.+?\s+(?:is|are)\s+(?:a|an|the)\b/i.test(s)) return false; // not a definition
+  // (title may contain dots: "O.R.C. Cricket is a creature...")
+  return !RESTATES_ONLY.test(s);
+};
+
+/** Use the summary only when substantial AND informative; a restatement is worse than none. */
 export const best = (intro: unknown, fallback: string, minLen = 30, n = 155): string => {
   const s = introSentence(intro, n);
+  if (s && isRestatement(s)) return "";
   return s.length >= minLen ? s : fallback;
 };
 
 /** Wiki overview pages ("Consumables (Grounded)") are not item entries — skip them. */
 export const isIndexPage = (title: unknown): boolean => /\(Grounded\)$/.test(String(title ?? "").trim());
+
+
+/**
+ * Tail clause for the SERP snippet.
+ * A wiki lead sentence that only restates identity ("X is a Tier 3 Axe.") is
+ * dropped rather than padding the snippet with noise. When dropping it would
+ * leave the snippet too thin, the site's own prose lead fills the gap.
+ */
+export const tail = (summary: unknown, prose: any, prefix: string, fallback: string, n = 155): string => {
+  const s = introSentence(summary, n);
+  if (s && !isRestatement(s)) return s; // the wiki lead carries extra facts
+  if (cl(prefix).length >= 70) return ""; // the stats run already fills the snippet
+  const lead = introSentence(prose && prose.lead, n);
+  if (lead && lead.length >= 40 && !isRestatement(lead)) return lead; // our own prose, when it says something
+  return fallback; // dataset too thin for a real sentence — the topic line still fills the snippet
+};

@@ -3,7 +3,7 @@ import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import trinkets from "../../data/trinkets.json";
 import proseMap from "../../data/prose_trinkets.json";
-import { cl, desc, stats, best } from "../../lib/seo";
+import { best, cl, desc, stats, tail } from "../../lib/seo";
 
 export async function getStaticPaths() {
   const trinkets = (await import("../../data/trinkets.json")).default;
@@ -14,17 +14,14 @@ const prose = (proseMap as any)[t.slug];
 const others = trinkets.filter((x) => x.slug !== t.slug).slice(0, 3);
 
 // SEO: effect and where to find it first, then the scraped summary sentence.
-const description = desc(
-  `${t.title} —`,
-  stats(
+const statLine = stats(
     cl(t.tier) && `Tier ${cl(t.tier)}`,
     cl(t.effect) && `effect: ${cl(t.effect)}`,
     cl(t.effect2) && cl(t.effect2),
     cl(t.location) && `found in ${cl(t.location)}`,
     cl(t.source) && `source: ${cl(t.source)}`
-  ),
-  best(t.summary, `Grounded trinket: what it does and where to find it.`)
 );
+const description = desc(`${t.title} —`, statLine, tail(t.summary, prose, statLine, `Grounded trinket: what it does and where to find it.`));
 ---
 
 <Base

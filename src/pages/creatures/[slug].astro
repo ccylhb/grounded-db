@@ -5,7 +5,7 @@ import armor from "../../data/armor.json";
 import trinkets from "../../data/trinkets.json";
 import consumables from "../../data/consumables.json";
 import weapons from "../../data/weapons.json";
-import { cl, desc, stats, best } from "../../lib/seo";
+import { best, cl, desc, stats, tail } from "../../lib/seo";
 import proseMap from "../../data/prose_creatures.json";
 
 export async function getStaticPaths() {
@@ -35,17 +35,14 @@ const loot = String(c.loot || "")
   .slice(0, 8);
 
 // SEO: defense / weakness / resistance up front, then the scraped summary sentence.
-const description = desc(
-  `${c.title} —`,
-  stats(
+const statLine = stats(
     cl(c.tier) && `Tier ${cl(c.tier)}`,
     clean(c.defense) && `defense ${clean(c.defense)}`,
     weaknesses.length > 0 && `weak to ${weaknesses.slice(0, 3).join(", ")}`,
     clean(c.resist) && `resists ${clean(c.resist).replace(/\bNone\b/g, "0%")}`,
     attacks.length > 0 && `attacks up to ${Math.max(...attacks.map((a: any) => Number(a.dmg) || 0))} damage`
-  ),
-  best(c.summary, `Grounded creature: weaknesses, resistances and attack damage.`)
 );
+const description = desc(`${c.title} —`, statLine, tail(c.summary, prose, statLine, `Grounded creature: weaknesses, resistances and attack damage.`));
 
 // related: items craftable from this creature's loot (match loot family word in recipes)
 const families = [...new Set(loot.map((l) => l.split(/[\s,]+/)[0]).filter((w) => w.length > 3))];

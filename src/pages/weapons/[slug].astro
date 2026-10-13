@@ -3,7 +3,7 @@ import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import weapons from "../../data/weapons.json";
 import proseMap from "../../data/prose_weapons.json";
-import { cl, desc, stats, best } from "../../lib/seo";
+import { best, cl, desc, stats, tail } from "../../lib/seo";
 
 export async function getStaticPaths() {
   const weapons = (await import("../../data/weapons.json")).default;
@@ -17,18 +17,15 @@ const sameType = w.type
   : [];
 
 // SEO: damage / stun numbers first, then the scraped summary sentence.
-const description = desc(
-  `${w.title} —`,
-  stats(
+const statLine = stats(
     cl(w.tier) && `Tier ${cl(w.tier)}`,
     cl(w.type || w.subcat) && cl(w.type || w.subcat),
     cl(w.damage) && `damage ${cl(w.damage)}`,
     cl(w.damagecharge) && `charged attack ${cl(w.damagecharge)}`,
     cl(w.stun) && `stun ${cl(w.stun)}`,
     cl(w.durability) && `durability ${cl(w.durability)}`
-  ),
-  best(w.summary, `Grounded weapon: damage, stun, speed and durability.`)
 );
+const description = desc(`${w.title} —`, statLine, tail(w.summary, prose, statLine, `Grounded weapon: damage, stun, speed and durability.`));
 ---
 
 <Base

@@ -3,7 +3,7 @@ import Base from "../../layouts/Base.astro";
 import Related from "../../components/Related.astro";
 import consumables from "../../data/consumables.json";
 import proseMap from "../../data/prose_consumables.json";
-import { cl, desc, stats, best } from "../../lib/seo";
+import { best, cl, desc, stats, tail } from "../../lib/seo";
 
 export async function getStaticPaths() {
   const consumables = (await import("../../data/consumables.json")).default;
@@ -21,17 +21,14 @@ const sameKind = c._ib
 // SEO: lead with the numbers, then the scraped summary sentence.
 const allEffects = [c.effect1, c.effect2, c.effect3, c.effect4].map((e) => cl(e)).filter(Boolean);
 const allIng = [c.ingredient1, c.ingredient2, c.ingredient3, c.ingredient4].map((i) => cl(i)).filter(Boolean);
-const description = desc(
-  `${c.title} —`,
-  stats(
+const statLine = stats(
     cl(c.food) && `restores ${cl(c.food)} hunger`,
     cl(c.tier) && `Tier ${cl(c.tier)} ${cl(c.subcat) || "item"}`,
     allEffects.length > 0 && `effect: ${allEffects.join(", ")}`,
     allIng.length > 0 && `recipe: ${allIng.join(" + ")}`,
     allIng.length === 0 && cl(c.urecipe) && `unlocked by ${cl(c.urecipe)}`
-  ),
-  best(c.summary, `Grounded ${kind || "consumable"}: effect, recipe and how to unlock it.`)
 );
+const description = desc(`${c.title} —`, statLine, tail(c.summary, prose, statLine, `Grounded ${kind || "consumable"}: effect, recipe and how to unlock it.`));
 ---
 
 <Base

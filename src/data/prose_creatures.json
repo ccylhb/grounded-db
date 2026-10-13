@@ -1,1242 +1,1242 @@
 {
- "ARC.R": {
-  "lead": "ARC.R is a Tier 2 angry creature in Grounded. It has 6 defense and 220 HP. It is found in Assistant Manager Fight and Pond Lab.",
-  "body": [
-   "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
-   "It is immune to Shock damage — do not build a loadout around that type.",
-   "Its attacks can inflict Overload Shock, so carry a cure or build resist before a long fight.",
-   "Aim for its weak point, the Back, to get bonus damage per hit.",
-   "On defeat it drops Raw Science (100) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall ARC.R is a Tier 2 creature — its Busting and Generic weakness is the fastest way through its health."
- },
- "Ancient_Pond_Jockey_Swarm": {
-  "lead": "Ancient Pond Jockey Swarm is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Ancient Pond Jockey Swarm is creature."
- },
- "Antlion": {
-  "lead": "Antlion is a Tier 3 angry creature in Grounded. It has 10 defense and 750 HP. It is found in Antlion Burrows, Sandbox, and Sandbox MIX.R.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Antlion Part (1-4) and Antlion Pincer (0-1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Antlion is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
- },
- "Aphid": {
-  "lead": "Aphid is harmless creature in Grounded. It has 12 HP. It is found in Eastern Flooded Zone, Flower Bed, and Grasslands.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Raw Aphid Meat (1), Pet Memorial Aphid (When Tamed), Aphid Honeydew (Passive Drop) Exclusive Drop from Stealing ----, and Speed Droplet — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Aphid is creature."
- },
- "Assistant_Manager": {
-  "lead": "Assistant Manager is a Tier Boss angry creature in Grounded. It has 20 defense and 1400 HP. It is found in Black Anthill Lab.",
-  "body": [
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "It is immune to Shock damage — do not build a loadout around that type.",
-   "On defeat it drops Asst. Manager Keycard (1) and Raw Science (1000) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Assistant Manager is a Tier Boss creature."
- },
- "Axl": {
-  "lead": "Axl is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Axl is creature."
- },
- "Baby_Black_Ant": {
-  "lead": "Baby Black Ant is a Tier 1 harmless creature in Grounded. It has 150 HP. It is found in Feeding The Black Ant Queen A Yummy Gum Sandwich.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Pet Memorial Ant — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Baby Black Ant is a Tier 1 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Baby_Fire_Ant": {
-  "lead": "Baby Fire Ant is a Tier 1 harmless creature in Grounded. It has 150 HP. It is found in Feeding The Fire Ant Queen A Tasty Toejam Sandwich.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Pet Memorial Ant — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Baby Fire Ant is a Tier 1 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Baby_Garden_Snail": {
-  "lead": "Baby Garden Snail is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Baby Garden Snail is creature."
- },
- "Baby_Red_Ant": {
-  "lead": "Baby Red Ant is a Tier 1 harmless creature in Grounded. It has 150 HP. It is found in Feeding The Red Ant Queen A Juicy Mushroom Sandwich.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Pet Memorial Ant — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Baby Red Ant is a Tier 1 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Bee": {
-  "lead": "Bee is a Tier 2 neutral creature in Grounded. It has 0 defense and 375 HP. It is found in Picnic Table and Sparsely In Most Areas.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "Its physical weakness is Chopping and Slashing damage — the Chopping and Slashing tools here that capitalise on it include Infused Greatsword, Acid Edge, and Blazing Edge.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops Bee Fuzz (1-5), Bee Stinger (0-1), and Pollen (When On Legs) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Bee is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Black_Ant_Queen": {
-  "lead": "Black Ant Queen is a Tier 2 harmless creature in Grounded. It is found in Black Anthill.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Black Ant Queen Chunk (10), Black Ant Queen Head (1), and Black Ant Queen Pheromone (5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Black Ant Queen is a Tier 2 creature."
- },
- "Black_Ox_Beetle": {
-  "lead": "Black Ox Beetle is a Tier 3 angry creature in Grounded. It has 30 defense and 1450 HP. It is found in Moldorc Highlands, Shed Surroundings, and Undershed.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Gut, to get bonus damage per hit.",
-   "On defeat it drops 30px, 30px, and 30px — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Black Ox Beetle is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
- },
- "Black_Soldier_Ant": {
-  "lead": "Black Soldier Ant is a Tier 2 angry creature in Grounded. It has 15 defense and 600 HP. It is found in Black Anthill, Shed Surroundings, and Northern Grasslands MIX.R.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops Black Ant Head (0-1), Black Ant Mandibles (1-2), and Black Ant Part (0-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Black Soldier Ant is a Tier 2 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Black_Widow": {
-  "lead": "Black Widow is a Tier 3 angry creature in Grounded. It has 10 defense and 3000 HP. It is found in Black Widow Cave, Brawny Boy Bin, and Moldorc Highlands.",
-  "body": [
-   "It is weak to Sour damage. In this database the Sour-augmented weapons that exploit that are Picklemaul (100 dmg), Pucker Thumper (100 dmg), and Acid Edge (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Black Widow Fang Black Widow Fang (0-2), Spider Chunk Spider Chunk (0-1), and Super Spider Venom Super Spider Venom (0-1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Black Widow is a Tier 3 creature — hit it with Sour damage to end the fight quickly."
- },
- "Black_Widowling": {
-  "lead": "Black Widowling is a Tier 3 angry creature in Grounded. It has 0 defense and 150 HP. It is found in Black Widow Cave, Brawny Boy Bin, and Moldorc Highlands.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Its attacks can inflict All Attacks, so carry a cure or build resist before a long fight.",
-   "On defeat it drops Web Fiber Web Fiber (5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Black Widowling is a Tier 3 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Black_Worker_Ant": {
-  "lead": "Black Worker Ant is a Tier 2 neutral creature in Grounded. It has 10 defense and 425 HP. It is found in Black Anthill, Picnic Table, and Sandbox.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops 30px, 30px, and 30px — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Black Worker Ant is a Tier 2 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Blue_Butterfly": {
-  "lead": "Blue Butterfly is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Blue Butterfly is creature."
- },
- "Bombardier_Beetle": {
-  "lead": "Bombardier Beetle is a Tier 2 angry creature in Grounded. It has 4 defense and 500 HP. It is found in Eastern Flooded Zone and Grasslands.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "It is immune to Burning damage — do not build a loadout around that type.",
-   "Aim for its weak point, the Rump, to get bonus damage per hit.",
-   "On defeat it drops Boiling Gland (0-1) and Bombardier Part (0-4) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Bombardier Beetle is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
- },
- "C.K.U": {
-  "lead": "C.K.U. is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall C.K.U. is creature."
- },
- "CHOP.R": {
-  "lead": "CHOP.R is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall CHOP.R is creature."
- },
- "Caterpillar": {
-  "lead": "Caterpillar is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Caterpillar is creature."
- },
- "Cockroach": {
-  "lead": "Cockroach is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Cockroach is creature."
- },
- "Cockroach_Nymph": {
-  "lead": "Cockroach Nymph is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Cockroach Nymph is creature."
- },
- "Cockroach_Queen": {
-  "lead": "Cockroach Queen is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Cockroach Queen is creature."
- },
- "Creatures_(Grounded)": {
-  "lead": "Creatures (Grounded) is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Creatures (Grounded) is creature."
- },
- "Cricket": {
-  "lead": "Cricket is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Cricket is creature."
- },
- "Crow": {
-  "lead": "Crow is a Tier Boss harmless creature in Grounded. It is found in Haze, Hedge, and Koi Pond.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Crow Feather (Passive Drop) and Crow Feather Piece (1-6) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Crow is a Tier Boss creature."
- },
- "Director_Schmector": {
-  "lead": "Director Schmector is a Tier Boss angry creature in Grounded. It has 40 defense and 4000 HP. It is found in Mysterious Lab.",
-  "body": [
-   "It is weak to Sour damage. In this database the Sour-augmented weapons that exploit that are Picklemaul (100 dmg), Pucker Thumper (100 dmg), and Acid Edge (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "It is immune to Shock damage — do not build a loadout around that type.",
-   "On defeat it drops Ominent Data Disk Ominent Data Disk (1) and Raw Science (1000) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Director Schmector is a Tier Boss creature — hit it with Sour damage to end the fight quickly."
- },
- "Diving_Bell_Spider": {
-  "lead": "Diving Bell Spider is a Tier 2 angry creature in Grounded. It has 150 HP. It is found in Exposed Pipe, Koi Pond, and Pond Caves.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Diving Bell Spider Chunk (1) and Web Fiber (0-3) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Diving Bell Spider is a Tier 2 creature — hit it with Salty damage to end the fight quickly."
- },
- "Dust_Mite": {
-  "lead": "Dust Mite is a Tier 3 angry creature in Grounded. It has 0 defense and 400 HP. It is found in Shed Surroundings and Undershed.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Dust Mite Fuzz (1-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Dust Mite is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Fire_Ant_Queen": {
-  "lead": "Fire Ant Queen is a Tier 3 harmless creature in Grounded. It is found in Fire Anthill.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Fire Ant Queen Chunk (10), Fire Ant Queen Head (1), and Fire Ant Queen Pheromone (5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Fire Ant Queen is a Tier 3 creature."
- },
- "Fire_Soldier_Ant": {
-  "lead": "Fire Soldier Ant is a Tier 3 angry creature in Grounded. It has 15 defense and 900 HP. It is found in Fire Anthill, Lawnmower MIX.R, and Mant Fight.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops Fire Ant Head (0-1), Fire Ant Mandibles (1-2), and Fire Ant Part (0-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Fire Soldier Ant is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Fire_Worker_Ant": {
-  "lead": "Fire Worker Ant is a Tier 3 angry creature in Grounded. It has 10 defense and 600 HP. It is found in Fire Anthill, Lawnmower MIX.R, and Mant Fight.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops Fire Ant Head (0-1) and Fire Ant Part (0-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Fire Worker Ant is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Firefly": {
-  "lead": "Firefly is a Tier 2 neutral creature in Grounded. It has 0 defense and 330 HP. It is found in Flooded Zone (Night) and Flower Bed (Night).",
-  "body": [
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Its attacks can inflict All Attacks, so carry a cure or build resist before a long fight.",
-   "On defeat it drops 30px and 30px — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Firefly is a Tier 2 creature."
- },
- "Garden_Snail": {
-  "lead": "Garden Snail is a Tier 3 harmless creature in Grounded. It has 800 HP. It is found in Ceremony Area, Croquet Court, and Entrance Area.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops Garden Snail Eyestalk (0-2), Garden Snail Slime (1-3), Raw Snail Meat (2) Dropped Shells ----, and Garden Snail Fragment (4) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Garden Snail is a Tier 3 creature."
- },
- "Gnat": {
-  "lead": "Gnat is harmless creature in Grounded. It has 20 HP. It is found in Central Grasslands, Flooded Zone, and Moldorc Highlands.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Gnat Fuzz (1-3), Raw Gnat Meat (1), and Pet Memorial Gnat (When Tamed) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Gnat is creature."
- },
- "Green_Shield_Bug": {
-  "lead": "Green Shield Bug is a Tier 3 angry creature in Grounded. It has 25 defense and 2000 HP. It is found in Moldorc MIX.R, Shed Surroundings, and Upper Grasslands.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Its attacks can inflict Gas Clouds, so carry a cure or build resist before a long fight.",
-   "On defeat it drops Green Shield Bug Parts (2-4), Super Stink Sack (2-3), and Tough Gunk (0-10) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Green Shield Bug is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Grub": {
-  "lead": "Grub is harmless creature in Grounded. It has 50 HP. It is found in Caverns, Central Grasslands, and Oak Hill.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Grub Sludge (1-6), Grub Hide (1-3), and Raw Grub Meat (0-1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Grub is creature."
- },
- "Hedge_Broodmother": {
-  "lead": "Hedge Broodmother is a Tier Boss angry creature in Grounded. It has 20 defense and 2450 HP. It is found in Hedge.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops 30px, 30px, 30px, and 30px — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Hedge Broodmother is a Tier Boss creature — hit it with Spicy damage to end the fight quickly."
- },
- "Infected_Ant": {
-  "lead": "Infected Ant is a Tier 3 angry creature in Grounded. It has 0 defense and 300 HP. It is found in Near The Infected Ant Queen.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops Infected Ant Head (0-1) and Infected Ant Part (1-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Infected Ant is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Infected_Ant_Queen": {
-  "lead": "Infected Ant Queen is a Tier 3 harmless creature in Grounded. It is found in Anthills.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Infected Ant Queen is a Tier 3 creature."
- },
- "Infected_Broodmother": {
-  "lead": "Infected Broodmother is a Tier Boss angry creature in Grounded. It has 10 defense and 1 HP. It is found in Haze.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "It is immune to Explosive damage — do not build a loadout around that type.",
-   "On defeat it drops Infected Chunk (2-4), Infected Fang (1-7), and Infected Venom (1-6) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Infected Broodmother is a Tier Boss creature — hit it with Fresh damage to end the fight quickly."
- },
- "Infected_Gnat": {
-  "lead": "Infected Gnat is a Tier 2 angry creature in Grounded. It has 6 defense and 40 HP. It is found in Haze and Infected Broodmother Fight.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Fungal Growth (1), Gnat Fuzz (1), and Raw Gnat Meat (1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Infected Gnat is a Tier 2 creature."
- },
- "Infected_Ladybug": {
-  "lead": "Infected Ladybug is a Tier 2 angry creature in Grounded. It has 15 defense and 800 HP. It is found in Haze, Haze Lab, and Haze MIX.R.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
-   "On defeat it drops Fungal Growth (3), Ladybug Head (1), and Ladybug Part (0-5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Infected Ladybug is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Infected_Larva": {
-  "lead": "Infected Larva is a Tier 2 angry creature in Grounded. It has 10 defense and 300 HP. It is found in Haze, Haze Lab, and Haze MIX.R.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Acid Gland (0-1), Fungal Growth (2), and Larva Spike (0-1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Infected Larva is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Infected_Mite": {
-  "lead": "Infected Mite is a Tier 2 angry creature in Grounded. It has 6 defense and 140 HP. It is found in Haze, Haze Lab, and Haze MIX.R.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "Its physical weakness is Chopping and Slashing damage — the Chopping and Slashing tools here that capitalise on it include Infused Greatsword, Acid Edge, and Blazing Edge.",
-   "Its attacks can inflict Ranged Shot, so carry a cure or build resist before a long fight.",
-   "On defeat it drops Fungal Growth (1) and Mite Fuzz (1-8) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Infected Mite is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Infected_Soldier_Ant": {
-  "lead": "Infected Soldier Ant is a Tier 3 angry creature in Grounded. It has 0 defense and 600 HP. It is found in Near The Infected Ant Queen.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops Infected Ant Head (0-1), Infected Ant Mandibles (1-2), and Infected Ant Part (0-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Infected Soldier Ant is a Tier 3 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Infected_Weevil": {
-  "lead": "Infected Weevil is a Tier 2 angry creature in Grounded. It has 100 HP. It is found in Haze, Haze Lab, and Haze MIX.R.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Fungal Growth (1) and Weevil Nose (0-1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Infected Weevil is a Tier 2 creature."
- },
- "Infected_Wolf_Spider": {
-  "lead": "Infected Wolf Spider is a Tier 3 angry creature in Grounded.",
-  "body": [
-   "It resists Salty damage, so avoid leaning on that element even if your best weapon uses one.",
-   "Its physical weakness is Busting and Slashing damage — the Busting and Slashing tools here that capitalise on it include Infused Greatsword, Salt Chipper, and Infused Hammer.",
-   "On defeat it drops Fungal Growth (10-12), Spider Chunk (0-5), Spider Fang (2-6), and Spider Venom (0-6) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Infected Wolf Spider is a Tier 3 creature — its Busting and Slashing weakness is the fastest way through its health."
- },
- "Infused_Creatures": {
-  "lead": "Infused Creatures is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Infused Creatures is creature."
- },
- "King_Dozer": {
-  "lead": "King Dozer is a Tier 3 angry creature in Grounded. It has 7500 HP. It is found in Greenhouse Surroundings.",
-  "body": [
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops Lizard Horn (2), Lizard Scale (3-5), and Searing Stone (1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall King Dozer is a Tier 3 creature."
- },
- "Koi_Fish": {
-  "lead": "Koi Fish is a Tier Boss angry creature in Grounded. It is found in Koi Pond.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Koi Fish Scale (10% Chance Per Hit) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Koi Fish is a Tier Boss creature."
- },
- "Ladybird": {
-  "lead": "Ladybird is a Tier 3 angry creature in Grounded. It has 10 defense and 950 HP. It is found in Moldorc Highlands, Shed Surroundings, and Upper Grasslands.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
-   "Aim for its weak point, the Legs, to get bonus damage per hit.",
-   "On defeat it drops Ladybird Shell (0-2), Ladybug Head (1), Ladybug Part (0-4), and Tough Gunk (0-5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Ladybird is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Ladybird_Larva": {
-  "lead": "Ladybird Larva is a Tier 3 angry creature in Grounded. It has 3 defense and 450 HP. It is found in BBQ Spill, Moldorc Highlands, and Northern Grasslands.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Normal:, Acid Gland (4), Larva Spike (1), and Tough Gunk (0-1) Burrowed: — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Ladybird Larva is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Ladybug": {
-  "lead": "Ladybug is a Tier 2 neutral creature in Grounded. It has 10 defense and 600 HP. It is found in Central Grasslands, Flower Bed, and Oak Hill.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
-   "Aim for its weak point, the Legs, to get bonus damage per hit.",
-   "On defeat it drops Ladybug Head (0-1) and Ladybug Part (2-5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Ladybug is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Larva": {
-  "lead": "Larva is a Tier 1 angry creature in Grounded. It has 3 defense and 185 HP. It is found in Central Grasslands, Eastern Flooded Zone, and Hedge MIX.R.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Acid Gland (0-1) and Larva Spike (1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Larva is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Lawn_Mite": {
-  "lead": "Lawn Mite is a Tier 1 angry creature in Grounded. It has 41 HP. It is found in Central Grasslands, Central Grasslands MIX.R, and Eastern Flooded Zone.",
-  "body": [
-   "Its physical weakness is Stabbing and Chopping damage — the Stabbing and Chopping tools here that capitalise on it include Acid Edge, Blazing Edge, and Fresh Edge.",
-   "On defeat it drops Mite Fuzz (1-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Lawn Mite is a Tier 1 creature — its Stabbing and Chopping weakness is the fastest way through its health."
- },
- "Mant": {
-  "lead": "Mant is a Tier Boss angry creature in Grounded. It has 20 defense and 3200 HP. It is found in Undershed Lab.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "Its physical weakness is Slashing and Stabbing damage — the Slashing and Stabbing tools here that capitalise on it include Infused Greatsword, Spicy Coaltana, and Antlion Greatsword.",
-   "On defeat it drops Raw Science (1000) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Mant is a Tier Boss creature — hit it with Fresh damage to end the fight quickly."
- },
- "Masked_Stranger": {
-  "lead": "Masked Stranger is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Masked Stranger is creature."
- },
- "Meaty_Gnat": {
-  "lead": "Meaty Gnat is harmless creature in Grounded. It has 12 defense and 100 HP. It is found in Trash Heap.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Its attacks can inflict Gas Clouds, so carry a cure or build resist before a long fight.",
-   "On defeat it drops Gnat Fuzz (6) and Raw Gnat Meat (3) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Meaty Gnat is creature."
- },
- "Moth": {
-  "lead": "Moth is a Tier 3 neutral creature in Grounded. It has 12 defense and 1200 HP. It is found in Moldorc Highlands and Upper Grasslands.",
-  "body": [
-   "It resists Salty damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Moth Fuzz (1-7) and Moth Scale (0-1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Moth is a Tier 3 creature."
- },
- "Northern_Scorpion": {
-  "lead": "Northern Scorpion is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Northern Scorpion is creature."
- },
- "Northern_Scorpion_Jr": {
-  "lead": "Northern Scorpion Jr. is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Northern Scorpion Jr. is creature."
- },
- "Northern_Scorpling": {
-  "lead": "Northern Scorpling is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Northern Scorpling is creature."
- },
- "O.G.R.R._Blue_Butterfly": {
-  "lead": "O.G.R.R. Blue Butterfly is a Tier 2 angry creature in Grounded. It has 1600 HP.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Blue Butterfly Chunk (1-5), Blue Butterfly Scales (0-2), Blue Butterfly Wing (0-1), and Buffin' Gland (1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.G.R.R. Blue Butterfly is a Tier 2 creature."
- },
- "O.G.R.R._Cricket": {
-  "lead": "O.G.R.R. Cricket is a Tier 3 angry creature in Grounded. It has 1500 HP.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Buffin' Gland (1), Cricket Drumstick (0-2), Cricket Head (0-1), and Cricket Part (1-5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.G.R.R. Cricket is a Tier 3 creature."
- },
- "O.G.R.R._Ladybug": {
-  "lead": "O.G.R.R. Ladybug is a Tier 2 angry creature in Grounded. It has 2200 HP.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Buffin' Gland (1), (0-1), (1-5) (0-1), and (0-3) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.G.R.R. Ladybug is a Tier 2 creature."
- },
- "O.G.R.R._Northern_Scorpion": {
-  "lead": "O.G.R.R. Northern Scorpion is a Tier 2 angry creature in Grounded. It has 1500 HP. It is found in Greenhouse.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Rump, to get bonus damage per hit.",
-   "On defeat it drops Buffin' Gland (1), Northern Scorpion Chunk (2-5), Northern Scorpion Pincer (0-1), and Northern Scorpion Stinger (0-1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.G.R.R. Northern Scorpion is a Tier 2 creature."
- },
- "O.G.R.R._Pincher_Earwig": {
-  "lead": "O.G.R.R. Pincher Earwig is a Tier 3 angry creature in Grounded. It has 1300 HP. It is found in Scarecrow.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Buffin' Gland (1), Earwig Head (0-1), Earwig Part (2-4), and Earwig Pincer (0-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.G.R.R. Pincher Earwig is a Tier 3 creature."
- },
- "O.G.R.R._Praying_Mantis_Nymph": {
-  "lead": "O.G.R.R. Praying Mantis Nymph is a Tier 3 angry creature in Grounded. It has 1800 HP.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Buffin' Gland (1), Praying Mantis Chunk (2-6), Praying Mantis Claw (0-2), and Praying Mantis Head (0-1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.G.R.R. Praying Mantis Nymph is a Tier 3 creature."
- },
- "O.G.R.R._Rust_Beetle": {
-  "lead": "O.G.R.R. Rust Beetle is a Tier 3 angry creature in Grounded. It has 1300 HP. It is found in Candy Processing Facility.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Rump, to get bonus damage per hit.",
-   "On defeat it drops Boiling Gland (0-1), Buffin' Gland (1), and Rust Beetle Parts (1-3) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.G.R.R. Rust Beetle is a Tier 3 creature."
- },
- "O.G.R.R._Toe_Biter_Leviathan": {
-  "lead": "O.G.R.R. Toe Biter Leviathan is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.G.R.R. Toe Biter Leviathan is creature."
- },
- "O.G.R.R._Wasp": {
-  "lead": "O.G.R.R. Wasp is a Tier 3 angry creature in Grounded. It has 1300 HP.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Buffin' Gland (1), Pollen (0-4), Wasp Leg (0-2), and Wasp Shell (1-5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.G.R.R. Wasp is a Tier 3 creature."
- },
- "O.G.R.R._Wasp_Drone": {
-  "lead": "O.G.R.R. Wasp Drone is a Tier 3 angry creature in Grounded. It has 1300 HP.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Buffin' Gland (1), Pollen (0-4), Wasp Leg (0-2), and Wasp Shell (1-5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.G.R.R. Wasp Drone is a Tier 3 creature."
- },
- "O.G.R.R._Whipper_Earwig": {
-  "lead": "O.G.R.R. Whipper Earwig is a Tier 3 angry creature in Grounded. It has 1300 HP. It is found in Scarecrow.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Buffin' Gland (1), Earwig Head (0-1), Earwig Part (2-4), and Earwig Pincer (0-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.G.R.R. Whipper Earwig is a Tier 3 creature."
- },
- "O.G.R.R._Wolf_Spider": {
-  "lead": "O.G.R.R. Wolf Spider is a Tier 3 angry creature in Grounded. It has 1800 HP.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Buffin' Gland (1), Spider Venom (0-4), Wolf Spider Chunk (3-6), and Wolf Spider Fang (0-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.G.R.R. Wolf Spider is a Tier 3 creature."
- },
- "O.R.C._Bee": {
-  "lead": "O.R.C. Bee is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Bee is creature."
- },
- "O.R.C._Black_Soldier_Ant": {
-  "lead": "O.R.C. Black Soldier Ant is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Black Soldier Ant is creature."
- },
- "O.R.C._Blue_Butterfly": {
-  "lead": "O.R.C. Blue Butterfly is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Blue Butterfly is creature."
- },
- "O.R.C._Bombardier_Beetle": {
-  "lead": "O.R.C. Bombardier Beetle is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Bombardier Beetle is creature."
- },
- "O.R.C._Broodmother_&_Masked_Fighter": {
-  "lead": "O.R.C. Broodmother & Masked Fighter is a Tier 3 angry creature in Grounded. It has 2500 HP. It is found in Ominent Field Archives.",
-  "body": [
-   "It resists Sour damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Broodmother Chunk (6) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.R.C. Broodmother & Masked Fighter is a Tier 3 creature."
- },
- "O.R.C._Cockroach": {
-  "lead": "O.R.C. Cockroach is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Cockroach is creature."
- },
- "O.R.C._Cockroach_Nymph": {
-  "lead": "O.R.C. Cockroach Nymph is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Cockroach Nymph is creature."
- },
- "O.R.C._Cockroach_Queen": {
-  "lead": "O.R.C. Cockroach Queen is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Cockroach Queen is creature."
- },
- "O.R.C._Creatures": {
-  "lead": "O.R.C. Creatures is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Creatures is creature."
- },
- "O.R.C._Cricket": {
-  "lead": "O.R.C. Cricket is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Cricket is creature."
- },
- "O.R.C._Firefly": {
-  "lead": "O.R.C. Firefly is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Firefly is creature."
- },
- "O.R.C._Ladybug": {
-  "lead": "O.R.C. Ladybug is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Ladybug is creature."
- },
- "O.R.C._Mosquito": {
-  "lead": "O.R.C. Mosquito is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Mosquito is creature."
- },
- "O.R.C._Northern_Scorpion": {
-  "lead": "O.R.C. Northern Scorpion is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Northern Scorpion is creature."
- },
- "O.R.C._Northern_Scorpling": {
-  "lead": "O.R.C. Northern Scorpling is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Northern Scorpling is creature."
- },
- "O.R.C._Pincher_Earwig": {
-  "lead": "O.R.C. Pincher Earwig is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Pincher Earwig is creature."
- },
- "O.R.C._Potato_Beetle": {
-  "lead": "O.R.C. Potato Beetle is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Potato Beetle is creature."
- },
- "O.R.C._Praying_Mantis_Nymph": {
-  "lead": "O.R.C. Praying Mantis Nymph is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Praying Mantis Nymph is creature."
- },
- "O.R.C._Red_Soldier_Ant": {
-  "lead": "O.R.C. Red Soldier Ant is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Red Soldier Ant is creature."
- },
- "O.R.C._Rust_Beetle": {
-  "lead": "O.R.C. Rust Beetle is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Rust Beetle is creature."
- },
- "O.R.C._Spiderling": {
-  "lead": "O.R.C. Spiderling is a Tier 1 angry creature in Grounded. It has 90 HP. It is found in Croquet Court MIX.R, Garden O.R.C. Waves, and Network Center.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Web Fiber (1) (0-1) and Web Fiber (0-3) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.R.C. Spiderling is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
- },
- "O.R.C._Stinkbug": {
-  "lead": "O.R.C. Stinkbug is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Stinkbug is creature."
- },
- "O.R.C._Wasp": {
-  "lead": "O.R.C. Wasp is a Tier 3 angry creature in Grounded. It has 1075 HP. It is found in Garden O.R.C. Waves, Greenhouse MIX.R, and Pumpkin Patch.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops (0-1), Pollen (0-4), Wasp Leg (0-2), and Wasp Shell (1-5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall O.R.C. Wasp is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
- },
- "O.R.C._Wasp_Drone": {
-  "lead": "O.R.C. Wasp Drone is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Wasp Drone is creature."
- },
- "O.R.C._Weaver_Jr": {
-  "lead": "O.R.C. Weaver Jr. is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Weaver Jr. is creature."
- },
- "O.R.C._Weevil": {
-  "lead": "O.R.C. Weevil is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Weevil is creature."
- },
- "O.R.C._Whipper_Earwig": {
-  "lead": "O.R.C. Whipper Earwig is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Whipper Earwig is creature."
- },
- "O.R.C._Wolf_Spider": {
-  "lead": "O.R.C. Wolf Spider is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall O.R.C. Wolf Spider is creature."
- },
- "Orb_Weaver": {
-  "lead": "Orb Weaver is a Tier 2 angry creature in Grounded. It has 3 defense and 550 HP. It is found in Grasslands, Eastern Flooded Zone, and Flower Bed.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Spider Chunk (3-6) and Web Fiber (0-4) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Orb Weaver is a Tier 2 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Orb_Weaver_Jr": {
-  "lead": "Orb Weaver Jr. is a Tier 1 angry creature in Grounded. It has 3 defense and 335 HP. It is found in Broodmother Fight, Central Grasslands, and Eastern Flooded Zone.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Its attacks can inflict Charged Bite, so carry a cure or build resist before a long fight.",
-   "On defeat it drops Spider Chunk (1) and Web Fiber (0-6) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Orb Weaver Jr. is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Orchid_Mantis": {
-  "lead": "Orchid Mantis is a Tier Boss angry creature in Grounded. It has 25 defense and 3400 HP. It is found in Shed Surroundings.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops Mantis Chunk (4-11), Mantis Claw (2), and Mantis Head (1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Orchid Mantis is a Tier Boss creature — hit it with Salty damage to end the fight quickly."
- },
- "Papa_Toe_Biter": {
-  "lead": "Papa Toe Biter is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Papa Toe Biter is creature."
- },
- "Pets": {
-  "lead": "Pets is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Pets is creature."
- },
- "Pincher_Earwig": {
-  "lead": "Pincher Earwig is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Pincher Earwig is creature."
- },
- "Pond_Jockey_Swarm": {
-  "lead": "Pond Jockey Swarm is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Pond Jockey Swarm is creature."
- },
- "Potato_Beetle": {
-  "lead": "Potato Beetle is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Potato Beetle is creature."
- },
- "Praying_Mantis_Nymph": {
-  "lead": "Praying Mantis Nymph is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Praying Mantis Nymph is creature."
- },
- "RUZ.T": {
-  "lead": "RUZ.T is a Tier 1 angry creature in Grounded. It has 3 defense and 120 HP. It is found in Hedge Lab and Hedge Outpost.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Back, to get bonus damage per hit.",
-   "On defeat it drops Raw Science (100) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall RUZ.T is a Tier 1 creature."
- },
- "Red_Ant_Queen": {
-  "lead": "Red Ant Queen is a Tier 1 harmless creature in Grounded. It is found in Red Anthill.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Red Ant Queen Chunk (10), Red Ant Queen Head (1), and Red Ant Queen Pheromone (5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Red Ant Queen is a Tier 1 creature."
- },
- "Red_Soldier_Ant": {
-  "lead": "Red Soldier Ant is a Tier 1 angry creature in Grounded. It has 320 HP. It is found in Anthills, Central Grasslands, and Central Grasslands MIX.R.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops Acid Gland (0-3), Red Ant Head (0-1), Red Ant Mandibles (1), and Red Ant Part (0-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Red Soldier Ant is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Red_Worker_Ant": {
-  "lead": "Red Worker Ant is a Tier 1 neutral creature in Grounded. It has 120 HP. It is found in Anthills, Central Grasslands, and Central Grasslands MIX.R.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Eyes, to get bonus damage per hit.",
-   "On defeat it drops Red Ant Head (0-1), Red Ant Part (1-2), and Red Ant Egg (Passive Drop in Anthill) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Red Worker Ant is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Roly_Poly": {
-  "lead": "Roly Poly is neutral creature in Grounded. It has 15 defense and 1050 HP. It is found in Lawnmower MIX.R, Northern Grasslands, and Shed Surroundings.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "Aim for its weak point, the Legs, to get bonus damage per hit.",
-   "On defeat it drops Roly Poly Part (4-8), Roly Poly Shell (2-6), and Tough Gunk (0-5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Roly Poly is creature."
- },
- "Rust_Beetle": {
-  "lead": "Rust Beetle is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Rust Beetle is creature."
- },
- "SAUC.R": {
-  "lead": "SAUC.R is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall SAUC.R is creature."
- },
- "Scarab": {
-  "lead": "Scarab is harmless creature in Grounded. It has 0 defense and 80 HP. It is found in Northern Grasslands, Shed Surroundings, and Termite Den.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Normal:, Twinkling Shell (2-9) Undershed:, and Twinkling Shell (2-9) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Scarab is creature."
- },
- "Sickly_Roly_Poly": {
-  "lead": "Sickly Roly Poly is a Tier 3 neutral creature in Grounded. It has 25 defense and 750 HP. It is found in Western Grasslands.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
-   "Aim for its weak point, the Legs, to get bonus damage per hit.",
-   "On defeat it drops Roly Poly Part (2-6) and Tough Gunk (0-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Sickly Roly Poly is a Tier 3 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Spiderling": {
-  "lead": "Spiderling is a Tier 1 angry creature in Grounded. It has 0 defense and 75 HP. It is found in Broodmother Fight, Central Grasslands, and Hedge.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Web Fiber (1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Spiderling is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Spiny_Water_Flea": {
-  "lead": "Spiny Water Flea is a Tier 3 angry creature in Grounded. It has 300 HP. It is found in Moldorc Highlands, Undershed, and Upper Grasslands.",
-  "body": [
-   "It is weak to Sour damage. In this database the Sour-augmented weapons that exploit that are Picklemaul (100 dmg), Pucker Thumper (100 dmg), and Acid Edge (95 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Water Flea Meat (1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Spiny Water Flea is a Tier 3 creature — hit it with Sour damage to end the fight quickly."
- },
- "Stinkbug": {
-  "lead": "Stinkbug is a Tier 2 angry creature in Grounded. It has 8 defense and 500 HP. It is found in Central Grasslands and Flower Bed.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Stinkbug Gas Sack (0-2) and Stinkbug Part (2-5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Stinkbug is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Striped_Bark_Scorpion": {
-  "lead": "Striped Bark Scorpion is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Striped Bark Scorpion is creature."
- },
- "Striped_Bark_Scorpion_Jr": {
-  "lead": "Striped Bark Scorpion Jr. is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Striped Bark Scorpion Jr. is creature."
- },
- "Striped_Bark_Scorpling": {
-  "lead": "Striped Bark Scorpling is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Striped Bark Scorpling is creature."
- },
- "TAYZ.T": {
-  "lead": "TAYZ.T is a Tier 2 angry creature in Grounded. It has 6 defense and 175 HP. It is found in Assistant Manager Fight, Black Anthill Lab, and Haze Lab.",
-  "body": [
-   "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
-   "It is immune to Shock damage — do not build a loadout around that type.",
-   "Aim for its weak point, the Back, to get bonus damage per hit.",
-   "On defeat it drops Raw Science (100) Raid Variant Only ---- and Unstable Capacitor (0-1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall TAYZ.T is a Tier 2 creature — its Busting and Generic weakness is the fastest way through its health."
- },
- "Tadpole": {
-  "lead": "Tadpole is harmless creature in Grounded. It has 40 HP. It is found in Koi Pond.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Raw Tadpole Meat (1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Tadpole is creature."
- },
- "Termite_King": {
-  "lead": "Termite King is a Tier 3 angry creature in Grounded. It has 1910 HP. It is found in Termite Den.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Termite Chompers (1-2), Termite King Carapace (4), Termite Part (0-3), and Tough Gunk (0-15) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Termite King is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
- },
- "Termite_Soldier": {
-  "lead": "Termite Soldier is a Tier 3 angry creature in Grounded. It has 12 defense and 700 HP. It is found in Brawny Boy Bin, Termite Den, and Undershed.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Termite Chompers (1-2), Termite Part (0-3), and Tough Gunk (0-1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Termite Soldier is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
- },
- "Termite_Worker": {
-  "lead": "Termite Worker is a Tier 3 angry creature in Grounded. It has 12 defense and 450 HP. It is found in Brawny Boy Bin, Termite Cave, and Termite Den.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Acid Gland (0-4), Termite Part (1-3), and Tough Gunk (0-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Termite Worker is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
- },
- "Tick": {
-  "lead": "Tick is a Tier 3 angry creature in Grounded. It has 10 defense and 400 HP. It is found in Brawny Boy Bin, Moldorc Highlands, and Moldorc MIX.R.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Tick Fang (1-4) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Tick is a Tier 3 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Tiger_Mosquito": {
-  "lead": "Tiger Mosquito is a Tier 3 angry creature in Grounded. It has 12 defense and 725 HP. It is found in Moldorc Highlands, Moldorc MIX.R, and Upper Grasslands.",
-  "body": [
-   "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
-   "Its physical weakness is Chopping and Slashing damage — the Chopping and Slashing tools here that capitalise on it include Infused Greatsword, Acid Edge, and Blazing Edge.",
-   "On defeat it drops Mosquito Blood Sack Mosquito Blood Sack (When Filled) and Tiger Mosquito Beak Tiger Mosquito Beak (1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Tiger Mosquito is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
- },
- "Toe_Biter": {
-  "lead": "Toe Biter is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Toe Biter is creature."
- },
- "Toe_Biter_Leviathan": {
-  "lead": "Toe Biter Leviathan is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Toe Biter Leviathan is creature."
- },
- "Toe_Biter_Nymph": {
-  "lead": "Toe Biter Nymph is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Toe Biter Nymph is creature."
- },
- "Wasp": {
-  "lead": "Wasp is a Tier 3 angry creature in Grounded. It has 9 defense and 650 HP. It is found in Brawny Boy Bin, Moldorc Highlands, and Upper Grasslands.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Pollen (0-4), Wasp Leg (0-2), and Wasp Shell (1-5) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Wasp is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
- },
- "Wasp_Drone": {
-  "lead": "Wasp Drone is a Tier 3 angry creature in Grounded. It has 9 defense and 450 HP. It is found in Brawny Boy Bin, Moldorc Highlands, and Upper Grasslands.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Pollen (0-4), Wasp Leg (0-2), and Wasp Shell (1-3) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Wasp Drone is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
- },
- "Wasp_Queen": {
-  "lead": "Wasp Queen is a Tier Boss angry creature in Grounded. It has 10 defense and 5000 HP. It is found in Brawny Boy Bin.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Wasp Queen Chunk (5-8), Wasp Queen Head (1), and Wasp Queen Wing (2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Wasp Queen is a Tier Boss creature — hit it with Salty damage to end the fight quickly."
- },
- "Water_Boatman": {
-  "lead": "Water Boatman is harmless creature in Grounded. It has 50 HP. It is found in Koi Pond.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Water Boatman Fin (1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Water Boatman is creature."
- },
- "Water_Flea": {
-  "lead": "Water Flea is a Tier 1 angry creature in Grounded. It is found in Exposed Pipe, Eastern Flooded Zone, and Koi Pond.",
-  "body": [
-   "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Water Flea Meat (1) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Water Flea is a Tier 1 creature — hit it with Salty damage to end the fight quickly."
- },
- "Weevil": {
-  "lead": "Weevil is harmless creature in Grounded. It has 50 HP. It is found in Eastern Flooded Zone, Grasslands, and Hedge.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
-   "On defeat it drops Raw Weevil Meat (1), Weevil Nose (0-1), and Pet Memorial Weevil (When Tamed) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Weevil is creature."
- },
- "Whipper_Earwig": {
-  "lead": "Whipper Earwig is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Whipper Earwig is creature."
- },
- "Wolf_Spider": {
-  "lead": "Wolf Spider is a Tier 2 angry creature in Grounded. It has 5 defense and 850 HP. It is found in BBQ Spill, Central Grasslands, and Moldorc Highlands.",
-  "body": [
-   "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
-   "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
-   "Its physical weakness is Chopping and Slashing damage — the Chopping and Slashing tools here that capitalise on it include Infused Greatsword, Acid Edge, and Blazing Edge.",
-   "On defeat it drops Spider Chunk (0-4), Spider Fang (1-2), and Spider Venom (0-2) — useful to know if you are farming a specific material from it."
-  ],
-  "verdict": "Overall Wolf Spider is a Tier 2 creature — hit it with Spicy damage to end the fight quickly."
- },
- "Woolly_Aphid": {
-  "lead": "Woolly Aphid is creature in Grounded.",
-  "body": [
-   "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
-  ],
-  "verdict": "Overall Woolly Aphid is creature."
- }
+  "ARC.R": {
+    "lead": "ARC.R is a Tier 2 angry creature in Grounded. It has 6 defense and 220 HP. It is found in Assistant Manager Fight and Pond Lab.",
+    "body": [
+      "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
+      "It is immune to Shock damage — do not build a loadout around that type.",
+      "Its attacks can inflict Overload Shock, so carry a cure or build resist before a long fight.",
+      "Aim for its weak point, the Back, to get bonus damage per hit.",
+      "On defeat it drops Raw Science (100) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall ARC.R is a Tier 2 creature — its Busting and Generic weakness is the fastest way through its health."
+  },
+  "Ancient_Pond_Jockey_Swarm": {
+    "lead": "Ancient Pond Jockey Swarm is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Ancient Pond Jockey Swarm is a creature."
+  },
+  "Antlion": {
+    "lead": "Antlion is a Tier 3 angry creature in Grounded. It has 10 defense and 750 HP. It is found in Antlion Burrows, Sandbox, and Sandbox MIX.R.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Antlion Part (1-4) and Antlion Pincer (0-1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Antlion is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
+  },
+  "Aphid": {
+    "lead": "Aphid is harmless creature in Grounded. It has 12 HP. It is found in Eastern Flooded Zone, Flower Bed, and Grasslands.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Raw Aphid Meat (1), Pet Memorial Aphid (When Tamed), Aphid Honeydew (Passive Drop) Exclusive Drop from Stealing ----, and Speed Droplet — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Aphid is a creature."
+  },
+  "Assistant_Manager": {
+    "lead": "Assistant Manager is a Tier Boss angry creature in Grounded. It has 20 defense and 1400 HP. It is found in Black Anthill Lab.",
+    "body": [
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "It is immune to Shock damage — do not build a loadout around that type.",
+      "On defeat it drops Asst. Manager Keycard (1) and Raw Science (1000) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Assistant Manager is a Tier Boss creature."
+  },
+  "Axl": {
+    "lead": "Axl is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Axl is a creature."
+  },
+  "Baby_Black_Ant": {
+    "lead": "Baby Black Ant is a Tier 1 harmless creature in Grounded. It has 150 HP. It is found in Feeding The Black Ant Queen A Yummy Gum Sandwich.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Pet Memorial Ant — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Baby Black Ant is a Tier 1 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Baby_Fire_Ant": {
+    "lead": "Baby Fire Ant is a Tier 1 harmless creature in Grounded. It has 150 HP. It is found in Feeding The Fire Ant Queen A Tasty Toejam Sandwich.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Pet Memorial Ant — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Baby Fire Ant is a Tier 1 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Baby_Garden_Snail": {
+    "lead": "Baby Garden Snail is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Baby Garden Snail is a creature."
+  },
+  "Baby_Red_Ant": {
+    "lead": "Baby Red Ant is a Tier 1 harmless creature in Grounded. It has 150 HP. It is found in Feeding The Red Ant Queen A Juicy Mushroom Sandwich.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Pet Memorial Ant — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Baby Red Ant is a Tier 1 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Bee": {
+    "lead": "Bee is a Tier 2 neutral creature in Grounded. It has 0 defense and 375 HP. It is found in Picnic Table and Sparsely In Most Areas.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "Its physical weakness is Chopping and Slashing damage — the Chopping and Slashing tools here that capitalise on it include Infused Greatsword, Acid Edge, and Blazing Edge.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops Bee Fuzz (1-5), Bee Stinger (0-1), and Pollen (When On Legs) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Bee is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Black_Ant_Queen": {
+    "lead": "Black Ant Queen is a Tier 2 harmless creature in Grounded. It is found in Black Anthill.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Black Ant Queen Chunk (10), Black Ant Queen Head (1), and Black Ant Queen Pheromone (5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Black Ant Queen is a Tier 2 creature."
+  },
+  "Black_Ox_Beetle": {
+    "lead": "Black Ox Beetle is a Tier 3 angry creature in Grounded. It has 30 defense and 1450 HP. It is found in Moldorc Highlands, Shed Surroundings, and Undershed.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Gut, to get bonus damage per hit.",
+      "On defeat it drops 30px, 30px, and 30px — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Black Ox Beetle is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
+  },
+  "Black_Soldier_Ant": {
+    "lead": "Black Soldier Ant is a Tier 2 angry creature in Grounded. It has 15 defense and 600 HP. It is found in Black Anthill, Shed Surroundings, and Northern Grasslands MIX.R.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops Black Ant Head (0-1), Black Ant Mandibles (1-2), and Black Ant Part (0-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Black Soldier Ant is a Tier 2 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Black_Widow": {
+    "lead": "Black Widow is a Tier 3 angry creature in Grounded. It has 10 defense and 3000 HP. It is found in Black Widow Cave, Brawny Boy Bin, and Moldorc Highlands.",
+    "body": [
+      "It is weak to Sour damage. In this database the Sour-augmented weapons that exploit that are Picklemaul (100 dmg), Pucker Thumper (100 dmg), and Acid Edge (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Black Widow Fang Black Widow Fang (0-2), Spider Chunk Spider Chunk (0-1), and Super Spider Venom Super Spider Venom (0-1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Black Widow is a Tier 3 creature — hit it with Sour damage to end the fight quickly."
+  },
+  "Black_Widowling": {
+    "lead": "Black Widowling is a Tier 3 angry creature in Grounded. It has 0 defense and 150 HP. It is found in Black Widow Cave, Brawny Boy Bin, and Moldorc Highlands.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Its attacks can inflict All Attacks, so carry a cure or build resist before a long fight.",
+      "On defeat it drops Web Fiber Web Fiber (5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Black Widowling is a Tier 3 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Black_Worker_Ant": {
+    "lead": "Black Worker Ant is a Tier 2 neutral creature in Grounded. It has 10 defense and 425 HP. It is found in Black Anthill, Picnic Table, and Sandbox.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops 30px, 30px, and 30px — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Black Worker Ant is a Tier 2 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Blue_Butterfly": {
+    "lead": "Blue Butterfly is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Blue Butterfly is a creature."
+  },
+  "Bombardier_Beetle": {
+    "lead": "Bombardier Beetle is a Tier 2 angry creature in Grounded. It has 4 defense and 500 HP. It is found in Eastern Flooded Zone and Grasslands.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "It is immune to Burning damage — do not build a loadout around that type.",
+      "Aim for its weak point, the Rump, to get bonus damage per hit.",
+      "On defeat it drops Boiling Gland (0-1) and Bombardier Part (0-4) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Bombardier Beetle is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "C.K.U": {
+    "lead": "C.K.U. is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall C.K.U. is a creature."
+  },
+  "CHOP.R": {
+    "lead": "CHOP.R is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall CHOP.R is a creature."
+  },
+  "Caterpillar": {
+    "lead": "Caterpillar is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Caterpillar is a creature."
+  },
+  "Cockroach": {
+    "lead": "Cockroach is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Cockroach is a creature."
+  },
+  "Cockroach_Nymph": {
+    "lead": "Cockroach Nymph is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Cockroach Nymph is a creature."
+  },
+  "Cockroach_Queen": {
+    "lead": "Cockroach Queen is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Cockroach Queen is a creature."
+  },
+  "Creatures_(Grounded)": {
+    "lead": "Creatures (Grounded) is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Creatures (Grounded) is a creature."
+  },
+  "Cricket": {
+    "lead": "Cricket is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Cricket is a creature."
+  },
+  "Crow": {
+    "lead": "Crow is a Tier Boss harmless creature in Grounded. It is found in Haze, Hedge, and Koi Pond.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Crow Feather (Passive Drop) and Crow Feather Piece (1-6) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Crow is a Tier Boss creature."
+  },
+  "Director_Schmector": {
+    "lead": "Director Schmector is a Tier Boss angry creature in Grounded. It has 40 defense and 4000 HP. It is found in Mysterious Lab.",
+    "body": [
+      "It is weak to Sour damage. In this database the Sour-augmented weapons that exploit that are Picklemaul (100 dmg), Pucker Thumper (100 dmg), and Acid Edge (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "It is immune to Shock damage — do not build a loadout around that type.",
+      "On defeat it drops Ominent Data Disk Ominent Data Disk (1) and Raw Science (1000) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Director Schmector is a Tier Boss creature — hit it with Sour damage to end the fight quickly."
+  },
+  "Diving_Bell_Spider": {
+    "lead": "Diving Bell Spider is a Tier 2 angry creature in Grounded. It has 150 HP. It is found in Exposed Pipe, Koi Pond, and Pond Caves.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Diving Bell Spider Chunk (1) and Web Fiber (0-3) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Diving Bell Spider is a Tier 2 creature — hit it with Salty damage to end the fight quickly."
+  },
+  "Dust_Mite": {
+    "lead": "Dust Mite is a Tier 3 angry creature in Grounded. It has 0 defense and 400 HP. It is found in Shed Surroundings and Undershed.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Dust Mite Fuzz (1-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Dust Mite is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Fire_Ant_Queen": {
+    "lead": "Fire Ant Queen is a Tier 3 harmless creature in Grounded. It is found in Fire Anthill.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Fire Ant Queen Chunk (10), Fire Ant Queen Head (1), and Fire Ant Queen Pheromone (5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Fire Ant Queen is a Tier 3 creature."
+  },
+  "Fire_Soldier_Ant": {
+    "lead": "Fire Soldier Ant is a Tier 3 angry creature in Grounded. It has 15 defense and 900 HP. It is found in Fire Anthill, Lawnmower MIX.R, and Mant Fight.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops Fire Ant Head (0-1), Fire Ant Mandibles (1-2), and Fire Ant Part (0-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Fire Soldier Ant is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Fire_Worker_Ant": {
+    "lead": "Fire Worker Ant is a Tier 3 angry creature in Grounded. It has 10 defense and 600 HP. It is found in Fire Anthill, Lawnmower MIX.R, and Mant Fight.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops Fire Ant Head (0-1) and Fire Ant Part (0-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Fire Worker Ant is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Firefly": {
+    "lead": "Firefly is a Tier 2 neutral creature in Grounded. It has 0 defense and 330 HP. It is found in Flooded Zone (Night) and Flower Bed (Night).",
+    "body": [
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Its attacks can inflict All Attacks, so carry a cure or build resist before a long fight.",
+      "On defeat it drops 30px and 30px — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Firefly is a Tier 2 creature."
+  },
+  "Garden_Snail": {
+    "lead": "Garden Snail is a Tier 3 harmless creature in Grounded. It has 800 HP. It is found in Ceremony Area, Croquet Court, and Entrance Area.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops Garden Snail Eyestalk (0-2), Garden Snail Slime (1-3), Raw Snail Meat (2) Dropped Shells ----, and Garden Snail Fragment (4) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Garden Snail is a Tier 3 creature."
+  },
+  "Gnat": {
+    "lead": "Gnat is harmless creature in Grounded. It has 20 HP. It is found in Central Grasslands, Flooded Zone, and Moldorc Highlands.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Gnat Fuzz (1-3), Raw Gnat Meat (1), and Pet Memorial Gnat (When Tamed) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Gnat is a creature."
+  },
+  "Green_Shield_Bug": {
+    "lead": "Green Shield Bug is a Tier 3 angry creature in Grounded. It has 25 defense and 2000 HP. It is found in Moldorc MIX.R, Shed Surroundings, and Upper Grasslands.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Its attacks can inflict Gas Clouds, so carry a cure or build resist before a long fight.",
+      "On defeat it drops Green Shield Bug Parts (2-4), Super Stink Sack (2-3), and Tough Gunk (0-10) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Green Shield Bug is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Grub": {
+    "lead": "Grub is harmless creature in Grounded. It has 50 HP. It is found in Caverns, Central Grasslands, and Oak Hill.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Grub Sludge (1-6), Grub Hide (1-3), and Raw Grub Meat (0-1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Grub is a creature."
+  },
+  "Hedge_Broodmother": {
+    "lead": "Hedge Broodmother is a Tier Boss angry creature in Grounded. It has 20 defense and 2450 HP. It is found in Hedge.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops 30px, 30px, 30px, and 30px — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Hedge Broodmother is a Tier Boss creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Infected_Ant": {
+    "lead": "Infected Ant is a Tier 3 angry creature in Grounded. It has 0 defense and 300 HP. It is found in Near The Infected Ant Queen.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops Infected Ant Head (0-1) and Infected Ant Part (1-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Infected Ant is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Infected_Ant_Queen": {
+    "lead": "Infected Ant Queen is a Tier 3 harmless creature in Grounded. It is found in Anthills.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Infected Ant Queen is a Tier 3 creature."
+  },
+  "Infected_Broodmother": {
+    "lead": "Infected Broodmother is a Tier Boss angry creature in Grounded. It has 10 defense and 1 HP. It is found in Haze.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "It is immune to Explosive damage — do not build a loadout around that type.",
+      "On defeat it drops Infected Chunk (2-4), Infected Fang (1-7), and Infected Venom (1-6) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Infected Broodmother is a Tier Boss creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Infected_Gnat": {
+    "lead": "Infected Gnat is a Tier 2 angry creature in Grounded. It has 6 defense and 40 HP. It is found in Haze and Infected Broodmother Fight.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Fungal Growth (1), Gnat Fuzz (1), and Raw Gnat Meat (1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Infected Gnat is a Tier 2 creature."
+  },
+  "Infected_Ladybug": {
+    "lead": "Infected Ladybug is a Tier 2 angry creature in Grounded. It has 15 defense and 800 HP. It is found in Haze, Haze Lab, and Haze MIX.R.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
+      "On defeat it drops Fungal Growth (3), Ladybug Head (1), and Ladybug Part (0-5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Infected Ladybug is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Infected_Larva": {
+    "lead": "Infected Larva is a Tier 2 angry creature in Grounded. It has 10 defense and 300 HP. It is found in Haze, Haze Lab, and Haze MIX.R.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Acid Gland (0-1), Fungal Growth (2), and Larva Spike (0-1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Infected Larva is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Infected_Mite": {
+    "lead": "Infected Mite is a Tier 2 angry creature in Grounded. It has 6 defense and 140 HP. It is found in Haze, Haze Lab, and Haze MIX.R.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "Its physical weakness is Chopping and Slashing damage — the Chopping and Slashing tools here that capitalise on it include Infused Greatsword, Acid Edge, and Blazing Edge.",
+      "Its attacks can inflict Ranged Shot, so carry a cure or build resist before a long fight.",
+      "On defeat it drops Fungal Growth (1) and Mite Fuzz (1-8) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Infected Mite is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Infected_Soldier_Ant": {
+    "lead": "Infected Soldier Ant is a Tier 3 angry creature in Grounded. It has 0 defense and 600 HP. It is found in Near The Infected Ant Queen.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops Infected Ant Head (0-1), Infected Ant Mandibles (1-2), and Infected Ant Part (0-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Infected Soldier Ant is a Tier 3 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Infected_Weevil": {
+    "lead": "Infected Weevil is a Tier 2 angry creature in Grounded. It has 100 HP. It is found in Haze, Haze Lab, and Haze MIX.R.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Fungal Growth (1) and Weevil Nose (0-1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Infected Weevil is a Tier 2 creature."
+  },
+  "Infected_Wolf_Spider": {
+    "lead": "Infected Wolf Spider is a Tier 3 angry creature in Grounded.",
+    "body": [
+      "It resists Salty damage, so avoid leaning on that element even if your best weapon uses one.",
+      "Its physical weakness is Busting and Slashing damage — the Busting and Slashing tools here that capitalise on it include Infused Greatsword, Salt Chipper, and Infused Hammer.",
+      "On defeat it drops Fungal Growth (10-12), Spider Chunk (0-5), Spider Fang (2-6), and Spider Venom (0-6) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Infected Wolf Spider is a Tier 3 creature — its Busting and Slashing weakness is the fastest way through its health."
+  },
+  "Infused_Creatures": {
+    "lead": "Infused Creatures is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Infused Creatures is a creature."
+  },
+  "King_Dozer": {
+    "lead": "King Dozer is a Tier 3 angry creature in Grounded. It has 7500 HP. It is found in Greenhouse Surroundings.",
+    "body": [
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops Lizard Horn (2), Lizard Scale (3-5), and Searing Stone (1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall King Dozer is a Tier 3 creature."
+  },
+  "Koi_Fish": {
+    "lead": "Koi Fish is a Tier Boss angry creature in Grounded. It is found in Koi Pond.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Koi Fish Scale (10% Chance Per Hit) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Koi Fish is a Tier Boss creature."
+  },
+  "Ladybird": {
+    "lead": "Ladybird is a Tier 3 angry creature in Grounded. It has 10 defense and 950 HP. It is found in Moldorc Highlands, Shed Surroundings, and Upper Grasslands.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
+      "Aim for its weak point, the Legs, to get bonus damage per hit.",
+      "On defeat it drops Ladybird Shell (0-2), Ladybug Head (1), Ladybug Part (0-4), and Tough Gunk (0-5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Ladybird is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Ladybird_Larva": {
+    "lead": "Ladybird Larva is a Tier 3 angry creature in Grounded. It has 3 defense and 450 HP. It is found in BBQ Spill, Moldorc Highlands, and Northern Grasslands.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Normal:, Acid Gland (4), Larva Spike (1), and Tough Gunk (0-1) Burrowed: — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Ladybird Larva is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Ladybug": {
+    "lead": "Ladybug is a Tier 2 neutral creature in Grounded. It has 10 defense and 600 HP. It is found in Central Grasslands, Flower Bed, and Oak Hill.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
+      "Aim for its weak point, the Legs, to get bonus damage per hit.",
+      "On defeat it drops Ladybug Head (0-1) and Ladybug Part (2-5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Ladybug is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Larva": {
+    "lead": "Larva is a Tier 1 angry creature in Grounded. It has 3 defense and 185 HP. It is found in Central Grasslands, Eastern Flooded Zone, and Hedge MIX.R.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Acid Gland (0-1) and Larva Spike (1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Larva is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Lawn_Mite": {
+    "lead": "Lawn Mite is a Tier 1 angry creature in Grounded. It has 41 HP. It is found in Central Grasslands, Central Grasslands MIX.R, and Eastern Flooded Zone.",
+    "body": [
+      "Its physical weakness is Stabbing and Chopping damage — the Stabbing and Chopping tools here that capitalise on it include Acid Edge, Blazing Edge, and Fresh Edge.",
+      "On defeat it drops Mite Fuzz (1-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Lawn Mite is a Tier 1 creature — its Stabbing and Chopping weakness is the fastest way through its health."
+  },
+  "Mant": {
+    "lead": "Mant is a Tier Boss angry creature in Grounded. It has 20 defense and 3200 HP. It is found in Undershed Lab.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "Its physical weakness is Slashing and Stabbing damage — the Slashing and Stabbing tools here that capitalise on it include Infused Greatsword, Spicy Coaltana, and Antlion Greatsword.",
+      "On defeat it drops Raw Science (1000) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Mant is a Tier Boss creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Masked_Stranger": {
+    "lead": "Masked Stranger is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Masked Stranger is a creature."
+  },
+  "Meaty_Gnat": {
+    "lead": "Meaty Gnat is harmless creature in Grounded. It has 12 defense and 100 HP. It is found in Trash Heap.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Its attacks can inflict Gas Clouds, so carry a cure or build resist before a long fight.",
+      "On defeat it drops Gnat Fuzz (6) and Raw Gnat Meat (3) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Meaty Gnat is a creature."
+  },
+  "Moth": {
+    "lead": "Moth is a Tier 3 neutral creature in Grounded. It has 12 defense and 1200 HP. It is found in Moldorc Highlands and Upper Grasslands.",
+    "body": [
+      "It resists Salty damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Moth Fuzz (1-7) and Moth Scale (0-1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Moth is a Tier 3 creature."
+  },
+  "Northern_Scorpion": {
+    "lead": "Northern Scorpion is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Northern Scorpion is a creature."
+  },
+  "Northern_Scorpion_Jr": {
+    "lead": "Northern Scorpion Jr. is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Northern Scorpion Jr. is a creature."
+  },
+  "Northern_Scorpling": {
+    "lead": "Northern Scorpling is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Northern Scorpling is a creature."
+  },
+  "O.G.R.R._Blue_Butterfly": {
+    "lead": "O.G.R.R. Blue Butterfly is a Tier 2 angry creature in Grounded. It has 1600 HP.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Blue Butterfly Chunk (1-5), Blue Butterfly Scales (0-2), Blue Butterfly Wing (0-1), and Buffin' Gland (1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.G.R.R. Blue Butterfly is a Tier 2 creature."
+  },
+  "O.G.R.R._Cricket": {
+    "lead": "O.G.R.R. Cricket is a Tier 3 angry creature in Grounded. It has 1500 HP.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Buffin' Gland (1), Cricket Drumstick (0-2), Cricket Head (0-1), and Cricket Part (1-5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.G.R.R. Cricket is a Tier 3 creature."
+  },
+  "O.G.R.R._Ladybug": {
+    "lead": "O.G.R.R. Ladybug is a Tier 2 angry creature in Grounded. It has 2200 HP.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Buffin' Gland (1), (0-1), (1-5) (0-1), and (0-3) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.G.R.R. Ladybug is a Tier 2 creature."
+  },
+  "O.G.R.R._Northern_Scorpion": {
+    "lead": "O.G.R.R. Northern Scorpion is a Tier 2 angry creature in Grounded. It has 1500 HP. It is found in Greenhouse.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Rump, to get bonus damage per hit.",
+      "On defeat it drops Buffin' Gland (1), Northern Scorpion Chunk (2-5), Northern Scorpion Pincer (0-1), and Northern Scorpion Stinger (0-1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.G.R.R. Northern Scorpion is a Tier 2 creature."
+  },
+  "O.G.R.R._Pincher_Earwig": {
+    "lead": "O.G.R.R. Pincher Earwig is a Tier 3 angry creature in Grounded. It has 1300 HP. It is found in Scarecrow.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Buffin' Gland (1), Earwig Head (0-1), Earwig Part (2-4), and Earwig Pincer (0-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.G.R.R. Pincher Earwig is a Tier 3 creature."
+  },
+  "O.G.R.R._Praying_Mantis_Nymph": {
+    "lead": "O.G.R.R. Praying Mantis Nymph is a Tier 3 angry creature in Grounded. It has 1800 HP.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Buffin' Gland (1), Praying Mantis Chunk (2-6), Praying Mantis Claw (0-2), and Praying Mantis Head (0-1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.G.R.R. Praying Mantis Nymph is a Tier 3 creature."
+  },
+  "O.G.R.R._Rust_Beetle": {
+    "lead": "O.G.R.R. Rust Beetle is a Tier 3 angry creature in Grounded. It has 1300 HP. It is found in Candy Processing Facility.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Rump, to get bonus damage per hit.",
+      "On defeat it drops Boiling Gland (0-1), Buffin' Gland (1), and Rust Beetle Parts (1-3) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.G.R.R. Rust Beetle is a Tier 3 creature."
+  },
+  "O.G.R.R._Toe_Biter_Leviathan": {
+    "lead": "O.G.R.R. Toe Biter Leviathan is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.G.R.R. Toe Biter Leviathan is a creature."
+  },
+  "O.G.R.R._Wasp": {
+    "lead": "O.G.R.R. Wasp is a Tier 3 angry creature in Grounded. It has 1300 HP.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Buffin' Gland (1), Pollen (0-4), Wasp Leg (0-2), and Wasp Shell (1-5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.G.R.R. Wasp is a Tier 3 creature."
+  },
+  "O.G.R.R._Wasp_Drone": {
+    "lead": "O.G.R.R. Wasp Drone is a Tier 3 angry creature in Grounded. It has 1300 HP.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Buffin' Gland (1), Pollen (0-4), Wasp Leg (0-2), and Wasp Shell (1-5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.G.R.R. Wasp Drone is a Tier 3 creature."
+  },
+  "O.G.R.R._Whipper_Earwig": {
+    "lead": "O.G.R.R. Whipper Earwig is a Tier 3 angry creature in Grounded. It has 1300 HP. It is found in Scarecrow.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Buffin' Gland (1), Earwig Head (0-1), Earwig Part (2-4), and Earwig Pincer (0-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.G.R.R. Whipper Earwig is a Tier 3 creature."
+  },
+  "O.G.R.R._Wolf_Spider": {
+    "lead": "O.G.R.R. Wolf Spider is a Tier 3 angry creature in Grounded. It has 1800 HP.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Buffin' Gland (1), Spider Venom (0-4), Wolf Spider Chunk (3-6), and Wolf Spider Fang (0-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.G.R.R. Wolf Spider is a Tier 3 creature."
+  },
+  "O.R.C._Bee": {
+    "lead": "O.R.C. Bee is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Bee is a creature."
+  },
+  "O.R.C._Black_Soldier_Ant": {
+    "lead": "O.R.C. Black Soldier Ant is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Black Soldier Ant is a creature."
+  },
+  "O.R.C._Blue_Butterfly": {
+    "lead": "O.R.C. Blue Butterfly is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Blue Butterfly is a creature."
+  },
+  "O.R.C._Bombardier_Beetle": {
+    "lead": "O.R.C. Bombardier Beetle is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Bombardier Beetle is a creature."
+  },
+  "O.R.C._Broodmother_&_Masked_Fighter": {
+    "lead": "O.R.C. Broodmother & Masked Fighter is a Tier 3 angry creature in Grounded. It has 2500 HP. It is found in Ominent Field Archives.",
+    "body": [
+      "It resists Sour damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Broodmother Chunk (6) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.R.C. Broodmother & Masked Fighter is a Tier 3 creature."
+  },
+  "O.R.C._Cockroach": {
+    "lead": "O.R.C. Cockroach is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Cockroach is a creature."
+  },
+  "O.R.C._Cockroach_Nymph": {
+    "lead": "O.R.C. Cockroach Nymph is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Cockroach Nymph is a creature."
+  },
+  "O.R.C._Cockroach_Queen": {
+    "lead": "O.R.C. Cockroach Queen is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Cockroach Queen is a creature."
+  },
+  "O.R.C._Creatures": {
+    "lead": "O.R.C. Creatures is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Creatures is a creature."
+  },
+  "O.R.C._Cricket": {
+    "lead": "O.R.C. Cricket is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Cricket is a creature."
+  },
+  "O.R.C._Firefly": {
+    "lead": "O.R.C. Firefly is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Firefly is a creature."
+  },
+  "O.R.C._Ladybug": {
+    "lead": "O.R.C. Ladybug is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Ladybug is a creature."
+  },
+  "O.R.C._Mosquito": {
+    "lead": "O.R.C. Mosquito is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Mosquito is a creature."
+  },
+  "O.R.C._Northern_Scorpion": {
+    "lead": "O.R.C. Northern Scorpion is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Northern Scorpion is a creature."
+  },
+  "O.R.C._Northern_Scorpling": {
+    "lead": "O.R.C. Northern Scorpling is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Northern Scorpling is a creature."
+  },
+  "O.R.C._Pincher_Earwig": {
+    "lead": "O.R.C. Pincher Earwig is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Pincher Earwig is a creature."
+  },
+  "O.R.C._Potato_Beetle": {
+    "lead": "O.R.C. Potato Beetle is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Potato Beetle is a creature."
+  },
+  "O.R.C._Praying_Mantis_Nymph": {
+    "lead": "O.R.C. Praying Mantis Nymph is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Praying Mantis Nymph is a creature."
+  },
+  "O.R.C._Red_Soldier_Ant": {
+    "lead": "O.R.C. Red Soldier Ant is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Red Soldier Ant is a creature."
+  },
+  "O.R.C._Rust_Beetle": {
+    "lead": "O.R.C. Rust Beetle is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Rust Beetle is a creature."
+  },
+  "O.R.C._Spiderling": {
+    "lead": "O.R.C. Spiderling is a Tier 1 angry creature in Grounded. It has 90 HP. It is found in Croquet Court MIX.R, Garden O.R.C. Waves, and Network Center.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Web Fiber (1) (0-1) and Web Fiber (0-3) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.R.C. Spiderling is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "O.R.C._Stinkbug": {
+    "lead": "O.R.C. Stinkbug is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Stinkbug is a creature."
+  },
+  "O.R.C._Wasp": {
+    "lead": "O.R.C. Wasp is a Tier 3 angry creature in Grounded. It has 1075 HP. It is found in Garden O.R.C. Waves, Greenhouse MIX.R, and Pumpkin Patch.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops (0-1), Pollen (0-4), Wasp Leg (0-2), and Wasp Shell (1-5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall O.R.C. Wasp is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
+  },
+  "O.R.C._Wasp_Drone": {
+    "lead": "O.R.C. Wasp Drone is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Wasp Drone is a creature."
+  },
+  "O.R.C._Weaver_Jr": {
+    "lead": "O.R.C. Weaver Jr. is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Weaver Jr. is a creature."
+  },
+  "O.R.C._Weevil": {
+    "lead": "O.R.C. Weevil is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Weevil is a creature."
+  },
+  "O.R.C._Whipper_Earwig": {
+    "lead": "O.R.C. Whipper Earwig is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Whipper Earwig is a creature."
+  },
+  "O.R.C._Wolf_Spider": {
+    "lead": "O.R.C. Wolf Spider is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall O.R.C. Wolf Spider is a creature."
+  },
+  "Orb_Weaver": {
+    "lead": "Orb Weaver is a Tier 2 angry creature in Grounded. It has 3 defense and 550 HP. It is found in Grasslands, Eastern Flooded Zone, and Flower Bed.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Spider Chunk (3-6) and Web Fiber (0-4) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Orb Weaver is a Tier 2 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Orb_Weaver_Jr": {
+    "lead": "Orb Weaver Jr. is a Tier 1 angry creature in Grounded. It has 3 defense and 335 HP. It is found in Broodmother Fight, Central Grasslands, and Eastern Flooded Zone.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Its attacks can inflict Charged Bite, so carry a cure or build resist before a long fight.",
+      "On defeat it drops Spider Chunk (1) and Web Fiber (0-6) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Orb Weaver Jr. is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Orchid_Mantis": {
+    "lead": "Orchid Mantis is a Tier Boss angry creature in Grounded. It has 25 defense and 3400 HP. It is found in Shed Surroundings.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops Mantis Chunk (4-11), Mantis Claw (2), and Mantis Head (1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Orchid Mantis is a Tier Boss creature — hit it with Salty damage to end the fight quickly."
+  },
+  "Papa_Toe_Biter": {
+    "lead": "Papa Toe Biter is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Papa Toe Biter is a creature."
+  },
+  "Pets": {
+    "lead": "Pets is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Pets is a creature."
+  },
+  "Pincher_Earwig": {
+    "lead": "Pincher Earwig is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Pincher Earwig is a creature."
+  },
+  "Pond_Jockey_Swarm": {
+    "lead": "Pond Jockey Swarm is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Pond Jockey Swarm is a creature."
+  },
+  "Potato_Beetle": {
+    "lead": "Potato Beetle is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Potato Beetle is a creature."
+  },
+  "Praying_Mantis_Nymph": {
+    "lead": "Praying Mantis Nymph is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Praying Mantis Nymph is a creature."
+  },
+  "RUZ.T": {
+    "lead": "RUZ.T is a Tier 1 angry creature in Grounded. It has 3 defense and 120 HP. It is found in Hedge Lab and Hedge Outpost.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Back, to get bonus damage per hit.",
+      "On defeat it drops Raw Science (100) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall RUZ.T is a Tier 1 creature."
+  },
+  "Red_Ant_Queen": {
+    "lead": "Red Ant Queen is a Tier 1 harmless creature in Grounded. It is found in Red Anthill.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Red Ant Queen Chunk (10), Red Ant Queen Head (1), and Red Ant Queen Pheromone (5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Red Ant Queen is a Tier 1 creature."
+  },
+  "Red_Soldier_Ant": {
+    "lead": "Red Soldier Ant is a Tier 1 angry creature in Grounded. It has 320 HP. It is found in Anthills, Central Grasslands, and Central Grasslands MIX.R.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops Acid Gland (0-3), Red Ant Head (0-1), Red Ant Mandibles (1), and Red Ant Part (0-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Red Soldier Ant is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Red_Worker_Ant": {
+    "lead": "Red Worker Ant is a Tier 1 neutral creature in Grounded. It has 120 HP. It is found in Anthills, Central Grasslands, and Central Grasslands MIX.R.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Eyes, to get bonus damage per hit.",
+      "On defeat it drops Red Ant Head (0-1), Red Ant Part (1-2), and Red Ant Egg (Passive Drop in Anthill) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Red Worker Ant is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Roly_Poly": {
+    "lead": "Roly Poly is neutral creature in Grounded. It has 15 defense and 1050 HP. It is found in Lawnmower MIX.R, Northern Grasslands, and Shed Surroundings.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "Aim for its weak point, the Legs, to get bonus damage per hit.",
+      "On defeat it drops Roly Poly Part (4-8), Roly Poly Shell (2-6), and Tough Gunk (0-5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Roly Poly is a creature."
+  },
+  "Rust_Beetle": {
+    "lead": "Rust Beetle is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Rust Beetle is a creature."
+  },
+  "SAUC.R": {
+    "lead": "SAUC.R is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall SAUC.R is a creature."
+  },
+  "Scarab": {
+    "lead": "Scarab is harmless creature in Grounded. It has 0 defense and 80 HP. It is found in Northern Grasslands, Shed Surroundings, and Termite Den.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Normal:, Twinkling Shell (2-9) Undershed:, and Twinkling Shell (2-9) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Scarab is a creature."
+  },
+  "Sickly_Roly_Poly": {
+    "lead": "Sickly Roly Poly is a Tier 3 neutral creature in Grounded. It has 25 defense and 750 HP. It is found in Western Grasslands.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
+      "Aim for its weak point, the Legs, to get bonus damage per hit.",
+      "On defeat it drops Roly Poly Part (2-6) and Tough Gunk (0-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Sickly Roly Poly is a Tier 3 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Spiderling": {
+    "lead": "Spiderling is a Tier 1 angry creature in Grounded. It has 0 defense and 75 HP. It is found in Broodmother Fight, Central Grasslands, and Hedge.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Web Fiber (1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Spiderling is a Tier 1 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Spiny_Water_Flea": {
+    "lead": "Spiny Water Flea is a Tier 3 angry creature in Grounded. It has 300 HP. It is found in Moldorc Highlands, Undershed, and Upper Grasslands.",
+    "body": [
+      "It is weak to Sour damage. In this database the Sour-augmented weapons that exploit that are Picklemaul (100 dmg), Pucker Thumper (100 dmg), and Acid Edge (95 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Water Flea Meat (1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Spiny Water Flea is a Tier 3 creature — hit it with Sour damage to end the fight quickly."
+  },
+  "Stinkbug": {
+    "lead": "Stinkbug is a Tier 2 angry creature in Grounded. It has 8 defense and 500 HP. It is found in Central Grasslands and Flower Bed.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Stinkbug Gas Sack (0-2) and Stinkbug Part (2-5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Stinkbug is a Tier 2 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Striped_Bark_Scorpion": {
+    "lead": "Striped Bark Scorpion is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Striped Bark Scorpion is a creature."
+  },
+  "Striped_Bark_Scorpion_Jr": {
+    "lead": "Striped Bark Scorpion Jr. is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Striped Bark Scorpion Jr. is a creature."
+  },
+  "Striped_Bark_Scorpling": {
+    "lead": "Striped Bark Scorpling is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Striped Bark Scorpling is a creature."
+  },
+  "TAYZ.T": {
+    "lead": "TAYZ.T is a Tier 2 angry creature in Grounded. It has 6 defense and 175 HP. It is found in Assistant Manager Fight, Black Anthill Lab, and Haze Lab.",
+    "body": [
+      "Its physical weakness is Busting and Generic damage — the Busting and Generic tools here that capitalise on it include Infused Club, Prod Smacker, and Club of the Mother Demon.",
+      "It is immune to Shock damage — do not build a loadout around that type.",
+      "Aim for its weak point, the Back, to get bonus damage per hit.",
+      "On defeat it drops Raw Science (100) Raid Variant Only ---- and Unstable Capacitor (0-1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall TAYZ.T is a Tier 2 creature — its Busting and Generic weakness is the fastest way through its health."
+  },
+  "Tadpole": {
+    "lead": "Tadpole is harmless creature in Grounded. It has 40 HP. It is found in Koi Pond.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Raw Tadpole Meat (1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Tadpole is a creature."
+  },
+  "Termite_King": {
+    "lead": "Termite King is a Tier 3 angry creature in Grounded. It has 1910 HP. It is found in Termite Den.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Termite Chompers (1-2), Termite King Carapace (4), Termite Part (0-3), and Tough Gunk (0-15) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Termite King is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
+  },
+  "Termite_Soldier": {
+    "lead": "Termite Soldier is a Tier 3 angry creature in Grounded. It has 12 defense and 700 HP. It is found in Brawny Boy Bin, Termite Den, and Undershed.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Termite Chompers (1-2), Termite Part (0-3), and Tough Gunk (0-1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Termite Soldier is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
+  },
+  "Termite_Worker": {
+    "lead": "Termite Worker is a Tier 3 angry creature in Grounded. It has 12 defense and 450 HP. It is found in Brawny Boy Bin, Termite Cave, and Termite Den.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Acid Gland (0-4), Termite Part (1-3), and Tough Gunk (0-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Termite Worker is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
+  },
+  "Tick": {
+    "lead": "Tick is a Tier 3 angry creature in Grounded. It has 10 defense and 400 HP. It is found in Brawny Boy Bin, Moldorc Highlands, and Moldorc MIX.R.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Tick Fang (1-4) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Tick is a Tier 3 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Tiger_Mosquito": {
+    "lead": "Tiger Mosquito is a Tier 3 angry creature in Grounded. It has 12 defense and 725 HP. It is found in Moldorc Highlands, Moldorc MIX.R, and Upper Grasslands.",
+    "body": [
+      "It is weak to Fresh damage. In this database the Fresh-augmented weapons that exploit that are Mint Mace (100 dmg), Fresh Edge (95 dmg), and Frosted Flake (95 dmg).",
+      "Its physical weakness is Chopping and Slashing damage — the Chopping and Slashing tools here that capitalise on it include Infused Greatsword, Acid Edge, and Blazing Edge.",
+      "On defeat it drops Mosquito Blood Sack Mosquito Blood Sack (When Filled) and Tiger Mosquito Beak Tiger Mosquito Beak (1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Tiger Mosquito is a Tier 3 creature — hit it with Fresh damage to end the fight quickly."
+  },
+  "Toe_Biter": {
+    "lead": "Toe Biter is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Toe Biter is a creature."
+  },
+  "Toe_Biter_Leviathan": {
+    "lead": "Toe Biter Leviathan is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Toe Biter Leviathan is a creature."
+  },
+  "Toe_Biter_Nymph": {
+    "lead": "Toe Biter Nymph is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Toe Biter Nymph is a creature."
+  },
+  "Wasp": {
+    "lead": "Wasp is a Tier 3 angry creature in Grounded. It has 9 defense and 650 HP. It is found in Brawny Boy Bin, Moldorc Highlands, and Upper Grasslands.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Pollen (0-4), Wasp Leg (0-2), and Wasp Shell (1-5) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Wasp is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
+  },
+  "Wasp_Drone": {
+    "lead": "Wasp Drone is a Tier 3 angry creature in Grounded. It has 9 defense and 450 HP. It is found in Brawny Boy Bin, Moldorc Highlands, and Upper Grasslands.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Pollen (0-4), Wasp Leg (0-2), and Wasp Shell (1-3) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Wasp Drone is a Tier 3 creature — hit it with Salty damage to end the fight quickly."
+  },
+  "Wasp_Queen": {
+    "lead": "Wasp Queen is a Tier Boss angry creature in Grounded. It has 10 defense and 5000 HP. It is found in Brawny Boy Bin.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "It resists Spicy damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Wasp Queen Chunk (5-8), Wasp Queen Head (1), and Wasp Queen Wing (2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Wasp Queen is a Tier Boss creature — hit it with Salty damage to end the fight quickly."
+  },
+  "Water_Boatman": {
+    "lead": "Water Boatman is harmless creature in Grounded. It has 50 HP. It is found in Koi Pond.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Water Boatman Fin (1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Water Boatman is a creature."
+  },
+  "Water_Flea": {
+    "lead": "Water Flea is a Tier 1 angry creature in Grounded. It is found in Exposed Pipe, Eastern Flooded Zone, and Koi Pond.",
+    "body": [
+      "It is weak to Salty damage. In this database the Salty-augmented weapons that exploit that are Salt Chipper (100 dmg), Salt Morning Star (55 dmg), and Salt Arrow (15 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Water Flea Meat (1) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Water Flea is a Tier 1 creature — hit it with Salty damage to end the fight quickly."
+  },
+  "Weevil": {
+    "lead": "Weevil is harmless creature in Grounded. It has 50 HP. It is found in Eastern Flooded Zone, Grasslands, and Hedge.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type.",
+      "On defeat it drops Raw Weevil Meat (1), Weevil Nose (0-1), and Pet Memorial Weevil (When Tamed) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Weevil is a creature."
+  },
+  "Whipper_Earwig": {
+    "lead": "Whipper Earwig is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Whipper Earwig is a creature."
+  },
+  "Wolf_Spider": {
+    "lead": "Wolf Spider is a Tier 2 angry creature in Grounded. It has 5 defense and 850 HP. It is found in BBQ Spill, Central Grasslands, and Moldorc Highlands.",
+    "body": [
+      "It is weak to Spicy damage. In this database the Spicy-augmented weapons that exploit that are Sizzle Striker (100 dmg), Wallopeño (100 dmg), and Blazing Edge (95 dmg).",
+      "It resists Fresh damage, so avoid leaning on that element even if your best weapon uses one.",
+      "Its physical weakness is Chopping and Slashing damage — the Chopping and Slashing tools here that capitalise on it include Infused Greatsword, Acid Edge, and Blazing Edge.",
+      "On defeat it drops Spider Chunk (0-4), Spider Fang (1-2), and Spider Venom (0-2) — useful to know if you are farming a specific material from it."
+    ],
+    "verdict": "Overall Wolf Spider is a Tier 2 creature — hit it with Spicy damage to end the fight quickly."
+  },
+  "Woolly_Aphid": {
+    "lead": "Woolly Aphid is a creature in Grounded.",
+    "body": [
+      "No physical damage-type weakness is recorded for it, so bring your highest raw-damage weapon rather than hunting for a specific type."
+    ],
+    "verdict": "Overall Woolly Aphid is a creature."
+  }
 }
