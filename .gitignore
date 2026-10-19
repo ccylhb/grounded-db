@@ -5,3 +5,6 @@ scripts/cache/
 _bak_tmp*/
 dist.bak/
 _push.log
+_build.log
+_deploy.log
+_lastmod_diff.txt
