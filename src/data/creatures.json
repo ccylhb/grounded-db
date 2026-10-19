@@ -498,6 +498,22 @@
   "icon": "/icons/CHOP_R.png"
  },
  {
+  "title": "Calico",
+  "slug": "Calico",
+  "summary": "Calico is an aquatic creature found in Skunk Pond biome.",
+  "image": "Calico.png",
+  "environment": "Skunk Pond",
+  "aggression": "Angry",
+  "loot": "Koi Fish Scale (10% Chance Per Hit)",
+  "attack": "* Eat: 500 * Charge: 500 * Thrash: 500",
+  "damagetype": "Generic",
+  "attackstype": "All Attacks",
+  "tier": "5",
+  "description": "Prince of Skunk Pond. Woke up on the wrong side of the bed. Fish bed. Do fish have beds?",
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Calico.png"
+ },
+ {
   "title": "Caterpillar",
   "slug": "Caterpillar",
   "summary": "The Caterpillar is a Tier 2 Harmless Creature in Grounded 2 often found on the leaves of Milkweed Plants and on various roots and branches of the trees across Brookhollow Park.",
@@ -550,6 +566,22 @@
   "tier": "Boss",
   "_ib": "Infobox/Creatures",
   "icon": "/icons/Crow.png"
+ },
+ {
+  "title": "Dagon",
+  "slug": "Dagon",
+  "summary": "Dagon is an aquatic creature found in Monitoring Station biome.",
+  "image": "Dagon.png",
+  "environment": "Monitoring Station",
+  "aggression": "Angry",
+  "loot": "Koi Fish Scale (10% Chance Per Hit)",
+  "attack": "* Eat: 500 * Charge: 500 * Thrash: 500",
+  "damagetype": "Generic",
+  "attackstype": "All Attacks",
+  "tier": "5",
+  "description": "Prince of The Abyss. The ancient pond jockeys worship and fear him in equal measure.",
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Dagon.png"
  },
  {
   "title": "Director Schmector",
@@ -1521,6 +1553,36 @@
   "icon": "/icons/Meaty_Gnat.png"
  },
  {
+  "title": "Mosquito",
+  "slug": "Mosquito",
+  "summary": "The Mosquito is a Tier 2 Angry Creature in Grounded found near various bodies of water, especially in early-game areas.",
+  "image": "Mosquito.png",
+  "loot": "* Mosquito Beak (1) * Mosquito Blood Sack (When Filled)",
+  "environment": "* Flower Bed * Northern Grasslands MIX.R * Shed Surroundings *Undershed * Woodpile",
+  "defense": "0",
+  "respawn": "*Default: 5 Days *Upper Yard: 2 Days",
+  "resist": "25%",
+  "attack": "*Poke: 60 *Combo Poke: 45 *Loop Divebomb: 80",
+  "damagetype": "Stabbing|stun=30",
+  "stuntime": "12 Sec| tier = 2",
+  "attackstype": "All Attacks",
+  "description": "Bloodsucking vultures of the skies near bodies of water and the woodpile. Can drop mosquito beak and mosquito blood sack on death.",
+  "eweakness": "Fresh",
+  "weakness1": "Chopping",
+  "weakness2": "Slashing",
+  "resistance1": "Busting",
+  "resistance2": "Generic",
+  "eweakness%": "50%",
+  "weakness1%": "25%",
+  "weakness2%": "25%",
+  "resistance1%": "50%",
+  "resistance2%": "50%",
+  "aggression": "Angry",
+  "health": "400",
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Mosquito.png"
+ },
+ {
   "title": "Moth",
   "slug": "Moth",
   "summary": "The Moth is a creature found throughout the eastern upper yard, primarily around bright light sources.",
@@ -2270,6 +2332,13 @@
   "icon": "/icons/O_R_C_Ladybug.png"
  },
  {
+  "title": "O.R.C. Larva",
+  "slug": "O.R.C._Larva",
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": "",
+  "icon": "/icons/O_R_C_Larva.png"
+ },
+ {
   "title": "O.R.C. Mosquito",
   "slug": "O.R.C._Mosquito",
   "summary": "This is a more advanced covering of the loot-table of O.R.C.",
@@ -2282,6 +2351,39 @@
   "summary": "This is a more advanced covering of the loot-table of O.R.C.",
   "_ib": "",
   "icon": "/icons/O_R_C_Northern_Scorpion.png"
+ },
+ {
+  "title": "O.R.C. Northern Scorpion Jr.",
+  "slug": "O.R.C._Northern_Scorpion_Jr",
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "description": "A young remote-controlled northern scorpion. May drop its O.R.C. Receiver as well as creature parts.",
+  "aggression": "Angry",
+  "image": "O.R.C. Northern Scorpion Jr..png|Base O.R.C. Northern Scorpion Jr. Wave.png|Wave",
+  "tier": "2",
+  "environment": "* Croquet Court MIX.R * Ice Cream Cart Surroundings * O.R.C. Caves * Statue Area",
+  "eresistance%": "50%",
+  "resistance": "Slashing",
+  "resistance%": "25%",
+  "weakness": "Smashing",
+  "weakness%": "25%",
+  "buildeffectimmune": "Chill",
+  "loot": "*Northern Scorpion Chunk (1-2) *Scorpion Venom (0-1) (0-1) }}",
+  "weakpoint": "Rump",
+  "weakpoint1": "Stinger",
+  "buildeffectresistance": "Venom",
+  "buildeffectresistance%": "50%",
+  "buildeffectdamageresistance": "Venom",
+  "buildeffectdamageresistance%": "50%",
+  "health": "600",
+  "stun": "50",
+  "stuntime": "5 Sec",
+  "attack": "*Claw Slash: 50 *2-Hit Combo: 35 *4-Hit Combo: 43.75 *Charged Hit: 68.75 *Burrow Strike: 75",
+  "damagetype": "Stabbing",
+  "attackstype": "All Attacks",
+  "damagetype1": "Laser",
+  "attackstype1": "Laser Turret",
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/O_R_C_Northern_Scorpion_Jr.png"
  },
  {
   "title": "O.R.C. Northern Scorpling",
@@ -2402,6 +2504,13 @@
   "summary": "This is a more advanced covering of the loot-table of O.R.C.",
   "_ib": "",
   "icon": "/icons/O_R_C_Wasp_Drone.png"
+ },
+ {
+  "title": "O.R.C. Weaver",
+  "slug": "O.R.C._Weaver",
+  "summary": "This is a more advanced covering of the loot-table of O.R.C.",
+  "_ib": "",
+  "icon": "/icons/O_R_C_Weaver.png"
  },
  {
   "title": "O.R.C. Weaver Jr.",
@@ -2549,6 +2658,22 @@
   "icon": "/icons/Orchid_Mantis.png"
  },
  {
+  "title": "Oriole",
+  "slug": "Oriole",
+  "summary": "Oriole is an aquatic creature found in Skunk Pond biome.",
+  "image": "Oriole.png",
+  "environment": "Skunk Pond",
+  "aggression": "Angry",
+  "loot": "Koi Fish Scale (10% Chance Per Hit)",
+  "attack": "* Eat: 500 * Charge: 500 * Thrash: 500",
+  "damagetype": "Generic",
+  "attackstype": "All Attacks",
+  "tier": "5",
+  "description": "Prince of Skunk Pond. Seems mean at first but once you get to know him, he's actually even meaner.",
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Oriole.png"
+ },
+ {
   "title": "Papa Toe Biter",
   "slug": "Papa_Toe_Biter",
   "summary": "The Papa Toe Biter is a variant of the Toe Biter Leviathan found beneath Gnarly Bark in a cave accessed behind the picture in the Memorial.",
@@ -2572,7 +2697,7 @@
  {
   "title": "Pond Jockey Swarm",
   "slug": "Pond_Jockey_Swarm",
-  "summary": "The Pond Jockey Swarm is a Tier 3 Angry Creature in Grounded 2 found throughout the Skunk Pond biome, water sources in the Bridge Area, and the aquatic caves within the Gnarly Grotto.",
+  "summary": "The Pond Jockey Swarm is a Tier 3 Angry Creature in Grounded 2 found throughout the Skunk Pond biome, water sources in the Bridge, and the aquatic caves within the Gnarly Grotto.",
   "_ib": "",
   "icon": "/icons/Pond_Jockey_Swarm.png"
  },
@@ -2911,6 +3036,22 @@
   "summary": "The Striped Bark Scorpling is a Tier 3 hostile Creature and an alternate variant of the Northern Scorpling.",
   "_ib": "",
   "icon": "/icons/Striped_Bark_Scorpling.png"
+ },
+ {
+  "title": "Sunny",
+  "slug": "Sunny",
+  "summary": "Sunny is an aquatic creature found in Skunk Pond biome.",
+  "image": "Sunny.png",
+  "environment": "Skunk Pond",
+  "aggression": "Angry",
+  "loot": "Koi Fish Scale (10% Chance Per Hit)",
+  "attack": "* Eat: 500 * Charge: 500 * Thrash: 500",
+  "damagetype": "Generic",
+  "attackstype": "All Attacks",
+  "tier": "5",
+  "description": "Prince of Skunk Pond. Likes to bully the tadpoles. And by bully, I mean eat.",
+  "_ib": "Infobox/Creatures",
+  "icon": "/icons/Sunny.png"
  },
  {
   "title": "TAYZ.T",
