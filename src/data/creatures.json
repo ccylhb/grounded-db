@@ -2925,6 +2925,13 @@
   "icon": "/icons/Sickly_Roly_Poly.png"
  },
  {
+  "title": "Skritch",
+  "slug": "Skritch",
+  "summary": "Skritch is a Tier 4 Boss Creature in Grounded 2, being the third intended optional boss after King Dozer.",
+  "_ib": "",
+  "icon": "/icons/Skritch.png"
+ },
+ {
   "title": "Spiderling",
   "slug": "Spiderling",
   "summary": "The Spiderling is a Tier 1 Angry Creature in Grounded often seen along side Orb Weavers or from burst Web Sacs.",

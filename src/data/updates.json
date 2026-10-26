@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-10-26",
+    "text": "Wiki sync: Skritch creature added; Termite Armor tier and pieces updated",
+    "href": "/creatures/"
+  },
+  {
     "date": "2026-10-19",
     "text": "Wiki sync: 8 creatures added (Calico, Dagon, Oriole, Sunny, Mosquito, O.R.C. Larva and more)",
     "href": "/creatures/"
@@ -33,10 +38,5 @@
     "date": "2026-09-06",
     "text": "Creature weakness cheat sheet grouped by damage element",
     "href": "/rankings/"
-  },
-  {
-    "date": "2026-09-06",
-    "text": "Smoothie planner now totals buffs across items",
-    "href": "/calculator/"
   }
 ]

@@ -676,8 +676,25 @@
  {
   "title": "Termite Armor",
   "slug": "Termite_Armor",
-  "pieces": [],
+  "pieces": [
+   {
+    "name": "Termite Tricorne",
+    "defense": 9.5,
+    "resist": 6.0
+   },
+   {
+    "name": "Termite Half-Plate",
+    "defense": 19.0,
+    "resist": 12.0
+   },
+   {
+    "name": "Termite Boots",
+    "defense": 9.5,
+    "resist": 6.0
+   }
+  ],
   "summary": "Termite Armor is a single-piece Armor that gives immunity to the effects of the dust attacks caused by Dust Mites, Termite Soldiers, and Moths.",
+  "tier": "4",
   "icon": "/icons/Termite_Armor.png"
  },
  {
