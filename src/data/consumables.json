@@ -674,6 +674,20 @@
   "icon": "/icons/Termite_Delight.png"
  },
  {
+  "title": "Thoughtful Gift",
+  "slug": "Thoughtful_Gift",
+  "summary": "The Thoughtful Gift is a special item that allows the player to befriend the Termite Queen when fed to it.",
+  "_ib": "",
+  "icon": "/icons/Thoughtful_Gift.png"
+ },
+ {
+  "title": "Thoughtless Gift",
+  "slug": "Thoughtless_Gift",
+  "summary": "The Thoughtless Gift is a special item that allows the player to poison the Termite Queen when fed to it.",
+  "_ib": "",
+  "icon": "/icons/Thoughtless_Gift.png"
+ },
+ {
   "title": "Torch",
   "slug": "Torch",
   "summary": "The Torch is a Tier 1 Torch in Grounded.",
