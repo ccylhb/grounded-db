@@ -9,3 +9,5 @@ _build.log
 _deploy.log
 _lastmod_diff.txt
 _bing_*.log
+_dep*.log
+_build_*.log
