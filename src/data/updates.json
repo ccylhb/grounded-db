@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-11-09",
+    "text": "Oriole creature data refreshed with Smashing damage type",
+    "href": "/creatures/Oriole"
+  },
+  {
     "date": "2026-11-02",
     "text": "New Grounded 1.4.7 gift consumables and Skritch lore update",
     "href": "/consumables"
@@ -33,10 +38,5 @@
     "date": "2026-09-06",
     "text": "Data verified for game v1.4 — full weapons, creatures, armor, consumables and trinkets pass",
     "href": "/rankings/"
-  },
-  {
-    "date": "2026-09-06",
-    "text": "Item icons added across the database (398 pages)",
-    "href": "/weapons/"
   }
 ]

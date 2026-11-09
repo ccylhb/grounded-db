@@ -2666,7 +2666,7 @@
   "aggression": "Angry",
   "loot": "Koi Fish Scale (10% Chance Per Hit)",
   "attack": "* Eat: 500 * Charge: 500 * Thrash: 500",
-  "damagetype": "Generic",
+  "damagetype": "Smashing",
   "attackstype": "All Attacks",
   "tier": "5",
   "description": "Prince of Skunk Pond. Seems mean at first but once you get to know him, he's actually even meaner.",
