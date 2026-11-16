@@ -11,3 +11,6 @@ _lastmod_diff.txt
 _bing_*.log
 _dep*.log
 _build_*.log
+build_*.log
+deploy_*.log
+src/data.bak_*/
